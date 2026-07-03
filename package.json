@@ -1,0 +1,15 @@
+{
+  "name": "le-flux",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Flux personnel enrichissant (actus, mandarin, finance, DEC) — PWA statique sans build.",
+  "scripts": {
+    "news": "node scripts/fetch-news.mjs",
+    "digest": "node scripts/daily-digest.mjs",
+    "generate": "node scripts/generate-content.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}

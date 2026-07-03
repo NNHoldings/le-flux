@@ -1,0 +1,4 @@
+[
+  { "type": "dec", "question": "NEP 200 : quel est l'objectif d'un audit d'états financiers ?", "answer": "Permettre au commissaire aux comptes de formuler une opinion indiquant si les comptes sont établis, dans tous leurs aspects significatifs, conformément au référentiel comptable applicable — renforçant ainsi le degré de confiance des utilisateurs." },
+  { "type": "dec", "question": "Qu'est-ce que le seuil de signification (materiality) ?", "answer": "Montant au-delà duquel une anomalie, individuelle ou cumulée, est susceptible d'influencer les décisions économiques des utilisateurs des comptes. Il est fixé lors de la planification et révisé si nécessaire." }
+]

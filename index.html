@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0d0d0f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Le Flux" />
+  <meta name="description" content="Un scroll qui te rend meilleur : actus éco/géo, mandarin, finance, révisions DEC." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="点滴 · Le Flux" />
+  <meta property="og:description" content="Un scroll qui te rend meilleur : actus éco/géo, mandarin, finance, révisions DEC." />
+  <meta property="og:image" content="./icons/icon-512.png" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="apple-touch-icon" href="./icons/icon-180.png" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>点滴 · Le Flux</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="bar-top">
+      <span class="brand">点滴 <span class="brand-sub">Le Flux</span></span>
+      <div class="bar-actions">
+        <span class="stats" id="stats" aria-live="polite"></span>
+        <button class="icon-btn" id="refresh" aria-label="Rafraîchir le flux" title="Rafraîchir">↻</button>
+      </div>
+    </div>
+    <div class="filters" id="filters"></div>
+  </header>
+
+  <main id="feed" class="feed" aria-live="polite"></main>
+
+  <div id="sentinel" class="sentinel"></div>
+
+  <div id="status" class="status">Chargement…</div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

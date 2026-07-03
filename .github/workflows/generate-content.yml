@@ -1,0 +1,55 @@
+name: Générer des cartes (IA)
+
+on:
+  workflow_dispatch:
+    inputs:
+      type:
+        description: "Type de cartes"
+        type: choice
+        required: true
+        options: [mandarin, finance, dec]
+      topic:
+        description: "Thème (ex: vocabulaire de la banque, IFRS 15, NEP 240)"
+        type: string
+        required: true
+      count:
+        description: "Nombre de cartes"
+        type: string
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+  models: read          # accès gratuit à GitHub Models via le jeton intégré
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Générer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TYPE: ${{ inputs.type }}
+          TOPIC: ${{ inputs.topic }}
+          COUNT: ${{ inputs.count }}
+        run: node scripts/generate-content.mjs
+      - name: Commit
+        run: |
+          git config user.name "le-flux-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Rien de neuf."
+          else
+            git commit -m "content: ${{ inputs.type }} — ${{ inputs.topic }}"
+            git pull --rebase origin main
+            git push
+          fi

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>点滴 · Le Flux</title>
+  <script>
+    // GitHub Pages + PWA : toute route inconnue revient à l'app (scope ./).
+    (function () {
+      var base = location.pathname.replace(/\/[^/]*$/, "/");
+      location.replace(base);
+    })();
+  </script>
+</head>
+<body></body>
+</html>

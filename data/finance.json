@@ -1,0 +1,4 @@
+[
+  { "type": "finance", "term": "Coût moyen pondéré du capital (WACC)", "explanation": "Taux de rendement minimal qu'un projet doit générer pour satisfaire à la fois les créanciers et les actionnaires. Il pondère le coût de la dette (après impôt) et le coût des fonds propres par leur poids respectif dans la structure de financement." },
+  { "type": "finance", "term": "Effet de levier (LBO)", "explanation": "Utiliser de la dette pour financer une acquisition afin d'amplifier le rendement des fonds propres. Le levier accroît le rendement potentiel mais aussi le risque : les flux de trésorerie de la cible doivent couvrir le service de la dette." }
+]

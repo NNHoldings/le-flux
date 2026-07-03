@@ -1,0 +1,42 @@
+name: Mise à jour des actus
+
+on:
+  schedule:
+    - cron: "0 5,11,17 * * *"   # 07h, 13h, 19h heure de Paris (UTC+2 été / UTC+1 hiver)
+  workflow_dispatch:       # bouton manuel dans l'onglet Actions
+
+permissions:
+  contents: write
+  models: read           # synthèse « L'essentiel du jour » via GitHub Models
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - run: npm run news
+      - name: Synthèse du jour (optionnel, ne bloque pas le workflow)
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run digest
+      - name: Commit si changement
+        run: |
+          git config user.name "le-flux-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "chore: maj actus $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi
