@@ -1,18 +1,14 @@
 [
   {
     "type": "news",
-    "title": "Pourquoi le jeu vidéo sur disque va bientôt tirer sa révérence",
-    "summary": "L’arrêt du support physique pour les jeux Playstation en janvier 2028, annoncé mercredi, est le dernier épisode d’une tendance lourde du secteur : la consécration du jeu vidéo comme un service et non plus comme un produit fini, et la dépen…",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/03/pourquoi-le-jeu-video-sur-disque-va-bientot-tirer-sa-reverence_6720478_4408996.html",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "Canicule : \"Jusqu'à 200 000 climatiseurs\" vendus par Carrefour cette semaine, selon son PDG Alexandre Bompard",
-    "summary": "Alexandre Bompard, le PDG du groupe Carrefour, était l'invité de franceinfo vendredi 3 juillet 2026.",
-    "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-radio/l-interview-eco/canicule-jusqu-a-200-000-climatiseurs-vendus-par-carrefour-cette-semaine-selon-son-pdg-alexandre-bompard_8061659.html#xtor=RSS-3-%5Bgeneral%5D",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Le Sénat durcit les articles sur l'eau dans le projet de loi d'urgence agricole, mettant le gouvernement en difficulté.",
+      "Des organisations culturelles alertent Emmanuel Macron sur les conséquences des coupes budgétaires drastiques.",
+      "En Turquie, l'humoriste Deniz Göktas est emprisonné pour outrage aux valeurs religieuses et au président Erdogan."
+    ],
+    "source": "Le Flux",
     "date": "2026-07-03"
   },
   {
@@ -21,39 +17,15 @@
     "summary": "Le texte, voté vendredi 3 juillet par les sénateurs, entend réautoriser sous condition l’usage de l’acétamipride et renforcer le poids du secteur agricole dans la gouvernance de l’eau. Les discussions en vue de la commission mixte paritair…",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/planete/article/2026/07/03/projet-de-loi-d-urgence-agricole-le-durcissement-par-le-senat-des-articles-sur-l-eau-place-le-gouvernement-dans-l-embarras_6720481_3244.html",
-    "date": "Fri, 03 Jul 2026 20:01:47 +0200"
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Pourquoi le jeu vidéo sur disque va bientôt tirer sa révérence",
-    "summary": "L’arrêt du support physique pour les jeux Playstation en janvier 2028, annoncé mercredi, est le dernier épisode d’une tendance lourde du secteur : la consécration du jeu vidéo comme un service et non plus comme un produit fini, et la dépen…",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/03/pourquoi-le-jeu-video-sur-disque-va-bientot-tirer-sa-reverence_6720478_4408996.html",
-    "date": "Fri, 03 Jul 2026 20:00:12 +0200"
-  },
-  {
-    "type": "news",
-    "title": "Canicule : \"Jusqu'à 200 000 climatiseurs\" vendus par Carrefour cette semaine, selon son PDG Alexandre Bompard",
-    "summary": "Alexandre Bompard, le PDG du groupe Carrefour, était l'invité de franceinfo vendredi 3 juillet 2026.",
+    "title": "\"Un risque sans précédent\" : des organisations de la culture écrivent à Emmanuel Macron pour alerter sur les conséquences de coupes budgétaires \"drastiques\"",
+    "summary": "Selon ce courrier, signé notamment de la Réunion des Opéras de France, les 28 structures les plus touchées par ces coupes \"risquent de ne pas pouvoir ouvrir leur saison avant janvier 2027\", au lieu de septembre.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-radio/l-interview-eco/canicule-jusqu-a-200-000-climatiseurs-vendus-par-carrefour-cette-semaine-selon-son-pdg-alexandre-bompard_8061659.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "Fri, 03 Jul 2026 19:21:33 +0200"
-  },
-  {
-    "type": "news",
-    "title": "«On va vous dénicher quelque chose» : Sabrina Roubache, une ministre en mission pour les alternants",
-    "summary": "PORTRAIT - Sous la double tutelle des ministres du Travail et de l’Enseignement, l’élue marseillaise défend mordicus l’action (et les coups de rabots) du gouvernement sur la formation en apprentissage.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/economie/on-va-vous-denicher-quelque-chose-sabrina-roubache-une-ministre-en-mission-pour-les-alternants-20260703",
-    "date": "Fri, 03 Jul 2026 19:00:00 +0200"
-  },
-  {
-    "type": "news",
-    "title": "Croissance, accord commercial, consommation... Comment l’Inde a géré les retombées économiques de la crise du Golfe",
-    "summary": "ENTRETIEN - En visite en France, Nirmala Sitharaman, la ministre des Finances, justifie les restrictions sur les voyages ou les achats d’or annoncées en mai par le premier ministre Modi. Elle évoque le défi de l’emploi des jeunes à un mome…",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/croissance-accord-commercial-consommation-comment-l-inde-a-gere-les-retombees-economiques-de-la-crise-du-golfe-20260703",
-    "date": "Fri, 03 Jul 2026 18:53:34 +0200"
+    "link": "https://www.franceinfo.fr/culture/des-organisations-de-la-culture-ecrivent-a-emmanuel-macron-pour-alerter-sur-les-consequences-de-coupes-budgetaires-drastiques_8093003.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
@@ -61,22 +33,14 @@
     "summary": "DÉCRYPTAGE - Face à la baisse des aides à l’embauche d’apprentis, nombre d’entreprises reportent leur recrutement, au grand désarroi des étudiants.",
     "source": "Le Figaro Éco",
     "link": "https://www.lefigaro.fr/economie/on-vient-casser-un-dispositif-qui-fonctionnait-les-employeurs-contraints-de-serrer-la-vis-sur-l-apprentissage-20260703",
-    "date": "Fri, 03 Jul 2026 18:45:00 +0200"
-  },
-  {
-    "type": "news",
-    "title": "Vingt et une heures de trajet pour 500 euros : le pari économique étonnant d’une liaison par ferry entre Boulogne et l’Irlande",
-    "summary": "REPORTAGE - La compagnie irlandaise Hibernia a racheté deux bateaux. Elle compte convaincre les touristes, et surtout des transporteurs de fret.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/economie/on-vient-casser-un-dispositif-qui-fonctionnait-les-employeurs-contraints-de-serrer-la-vis-sur-l-apprentissage-20260703",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Au Kenya, des disparitions forcées de militants critiques du pouvoir à l’approche de la présidentielle de 2027",
-    "summary": "Les organisations de défense des droits humains accusent les autorités d’être à l’origine de ces kidnappings et s’inquiètent d’une répression grandissante à l’approche du scrutin présidentiel d’août 2027.",
+    "title": "En Turquie, l’humoriste vedette Deniz Göktas emprisonné pour « outrage » aux valeurs religieuses et au président Erdogan",
+    "summary": "A cinq jours du sommet de l’OTAN à Ankara, le stand-upeur de 32 ans, qui porte un regard satirique sur l’évolution politique du pays, a été interpellé jeudi à Istanbul.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/03/au-kenya-des-disparitions-forcees-de-militants-critiques-du-pouvoir-a-l-approche-de-la-presidentielle-de-2027_6720473_3212.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/03/en-turquie-l-humoriste-vedette-deniz-goktas-emprisonne-pour-outrage-aux-valeurs-religieuses-et-au-president-erdogan_6720483_3210.html",
     "date": "2026-07-03"
   },
   {
@@ -89,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "Élections en Algérie : un taux de participation “si faible qu’il en devient accusateur”",
-    "summary": "Près de 25 millions d’Algériens étaient appelés aux urnes, ce jeudi 2 juillet, pour élire une nouvelle Assemblée populaire nationale. Mais “Le Matin d’Algérie” voit dans le taux de participation historiquement bas – moins de 21 %, selon un…",
+    "title": "Coupe du monde : pourquoi Donald Trump est-il “pratiquement invisible” jusqu’ici ?",
+    "summary": "Donald Trump s’est montré particulièrement discret depuis le coup d’envoi de la Coupe du monde de football, organisée principalement aux États-Unis. Le président américain, qui n’a assisté jusqu’ici à aucun match, avait pourtant été omnipr…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-elections-en-algerie-un-taux-de-participation-si-faible-qu-il-en-devient-accusateur_246564",
+    "link": "https://www.courrierinternational.com/article/politique-coupe-du-monde-pourquoi-donald-trump-est-il-pratiquement-invisible-jusqu-ici_246560",
     "date": "2026-07-03"
   },
   {
@@ -105,10 +69,10 @@
   },
   {
     "type": "news",
-    "title": "Pakistan bus crash kills 40",
-    "summary": "At least 40 people were killed and eight others injured after a passenger bus plunged into a ravine in Pakistan.",
+    "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+    "summary": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
     "date": "2026-07-03"
   },
   {
@@ -121,10 +85,10 @@
   },
   {
     "type": "news",
-    "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
-    "summary": "The NATO alliance's European members and Canada have signaled a readiness to fully take over the financing of Ukraine's fight against Russia.",
+    "title": "Maltese tycoon faces trial over Caruana Galizia murder",
+    "summary": "The Maltese businessman accused of masterminding journalist Daphne Caruana Galizia’s 2017 murder is in court — seven years after his arrest. Five other men have already been found guilty for their roles in the murder.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-03"
   },
   {
@@ -161,10 +125,10 @@
   },
   {
     "type": "news",
-    "title": "International chess federation sanctions Kramnik",
-    "summary": "Article URL: https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/ Comments URL: https://news.ycombinator.com/item?id=48777266 Points: 20 # Comments: 5",
+    "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+    "summary": "Article URL: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type Comments URL: https://news.ycombinator.com/item?id=48777728 Points: 23 # Comments: 12",
     "source": "Hacker News",
-    "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+    "link": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
     "date": "2026-07-03"
   },
   {
@@ -177,82 +141,18 @@
   },
   {
     "type": "news",
-    "title": "Audiovisuel public : les mesures préconisées par Charles Alloncle seraient loin de rapporter le milliard d’euros promis, selon une note",
-    "summary": "France Télévisions a demandé à Henri Isaac, docteur en sciences de gestion, de calculer l’impact des mesures préconisées par le député ciottiste en conclusion de la commission d’enquête sur l’audiovisuel public. Le résultat serait catastro…",
+    "title": "Pourquoi le jeu vidéo sur disque va bientôt tirer sa révérence",
+    "summary": "L’arrêt du support physique pour les jeux Playstation en janvier 2028, annoncé mercredi, est le dernier épisode d’une tendance lourde du secteur : la consécration du jeu vidéo comme un service et non plus comme un produit fini, et la dépen…",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/03/audiovisuel-public-les-mesures-preconisees-par-charles-alloncle-seraient-loin-de-rapporter-le-milliard-d-euros-promis-selon-une-note_6720462_3234.html",
-    "date": "Fri, 03 Jul 2026 18:13:42 +0200"
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/03/pourquoi-le-jeu-video-sur-disque-va-bientot-tirer-sa-reverence_6720478_4408996.html",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "L'IA au coeur des enjeux géopolitiques",
-    "summary": "Aymeric Renaud explique que la France, grâce à son mix energétique, à ses formations d'ingénieurs et à ses acteurs dans l'IA, a les moyens de rattraper son retard et de rester compétitive dans le domaine de l'intelligence artifcielle.",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-l-ia-au-coeur-des-enjeux-geopolitiques_VN-202607030846.html",
-    "date": "Fri, 03 Jul 2026 18:01:59 GM"
-  },
-  {
-    "type": "news",
-    "title": "Les experts sans frontières - Vendredi 3 juillet",
-    "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf,…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-3-juillet_VN-202607030843.html",
-    "date": "Fri, 03 Jul 2026 17:43:04 GM"
-  },
-  {
-    "type": "news",
-    "title": "Les experts sans frontières – Vendredi 3 juillet",
-    "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf,…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-3-juillet_EN-202607030837.html",
-    "date": "Fri, 03 Jul 2026 17:42:48 GM"
-  },
-  {
-    "type": "news",
-    "title": "DIRECT. \"La prochaine catastrophe, ce sera la catastrophe financière et on y va tout droit\": Bruno Retailleau lance une alerte aux Rencontres économiques d'Aix",
-    "summary": "Les 26e Rencontres économiques d'Aix-en-Provence, rendez-vous annuel réunissant le gratin du domaine, se tiennent du 2 au 4 juillet. Une édition marquée par un programme très politique, à quelques mois de la prochaine élection présidentiel…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/entreprises/direct-rencontres-economiques-d-aix-suivez-notre-edition-speciale-roland-lescure-attendu-sur-place-aujourd-hui_LN-202607030151.html",
-    "date": "Fri, 03 Jul 2026 17:37:22 GM"
-  },
-  {
-    "type": "news",
-    "title": "Le président de Schneider electric est sur BFM Business",
-    "summary": "Aymeric Renaud explique le partenariat entre Schneider electric et Softbank. Il explique que le volume des datacenters construit dans ce projet est d'une ampleur historique",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-le-president-de-schneider-electric-est-sur-bfm-business_VN-202607030830.html",
-    "date": "Fri, 03 Jul 2026 17:30:13 GM"
-  },
-  {
-    "type": "news",
-    "title": "BFM Bourse : 16h/17h – 03/07",
-    "summary": "Ce vendredi 3 juillet, Antoine Larigaudrie, journaliste BFM Business, Thierry Gautier, directeur général de GSD Gestion, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Elodie Rouault, associée chez Althos, Stéphane Hou…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-16h-17h-03-07_EN-202607030825.html",
-    "date": "Fri, 03 Jul 2026 17:24:58 GM"
-  },
-  {
-    "type": "news",
-    "title": "Comment se préparer face aux ingérences russes ?",
-    "summary": "Yael Braun-Pivet est bien consciente des possibles attaques de puissances étrangères contre la démocratie française en période électorale. Elle souligne que l'intelligence artificielle peut être un outil face à ces enjeux",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-comment-se-preparer-face-aux-ingerences-russes_VN-202607030820.html",
-    "date": "Fri, 03 Jul 2026 17:16:35 GM"
-  },
-  {
-    "type": "news",
-    "title": "\"On doit être pour l'Europe, c'est la bonne échelle\"",
-    "summary": "Yael Braun-Pivet rappelle que l'Europe est la bonne échelle pour répondre aux défis de l'époque, mais qu'il y a des choses à réformer pour qu'elle fonctionne mieux",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-on-doit-etre-pour-l-europe-c-est-la-bonne-echelle_VN-202607030817.html",
-    "date": "Fri, 03 Jul 2026 17:14:10 GM"
-  },
-  {
-    "type": "news",
-    "title": "\"On accueille gratuitement les gens\" : à Libourne, les commerçants s'adaptent avant le retour de la chaleur",
-    "summary": "Ce début de vacances va s'accompagner du retour des fortes chaleurs, qui remontent dès ce week-end. Une nouvelle hausse du thermomètre, qui pourrait s'accentuer en début de semaine prochaine. Les communes, en tout cas, s'y préparent. C'est…",
+    "title": "Canicule : \"Jusqu'à 200 000 climatiseurs\" vendus par Carrefour cette semaine, selon son PDG Alexandre Bompard",
+    "summary": "Alexandre Bompard, le PDG du groupe Carrefour, était l'invité de franceinfo vendredi 3 juillet 2026.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-accueille-gratuitement-les-gens-a-libourne-les-commercants-s-adaptent-avant-le-retour-de-la-chaleur_8092634.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/replay-radio/l-interview-eco/canicule-jusqu-a-200-000-climatiseurs-vendus-par-carrefour-cette-semaine-selon-son-pdg-alexandre-bompard_8061659.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-03"
   },
   {
@@ -265,10 +165,10 @@
   },
   {
     "type": "news",
-    "title": "Adel Nassar, ministre de la justice libanais : « L’attitude du Hezbollah ne fait que compliquer la position de négociation du Liban avec Israël »",
-    "summary": "Estimant que les confrontations militaires ont mené le pays à la catastrophe, l’avocat et homme politique libanais défend, dans un entretien au « Monde », des pourparlers directs avec Israël et le désarmement du Hezbollah.",
+    "title": "Au Kenya, des disparitions forcées de militants critiques du pouvoir à l’approche de la présidentielle de 2027",
+    "summary": "Les organisations de défense des droits humains accusent les autorités d’être à l’origine de ces kidnappings et s’inquiètent d’une répression grandissante à l’approche du scrutin présidentiel d’août 2027.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/03/adel-nassar-ministre-de-la-justice-libanais-l-attitude-du-hezbollah-ne-fait-que-compliquer-la-position-de-negociation-du-liban-avec-israel_6720465_3210.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/03/au-kenya-des-disparitions-forcees-de-militants-critiques-du-pouvoir-a-l-approche-de-la-presidentielle-de-2027_6720473_3212.html",
     "date": "2026-07-03"
   },
   {
@@ -281,10 +181,10 @@
   },
   {
     "type": "news",
-    "title": "Le crash d’un petit avion au centre de Pékin suscite des interrogations",
-    "summary": "Le vendredi 29 juin, un petit avion biplace s’est écrasé sur le plus haut gratte-ciel de Pékin, à moins de 7 kilomètres du Zhongnanhai, qui abrite le siège du pouvoir chinois. Cet incident, qui a fait 1 mort et 13 blessés, provoque des int…",
+    "title": "Élections en Algérie : un taux de participation “si faible qu’il en devient accusateur”",
+    "summary": "Près de 25 millions d’Algériens étaient appelés aux urnes, ce jeudi 2 juillet, pour élire une nouvelle Assemblée populaire nationale. Mais “Le Matin d’Algérie” voit dans le taux de participation historiquement bas – moins de 21 %, selon un…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/chine-le-crash-d-un-petit-avion-au-centre-de-pekin-suscite-des-interrogations_246558",
+    "link": "https://www.courrierinternational.com/article/politique-elections-en-algerie-un-taux-de-participation-si-faible-qu-il-en-devient-accusateur_246564",
     "date": "2026-07-03"
   },
   {
@@ -297,10 +197,10 @@
   },
   {
     "type": "news",
-    "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
-    "summary": "World leaders pay tribute to Iran's late leader Khamenei in Tehran",
+    "title": "Ukrainian woman identified as main suspect in Monaco bombing",
+    "summary": "Interpol has identified 39-year-old Anastasiia Berezovska as the main suspect in Monday’s bombing in Monaco.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss",
     "date": "2026-07-03"
   },
   {
@@ -313,10 +213,10 @@
   },
   {
     "type": "news",
-    "title": "EU sanctions Russian researchers involved in Navalny's death",
-    "summary": "The six sanctioned Russian scientists were linked to the production of epibatidine — the deadly toxin identified in the body of Putin critic Alexei Navalny after his death.",
+    "title": "Pope Leo defends US immigrant history at 250th anniversary",
+    "summary": "The first US pope said \"successive waves of immigrants\" played a role in shaping the United States, which marks its 250th anniversary on Saturday. Leo's remarks have made him a target of President Donald Trump.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/eu-sanctions-russian-researchers-involved-in-navalny-s-death/a-77825077?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-03"
   },
   {
@@ -353,10 +253,10 @@
   },
   {
     "type": "news",
-    "title": "US residents angry datacenters 'shoved down our throats' are recalling officials",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections Comments URL: https://news.ycombinator.com/item?id=48776780 Points: 38 # Comments: 13",
+    "title": "International chess federation sanctions Kramnik",
+    "summary": "Article URL: https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/ Comments URL: https://news.ycombinator.com/item?id=48777266 Points: 43 # Comments: 21",
     "source": "Hacker News",
-    "link": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
+    "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
     "date": "2026-07-03"
   },
   {
@@ -365,6 +265,134 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the…",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Audiovisuel public : les mesures préconisées par Charles Alloncle seraient loin de rapporter le milliard d’euros promis, selon une note",
+    "summary": "France Télévisions a demandé à Henri Isaac, docteur en sciences de gestion, de calculer l’impact des mesures préconisées par le député ciottiste en conclusion de la commission d’enquête sur l’audiovisuel public. Le résultat serait catastro…",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/03/audiovisuel-public-les-mesures-preconisees-par-charles-alloncle-seraient-loin-de-rapporter-le-milliard-d-euros-promis-selon-une-note_6720462_3234.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "\"On accueille gratuitement les gens\" : à Libourne, les commerçants s'adaptent avant le retour de la chaleur",
+    "summary": "Ce début de vacances va s'accompagner du retour des fortes chaleurs, qui remontent dès ce week-end. Une nouvelle hausse du thermomètre, qui pourrait s'accentuer en début de semaine prochaine. Les communes, en tout cas, s'y préparent. C'est…",
+    "source": "France Info Éco",
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-accueille-gratuitement-les-gens-a-libourne-les-commercants-s-adaptent-avant-le-retour-de-la-chaleur_8092634.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "L’État réquisitionne-t-il vraiment les stocks de climatiseurs pour équiper les hôpitaux ?",
+    "summary": "Alors que la France s’apprête à basculer dans un nouvel épisode de fortes chaleurs, le gouvernement a validé l’achat de 30.000 appareils d’appoint pour les hôpitaux. Sur les réseaux sociaux, certains accusent l’État de vider les stocks déj…",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/conjoncture/l-etat-requisitionne-t-il-vraiment-les-stocks-de-climatiseurs-pour-equiper-les-hopitaux-20260703",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Adel Nassar, ministre de la justice libanais : « L’attitude du Hezbollah ne fait que compliquer la position de négociation du Liban avec Israël »",
+    "summary": "Estimant que les confrontations militaires ont mené le pays à la catastrophe, l’avocat et homme politique libanais défend, dans un entretien au « Monde », des pourparlers directs avec Israël et le désarmement du Hezbollah.",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/international/article/2026/07/03/adel-nassar-ministre-de-la-justice-libanais-l-attitude-du-hezbollah-ne-fait-que-compliquer-la-position-de-negociation-du-liban-avec-israel_6720465_3210.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "À la Une: les soupçons de Donald Trump sur les intentions d'Israël",
+    "summary": "",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260703-%C3%A0-la-une-les-soup%C3%A7ons-de-donald-trump-sur-les-intentions-d-isra%C3%ABl",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Le crash d’un petit avion au centre de Pékin suscite des interrogations",
+    "summary": "Le vendredi 29 juin, un petit avion biplace s’est écrasé sur le plus haut gratte-ciel de Pékin, à moins de 7 kilomètres du Zhongnanhai, qui abrite le siège du pouvoir chinois. Cet incident, qui a fait 1 mort et 13 blessés, provoque des int…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/chine-le-crash-d-un-petit-avion-au-centre-de-pekin-suscite-des-interrogations_246558",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+    "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary",
+    "summary": "Influential figures deliver speeches evoking US ideals to counter President Trump's hardline immigration policies.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70",
+    "summary": "Lam was one of five people from Causeway Bay Books who disappeared in 2015. He later detailed his detention by Chinese authorities.",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
+    "summary": "The NATO alliance's European members and Canada have signaled a readiness to fully take over the financing of Ukraine's fight against Russia.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Bruno Le Maire : “Une campagne, c’est tripal, c’est pas cérébral.”",
+    "summary": "“A ce moment-là, je me suis dit ‘j’arrête tout’”. Dans cet épisode spécial de Playbook Paris, le podcast de POLITICO, enregistré aux Rencontres économiques d’Aix-en-Provence, l’ancien ministre de l’Economie d’Emmanuel Macron raconte à Anth…",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/bruno-le-maire-une-campagne-cest-tripal-cest-pas-cerebral/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+    "summary": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Are stablecoins money?",
+    "summary": "Policymakers’ job is to make them safe as well as useful",
+    "source": "The Economist — Finance",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
+    "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+    "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 44 # Comments: 32",
+    "source": "Hacker News",
+    "link": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolute…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
     "date": "2026-07-03"
   },
   {
@@ -381,143 +409,127 @@
     "summary": "Le live shopping séduit de plus en plus de consommateurs en France. Sur les plateformes de vente en direct, les enchères s’enchaînent et les achats impulsifs aussi. Entre opportunité économique pour les vendeurs et dérive consumériste pour…",
     "source": "France Info Éco",
     "link": "https://www.franceinfo.fr/economie/sur-internet-les-ventes-en-direct-changent-la-donne-du-commerce_8092610.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "Fri, 03 Jul 2026 16:59:14 +0200"
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Spectacle vivant : 28 structures culturelles menacées par des baisses de subvention",
-    "summary": "A la veille de l’ouverture du Festival d’Avignon, le Syndicat national des entreprises artistiques et culturelles s’alarme, dans un courrier envoyé à Emmanuel Macron et à différents ministres, d’une situation d’extrême urgence.",
+    "title": "Vingt et une heures de trajet pour 500 euros : le pari économique étonnant d’une liaison par ferry entre Boulogne et l’Irlande",
+    "summary": "REPORTAGE - La compagnie irlandaise Hibernia a racheté deux bateaux. Elle compte convaincre les touristes, et surtout des transporteurs de fret.",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/societes/vingt-et-une-heures-de-trajet-pour-500-euros-le-pari-economique-etonnant-d-une-liaison-par-ferry-entre-boulogne-et-l-irlande-20260703",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "En cartes | Conquérir et dominer : la grande fabrique du territoire américain",
+    "summary": "De la « doctrine Monroe » de 1823 à la « doctrine Donroe » de 2025, la politique de Donald Trump puise dans une longue histoire de conquêtes qui ont façonné les frontières des Etats-Unis depuis les premières colonies.",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/international/visuel/2026/07/03/en-cartes-conquerir-et-dominer-la-grande-fabrique-du-territoire-americain_6720463_3210.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Sur un voilier – Escale en terre norvégienne [Série 2/2]",
+    "summary": "Comment prêter l'oreille aux sons des paysages inconnus ? Dès l'amarrage au port, se laisser porter par les craquements de glace, les bruissements de voix et de pas dans la neige, jusqu'au chuintement de la vapeur du sauna… Petit inventair…",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/%C3%A9couter-le-monde/20260703-sur-un-voilier-%E2%80%93-escale-en-terre-norv%C3%A9gienne-s%C3%A9rie-2-2",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "En Autriche, un Lidl construit sur le site d’un ancien camp de concentration nazi",
+    "summary": "En Basse-Autriche, une zone industrielle est en cours de construction sur le terrain qui a accueilli jusqu’en 1945 le deuxième camp de concentration pour femmes du pays. La presse autrichienne regrette un chantier qui n’est pas à la hauteu…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/societe-en-autriche-un-lidl-construit-sur-le-site-d-un-ancien-camp-de-concentration-nazi_246227",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "German row over plan for workers to need sick note on first day of illness",
+    "summary": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "What to know about Taylor Swift and Travis Kelce’s wedding in NYC",
+    "summary": "The celebrity couple’s nuptials, dubbed 'America’s royal wedding', light up New York with excitement and speculation.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/3/what-to-know-about-taylor-swift-and-travis-kelces-wedding-in-nyc?traffic_source=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
+    "summary": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "EU sanctions Russian researchers involved in Navalny's death",
+    "summary": "The six sanctioned Russian scientists were linked to the production of epibatidine — the deadly toxin identified in the body of Putin critic Alexei Navalny after his death.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/eu-sanctions-russian-researchers-involved-in-navalny-s-death/a-77825077?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Lithuanian president warns NATO could fracture over defense spending",
+    "summary": "If European countries fail to meet NATO's 5 percent spending target, the alliance will split into \"two or three parts,\" Gitanas Nausėda warned.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/lithuania-president-gitanas-nauseda-nato-fracture-defense-spending/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Burnham says there is some room for movement on tax",
+    "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Unpacking Venezuela’s peculiar debt restructuring",
+    "summary": "Hazy numbers and the absence of the IMF make for an unusual negotiation",
+    "source": "The Economist — Finance",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+    "summary": "The European Central Bank's Christine Lagarde has declined to rule out an early end to her term as president, as she mulls a foray into French politics.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+    "summary": "Article URL: https://github.com/kerlenton/mcpsnoop Comments URL: https://news.ycombinator.com/item?id=48777144 Points: 5 # Comments: 2",
+    "source": "Hacker News",
+    "link": "https://github.com/kerlenton/mcpsnoop",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Achieving operational excellence with AI",
+    "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rig…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Canicule au travail : la CGT veut un changement d’urgence de la loi ; le gouvernement, des accords par métier",
+    "summary": "Le ministre du travail, Jean-Pierre Farandou, espère des accords d’entreprise avant les canicules de 2027. « Ce n’est pas possible d’attendre l’automne pour faire ça », a réagi la secrétaire générale de la CGT, Sophie Binet.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/culture/article/2026/07/03/spectacle-vivant-vingt-huit-structures-culturelles-frappees-par-des-baisses-de-subvention_6720441_3246.html",
-    "date": "Fri, 03 Jul 2026 16:48:10 +0200"
-  },
-  {
-    "type": "news",
-    "title": "« À 1 500 mètres d’altitude, pas besoin de clim » : la canicule fait les affaires du tourisme à la montagne cet été",
-    "summary": "DÉCRYPTAGE - Les Français cherchent la fraîcheur, et une offre pas trop chère. Les hôteliers et les résidences de tourisme voient les réservations s’envoler.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/a-1-500-metres-d-altitude-pas-besoin-de-clim-la-canicule-fait-les-affaires-du-tourisme-a-la-montagne-cet-ete-20260703",
-    "date": "Fri, 03 Jul 2026 16:44:47 +0200"
-  },
-  {
-    "type": "news",
-    "title": "On refait la séance : Catana chute après des incendies sur deux bâtiments dans le sud – 03/07",
-    "summary": "Ce vendredi 3 juillet, Thierry Gautier, directeur général de GSD Gestion, Julien Marion, journaliste BFM Bourse et Gilles Santacreu, trader algorithmique et administrateur du site Boursikoter.com, ont débriefé la séance du jour, dans l'émi…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/on-refait-la-seance-catana-chute-apres-des-incendies-sur-deux-batiments-dans-le-sud-03-07_EN-202607030789.html",
-    "date": "Fri, 03 Jul 2026 16:35:07 GM"
-  },
-  {
-    "type": "news",
-    "title": "Les propositions chocs de l'Assurance maladie pour faire des économies",
-    "summary": "Dans son rapport annuel \"charges et produits\" publié ce jeudi, l'Assurance maladie dit vouloir faire émerger \"une génération sans tabac\". Elle appelle aussi à \"concrétiser le virage préventif\" des politiques de santé.",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-les-propositions-chocs-de-l-assurance-maladie-pour-faire-des-economies_VN-202607030788.html",
-    "date": "Fri, 03 Jul 2026 16:33:23 GM"
-  },
-  {
-    "type": "news",
-    "title": "La Data Room : 10% = au cours des 40 dernières années, si vous avez investi 1 EUR uniquement sur les points hauts de l’indice d’actions américain (S&P 500), votre taux de rendement interne (TRI) serait de 10% – 03/07",
-    "summary": "Ce vendredi 3 juillet, Alexandre Baradez, chef analyste chez IG France, et Kevin Thozet, membre du comité d’investissement de Carmignac, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir o…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/la-data-room-10-au-cours-des-40-dernieres-annees-si-vous-avez-investi-1-eur-uniquement-sur-les-points-hauts-de-l-indice-d-actions-americain-s-p-500-votre-taux-de-rendement-interne-tri-serait-de-10-03-07_EN-202607030782.html",
-    "date": "Fri, 03 Jul 2026 16:27:09 GM"
-  },
-  {
-    "type": "news",
-    "title": "On refait la séance : Catana chute après des incendies sur deux bâtiments dans le sud - 03/07",
-    "summary": "Ce vendredi 3 juillet, Thierry Gautier, directeur général de GSD Gestion, Julien Marion, journaliste BFM Bourse et Gilles Santacreu, trader algorithmique et administrateur du site Boursikoter.com, ont débriefé la séance du jour, dans l'émi…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-on-refait-la-seance-catana-chute-apres-des-incendies-sur-deux-batiments-dans-le-sud-03-07_VN-202607030784.html",
-    "date": "Fri, 03 Jul 2026 16:26:53 GM"
-  },
-  {
-    "type": "news",
-    "title": "Fin des jeux vidéo physiques sur PlayStation : Mélenchon dénonce un «triomphe de la marchandisation totale»",
-    "summary": "Le candidat insoumis à la présidentielle a fustigé la décision de Sony, annoncée mercredi, de ne plus sortir de jeux vidéo pour ses consoles PlayStation qu’en version dématérialisée.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/secteur/high-tech/fin-des-jeux-video-physiques-sur-playstation-melenchon-denonce-un-triomphe-de-la-marchandisation-totale-20260703",
-    "date": "Fri, 03 Jul 2026 16:24:33 +0200"
-  },
-  {
-    "type": "news",
-    "title": "La Data Room : 10% = au cours des 40 dernières années, si vous avez investi 1 EUR uniquement sur les points hauts de l’indice d’actions américain (S&P 500), votre taux de rendement interne (TRI) serait de 10% - 03/07",
-    "summary": "Ce vendredi 3 juillet, Alexandre Baradez, chef analyste chez IG France, et Kevin Thozet, membre du comité d’investissement de Carmignac, se sont penchés sur la hausse des salaires négociée au Japon, évaluée à 5 %, ainsi que sur le taux de…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-10-au-cours-des-40-dernieres-annees-si-vous-avez-investi-1-eur-uniquement-sur-les-points-hauts-de-l-indice-d-actions-americain-s-p-500-votre-taux-de-rendement-interne-tri-serait-de-10-03-07_VN-202607030771.html",
-    "date": "Fri, 03 Jul 2026 16:15:51 GM"
-  },
-  {
-    "type": "news",
-    "title": "BFM Bourse - Vendredi 3 juillet",
-    "summary": "Ce vendredi 3 juillet, Karen Georges, gérante actions, spécialiste des actions US chez Ecofi, Gabriel Karaboulad, directeur adjoint des investissements de Neuflize OBC, Olivier Malteste, directeur des Investissements de Althéis by Yomoni,…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-vendredi-3-juillet_VN-202607030783.html",
-    "date": "Fri, 03 Jul 2026 16:10:54 GM"
-  },
-  {
-    "type": "news",
-    "title": "L'intégrale de BFM Bourse du vendredi 3 juillet",
-    "summary": "Ce vendredi 3 juillet, Karen Georges, gérante actions, spécialiste des actions US chez Ecofi, Gabriel Karaboulad, directeur adjoint des investissements de Neuflize OBC, Olivier Malteste, directeur des Investissements de Althéis by Yomoni,…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-vendredi-3-juillet_EN-202607030758.html",
-    "date": "Fri, 03 Jul 2026 16:09:29 GM"
-  },
-  {
-    "type": "news",
-    "title": "Chine/États-Unis : une nouvelle Guerre froide ?",
-    "summary": "À qui se fier de nos jours ? L'Europe et les États-Unis, alliés inaltérables depuis des décennies, semblent s'éloigner chaque jour un peu plus loin de l'autre sous l'impulsion de Donald Trump. De l'autre côté du monde, la tentation est gra…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/l-ordre-du-monde/chine-etats-unis-une-nouvelle-guerre-froide_EN-202607030753.html",
-    "date": "Fri, 03 Jul 2026 16:07:59 GM"
-  },
-  {
-    "type": "news",
-    "title": "BFM Bourse : 17h/18h – 03/07",
-    "summary": "Ce vendredi 3 juillet, Antoine Larigaudrie, journaliste BFM Business, Kevin Thozet, membre du comité d'investissement Carmignac, Alexandre Baradez, chef analyste chez IG France, Gilles Santacreu, trader algorithmique et administrateur du s…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-17h-18h-03-07_EN-202607030747.html",
-    "date": "Fri, 03 Jul 2026 16:06:28 GM"
-  },
-  {
-    "type": "news",
-    "title": "Le Club : \"La Tech devient-elle cyclique en bourse avec le poids croissant des semi-conducteurs ?\" – 03/07",
-    "summary": "Ce vendredi 3 juillet, Kevin Thozet, membre du comité d'investissement de Carmignac, et Alexandre Baradez, chef analyste chez IG France, étaient les invités de l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir o…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/le-club-la-tech-devient-elle-cyclique-en-bourse-avec-le-poids-croissant-des-semi-conducteurs-03-07_EN-202607030733.html",
-    "date": "Fri, 03 Jul 2026 15:45:09 GM"
-  },
-  {
-    "type": "news",
-    "title": "Le Club : \"La Tech devient-elle cyclique en bourse avec le poids croissant des semi-conducteurs ?\" - 03/07",
-    "summary": "Ce vendredi 3 juillet, Kevin Thozet, membre du comité d'investissement de Carmignac, et Alexandre Baradez, chef analyste chez IG France, se sont penchés sur Christine Lagarde qui n'exclut pas de quitter la BCE, l'emploi américain qui est a…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-la-tech-devient-elle-cyclique-en-bourse-avec-le-poids-croissant-des-semi-conducteurs-03-07_VN-202607030735.html",
-    "date": "Fri, 03 Jul 2026 15:45:04 GM"
-  },
-  {
-    "type": "news",
-    "title": "\"La Chine nous met une gifle qui va devenir un K.O.\"",
-    "summary": "Invité des Rencontres économiques d'Aix-en-Provence, l'ancien Premier ministre et candidat à l'élection présidentielle Édouard Philippe a déploré le K.O. infligé par la Chine à l'Europe sur le plan technologique.",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/video-la-chine-nous-met-une-gifle-qui-va-devenir-un-k-o_VN-202607030725.html",
-    "date": "Fri, 03 Jul 2026 15:26:02 GM"
-  },
-  {
-    "type": "news",
-    "title": "Tech stocks : Les pépites Tech de nos experts – 03/07",
-    "summary": "Ce vendredi 3 juillet, Stéphane Houri, analyste tech Oddo BHF, François Gobron, analyste gérant chez Generali Investments, et Valentin Nicaud, membre de la cellule infos d'expert de Bourse Direct, se sont penchés sur le secteur des semi-co…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/tech-stocks-les-pepites-tech-de-nos-experts-03-07_EN-202607030720.html",
-    "date": "Fri, 03 Jul 2026 15:19:47 GM"
-  },
-  {
-    "type": "news",
-    "title": "Tech stocks : Les pépites Tech de nos experts - 03/07",
-    "summary": "Ce vendredi 3 juillet, Stéphane Houri, analyste tech Oddo BHF, François Gobron, analyste gérant chez Generali Investments, et Valentin Nicaud, membre de la cellule infos d'expert de Bourse Direct, se sont penchés sur le secteur des semi-co…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-tech-stocks-les-pepites-tech-de-nos-experts-03-07_VN-202607030721.html",
-    "date": "Fri, 03 Jul 2026 15:18:11 GM"
+    "link": "https://www.lemonde.fr/politique/article/2026/07/03/canicule-au-travail-la-cgt-veut-un-changement-d-urgence-de-la-loi-le-gouvernement-des-accords-par-metier_6719168_823448.html",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
@@ -525,7 +537,127 @@
     "summary": "Avant les départs en vacances, certaines stations-service proposent le carburant à prix coûtant ce week-end. Une opération qui attire de nombreux automobilistes, alors que les prix restent élevés malgré une baisse progressive. Les consomma…",
     "source": "France Info Éco",
     "link": "https://www.franceinfo.fr/economie/automobile/essence/departs-en-vacances-les-automobilistes-scrutent-chaque-centime-a-la-pompe_8092448.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "Fri, 03 Jul 2026 15:15:27 +0200"
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Le spectre d’une bulle technologique revient hanter les marchés",
+    "summary": "DÉCRYPTAGE - Les signaux d’alerte se multiplient sur le secteur de la technologie, unique moteur des marchés depuis de long mois.",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/economie/le-spectre-d-une-bulle-technologique-revient-hanter-les-marches-20260703",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Dans l’est de la RDC, la paix impossible",
+    "summary": "Malgré une baisse des combats dans les provinces du Nord-Kivu et du Sud-Kivu, les forces belligérantes demeurent sur le pied de guerre. Les efforts diplomatiques engagés depuis juin 2025, sous la houlette des Etats-Unis, n’ont produit que…",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/03/dans-l-est-de-la-rdc-la-paix-impossible_6720460_3212.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Abandon : que dit ce geste de la souffrance des mères?",
+    "summary": "Au XXe siècle, des centaines de milliers de mères ont abandonné leur enfant. Aujourd’hui encore, en France, environ 700 mères le font chaque année. Comment une mère peut-elle abandonner son enfant ? Cette question provoque de l’émotion, pa…",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260703-qui-sont-ces-m%C3%A8res-qui-abandonnent-leur-enfant",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "La France, “premier pays européen à cibler spécifiquement” Shein et la mode éphémère",
+    "summary": "Le 29 juin, le Parlement a définitivement adopté une loi sanctionnant les géants asiatiques du commerce en ligne tels que Shein, Temu et AliExpress. Paris “se considère comme un précurseur”. Pourtant, le texte a été “soigneusement calibré”…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/legislation-la-france-premier-pays-europeen-a-cibler-specifiquement-shein-et-la-mode-ephemere_246499",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Nasa launches mission to save falling space telescope",
+    "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Keiko Fujimori officially declared winner of Peru presidential race",
+    "summary": "This is a breaking news story.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+    "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
+    "summary": "In a meeting with Baltic leaders, Germany's Chancellor Friedrich Merz played up Germany's defense spending. It comes after new criticism from President Donald Trump that Germany is lagging behind other NATO allies.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Tusk urges Ukraine to do its part to repair ties with Poland",
+    "summary": "A dispute between the two countries erupted over a World War II military unit — and a stripped state honor.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/donald-tusk-tells-kyiv-must-help-repair-ties-with-poland/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
+    "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "A new Plaza Accord for global currencies wouldn’t work",
+    "summary": "The conditions and will for a deal are not what they were in 1985",
+    "source": "The Economist — Finance",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+    "date": "2026-06-30"
+  },
+  {
+    "type": "news",
+    "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+    "summary": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "The Life and Times of Maxis, Part 1: SimEverything",
+    "summary": "Article URL: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/ Comments URL: https://news.ycombinator.com/item?id=48776525 Points: 63 # Comments: 3",
+    "source": "Hacker News",
+    "link": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Teaching AI to run with the turbines",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure,…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Canal+ cesse de soutenir le festival du court-métrage de Clermont-Ferrand",
+    "summary": "Pour pallier la fin de cette coopération longue de trente-huit ans avec la chaîne, le plus grand festival de court-métrage du monde est en discussion avec Arte et France Télévisions.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/03/canal-cesse-de-soutenir-le-festival-du-court-metrage-de-clermont-ferrand_6719158_3234.html",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
@@ -533,38 +665,70 @@
     "summary": "Avec les premiers grands départs en vacances, les fortes chaleurs obligent voyageurs et SNCF à s'adapter. Gourdes, départs matinaux, climatisation des trains : chacun prend ses précautions pour limiter les effets des températures élevées s…",
     "source": "France Info Éco",
     "link": "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-comment-voyageurs-et-sncf-s-adaptent-aux-fortes-chaleurs_8092445.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "Fri, 03 Jul 2026 15:06:06 +0200"
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Le banquier Matthieu Pigasse a déposé une offre de reprise du groupe papetier en difficulté Fibre Excellence",
-    "summary": "Pour pouvoir mener à bien le projet, le milliardaire proche de la gauche attend que l’État s’engage sur le tarif du rachat de l’électricité produite par Fibre Excellence.",
+    "title": "Croissance, accord commercial, consommation... Comment l’Inde a géré les retombées économiques de la crise du Golfe",
+    "summary": "ENTRETIEN - En visite en France, Nirmala Sitharaman, la ministre des Finances, justifie les restrictions sur les voyages ou les achats d’or annoncées en mai par le premier ministre Modi. Elle évoque le défi de l’emploi des jeunes à un mome…",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/le-banquier-matthieu-pigasse-a-depose-une-offre-de-reprise-du-groupe-papetier-en-difficulte-fibre-excellence-20260703",
-    "date": "Fri, 03 Jul 2026 14:51:48 +0200"
+    "link": "https://www.lefigaro.fr/conjoncture/croissance-accord-commercial-consommation-comment-l-inde-a-gere-les-retombees-economiques-de-la-crise-du-golfe-20260703",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Investir dans la Tech autrement – 03/07",
-    "summary": "Ce vendredi 3 juillet, Elodie Rouault, associée chez Althos, explique les autres façons d'investir dans l'IA et la tech, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/investir-dans-la-tech-autrement-03-07_EN-202607030709.html",
-    "date": "Fri, 03 Jul 2026 14:51:41 GM"
+    "title": "EN DIRECT, Australie-Egypte : les Socerros tentent d’égaliser après l’ouverture du score d’Emam Ashour",
+    "summary": "Les Pharaons et les Socceroos s’affrontent vendredi, à Dallas, afin d’obtenir l’un des derniers tickets pour les huitièmes de finale du Mondial nord-américain.",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/sport/live/2026/07/03/en-direct-australie-egypte-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6720457_3242.html",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "À la tête de l'UE pour six mois, l'Irlande veut boucler le budget européen de 2.000 milliards d'euros pour 2028-2034",
-    "summary": "Depuis mercredi, l'Irlande exercice la présidence tournante de l'Union européenne, un mandat au cours duquel elle souhaite boucler les négociations sur le prochain budget européen qui couvrira la période 2028-2034.",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/economie-social/union-europeenne/a-la-tete-de-l-ue-pour-six-mois-l-irlande-veut-boucler-le-budget-europeen-de-2-000-milliards-d-euros-pour-2028-2034_AD-202607030708.html",
-    "date": "Fri, 03 Jul 2026 14:50:49 GM"
+    "title": "Le tourisme peut-il être écolo?",
+    "summary": "Bientôt les grandes vacances scolaires d'été en France, dans une grande partie de l'Europe, en Amérique du Nord ou encore en Chine. Juillet et août, ce sont les mois du pic touristique mondial: en 2025, un milliard et demi de personnes ont…",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260702-le-tourisme-peut-il-%C3%AAtre-%C3%A9colo",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "Investir dans la Tech autrement - 03/07",
-    "summary": "Ce vendredi 3 juillet, Elodie Rouault, associée chez Althos, explique les autres façons d'investir dans l'IA et la tech, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-investir-dans-la-tech-autrement-03-07_VN-202607030706.html",
-    "date": "Fri, 03 Jul 2026 14:48:02 GM"
+    "title": "Les médias japonais mettent en garde contre la chute historique du yen",
+    "summary": "En dépit des interventions du gouvernement japonais, la valeur de la devise nippone continue de chuter face au dollar américain. Un phénomène qui menace d’aggraver l’inflation. Pour y remédier, il faudrait redresser l’économie du pays, cla…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/economie-les-medias-japonais-mettent-en-garde-contre-la-chute-historique-du-yen_246495",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Iran begins public mourning for Ayatollah killed in February",
+    "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Israel prevents exiled Palestinian detainees from reuniting with their families",
+    "summary": "Palestinian prisoners released from Israeli jail but remain separated from loved ones due to travel restrictions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Former ethics lawyer says Trump's crypto poses 'clear conflict of interest'",
+    "summary": "Former White House ethics lawyer Richard Painter says President Trump \"stands alone\" in having substantial financial conflicts of interest and that, \"for every other executive branch official, it would be a violation.\"",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5877487/trump-crypto-earnings-ethics",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Nigeria: US pulls some troops after anti-IS operation",
+    "summary": "The United States has withdrawn most of the forces it deployed for a recent operation against \"Islamic State\" militants in northeastern Nigeria, but it is continuing to provide intelligence support at Abuja's request.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-03"
   }
 ]
