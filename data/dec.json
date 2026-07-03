@@ -1,4 +1,62 @@
 [
-  { "type": "dec", "question": "NEP 200 : quel est l'objectif d'un audit d'états financiers ?", "answer": "Permettre au commissaire aux comptes de formuler une opinion indiquant si les comptes sont établis, dans tous leurs aspects significatifs, conformément au référentiel comptable applicable — renforçant ainsi le degré de confiance des utilisateurs." },
-  { "type": "dec", "question": "Qu'est-ce que le seuil de signification (materiality) ?", "answer": "Montant au-delà duquel une anomalie, individuelle ou cumulée, est susceptible d'influencer les décisions économiques des utilisateurs des comptes. Il est fixé lors de la planification et révisé si nécessaire." }
+  {
+    "type": "dec",
+    "question": "Qu'est-ce qu'une société selon le Code de commerce ?",
+    "answer": "Une société est une entité juridique créée par une ou plusieurs personnes pour exercer une activité économique, régie par le Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les types de sociétés commerciales selon le Code de commerce ?",
+    "answer": "Les types de sociétés commerciales incluent la société anonyme (SA), la société par actions simplifiée (SAS), la société à responsabilité limitée (SARL), et la société en nom collectif (SNC)."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce qu'un acte de commerce ?",
+    "answer": "Un acte de commerce est un acte juridique qui a un but lucratif et est effectué par un commerçant, régulé par les dispositions du Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la responsabilité des associés dans une SARL ?",
+    "answer": "Dans une SARL, la responsabilité des associés est limitée aux apports qu'ils ont effectués."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les normes applicables aux sociétés dans le cadre du DEC ?",
+    "answer": "Les normes applicables incluent les normes d'exercice professionnel (NEP) et les dispositions du Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est le rôle du commissaire aux comptes dans une société ?",
+    "answer": "Le commissaire aux comptes a pour mission de certifier les comptes de la société et d'assurer la transparence financière vis-à-vis des tiers."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce qu'une assemblée générale dans une société ?",
+    "answer": "L'assemblée générale est une réunion des associés ou actionnaires pour prendre des décisions concernant la gestion de la société, conformément au Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les droits des actionnaires dans une SA ?",
+    "answer": "Les droits des actionnaires dans une SA incluent le droit de vote en assemblée générale, le droit à l'information et le droit au dividende."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce qu'une société par actions simplifiée (SAS) ?",
+    "answer": "La SAS est une forme de société commerciale offrant une grande liberté statutaire, avec des associés dont la responsabilité est limitée aux apports."
+  },
+  {
+    "type": "dec",
+    "question": "Comment se déroule la dissolution d'une société selon le Code de commerce ?",
+    "answer": "La dissolution d'une société peut être décidée par les associés, par l'expiration de la durée de la société ou pour cause de pertes, selon les articles du Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "NEP 200 : quel est l'objectif d'un audit d'états financiers ?",
+    "answer": "Permettre au commissaire aux comptes de formuler une opinion indiquant si les comptes sont établis, dans tous leurs aspects significatifs, conformément au référentiel comptable applicable — renforçant ainsi le degré de confiance des utilisateurs."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce que le seuil de signification (materiality) ?",
+    "answer": "Montant au-delà duquel une anomalie, individuelle ou cumulée, est susceptible d'influencer les décisions économiques des utilisateurs des comptes. Il est fixé lors de la planification et révisé si nécessaire."
+  }
 ]
