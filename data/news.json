@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "L'IA transforme divers secteurs, de la santé à la finance, redéfinissant nos sociétés.",
+      "L'Inde navigue habilement les retombées économiques de la crise du Golfe avec des stratégies efficaces.",
+      "Les ventes en direct sur internet révolutionnent le commerce traditionnel, offrant de nouvelles opportunités."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
     "title": "Conjuguer performance et impact, une nouvelle vision de l’investissement",
     "summary": "Marie Ekeland et Edouard de Saint Pierre défendent une autre vision de la finance.",
     "source": "Le Figaro Éco",
