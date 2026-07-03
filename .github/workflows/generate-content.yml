@@ -1,17 +1,23 @@
 name: Générer des cartes (IA)
 
 on:
+  # Automatique 3×/jour (matin / midi / soir, décalé de 30 min après les actus).
+  # Sans input → le script choisit type + thème par rotation : matin=mandarin,
+  # midi=finance, soir=DEC, avec un thème qui avance chaque jour.
+  schedule:
+    - cron: "30 5,11,17 * * *"   # 07h30 / 13h30 / 19h30 Paris
+  # Manuel : pour forcer un type / thème précis quand tu veux.
   workflow_dispatch:
     inputs:
       type:
         description: "Type de cartes"
         type: choice
-        required: true
+        required: false
         options: [mandarin, finance, dec]
       topic:
         description: "Thème (ex: vocabulaire de la banque, IFRS 15, NEP 240)"
         type: string
-        required: true
+        required: false
       count:
         description: "Nombre de cartes"
         type: string
@@ -49,7 +55,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Rien de neuf."
           else
-            git commit -m "content: ${{ inputs.type }} — ${{ inputs.topic }}"
+            git commit -m "content: cartes IA $(date -u +%Y-%m-%d)"
             git pull --rebase origin main
             git push
           fi

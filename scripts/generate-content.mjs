@@ -14,11 +14,52 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 const ENDPOINT = "https://models.github.ai/inference/chat/completions";
 const MODEL = "openai/gpt-4o-mini";
 
-const TYPE = process.env.TYPE || "mandarin";
-const TOPIC = process.env.TOPIC || "notions générales";
-const COUNT = parseInt(process.env.COUNT || "10", 10);
+// Mode auto : quand le workflow tourne sur planning (cron), aucun input n'est
+// fourni → on choisit un type et un thème par rotation, pour un enrichissement
+// varié sans intervention. Le matin = mandarin, midi = finance, soir = DEC ;
+// le thème avance chaque jour dans un pool dédié.
+const AUTO_TOPICS = {
+  mandarin: [
+    "la vie quotidienne", "les affaires et le commerce", "l'économie et la finance",
+    "voyager en Chine", "la technologie et internet", "les médias et l'actualité",
+    "la nourriture et les restaurants", "le travail et l'entreprise",
+    "les émotions et les opinions", "la politique et la société",
+  ],
+  finance: [
+    "l'analyse financière", "les marchés de capitaux", "la comptabilité approfondie",
+    "l'évaluation d'entreprise", "la gestion des risques", "les normes IFRS",
+    "la finance d'entreprise", "les produits dérivés",
+    "la trésorerie et le financement", "la fiscalité des entreprises",
+  ],
+  dec: [
+    "les normes d'audit NEP", "le contrôle interne",
+    "la déontologie du commissaire aux comptes", "l'audit des comptes consolidés",
+    "le droit des sociétés", "les procédures d'audit",
+    "la révélation des faits délictueux", "l'évaluation des risques d'audit",
+    "les rapports du commissaire aux comptes", "le commissariat aux apports",
+  ],
+};
+const TYPES = ["mandarin", "finance", "dec"];
+
+function autoPick() {
+  const now = new Date();
+  const dayOfYear = Math.floor((now - new Date(now.getUTCFullYear(), 0, 0)) / 864e5);
+  const h = now.getUTCHours();
+  const hourSlot = h < 9 ? 0 : h < 15 ? 1 : 2;   // matin / midi / soir
+  const slot = dayOfYear * 3 + hourSlot;
+  const type = TYPES[hourSlot % TYPES.length];
+  const pool = AUTO_TOPICS[type];
+  return { type, topic: pool[slot % pool.length] };
+}
+
+const AUTO = !process.env.TYPE;
+const picked = AUTO ? autoPick() : {};
+const TYPE = process.env.TYPE || picked.type;
+const TOPIC = process.env.TOPIC || picked.topic || "notions générales";
+const COUNT = parseInt(process.env.COUNT, 10) || (AUTO ? 6 : 10);
 const TOKEN = process.env.GITHUB_TOKEN;
 
+if (AUTO) console.log(`🔁 Mode auto → ${TYPE} / « ${TOPIC} » (${COUNT} cartes)`);
 if (!TOKEN) { console.error("GITHUB_TOKEN manquant."); process.exit(1); }
 
 const SCHEMAS = {
