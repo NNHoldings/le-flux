@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "L'IA transforme divers secteurs, de la santé à la finance, redéfinissant nos sociétés.",
-      "L'Inde navigue habilement les retombées économiques de la crise du Golfe avec des stratégies efficaces.",
-      "Les ventes en direct sur internet révolutionnent le commerce traditionnel, offrant de nouvelles opportunités."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
     "title": "Conjuguer performance et impact, une nouvelle vision de l’investissement",
     "summary": "Marie Ekeland et Edouard de Saint Pierre défendent une autre vision de la finance.",
     "source": "Le Figaro Éco",
@@ -26,6 +14,54 @@
     "source": "Le Figaro Éco",
     "link": "https://www.lefigaro.fr/services/l-ia-moteur-de-transformation-globale-la-vision-de-gilles-babinet-20250925",
     "date": "Mon, 01 Dec 2025 14:29:28 +0100"
+  },
+  {
+    "type": "news",
+    "title": "Projet de loi d’urgence agricole : le durcissement par le Sénat des articles sur l’eau place le gouvernement dans l’embarras",
+    "summary": "Le texte, voté vendredi 3 juillet par les sénateurs, entend réautoriser sous condition l’usage de l’acétamipride et renforcer le poids du secteur agricole dans la gouvernance de l’eau. Les discussions en vue de la commission mixte paritair…",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/03/projet-de-loi-d-urgence-agricole-le-durcissement-par-le-senat-des-articles-sur-l-eau-place-le-gouvernement-dans-l-embarras_6720481_3244.html",
+    "date": "Fri, 03 Jul 2026 20:01:47 +0200"
+  },
+  {
+    "type": "news",
+    "title": "Pourquoi le jeu vidéo sur disque va bientôt tirer sa révérence",
+    "summary": "L’arrêt du support physique pour les jeux Playstation en janvier 2028, annoncé mercredi, est le dernier épisode d’une tendance lourde du secteur : la consécration du jeu vidéo comme un service et non plus comme un produit fini, et la dépen…",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/03/pourquoi-le-jeu-video-sur-disque-va-bientot-tirer-sa-reverence_6720478_4408996.html",
+    "date": "Fri, 03 Jul 2026 20:00:12 +0200"
+  },
+  {
+    "type": "news",
+    "title": "Canicule : \"Jusqu'à 200 000 climatiseurs\" vendus par Carrefour cette semaine, selon son PDG Alexandre Bompard",
+    "summary": "Alexandre Bompard, le PDG du groupe Carrefour, était l'invité de franceinfo vendredi 3 juillet 2026.",
+    "source": "France Info Éco",
+    "link": "https://www.franceinfo.fr/replay-radio/l-interview-eco/canicule-jusqu-a-200-000-climatiseurs-vendus-par-carrefour-cette-semaine-selon-son-pdg-alexandre-bompard_8061659.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "Fri, 03 Jul 2026 19:21:33 +0200"
+  },
+  {
+    "type": "news",
+    "title": "«On va vous dénicher quelque chose» : Sabrina Roubache, une ministre en mission pour les alternants",
+    "summary": "PORTRAIT - Sous la double tutelle des ministres du Travail et de l’Enseignement, l’élue marseillaise défend mordicus l’action (et les coups de rabots) du gouvernement sur la formation en apprentissage.",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/economie/on-va-vous-denicher-quelque-chose-sabrina-roubache-une-ministre-en-mission-pour-les-alternants-20260703",
+    "date": "Fri, 03 Jul 2026 19:00:00 +0200"
+  },
+  {
+    "type": "news",
+    "title": "Croissance, accord commercial, consommation... Comment l’Inde a géré les retombées économiques de la crise du Golfe",
+    "summary": "ENTRETIEN - En visite en France, Nirmala Sitharaman, la ministre des Finances, justifie les restrictions sur les voyages ou les achats d’or annoncées en mai par le premier ministre Modi. Elle évoque le défi de l’emploi des jeunes à un mome…",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/conjoncture/croissance-accord-commercial-consommation-comment-l-inde-a-gere-les-retombees-economiques-de-la-crise-du-golfe-20260703",
+    "date": "Fri, 03 Jul 2026 18:53:34 +0200"
+  },
+  {
+    "type": "news",
+    "title": "«On vient casser un dispositif qui fonctionnait» : les employeurs contraints de serrer la vis sur l’apprentissage",
+    "summary": "DÉCRYPTAGE - Face à la baisse des aides à l’embauche d’apprentis, nombre d’entreprises reportent leur recrutement, au grand désarroi des étudiants.",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/economie/on-vient-casser-un-dispositif-qui-fonctionnait-les-employeurs-contraints-de-serrer-la-vis-sur-l-apprentissage-20260703",
+    "date": "Fri, 03 Jul 2026 18:45:00 +0200"
   },
   {
     "type": "news",
@@ -45,11 +81,67 @@
   },
   {
     "type": "news",
-    "title": "Croissance, accord commercial, consommation... Comment l’Inde a géré les retombées économiques de la crise du Golfe",
-    "summary": "ENTRETIEN - En visite en France, Nirmala Sitharaman, la ministre des Finances, justifie les restrictions sur les voyages ou les achats d’or annoncées en mai par le premier ministre Modi. Elle évoque le défi de l’emploi des jeunes à un mome…",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/croissance-accord-commercial-consommation-comment-l-inde-a-gere-les-retombees-economiques-de-la-crise-du-golfe-20260703",
-    "date": "Fri, 03 Jul 2026 17:45:04 +0200"
+    "title": "L'IA au coeur des enjeux géopolitiques",
+    "summary": "Aymeric Renaud explique que la France, grâce à son mix energétique, à ses formations d'ingénieurs et à ses acteurs dans l'IA, a les moyens de rattraper son retard et de rester compétitive dans le domaine de l'intelligence artifcielle.",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/video-l-ia-au-coeur-des-enjeux-geopolitiques_VN-202607030846.html",
+    "date": "Fri, 03 Jul 2026 18:01:59 GM"
+  },
+  {
+    "type": "news",
+    "title": "Les experts sans frontières - Vendredi 3 juillet",
+    "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf,…",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-3-juillet_VN-202607030843.html",
+    "date": "Fri, 03 Jul 2026 17:43:04 GM"
+  },
+  {
+    "type": "news",
+    "title": "Les experts sans frontières – Vendredi 3 juillet",
+    "summary": "« Les Experts sans frontières », c’est le rendez-vous qui nous fait sortir de notre bulle. Chaque vendredi de 18h à 19h sur BFM Business, des experts étrangers installés en France analysent les grands débats de la semaine avec un œil neuf,…",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-3-juillet_EN-202607030837.html",
+    "date": "Fri, 03 Jul 2026 17:42:48 GM"
+  },
+  {
+    "type": "news",
+    "title": "DIRECT. \"La prochaine catastrophe, ce sera la catastrophe financière et on y va tout droit\": Bruno Retailleau lance une alerte aux Rencontres économiques d'Aix",
+    "summary": "Les 26e Rencontres économiques d'Aix-en-Provence, rendez-vous annuel réunissant le gratin du domaine, se tiennent du 2 au 4 juillet. Une édition marquée par un programme très politique, à quelques mois de la prochaine élection présidentiel…",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/entreprises/direct-rencontres-economiques-d-aix-suivez-notre-edition-speciale-roland-lescure-attendu-sur-place-aujourd-hui_LN-202607030151.html",
+    "date": "Fri, 03 Jul 2026 17:37:22 GM"
+  },
+  {
+    "type": "news",
+    "title": "Le président de Schneider electric est sur BFM Business",
+    "summary": "Aymeric Renaud explique le partenariat entre Schneider electric et Softbank. Il explique que le volume des datacenters construit dans ce projet est d'une ampleur historique",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/video-le-president-de-schneider-electric-est-sur-bfm-business_VN-202607030830.html",
+    "date": "Fri, 03 Jul 2026 17:30:13 GM"
+  },
+  {
+    "type": "news",
+    "title": "BFM Bourse : 16h/17h – 03/07",
+    "summary": "Ce vendredi 3 juillet, Antoine Larigaudrie, journaliste BFM Business, Thierry Gautier, directeur général de GSD Gestion, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, Elodie Rouault, associée chez Althos, Stéphane Hou…",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-16h-17h-03-07_EN-202607030825.html",
+    "date": "Fri, 03 Jul 2026 17:24:58 GM"
+  },
+  {
+    "type": "news",
+    "title": "Comment se préparer face aux ingérences russes ?",
+    "summary": "Yael Braun-Pivet est bien consciente des possibles attaques de puissances étrangères contre la démocratie française en période électorale. Elle souligne que l'intelligence artificielle peut être un outil face à ces enjeux",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/video-comment-se-preparer-face-aux-ingerences-russes_VN-202607030820.html",
+    "date": "Fri, 03 Jul 2026 17:16:35 GM"
+  },
+  {
+    "type": "news",
+    "title": "\"On doit être pour l'Europe, c'est la bonne échelle\"",
+    "summary": "Yael Braun-Pivet rappelle que l'Europe est la bonne échelle pour répondre aux défis de l'époque, mais qu'il y a des choses à réformer pour qu'elle fonctionne mieux",
+    "source": "BFM Éco",
+    "link": "https://www.bfmtv.com/economie/video-on-doit-etre-pour-l-europe-c-est-la-bonne-echelle_VN-202607030817.html",
+    "date": "Fri, 03 Jul 2026 17:14:10 GM"
   },
   {
     "type": "news",
@@ -85,7 +177,7 @@
   },
   {
     "type": "news",
-    "title": "Spectacle vivant : 28 structures culturelles frappées par des baisses de subvention",
+    "title": "Spectacle vivant : 28 structures culturelles menacées par des baisses de subvention",
     "summary": "A la veille de l’ouverture du Festival d’Avignon, le Syndicat national des entreprises artistiques et culturelles s’alarme, dans un courrier envoyé à Emmanuel Macron et à différents ministres, d’une situation d’extrême urgence.",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/culture/article/2026/07/03/spectacle-vivant-vingt-huit-structures-culturelles-frappees-par-des-baisses-de-subvention_6720441_3246.html",
@@ -146,14 +238,6 @@
     "source": "BFM Éco",
     "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-10-au-cours-des-40-dernieres-annees-si-vous-avez-investi-1-eur-uniquement-sur-les-points-hauts-de-l-indice-d-actions-americain-s-p-500-votre-taux-de-rendement-interne-tri-serait-de-10-03-07_VN-202607030771.html",
     "date": "Fri, 03 Jul 2026 16:15:51 GM"
-  },
-  {
-    "type": "news",
-    "title": "DIRECT. \"La prochaine catastrophe, ce sera la catastrophe financière et on y va tout droit\": Bruno Retailleau lance une alerte aux Rencontres économiques d'Aix",
-    "summary": "Les 26e Rencontres économiques d'Aix-en-Provence, rendez-vous annuel réunissant le gratin du domaine, se tiennent du 2 au 4 juillet. Une édition marquée par un programme très politique, à quelques mois de la prochaine élection présidentiel…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/entreprises/direct-rencontres-economiques-d-aix-suivez-notre-edition-speciale-roland-lescure-attendu-sur-place-aujourd-hui_LN-202607030151.html",
-    "date": "Fri, 03 Jul 2026 16:11:49 GM"
   },
   {
     "type": "news",
@@ -274,101 +358,5 @@
     "source": "BFM Éco",
     "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-investir-dans-la-tech-autrement-03-07_VN-202607030706.html",
     "date": "Fri, 03 Jul 2026 14:48:02 GM"
-  },
-  {
-    "type": "news",
-    "title": "L'éco du monde : L'emploi US de juin change-t-il la donne pour la FED ? – 03/07",
-    "summary": "Ce vendredi 3 juillet, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé les chiffres décevants du rapport sur l'emploi américain pouvant pousser la FED à ne pas relever ses taux, ainsi que ce Kevin Warsh afficha…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-l-emploi-us-de-juin-change-t-il-la-donne-pour-la-fed-03-07_EN-202607030704.html",
-    "date": "Fri, 03 Jul 2026 14:45:02 GM"
-  },
-  {
-    "type": "news",
-    "title": "L'éco du monde : L'emploi US de juin change-t-il la donne pour la FED ? - 03/07",
-    "summary": "Ce vendredi 3 juillet, Florian Ielpo, en charge de la macroéconomie chez Lombard Odier IM, a abordé les chiffres décevants du rapport sur l'emploi américain pouvant pousser la FED à ne pas relever ses taux, ainsi que ce Kevin Warsh afficha…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-l-emploi-us-de-juin-change-t-il-la-donne-pour-la-fed-03-07_VN-202607030703.html",
-    "date": "Fri, 03 Jul 2026 14:43:24 GM"
-  },
-  {
-    "type": "news",
-    "title": "Plus de 70.000 fin mai sur les 12 derniers mois: les défaillances d'entreprises en légère baisse mais encore à un niveau \"élevé\"",
-    "summary": "La Banque de France a recensé plus de 70.000 défaillances d'entreprises en 12 mois à la fin mai, un chiffre en légère baisse mais qui reste à un niveau \"élevé\", notamment à cause d'une \"conjoncture dégradée\" avec \"des chocs successifs et l…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/entreprises/plus-de-70-000-fin-mai-sur-les-12-derniers-mois-les-defaillances-d-entreprises-en-legere-baisse-mais-encore-a-un-niveau-eleve_AD-202607030698.html",
-    "date": "Fri, 03 Jul 2026 14:34:51 GM"
-  },
-  {
-    "type": "news",
-    "title": "Ça \"facilite un peu la tâche\": le gouverneur de la Banque de France est très satisfait du reflux de l'inflation et envisage même un \"scénario positif\" pour la croissance française",
-    "summary": "Face à la crainte d'une hausse généralisée des prix en Europe, le gouverneur de la Banque de France, Emmanuel Moulin, se félicite de la baisse des prix de l'énergie qui \"facilite un peu la tâche\".",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/entreprises/energie/ca-facilite-un-peu-la-tache-le-gouverneur-de-la-banque-de-france-est-tres-satisfait-du-reflux-de-l-inflation-et-envisage-meme-un-scenario-positif-pour-la-croissance-francaise_AD-202607030697.html",
-    "date": "Fri, 03 Jul 2026 14:34:07 GM"
-  },
-  {
-    "type": "news",
-    "title": "Luxe : HSBC attend un deuxième trimestre atone pour le secteur – 03/07",
-    "summary": "Ce vendredi 3 juillet, Thierry Gautier, directeur général de GSD Gestion, s'est penché sur la note de HSBC disant que les publications des résultats du deuxième trimestre risquent d'être assez ternes pour le segment du luxe européen, les r…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/luxe-hsbc-attend-un-deuxieme-trimestre-atone-pour-le-secteur-03-07_EN-202607030695.html",
-    "date": "Fri, 03 Jul 2026 14:27:42 GM"
-  },
-  {
-    "type": "news",
-    "title": "Luxe : HSBC attend un deuxième trimestre atone pour le secteur - 03/07",
-    "summary": "Ce vendredi 3 juillet, Thierry Gautier, directeur général de GSD Gestion, s'est penché sur la note de HSBC disant que les publications des résultats du deuxième trimestre risquent d'être assez ternes pour le segment du luxe européen, les r…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-luxe-hsbc-attend-un-deuxieme-trimestre-atone-pour-le-secteur-03-07_VN-202607030696.html",
-    "date": "Fri, 03 Jul 2026 14:27:33 GM"
-  },
-  {
-    "type": "news",
-    "title": "L’État réquisitionne-t-il vraiment les stocks de climatiseurs pour équiper les hôpitaux ?",
-    "summary": "Alors que la France s’apprête à basculer dans un nouvel épisode de fortes chaleurs, le gouvernement a validé l’achat de 30.000 appareils d’appoint pour les hôpitaux. Sur les réseaux sociaux, certains accusent l’État de vider les stocks déj…",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/l-etat-requisitionne-t-il-vraiment-les-stocks-de-climatiseurs-pour-equiper-les-hopitaux-20260703",
-    "date": "Fri, 03 Jul 2026 14:27:02 +0200"
-  },
-  {
-    "type": "news",
-    "title": "\"Dites-nous ce dont vous rêvez\": le ministre de l'Economie accueille \"positivement\" les 100 milliards d'euros d'économie du Medef (hausse de la TVA, retraite à 65 ans, moins de fonctionnaires...)",
-    "summary": "Le Medef, première organisation patronale représentative, a listé une cinquantaine de mesures pour économiser 100 milliards d'euros d'ici la fin de la décennie. Cela permettrait de porter le déficit public à 4,2% du PIB contre les 5% visés…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/dites-nous-ce-dont-vous-revez-le-ministre-de-l-economie-accueille-positivement-les-100-milliards-d-euros-d-economie-du-medef-hausse-de-la-tva-retraite-a-65-ans-moins-de-fonctionnaires_AD-202607030692.html",
-    "date": "Fri, 03 Jul 2026 14:21:18 GM"
-  },
-  {
-    "type": "news",
-    "title": "Culture ETF : « Bilan semestriel et perspectives stratégiques sur le marché des ETF », par Julie Cohen-Heurton – 03/07",
-    "summary": "Ce vendredi 3 juillet, Olivier Malteste, directeur des Investissements de Althéis by Yomoni, s'est penché sur le bilan semestriel des ETF et les perspectives stratégiques sur le marché, dans la chronique Culture ETF présentée par Julie Coh…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-etf-bilan-semestriel-et-perspectives-strategiques-sur-le-marche-des-etf-par-julie-cohen-heurton-03-07_EN-202607030690.html",
-    "date": "Fri, 03 Jul 2026 14:15:02 GM"
-  },
-  {
-    "type": "news",
-    "title": "BFM Bourse : 15h/16h – 03/07",
-    "summary": "Ce vendredi 3 juillet, Antoine Larigaudrie, journaliste BFM Business, Karen Georges, gérante actions, spécialiste des actions US chez Ecofi, Gabriel Karaboulad, directeur adjoint des investissements de Neuflize OBC, Julie Cohen-Heurton, jo…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-15h-16h-03-07_EN-202607030689.html",
-    "date": "Fri, 03 Jul 2026 14:14:24 GM"
-  },
-  {
-    "type": "news",
-    "title": "Culture ETF : « Bilan semestriel et perspectives stratégiques sur le marché des ETF », par Julie Cohen-Heurton - 03/07",
-    "summary": "Ce vendredi 3 juillet, Olivier Malteste, directeur des Investissements de Althéis by Yomoni, s'est penché sur le bilan semestriel des ETF et les perspectives stratégiques sur le marché, dans la chronique Culture ETF présentée par Julie Coh…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-culture-etf-bilan-semestriel-et-perspectives-strategiques-sur-le-marche-des-etf-par-julie-cohen-heurton-03-07_VN-202607030688.html",
-    "date": "Fri, 03 Jul 2026 14:09:25 GM"
-  },
-  {
-    "type": "news",
-    "title": "Gabriel Karaboulad : \"Le grand guignol des projets franco-allemands de Défense, stop ou encore ?\"",
-    "summary": "Ce vendredi 3 juillet, Gabriel Karaboulad, directeur adjoint des investissements de Neuflize OBC, s'est penché sur les faux-semblants des projets franco-allemands dans le secteur de la défense et la pesée des déceptions sur les contrats, l…",
-    "source": "BFM Éco",
-    "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/gabriel-karaboulad-le-grand-guignol-des-projets-franco-allemands-de-defense-stop-ou-encore_EN-202607030687.html",
-    "date": "Fri, 03 Jul 2026 14:06:14 GM"
   }
 ]
