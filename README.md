@@ -37,11 +37,20 @@ et fonctionne hors-ligne. (L'installation ne marche que depuis Safari sur iOS.)
 « Mise à jour des actus » → Run workflow*. Édite la liste des flux RSS dans
 [`scripts/fetch-news.mjs`](scripts/fetch-news.mjs).
 
-**Cartes IA (mandarin / finance / DEC)** — quand tu veux enrichir :
-onglet *Actions → « Générer des cartes (IA) » → Run workflow*, choisis le type,
-le thème (ex. `IFRS 15`, `vocabulaire de la banque`, `NEP 240`) et le nombre.
+**Cartes IA (mandarin / finance / DEC)** — **automatique 3×/jour** aussi
+(07h30 / 13h30 / 19h30 Paris) : matin = mandarin, midi = finance, soir = DEC,
+avec un thème qui tourne chaque jour. Aucune action requise.
+Pour forcer un type / thème précis : onglet *Actions → « Générer des cartes (IA) »
+→ Run workflow*, choisis le type, le thème (ex. `IFRS 15`, `NEP 240`) et le nombre.
 Les cartes sont ajoutées au JSON correspondant et committées automatiquement.
 Tu peux aussi déclencher tout ça depuis l'app **GitHub** sur ton iPhone.
+
+**Sources d'actus** — 16 flux diversifiés, français ET anglais : éco (Le Monde,
+Le Figaro, France Info), géopolitique/monde (Le Monde Intl, RFI, Courrier Intl,
+BBC World, Al Jazeera, NPR, DW, Politico EU), finance/marchés (BBC Business,
+The Economist, CNBC), tech (Hacker News, MIT Tech Review). Un round-robin garantit
+que chaque source apparaît dans le flux. Édite la liste dans
+[`scripts/fetch-news.mjs`](scripts/fetch-news.mjs) → `FEEDS`.
 
 ---
 
