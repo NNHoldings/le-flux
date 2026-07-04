@@ -1,4 +1,42 @@
 [
-  { "type": "finance", "term": "Coût moyen pondéré du capital (WACC)", "explanation": "Taux de rendement minimal qu'un projet doit générer pour satisfaire à la fois les créanciers et les actionnaires. Il pondère le coût de la dette (après impôt) et le coût des fonds propres par leur poids respectif dans la structure de financement." },
-  { "type": "finance", "term": "Effet de levier (LBO)", "explanation": "Utiliser de la dette pour financer une acquisition afin d'amplifier le rendement des fonds propres. Le levier accroît le rendement potentiel mais aussi le risque : les flux de trésorerie de la cible doivent couvrir le service de la dette." }
+  {
+    "type": "finance",
+    "term": "Analyse financière",
+    "explanation": "L'analyse financière est un processus d'évaluation de la santé financière d'une entreprise à l'aide de ses états financiers. Elle permet d'identifier les forces et les faiblesses, d'évaluer la rentabilité et la solvabilité, et d'aider à la prise de décisions stratégiques."
+  },
+  {
+    "type": "finance",
+    "term": "Budget prévisionnel",
+    "explanation": "Le budget prévisionnel est un plan financier qui détaille les revenus et dépenses anticipés d'une entreprise sur une période donnée. Il sert à définir des objectifs financiers, à allouer des ressources et à contrôler les performances."
+  },
+  {
+    "type": "finance",
+    "term": "Financement par emprunt",
+    "explanation": "Le financement par emprunt consiste à lever des fonds en contractant des dettes, généralement sous forme de prêts bancaires ou d'obligations. Cela permet à l'entreprise de financer ses projets sans diluer la propriété, mais engendre des obligations de remboursement."
+  },
+  {
+    "type": "finance",
+    "term": "Coût du capital",
+    "explanation": "Le coût du capital représente le taux de rendement exigé par les investisseurs pour financer une entreprise. Il est essentiel pour évaluer la rentabilité des projets d'investissement et pour prendre des décisions financières."
+  },
+  {
+    "type": "finance",
+    "term": "Analyse des flux de trésorerie",
+    "explanation": "L'analyse des flux de trésorerie examine les entrées et sorties de liquidités d'une entreprise sur une période. Elle est cruciale pour comprendre la capacité d'une entreprise à générer des liquidités pour ses opérations, ses investissements et le remboursement de ses dettes."
+  },
+  {
+    "type": "finance",
+    "term": "Ratios financiers",
+    "explanation": "Les ratios financiers sont des indicateurs utilisés pour évaluer la performance et la santé financière d'une entreprise. Ils facilitent la comparaison entre différentes entreprises et permettent d'identifier des tendances au fil du temps."
+  },
+  {
+    "type": "finance",
+    "term": "Coût moyen pondéré du capital (WACC)",
+    "explanation": "Taux de rendement minimal qu'un projet doit générer pour satisfaire à la fois les créanciers et les actionnaires. Il pondère le coût de la dette (après impôt) et le coût des fonds propres par leur poids respectif dans la structure de financement."
+  },
+  {
+    "type": "finance",
+    "term": "Effet de levier (LBO)",
+    "explanation": "Utiliser de la dette pour financer une acquisition afin d'amplifier le rendement des fonds propres. Le levier accroît le rendement potentiel mais aussi le risque : les flux de trésorerie de la cible doivent couvrir le service de la dette."
+  }
 ]
