@@ -1,34 +1,46 @@
 [
   {
     "type": "news",
-    "title": "« Après le conflit au Moyen-Orient, l’aluminium va revenir très vite au premier plan des préoccupations »",
-    "summary": "Avec l’annonce de discussions sur un accord de trêve entre les Etats-Unis et l’Iran et le début d’une réouverture du détroit d’Ormuz, le prix du métal aux multiples usages industriels se replie, analyse Laurence Girard, journaliste au serv…",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "L'IA dynamise les usines dans le sud de la Chine.",
+      "Bernard Arnault fait face à un redressement fiscal de 22,5 millions d'euros.",
+      "Les tensions au Mali s'intensifient avec les offensives des djihadistes contre la junte."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Dans le sud de la Chine, l’IA donne un coup de fouet aux usines",
+    "summary": "Dans le delta de la rivière des Perles, l’écosystème industriel mise sur l’intelligence artificielle mêlée à l’automatisation pour assurer l’avenir de sa base manufacturière, menacée par le déclin démographique.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/04/apres-le-conflit-au-moyen-orient-l-aluminium-va-revenir-tres-vite-au-premier-plan-des-preoccupations_6720637_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/04/dans-le-sud-de-la-chine-l-ia-donne-un-coup-de-fouet-aux-usines_6720672_3234.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "La France peut-elle espérer un rebond industriel ?",
-    "summary": "Tous les samedis, deux économistes débattent des sujets qui marquent l'actualité économique et sociale.",
+    "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d'euros",
+    "summary": "Le patron de LVMH a déposé un recours devant le Conseil d'Etat",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/la-france-peut-elle-esperer-un-rebond-industriel_8061536.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/economie/entreprises/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_8094110.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Histoires d’amour, d’amitié, de vies transformées... Comment, en 20 ans, Leboncoin est devenu bien plus qu’un simple site de revente",
-    "summary": "TÉMOIGNAGES - Depuis sa création en 2006, la plateforme de seconde main a permis à des millions de Français de revendre leurs objets. Mais elle a aussi été le théâtre d’histoires plus personnelles... et inattendues.",
+    "title": "«Il faudrait enfermer les candidats à la présidentielle jusqu’à ce qu’ils se mettent d’accord» : à Aix, les patrons se désespèrent des désunions du bloc central",
+    "summary": "RÉCIT - À neuf mois de l’élection, les Rencontres économiques d’Aix-en-Provence ont rassemblé le monde des affaires parisien, douze ministres et de nombreux présidentiables... Ni LFI, ni le RN n’étaient invités.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/histoires-d-amour-d-amitie-de-vies-transformees-comment-en-20-ans-leboncoin-est-devenu-bien-plus-qu-un-simple-site-de-revente-20260704",
+    "link": "https://www.lefigaro.fr/conjoncture/il-faudrait-enfermer-les-candidats-a-la-presidentielle-jusqu-a-ce-qu-ils-se-mettent-d-accord-a-aix-les-patrons-se-desesperent-des-desunions-du-bloc-central-20260704",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "En images, les funérailles du Guide suprême iranien Ali Khamenei",
-    "summary": "L’hommage public à l’ayatollah a commencé officiellement, samedi à Téhéran, où des milliers de fidèles ont afflué sur la Grande Mosalla.",
+    "title": "Au Mali, les djihadistes et les indépendantistes relancent leur offensive contre la junte et ses alliés russes",
+    "summary": "Plusieurs villes, dont Anéfis, nœud stratégique du nord du pays, ont été attaquées simultanément, samedi. A la fin du mois d’avril, le GSIM, branche sahélienne d’Al-Qaida, et le FLA avaient déjà mené des assauts simultanés, jusqu’à Bamako.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/video/2026/07/04/en-images-les-funerailles-du-guide-supreme-iranien-ali-khamenei_6720660_3210.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/04/au-mali-les-djihadistes-et-les-independantistes-relancent-leur-offensive-contre-la-junte-et-ses-allies-russes_6720694_3212.html",
     "date": "2026-07-04"
   },
   {
@@ -41,50 +53,50 @@
   },
   {
     "type": "news",
-    "title": "“C’est ainsi que ce sport se vit” : le Mexique, cœur battant de la Coupe du monde 2026",
-    "summary": "Le Mexique accueille l’Angleterre en huitième de finale de la Coupe du monde 2026. Il s’agit du dernier match de la compétition sur le sol mexicain. Médias et autorités esquissent un premier bilan, entre fort enthousiasme populaire, retomb…",
+    "title": "Olise et Mbappé, le duo qui fait de l’équipe de France un “grand orchestre”",
+    "summary": "Les deux Bleus forment une doublette très prolifique lors de ce Mondial en Amérique. La symphonie créée par leur entente sur le terrain fait trembler la presse étrangère à l’aube du huitième de finale de la France contre le Paraguay, samed…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/football-c-est-ainsi-que-ce-sport-se-vit-le-mexique-c-ur-battant-de-la-coupe-du-monde-2026_246348",
+    "link": "https://www.courrierinternational.com/article/coupe-du-monde-olise-et-mbappe-le-duo-qui-fait-de-l-equipe-de-france-un-grand-orchestre_246215",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-    "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
+    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
-    "summary": "The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.",
+    "title": "Police clash with protesters outside AfD meeting",
+    "summary": "German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-    "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
+    "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+    "summary": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
+    "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
-    "summary": "To facilitate the deportation of criminals to Afghanistan, the German government is allowing Taliban diplomats into the country.",
+    "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+    "summary": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Thousands of protesters in Germany rally against far-right AfD",
-    "summary": "The demonstrations did not stop the party's annual congress in Erfurt from starting on time.",
+    "title": "Will America Survive Another 250 Years? We Asked 11 Historians.",
+    "summary": "Experts on U.S. history look to the past — and the future.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/thousands-of-protesters-in-germany-rally-against-far-right-afd/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/magazine/2026/07/04/america-250-round-up-00981023?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-04"
   },
   {
@@ -113,50 +125,50 @@
   },
   {
     "type": "news",
-    "title": "Astrophysicists Puzzle over Webb's New Universe",
-    "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/ Comments URL: https://news.ycombinator.com/item?id=48783948 Points: 43 # Comments: 13",
+    "title": "Finland's last analogue landline phones go silent after 150 years",
+    "summary": "Article URL: https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years Comments URL: https://news.ycombinator.com/item?id=48786868 Points: 15 # Comments: 0",
     "source": "Hacker News",
-    "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+    "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
     "date": "2026-07-04"
   },
   {
     "type": "news",
     "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to se…",
+    "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to se…",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Non-revalorisation de l’assurance-chômage : pour le patronat, « le responsable, c’est le gouvernement »",
-    "summary": "Le conseil d’administration de l’Unédic n’est pas parvenu à dégager une majorité, mardi 30 juin, pour revaloriser les allocations chômage malgré un contexte inflationniste.",
+    "title": "« La rigueur budgétaire ne réduit pas durablement le taux d’endettement public »",
+    "summary": "Seule une inflation élevée non compensée par les taux d’intérêt permettrait de réduire la dette, mais au prix d’un coût politique important pour les épargnants, observe l’économiste Patrick Artus, dans sa chronique au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/politique/article/2026/07/04/non-revalorisation-de-l-assurance-chomage-pour-le-patronat-le-responsable-c-est-le-gouvernement_6720634_823448.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/04/la-rigueur-budgetaire-ne-reduit-pas-durablement-le-taux-d-endettement-public_6720669_3232.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Les patrons qui refusent le télétravail sont-ils narcissiques ?",
-    "summary": "Pourquoi certaines entreprises suppriment-elles le télétravail ? Pourquoi imposent-elles à leurs salariés de revenir tous les jours au bureau ? Une étude américaine montre que certains traits de caractère chez un dirigeant sont propices à…",
+    "title": "Immobilier, architecture, urbanisme : quelques conseils de lecture",
+    "summary": "En cette période estivale et à l'approche des vacances d'été, voici une sélection de livres relatifs à l’immobilier, l'architecture et l'urbanisme.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-patrons-qui-refusent-le-teletravail-sont-ils-narcissiques_8061428.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/replay-radio/info-immobilier/immobilier-architecture-urbanisme-quelques-conseils-de-lecture_8079761.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Carburants: Patrick Pouyanné annonce que TotalEnergies prévoit de maintenir le plafonnement des prix dans les stations-service rurales",
-    "summary": "Le patron de TotalEnergies estime que les prix à la pompe mettront plusieurs mois à baisser en raison des tensions persistantes dans les capacités de raffinerie.",
+    "title": "Coupe du monde : plusieurs stations de métro fermées ce samedi, à quelques heures du match de la France",
+    "summary": "La préfecture de police de Paris vient de publier un arrêté, alors qu’il existe «un risque sérieux» que des supporters se rassemblent dans les secteurs des Champs-Élysées et Trocadéro.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/carburants-patrick-pouyanne-annonce-que-totalenergies-prevoit-de-maintenir-le-plafonnement-des-prix-dans-les-stations-service-rurales-20260623",
-    "date": "2026-06-24"
+    "link": "https://www.lefigaro.fr/conjoncture/coupe-du-monde-plusieurs-stations-de-metro-fermees-ce-samedi-a-quelques-heures-du-match-de-la-france-20260704",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "La Chine critiquée à l’étranger après l’entrée en vigueur d’une loi sur la « sinisation » des minorités ethniques",
-    "summary": "Le texte donne la primauté au mandarin et prévoit des poursuites, y compris à l’étranger, contre quiconque porterait atteinte à l’« unité ethnique » de la Chine. L’UE et l’ONU dénoncent une loi aux répercussions extraterritoriales, tandis…",
+    "title": "Ken Burns, documentariste américain : « Parmi les perdants de la révolution américaine, il faudrait compter les Français »",
+    "summary": "Figure respectée pour des films d’anthologie sur la guerre de Sécession ou du Vietnam, le cinéaste déboulonne les mythes de la révolution américaine et insiste, dans un entretien au « Monde », sur la violence qui a marqué cette période. Bo…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/04/la-chine-critiquee-a-l-etranger-apres-l-entree-en-vigueur-d-une-loi-sur-la-sinisation-des-minorites-ethniques_6720655_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/04/ken-burns-documentariste-americain-parmi-les-perdants-de-la-revolution-americaine-il-faudrait-compter-les-francais_6720693_3232.html",
     "date": "2026-07-04"
   },
   {
@@ -169,50 +181,50 @@
   },
   {
     "type": "news",
-    "title": "En Afrique, Russie et Ukraine s’affrontent aussi sur le marché des drones",
-    "summary": "L’industrie ukrainienne de fabrication de drones est en pleine expansion. Si la Russie demeure l’un des principaux fournisseurs d’armes à l’Afrique, Kiev s’impose désormais comme un concurrent sérieux. Les liens entre l’Ukraine et les pays…",
+    "title": "À Lampedusa, le pape Léon XIV appelle l’UE à “protéger et à intégrer les migrants”",
+    "summary": "En visite, samedi 4 juillet, sur l’île italienne de Lampedusa, symbole du drame des traversées mortelles de la Méditerranée, le pape Léon XIV a exhorté l’Europe à davantage protéger les migrants. Un appel qui intervient alors que l’Union e…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/analyse-en-afrique-russie-et-ukraine-s-affrontent-aussi-sur-le-marche-des-drones_245919",
+    "link": "https://www.courrierinternational.com/article/religion-a-lampedusa-leon-xiv-appelle-l-ue-a-proteger-et-a-integrer-les-migrants_246645",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+    "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Thousands protest in Germany as far-right AfD party meets",
-    "summary": "Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.",
+    "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
+    "summary": "As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-    "summary": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+    "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+    "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Pope Leo calls on Europe to do more for migrants",
-    "summary": "The pontiff's trip to the migration frontline of Lampedusa underscored a stark message for Europe and the United States as intolerance and indifference rise.",
+    "title": "US 250th Independence Day: Merz, Modi extend congratulations",
+    "summary": "The US is celebrating 250 years of independence with a massive fireworks display and military flyovers in the capital. Leaders from German Chancellor Friedrich Merz to India's PM Narendra Modi sent their well-wishes.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/us-250th-independence-day-merz-modi-extend-congratulations/live-77833580?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Ukrainian woman wanted after Monaco attack",
-    "summary": "Suspect identified as Anastasiia Berezovska \"conducted several site surveys\" before the attack while \"dressing up as a man,\" head prosecutor said.",
+    "title": "Thousands of protesters in Germany rally against far-right AfD",
+    "summary": "The demonstrations did not stop the party's annual congress in Erfurt from starting on time.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukrainian-woman-wanted-after-monaco-attack/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/thousands-of-protesters-in-germany-rally-against-far-right-afd/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-04"
   },
   {
@@ -241,10 +253,10 @@
   },
   {
     "type": "news",
-    "title": "Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition",
-    "summary": "Article URL: https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/ Comments URL: https://news.ycombinator.com/item?id=48783512 Points: 8 # Comments: 1",
+    "title": "Google Books (or similar) all book scans – $200k bounty",
+    "summary": "Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234 Comments URL: https://news.ycombinator.com/item?id=48786838 Points: 40 # Comments: 5",
     "source": "Hacker News",
-    "link": "https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/",
+    "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
     "date": "2026-07-04"
   },
   {
@@ -257,34 +269,34 @@
   },
   {
     "type": "news",
-    "title": "Pendant la canicule, les enfants au bureau : « J’ai aussi demandé pour mon chat. On m’a dit oui »",
-    "summary": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, la présence de la progéniture des salariés dans leur entreprise.",
+    "title": "A Dongguan, bastion manufacturier du sud de la Chine, un synchrotron au service des industries de pointe",
+    "summary": "La ville de Dongguan s’est portée volontaire pour financer et accueillir un équipement national de recherche fondamentale. Elle l’adapte à présent aux besoins du secteur des microprocesseurs.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/04/pendant-la-canicule-les-enfants-au-bureau-j-ai-aussi-demande-pour-mon-chat-on-m-a-dit-oui_6720632_4500055.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/04/a-dongguan-bastion-manufacturier-du-sud-de-la-chine-un-synchrotron-au-service-des-industries-de-pointe_6720668_3234.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Les arnaques sur les climatiseurs se multiplient",
-    "summary": "Avec les canicules et la crainte de voir arriver de nouvelles vagues de chaleur, les climatiseurs s’arrachent. Des escrocs n’ont pas tardé à investir le créneau, et il est facile de se faire avoir.",
+    "title": "Prix des carburants : un nouveau dispositif d'aides élargi pour les entreprises de transport public",
+    "summary": "De nouveaux critères d'attribution devraient bénéficier aux entreprises les plus vulnérables.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-budget/les-arnaques-sur-les-climatiseurs-se-multiplient_8061425.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/economie/automobile/essence/un-nouveau-dispositif-d-aides-elargi-pour-les-entreprises-de-transport-public-pour-lutter-contre-la-hausse-des-carburants_8093930.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "L’État réquisitionne-t-il vraiment les stocks de climatiseurs pour équiper les hôpitaux ?",
-    "summary": "Alors que la France s’apprête à basculer dans un nouvel épisode de fortes chaleurs, le gouvernement a validé l’achat de 30.000 appareils d’appoint pour les hôpitaux. Sur les réseaux sociaux, certains accusent l’État de vider les stocks déj…",
+    "title": "Canicule : quand le manque de climatiseurs met (encore) en lumière la dépendance de l’Europe à l’Asie",
+    "summary": "DÉCRYPTAGE - Alors qu’une nouvelle vague de chaleur déferle sur la France, les rayons des ventilateurs et des climatiseurs se vident à toute vitesse. Une explosion de la demande qui profite aux fabricants chinois, et pose à nouveau la ques…",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/l-etat-requisitionne-t-il-vraiment-les-stocks-de-climatiseurs-pour-equiper-les-hopitaux-20260703",
+    "link": "https://www.lefigaro.fr/conjoncture/canicule-quand-le-manque-de-climatiseurs-met-encore-en-lumiere-la-dependance-de-l-europe-a-l-asie-20260704",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "En Allemagne, des milliers de manifestants convergent à Erfurt, pour s’opposer à l’AfD",
-    "summary": "Le parti d’extrême droite, qui peut espérer prendre le contrôle d’un, voire deux Länders orientaux, en septembre, coïncide avec le 100ᵉ anniversaire de celui du parti nazi à Weimar, ville voisine d’Erfurt.",
+    "title": "Léon XIV à Lampedusa, une visite riche en symboles et un appel à « protéger les migrants »",
+    "summary": "Treize ans après son prédécesseur, le pape s’est rendu, samedi, sur la petite île italienne devenue le symbole du drame des migrants morts en tentant de traverser la Méditerranée. Pour le pontife américain, le choix de venir à Lampedusa le…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/04/en-allemagne-des-milliers-de-manifestants-convergent-a-erfurt-pour-s-opposer-au-congres-de-l-extreme-droite_6720653_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/04/leon-xiv-a-lampedusa-une-visite-riche-en-symboles-et-un-appel-a-proteger-les-migrants_6720684_3210.html",
     "date": "2026-07-04"
   },
   {
@@ -297,50 +309,50 @@
   },
   {
     "type": "news",
-    "title": "À Téhéran, les funérailles d’Ali Khamenei marquent “la fin d’une époque”",
-    "summary": "Plusieurs dizaines de milliers de personnes se sont rassemblées à Téhéran, samedi 4 juillet, à l’occasion du début des cérémonies de funérailles de l’ayatollah Ali Khamenei. Parmi les manifestants, beaucoup appellent à venger la mort de l’…",
+    "title": "Retraite : “La seule solution, c’est de déménager à l’étranger”",
+    "summary": "Coût de la vie, fiscalité, soins : les retraités revoient leurs plans. D’après “Fortune”, l’expatriation n’est plus un choix de confort, mais une nécessité économique.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/iran-a-teheran-les-funerailles-d-ali-khamenei-marquent-la-fin-d-une-epoque_246612",
+    "link": "https://www.courrierinternational.com/article/vu-des-etats-unis-retraite-la-seule-solution-c-est-de-demenager-a-l-etranger_242650",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-    "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+    "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+    "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "America250: How the US heatwave will affect Fourth of July celebrations",
-    "summary": "From Washington to LA, how plans to mark the United States' 250th anniversary could be disrupted by extreme heat.",
+    "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
+    "summary": "A further nine bodies were recovered from under the rubble, according to Gaza's Ministry of Health.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
-    "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+    "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
+    "summary": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "India news: Government lists 23 Pakistanis as 'terrorists'",
-    "summary": "Indian government has designated 23 Pakistan-based individuals as \"terrorists\" under its anti-terror law. Follow DW for more.",
-    "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Ein Spaziergang mit Ulf Poschardt",
-    "summary": "Präsentiert von Ørsted.",
+    "title": "Mali rebels target army bases, prison in fresh attacks",
+    "summary": "The army claimed it had regained control after the coordinated assaults on several towns and cities by Tuareg rebels and Islamists.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Ukrainian woman wanted after Monaco attack",
+    "summary": "Suspect identified as Anastasiia Berezovska \"conducted several site surveys\" before the attack while \"dressing up as a man,\" head prosecutor said.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-ulf-poschardt/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/ukrainian-woman-wanted-after-monaco-attack/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-04"
   },
   {
@@ -369,10 +381,10 @@
   },
   {
     "type": "news",
-    "title": "The bottleneck might be the air in the room",
-    "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 368 # Comments: 215",
+    "title": "Meta data center water discharges suspended for contaminating water supply",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system Comments URL: https://news.ycombinator.c…",
     "source": "Hacker News",
-    "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
     "date": "2026-07-04"
   },
   {
@@ -385,34 +397,34 @@
   },
   {
     "type": "news",
-    "title": "Quelles sont les options pour louer sa résidence principale en meublé ?",
-    "summary": "Louer son logement est possible sous certaines conditions, explique Baptiste Bochart, juriste chez JD2M.",
+    "title": "LGV Bordeaux-Toulouse : une chaîne humaine pour dire « non » au projet",
+    "summary": "Présentée comme le dernier rendez-vous « pacifiste » avant le début des travaux, prévu en octobre, l’initiative a rassemblé près d’un millier de personnes, selon les organisateurs.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/07/04/quelles-sont-les-options-pour-louer-sa-residence-principale-en-meuble_6720603_1657007.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/04/lgv-bordeaux-toulouse-une-chaine-humaine-pour-dire-non-au-projet_6720665_3244.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Vinci Autoroutes attend \"près de 8 millions de voyageurs\" samedi, pour les premiers départs en vacances",
-    "summary": "Sur les axes les plus fréquentés, \"c'est globalement le double [du trafic] par rapport à des journées habituelles\", selon le responsable du centre d’information du réseau Vinci Autoroutes.",
+    "title": "\"The Best Immigrant\", le jeu qui vous fait gagner une carte de séjour",
+    "summary": "Dans \"The Best Immigrant\", les auteurs imaginent une Belgique coupée en deux, des étrangers chassés, et une émission de téléréalité qui offrirait au gagnant une carte de séjour pour rester.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-vinci-autoroutes-attend-pres-de-8-millions-de-voyageurs-ce-samedi_8093501.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/the-best-immigrant-le-jeu-qui-vous-fait-gagner-une-carte-de-sejour_8061452.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "«On vient casser un dispositif qui fonctionnait» : les employeurs contraints de serrer la vis sur l’apprentissage",
-    "summary": "DÉCRYPTAGE - Face à la baisse des aides à l’embauche d’apprentis, nombre d’entreprises reportent leur recrutement, au grand désarroi des étudiants.",
+    "title": "L’État réquisitionne-t-il vraiment les stocks de climatiseurs pour équiper les hôpitaux ?",
+    "summary": "Alors que la France s’apprête à basculer dans un nouvel épisode de fortes chaleurs, le gouvernement a validé l’achat de 30.000 appareils d’appoint pour les hôpitaux. Sur les réseaux sociaux, certains accusent l’État de vider les stocks déj…",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/economie/on-vient-casser-un-dispositif-qui-fonctionnait-les-employeurs-contraints-de-serrer-la-vis-sur-l-apprentissage-20260703",
-    "date": "2026-07-03"
+    "link": "https://www.lefigaro.fr/conjoncture/l-etat-requisitionne-t-il-vraiment-les-stocks-de-climatiseurs-pour-equiper-les-hopitaux-20260703",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : l’état-major ukrainien dément la prise complète de la ville stratégique de Kostyantynivka revendiquée par la Russie",
-    "summary": "Le major Andrii Kovalov, porte-parole de l’état-major des forces armées ukrainiennes, affirme que la localité, où se déroule depuis des mois l’une des batailles les plus féroces à l’échelle du pays, reste sous leur contrôle.",
+    "title": "Au Portugal, un millier de pompiers tentent toujours de venir à bout d’un feu de forêt",
+    "summary": "Frappé par une intense vague de chaleur, le Portugal connaît également ses premiers feux de forêt majeurs de l’été, qui ont fait neuf blessés, dont deux civils dans un état grave.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/04/en-direct-guerre-en-ukraine-l-etat-major-ukrainien-dement-la-capture-complete-de-la-ville-strategique-de-kostyantynivka-revendiquee-par-la-russie_6716525_3210.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/04/au-portugal-un-millier-de-pompiers-tentent-toujours-de-venir-a-bout-d-un-feu-de-foret_6720681_3244.html",
     "date": "2026-07-04"
   },
   {
@@ -425,50 +437,50 @@
   },
   {
     "type": "news",
-    "title": "En Inde, les klaxons nuisent gravement à la santé",
-    "summary": "Dans les rues de Delhi, le niveau sonore est quatre fois supérieur au seuil recommandé par l’OMS. Provoquées avant tout par l’utilisation ininterrompue des klaxons, ces nuisances sont à l’origine d’un grand nombre de troubles médicaux. Pou…",
+    "title": "L’art de commenter les matchs en arabe, une “déclaration d’amour au football”",
+    "summary": "Portés par la richesse de la langue arabe et de sa tradition orale, les commentateurs sportifs du Moyen-Orient transforment les rencontres télévisées en un spectacle à part entière grâce à leurs envolées lyriques, dont les extraits font le…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-en-inde-les-klaxons-nuisent-gravement-a-la-sante_243343",
+    "link": "https://www.courrierinternational.com/article/television-l-art-de-commenter-les-matchs-en-arabe-une-declaration-d-amour-au-football_245911",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-    "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+    "title": "Former chess champion Kramnik banned over cheating remarks",
+    "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "In South Asia, America has stopped asking India for permission",
-    "summary": "Washington has started dealing with regional players without regard for Indian interests.",
+    "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+    "summary": "Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/4/in-south-asia-america-has-stopped-asking-india-for-permission?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-    "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
+    "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+    "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-    "summary": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
+    "title": "Germany news: AfD elects leaders amid massive protests",
+    "summary": "Party delegates of the far-right AfD are meeting in Erfurt as tens of thousands of people are protesting the event. Meanwhile, Jürgen Klopp said he was \"ready\" to jump in as Germany's head coach. DW has more.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "How Trump took over America’s 250th",
-    "summary": "America250 organizers have received only a fraction of the appropriated funds to celebrate America's milestone. Into the void stepped Freedom250.",
+    "title": "Ein Spaziergang mit Ulf Poschardt",
+    "summary": "Präsentiert von Ørsted.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/03/trump-dc-america-250-00986844?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-ulf-poschardt/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-04"
   },
   {
@@ -489,18 +501,18 @@
   },
   {
     "type": "news",
-    "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
-    "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.",
+    "title": "The World Cup sends prediction market volumes soaring to record highs",
+    "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+    "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "David Beazley – Programming Courses",
-    "summary": "Article URL: https://www.dabeaz.com/courses.html Comments URL: https://news.ycombinator.com/item?id=48782918 Points: 108 # Comments: 28",
+    "title": "Leaking YouTube creators' private videos",
+    "summary": "Article URL: https://javoriuski.com/post/youtube Comments URL: https://news.ycombinator.com/item?id=48786781 Points: 107 # Comments: 35",
     "source": "Hacker News",
-    "link": "https://www.dabeaz.com/courses.html",
+    "link": "https://javoriuski.com/post/youtube",
     "date": "2026-07-04"
   },
   {
@@ -513,34 +525,34 @@
   },
   {
     "type": "news",
-    "title": "IA : entre les géants américains et chinois, l’Europe tente d’exister",
-    "summary": "Les dépendances du Vieux Continent aux acteurs américains et le décalage des investissements réalisés de part et d’autre de l’Atlantique sont tels que certains experts plaident pour une « stratégie de rattrapage » et des transferts de tech…",
+    "title": "« Après le conflit au Moyen-Orient, l’aluminium va revenir très vite au premier plan des préoccupations »",
+    "summary": "Avec l’annonce de discussions sur un accord de trêve entre les Etats-Unis et l’Iran et le début d’une réouverture du détroit d’Ormuz, le prix du métal aux multiples usages industriels se replie, analyse Laurence Girard, journaliste au serv…",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/04/ia-entre-les-geants-americains-et-chinois-l-europe-tente-d-exister_6720598_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/04/apres-le-conflit-au-moyen-orient-l-aluminium-va-revenir-tres-vite-au-premier-plan-des-preoccupations_6720637_3234.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Live shopping : ventes en direct, achats express… le nouveau commerce qui séduit les Français",
-    "summary": "Ventes en direct, enchères en continu et achats impulsifs : les plateformes de live shopping séduisent de plus en plus de Français. Entre bonnes affaires et risques d’arnaques, ce nouveau modèle de commerce en ligne bouleverse les habitude…",
+    "title": "Un pic de 663 kilomètres de bouchons constaté pour le premier week-end des départs en vacances",
+    "summary": "Bison Futé a classé la journée rouge en Ile-de-France et orange pour le reste de l'Hexagone.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/economie/live-shopping-ventes-en-direct-achats-express-le-nouveau-commerce-qui-seduit-les-francais_8093075.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "2026-07-03"
+    "link": "https://www.franceinfo.fr/decouverte/vacances/un-pic-de-663-kilometres-constate-pour-le-premier-week-end-de-depart-en-vacances_8093825.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "«On va vous dénicher quelque chose» : Sabrina Roubache, une ministre en mission pour les alternants",
-    "summary": "PORTRAIT - Sous la double tutelle des ministres du Travail et de l’Enseignement, l’élue marseillaise défend mordicus l’action (et les coups de rabots) du gouvernement sur la formation en apprentissage.",
+    "title": "Histoires d’amour, d’amitié, de vies transformées... Comment, en 20 ans, Leboncoin est devenu bien plus qu’un simple site de revente",
+    "summary": "TÉMOIGNAGES - Depuis sa création en 2006, la plateforme de seconde main a permis à des millions de Français de revendre leurs objets. Mais elle a aussi été le théâtre d’histoires plus personnelles... et inattendues.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/economie/on-va-vous-denicher-quelque-chose-sabrina-roubache-une-ministre-en-mission-pour-les-alternants-20260703",
-    "date": "2026-07-03"
+    "link": "https://www.lefigaro.fr/societes/histoires-d-amour-d-amitie-de-vies-transformees-comment-en-20-ans-leboncoin-est-devenu-bien-plus-qu-un-simple-site-de-revente-20260704",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "250ᵉ anniversaire de la déclaration d’indépendance des Etats-Unis : « Ce texte a fourni à l’extrême droite américaine une mythologie et une justification morale »",
-    "summary": "L’historien Olivier Burtin réfléchit, dans une tribune au « Monde », à la manière dont l’extrême droite américaine s’est approprié la mémoire du 4 juillet 1776 comme moment fondateur de la liberté politique mais aussi comme justification d…",
+    "title": "En images : Léon XIV rend hommage aux migrants morts en Méditerranée et envoie un message à l’UE",
+    "summary": "A Lampedusa, île italienne devenue le symbole du drame des migrants morts en tentant de traverser la mer Méditerranée, le pape a exhorté le Vieux Continent à mieux répondre à l’« appel historique » de la crise migratoire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/04/250-anniversaire-de-la-declaration-d-independance-des-etats-unis-ce-texte-a-fourni-a-l-extreme-droite-americaine-une-mythologie-et-une-justification-morale_6720648_3232.html",
+    "link": "https://www.lemonde.fr/international/video/2026/07/04/en-images-leon-xiv-rend-hommage-aux-migrants-morts-en-mediterranee-et-envoie-un-message-a-l-ue_6720680_3210.html",
     "date": "2026-07-04"
   },
   {
@@ -553,50 +565,50 @@
   },
   {
     "type": "news",
-    "title": "Comment l’équipe du Maroc est devenue le symbole du Sud global",
-    "summary": "Sur la pelouse verte, elle court, elle court, l’équipe marocaine et engrange succès sur succès. Une trajectoire qui n’a pas échappé à la presse internationale, qui y voit aussi le symbole d’un Sud global qui bouscule et transforme le footb…",
+    "title": "Les “deux cents premiers” : ces marginaux hollandais qui ont bâti New York",
+    "summary": "XVIIe siècle – Amériques. Avant d’être la cité des excès et des métissages, New York fut La Nouvelle-Amsterdam, colonie bigarrée née en réaction à la rigueur morale des pèlerins de la ville de Plymouth, située à quelques centaines de kilom…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/coupe-du-monde-2026-comment-l-equipe-du-maroc-est-devenue-le-symbole-du-sud-global_245889",
+    "link": "https://www.courrierinternational.com/article/histoire-les-deux-cents-premiers-ces-marginaux-hollandais-qui-ont-bati-new-york_236653",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-    "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+    "title": "Injury ends Williams' Wimbledon comeback",
+    "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03"
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-    "summary": "Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
+    "title": "Russian attacks leave trail of destruction across Ukraine",
+    "summary": "Russian attacks leave trail of destruction across Ukraine",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-    "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
+    "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
+    "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Germany news: AfD kicks off conference amid massive protests",
-    "summary": "As members of the far-right AfD party met in Erfurt, thousands of protesters were marching and blocking roads across the city. Meanwhile, firefighters were struggling to contain a major blaze in Stuttgart. DW has more.",
+    "title": "Welcoming the Taliban? — Germany's new Afghanistan policy",
+    "summary": "To facilitate the deportation of criminals to Afghanistan, the German government is allowing Taliban diplomats into the country.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Spéciale Aix : l’incroyable manège des prétendants",
-    "summary": "LE MENU DU JOUR — Vrais et faux prétendants à l’Elysée : ils étaient (presque) tous là à manœuvrer. — Bardella ou Le Pen, Le Pen ou Bardella : ce qu’en pensent les Aixois. — Les dessous de la mégafiesta de l’ambassade américaine, qui ferai…",
+    "title": "How Trump took over America’s 250th",
+    "summary": "America250 organizers have received only a fraction of the appropriated funds to celebrate America's milestone. Into the void stepped Freedom250.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/speciale-aix-lincroyable-manege-des-pretendants/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/03/trump-dc-america-250-00986844?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-04"
   },
   {
@@ -617,18 +629,18 @@
   },
   {
     "type": "news",
-    "title": "Rafael Nadal talks tennis prize money, his hotels, and what sports taught him about business",
-    "summary": "Rafael Nadal opened his fourth Zel hotel as he expands into hospitality, education and sports after retiring from tennis.",
+    "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+    "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/06/30/rafael-nadal-zel-hotels-business.html",
-    "date": "2026-07-03"
+    "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Agentic coding notes from Galapagos Island",
-    "summary": "Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post Comments URL: https://news.ycombinator.com/item?id=48782671 Points: 108 # Comments: 51",
+    "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video]",
+    "summary": "Article URL: https://vimeo.com/49718712 Comments URL: https://news.ycombinator.com/item?id=48786713 Points: 17 # Comments: 10",
     "source": "Hacker News",
-    "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+    "link": "https://vimeo.com/49718712",
     "date": "2026-07-04"
   },
   {
@@ -641,34 +653,34 @@
   },
   {
     "type": "news",
-    "title": "La plateforme Uber condamnée pour concurrence déloyale après avoir détourné les lumineux des taxis parisiens",
-    "summary": "La justice reproche à l’entreprise américaine d’avoir tiré profit de la notoriété des taxis de la capitale pour promouvoir son service Uber Taxi. Le jugement interdit la réutilisation du visuel litigieux, « sous astreinte de 50 000 euros p…",
+    "title": "Non-revalorisation de l’assurance-chômage : pour le patronat, « le responsable, c’est le gouvernement »",
+    "summary": "Le conseil d’administration de l’Unédic n’est pas parvenu à dégager une majorité, mardi 30 juin, pour revaloriser les allocations chômage malgré un contexte inflationniste.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/04/la-plateforme-uber-condamnee-pour-concurrence-deloyale-apres-avoir-detourne-les-lumineux-des-taxis-parisiens_6720493_3234.html",
-    "date": "2026-07-03"
+    "link": "https://www.lemonde.fr/politique/article/2026/07/04/non-revalorisation-de-l-assurance-chomage-pour-le-patronat-le-responsable-c-est-le-gouvernement_6720634_823448.html",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "\"13h15 le samedi\". Les vies d'Astrid",
-    "summary": "Astrid a quitté son poste dans les ressources humaines pour élever des cochons en Ardèche. Elle est aujourd'hui à la tête d’un cheptel d’une race très spéciale, le Mangalica, qui donne un jambon unique au monde...",
+    "title": "Pour le patron du groupe TotalEnergies, Patrick Pouyanné, le marché du pétrole devrait mettre \"trois ou quatre mois à se reréguler\"",
+    "summary": "Invité des rencontres économiques d’Aix-en-Provence, Patrick Pouyanné a prévenu qu'il faudrait un peu de temps avant un retour à la normale.",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-les-vies-d-astrid_8065136.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "2026-07-03"
+    "link": "https://www.franceinfo.fr/economie/automobile/essence/pour-le-patron-du-groupe-totalenergies-le-marche-du-petrole-devrait-mettre-trois-ou-quatre-mois-a-se-rereguler_8093801.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Vingt et une heures de trajet pour 500 euros : le pari économique étonnant d’une liaison par ferry entre Boulogne et l’Irlande",
-    "summary": "REPORTAGE - La compagnie irlandaise Hibernia a racheté deux bateaux. Elle compte convaincre les touristes, et surtout des transporteurs de fret.",
+    "title": "Carburants: Patrick Pouyanné annonce que TotalEnergies prévoit de maintenir le plafonnement des prix dans les stations-service rurales",
+    "summary": "Le patron de TotalEnergies estime que les prix à la pompe mettront plusieurs mois à baisser en raison des tensions persistantes dans les capacités de raffinerie.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/vingt-et-une-heures-de-trajet-pour-500-euros-le-pari-economique-etonnant-d-une-liaison-par-ferry-entre-boulogne-et-l-irlande-20260703",
-    "date": "2026-07-03"
+    "link": "https://www.lefigaro.fr/societes/carburants-patrick-pouyanne-annonce-que-totalenergies-prevoit-de-maintenir-le-plafonnement-des-prix-dans-les-stations-service-rurales-20260623",
+    "date": "2026-06-24"
   },
   {
     "type": "news",
-    "title": "En Espagne, 2 200 hectares parcourus par les flammes près de la Costa Brava",
-    "summary": "Le feu est parti vendredi près de La Bisbal d’Empordà, à proximité de Gérone, à une vingtaine de kilomètres de la côte méditerranéenne. Environ 400 pompiers, dont dix équipes aériennes, sont à pied d’œuvre pour tenter d’en venir à bout.",
+    "title": "EN DIRECT, 4-Juillet : « Donald Trump fait preuve d’un talent certain pour centraliser le récit autour de sa personne »",
+    "summary": "Les Etats-Unis célèbrent samedi leur fête nationale et le 250ᵉ anniversaire de leur indépendance. Corine Lesnes, correspondante du « Monde » à San Francisco et autrice de la série « America 250 », répond à vos questions à partir de 20 heur…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/04/en-espagne-2-200-hectares-parcourus-par-les-flammes-pres-de-la-costa-brava_6720647_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/04/en-direct-4-juillet-les-etats-unis-fetent-leurs-250-ans-des-celebrations-recuperees-par-donald-trump-suivez-une-journee-de-festivites-demesurees_6720679_3210.html",
     "date": "2026-07-04"
   },
   {
@@ -681,42 +693,42 @@
   },
   {
     "type": "news",
-    "title": "Quitter son pays n’est pas (toujours) une solution",
-    "summary": "Aux États-Unis comme en Allemagne, de plus en plus de gens envisagent l’expatriation pour fuir les crises économiques et politiques. S’ils se comprennent sur le plan personnel, ces départs aggravent en fait la situation dans chaque pays.",
+    "title": "Pickles, le chien qui a sauvé la Coupe du monde 1966",
+    "summary": "Stupeur en Angleterre avant la Coupe du monde de football 1966 : le trophée qui doit être remis aux vainqueurs a été volé. Tous les services de police du royaume sont mobilisés, mais c’est un fin limier appelé Pickles (“Cornichon”) qui va…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/opinion-quitter-son-pays-n-est-pas-toujours-une-solution_245279",
+    "link": "https://www.courrierinternational.com/stories/histoire-pickles-le-chien-qui-a-sauve-la-coupe-du-monde-1966_245407",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-    "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+    "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+    "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
-    "summary": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
+    "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
+    "summary": "Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
-    "summary": "The 5-year-old seal has a social media following twice the size of Tasmania's population, and his antics include bending traffic bollards and blocking roads.",
+    "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+    "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131911/australia-trouble-making-seal",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Australia's Great Barrier Reef again avoids 'in danger' label",
-    "summary": "UNESCO acknowledged Australia's efforts towards the Great Barrier Reef's health but raised concerns over mass bleaching. For now, the popular marine site seems to have dodged the \"endangered\" tag.",
+    "title": "Pope Leo calls on Europe to do more for migrants",
+    "summary": "The pontiff's trip to the migration frontline of Lampedusa underscored a stark message for Europe and the United States as intolerance and indifference rise.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/australia-s-great-barrier-reef-again-avoids-in-danger-label/a-77829982?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-04"
   }
 ]
