@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 300?",
+    "answer": "L'évaluation des risques d'audit selon la NEP 300 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, afin de concevoir des procédures d'audit appropriées."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les deux types de risques d'audit identifiés par la NEP 300?",
+    "answer": "Les deux types de risques d'audit identifiés par la NEP 300 sont le risque inhérent et le risque de contrôle."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le risque inhérent est-il défini?",
+    "answer": "Le risque inhérent est la susceptibilité d'une assertion à une anomalie significative, indépendamment des contrôles internes mis en place."
+  },
+  {
+    "type": "dec",
+    "question": "Selon le Code de commerce, quelle responsabilité incombe à l'auditeur en matière d'évaluation des risques?",
+    "answer": "Selon le Code de commerce, l'auditeur a la responsabilité d'évaluer les risques d'anomalies significatives dans les états financiers pour garantir l'exactitude et la fiabilité des informations financières."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme précise le cadre de l'évaluation des risques d'audit?",
+    "answer": "La NEP 315 précise le cadre de l'évaluation des risques d'audit, en stipulant que l'auditeur doit comprendre l'entité et son environnement, y compris ses contrôles internes."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les étapes clés pour évaluer les risques d'audit selon la NEP 315?",
+    "answer": "Les étapes clés pour évaluer les risques d'audit selon la NEP 315 incluent la compréhension de l'entité, l'identification et l'évaluation des risques, et la réponse aux risques identifiés par des procédures appropriées."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce qu'une société selon le Code de commerce ?",
     "answer": "Une société est une entité juridique créée par une ou plusieurs personnes pour exercer une activité économique, régie par le Code de commerce."
   },
