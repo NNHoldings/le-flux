@@ -3,8 +3,15 @@ name: Déployer sur Pages
 # Déploiement explicite (remplace « Deploy from a branch », qui échouait par
 # intermittence). Nécessite : Settings → Pages → Source = « GitHub Actions ».
 on:
+  # Push manuel (changements de code).
   push:
     branches: [main]
+  # Après chaque mise à jour de contenu par le bot : les pushes du GITHUB_TOKEN
+  # ne déclenchent pas `on: push`, mais `workflow_run` se déclenche bien à la fin
+  # des workflows du bot → le site est toujours redéployé après un cron.
+  workflow_run:
+    workflows: ["Mise à jour des actus", "Générer des cartes (IA)"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
