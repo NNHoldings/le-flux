@@ -1,10 +1,22 @@
 [
   {
     "type": "news",
-    "title": "Fondations privées : l’art délicat du mécénat",
-    "summary": "Si le mariage de l’argent, de l’art et du pouvoir remonte à l’Antiquité, le développement du mécénat et des grandes fondations privées pose aujourd’hui la question de la conversion du capital économique en capital culturel.",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "La production audiovisuelle réduit ses effectifs face à une baisse des commandes.",
+      "Les vagues de chaleur perturbent les vacances des Français.",
+      "La répression des homosexuels au Sénégal suscite une vive inquiétude."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
+    "summary": "L’heure étant aux économies dans les chaînes de télévision, privées comme publiques, les carnets de commandes des sociétés de production tardent à se remplir. Le secteur redoute un automne de casse sociale.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/culture/article/2026/07/05/fondations-privees-l-art-delicat-du-mecenat_6720872_3246.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
     "date": "2026-07-05"
   },
   {
@@ -17,18 +29,18 @@
   },
   {
     "type": "news",
-    "title": "Nicolas Baverez : « La dette et les services publics contre les Français »",
-    "summary": "CHRONIQUE - La dépense publique atteint désormais 1770 milliards d’euros, soit 57,1 % du PIB. Cette dérive, fruit d’une gestion kafkaïenne et irresponsable, est devenue insoutenable pour notre pays.",
+    "title": "«Ils cherchent des températures plus agréables» : comment les vagues de chaleur bouleversent les vacances des Français",
+    "summary": "Selon plusieurs études, les vacanciers seraient de plus en plus nombreux à prendre en compte les risques liés aux conditions météorologiques avant de partir. «L’incertitude climatique redessine les voyages», remarque Booking.com.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/vox/economie/nicolas-baverez-la-dette-et-les-services-publics-contre-les-francais-20260704",
-    "date": "2026-07-04"
+    "link": "https://www.lefigaro.fr/conjoncture/ils-cherchent-des-temperatures-plus-agreables-comment-les-vagues-de-chaleur-bouleversent-les-vacances-des-francais-20260705",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "VIDÉO – La qualification du Maroc et de la France en quarts de finale de la Coupe du monde",
-    "summary": "Les Lions de l’Atlas ont remporté leur match contre le Canada (3-0) tandis que les Bleus se sont sortis d’un match compliqué face au Paraguay (1-0). Les deux équipes s’affronteront en quarts de finale.",
+    "title": "« Si on m’attrape, c’est la fin pour moi » : au Sénégal, l’effroi quotidien des homosexuels sous le coup de la répression",
+    "summary": "Alors qu’en mars, une loi a durci les peines encourues pour relations homosexuelles, les Sénégalais LGBT+ vivent dans la peur. Sous le couvert de l’anonymat, plusieurs d’entre eux témoignent d’un quotidien très incertain, marqué par l’ango…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/video/2026/07/05/video-la-qualification-du-maroc-et-de-la-france-en-quarts-de-finale-de-la-coupe-du-monde_6720874_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/05/si-on-m-attrape-c-est-la-fin-pour-moi-au-senegal-l-effroi-quotidien-des-homosexuels-sous-le-coup-de-la-repression_6720901_3210.html",
     "date": "2026-07-05"
   },
   {
@@ -41,50 +53,50 @@
   },
   {
     "type": "news",
-    "title": "À Paris, les peintres Keith Haring et Rubens à nouveau réunis sous le même toit",
-    "summary": "Avec la restauration de la chapelle de la Sorbonne et de l’église Saint-Eustache, Paris renoue avec deux de ses joyaux, raconte “El País”. Le journal espagnol souligne l’importance de la préservation et de la rénovation du patrimoine exist…",
+    "title": "Coupe du monde : Julián Quiñones, le plus colombien des joueurs mexicains",
+    "summary": "Critiqué à ses débuts pour être un joueur “importé”, l’attaquant né en Colombie Julián Quiñones fait désormais le bonheur de la sélection mexicaine avec trois buts en trois matchs de Coupe du monde. En compagnie de ses coéquipiers d’El Tri…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/patrimoine-a-paris-les-peintres-keith-haring-et-rubens-a-nouveau-reunis-sous-le-meme-toit_245827",
+    "link": "https://www.courrierinternational.com/article/football-coupe-du-monde-julian-quinones-le-plus-colombien-des-joueurs-mexicains_246018",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-    "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+    "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+    "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-    "summary": "Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.",
+    "title": "50 Houthi fighters killed in renewed clashes in Yemen",
+    "summary": "Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Where Iran stands on the memorandum it signed with the U.S",
-    "summary": "NPR's Ayesha Rascoe speaks to Sanam Vakil, director of the Middle East & North Africa Program at Chatham House, about how Iran sees the memorandum it signed with the U.S. as well as the ongoing talks.",
+    "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+    "summary": "People in the Northern Mariana Islands – remote U.S. territories in the Pacific Ocean – are preparing for Super Typhoon Bavi, which experts say could bring winds of over 180 miles per hour.",
     "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/05/nx-s1-5879423/where-iran-stands-on-the-memorandum-it-signed-with-the-u-s",
+    "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "South Korea plans future fund fueled by chip boom",
-    "summary": "South Korea plans to channel windfall tax revenue from its booming semiconductor industry into a new future fund. The money would help finance major industrial projects and to support younger generations.",
+    "title": "Turkey steps up arrests ahead of NATO summit",
+    "summary": "Journalists, academics and members of left-wing groups have reportedly been detained during police raids in several Turkish provinces. Turkey's capital Ankara is set to host a major NATO summit this week.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Winners and losers of European liberals’ big bash",
-    "summary": "As the dust settles after the congress of Europe’s third-largest political family, POLITICO takes a look at the successes and failures.",
+    "title": "The rise of the right has reshaped how we think about patriotism",
+    "summary": "An international POLITICO Poll finds that the language and symbols of patriotism are intertwined with right-wing parties that have centered national identity and anti-immigration rhetoric.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/the-winners-and-losers-of-the-european-liberals-big-bash/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/05/poll-patriotism-political-right-trump-europe-00986654?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-05"
   },
   {
@@ -93,30 +105,30 @@
     "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
     "source": "BBC Business",
     "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03"
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Is The Economist always wrong?",
-    "summary": "We used artificial intelligence to test the accuracy of our forecasts",
+    "title": "Women’s progress at work is stalling",
+    "summary": "Is the “Lean In” generation leaning out?",
     "source": "The Economist — Finance",
-    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-    "date": "2026-07-02"
+    "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-is-stalling",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-    "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+    "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+    "summary": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-    "date": "2026-07-04"
+    "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Europe's new climate in seven charts",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c8e2j0j87reo Comments URL: https://news.ycombinator.com/item?id=48792790 Points: 74 # Comments: 29",
+    "title": "The Computers Used in Movies",
+    "summary": "Article URL: https://www.starringthecomputer.com/computers.html Comments URL: https://news.ycombinator.com/item?id=48796093 Points: 12 # Comments: 3",
     "source": "Hacker News",
-    "link": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+    "link": "https://www.starringthecomputer.com/computers.html",
     "date": "2026-07-05"
   },
   {
@@ -129,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "Marché du timbre : une rare paire du « Black Penny » à 105 000 euros",
-    "summary": "L’actualité des ventes aux enchères nous conduit en Suisse et en Grande-Bretagne, avec quelques bons prix à la clé.",
+    "title": "Aux Rencontres économiques d’Aix-en-Provence, la fébrilité agite les milieux d’affaires avant l’élection présidentielle",
+    "summary": "Du 2 au 4 juillet, lors de l’édition 2026 de ce « mini-Davos », qui réunissait patrons d’entreprise, acteurs économiques et personnalités politiques, les questions budgétaires et la fiscalité des sociétés ont occupé une grande partie des d…",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/07/05/marche-du-timbre-une-rare-paire-du-black-penny-a-105-000-euros_6720835_1657007.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/05/aux-rencontres-economiques-d-aix-en-provence-la-febrilite-agite-les-milieux-d-affaires-avant-l-election-presidentielle_6720885_3234.html",
     "date": "2026-07-05"
   },
   {
@@ -145,18 +157,18 @@
   },
   {
     "type": "news",
-    "title": "«Il faudrait enfermer les candidats à la présidentielle jusqu’à ce qu’ils se mettent d’accord» : à Aix, les patrons se désespèrent des désunions du bloc central",
-    "summary": "RÉCIT - À neuf mois de l’élection, les Rencontres économiques d’Aix-en-Provence ont rassemblé le monde des affaires parisien, douze ministres et de nombreux présidentiables... Ni LFI, ni le RN n’étaient invités.",
+    "title": "Airbags Takata : comment savoir si votre voiture fait partie des 1,3 million de véhicules à risque, encore en circulation ?",
+    "summary": "À ce jour, 46 accidents sont attribués à des éclatements d’airbags Takata défectueux sur le territoire français.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/il-faudrait-enfermer-les-candidats-a-la-presidentielle-jusqu-a-ce-qu-ils-se-mettent-d-accord-a-aix-les-patrons-se-desesperent-des-desunions-du-bloc-central-20260704",
-    "date": "2026-07-04"
+    "link": "https://www.lefigaro.fr/conjoncture/airbags-takata-comment-savoir-si-votre-voiture-fait-partie-des-1-3-million-de-vehicules-a-risque-encore-en-circulation-20260705",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "En Espagne, l’incendie qui a parcouru plus de 2 000 hectares en Catalogne et ravagé une partie de l’espace naturel protégé des Gavarres est stabilisé",
-    "summary": "Le feu, qui serait dû à une négligence, s’est déclaré vendredi matin près de Gérone. Les pompiers s’attendent dimanche à « une journée compliquée ».",
+    "title": "La course hippique Durban July, un « Ascot sud-africain » miroir des aspirations multiraciales et des fractures sociales du pays",
+    "summary": "Chaque premier samedi de juillet, la plus prestigieuse course de chevaux d’Afrique se tient à Durban. Un rendez-vous mondain qui aspire à être imperméable aux divisions de la société.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/05/en-espagne-l-incendie-qui-a-parcouru-plus-de-2-000-hectares-en-catalogne-et-ravage-une-partie-de-l-espace-naturel-protege-des-gavarres-est-stabilise_6720856_3244.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/05/la-course-hippique-durban-july-un-ascot-sud-africain-miroir-des-aspirations-multiraciales-et-des-fractures-sociales-du-pays_6720892_3212.html",
     "date": "2026-07-05"
   },
   {
@@ -169,154 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Ce que l’expatriation fait aux enfants (et aux parents)",
-    "summary": "Beaucoup de parents qui vivent à l’étranger en famille espèrent que l’exposition à une autre culture sera enrichissante et positive. “Business Insider” et “The Times of India” publient les témoignages de deux mères sur leurs expériences en…",
+    "title": "Erling Braut Haaland, le “cyborg brutalement clinique” qui porte la Norvège",
+    "summary": "Pour tenter de battre le Brésil, dimanche 5 juillet en quarts de finale de la Coupe du monde, la Norvège compte sur son buteur hors pair, Erling Braut Haaland. Le géant blond a déjà marqué 60 fois sous le maillot national, sans compter une…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/temoignages-ce-que-l-expatriation-fait-aux-enfants-et-aux-parents_245567",
+    "link": "https://www.courrierinternational.com/article/coupe-du-monde-erling-braut-haaland-le-cyborg-brutalement-clinique-qui-porte-la-norvege_246117",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-    "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+    "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+    "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04"
+    "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Sooryavanshi sets record for youngest India player in international match",
-    "summary": "Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.",
+    "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
+    "summary": "The storm system is expected to reach landfall on Monday morning.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "NATO leaders are set to convene in Turkey. Here's what's on the agenda",
-    "summary": "NPR's Ayesha Rascoe talks to Max Bergmann, director of the Europe, Russia, and Eurasia Program at the Center for Strategic and International Studies, about this week's NATO summit in Ankara, Turkey.",
-    "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/05/nx-s1-5878408/nato-leaders-are-set-to-convene-in-turkey-heres-whats-on-the-agenda",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Why US train travel lags behind Asia and Europe",
-    "summary": "As flights get pricier and gas prices stay high, more US travelers are turning to trains — and hitting a system built for freight, not people.",
-    "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "How Trump is turning NATO into a cash machine",
-    "summary": "The U.S. president has refashioned the alliance into something far different from its original intention.",
-    "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/05/nato-trump-cash-machine-00985766?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-    "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
-    "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "How much will a 4th of July cookout cost this year?",
-    "summary": "We calculate the rising price of Americans’ summer staples",
-    "source": "The Economist — Finance",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
-    "date": "2026-07-02"
-  },
-  {
-    "type": "news",
-    "title": "UK and France agree with Oman to ensure safety of its territorial waters",
-    "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "Scientist who cleaned space toilet on work now leading Mars exploration",
-    "summary": "Article URL: https://www.bbc.com/news/articles/cz758x04g83o Comments URL: https://news.ycombinator.com/item?id=48792780 Points: 10 # Comments: 2",
-    "source": "Hacker News",
-    "link": "https://www.bbc.com/news/articles/cz758x04g83o",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the…",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "« André Gorz a pressenti comment le capitalisme allait s’emparer de l’IA » : entretien avec l’économiste Christophe Fourel et le mathématicien Cédric Villani",
-    "summary": "Plus de vingt ans après sa rédaction, la version augmentée par le philosophe de son texte « L’Immatériel » est enfin publiée. Les préfaciers, Christophe Fourel et Cédric Villani, expliquent dans un entretien au « Monde » combien ce livre l…",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/05/andre-gorz-a-pressenti-comment-le-capitalisme-allait-s-emparer-de-l-ia-entretien-avec-l-economiste-christophe-fourel-et-le-mathematicien-cedric-villani_6720828_3232.html",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Le fisc réclame 22,5 millions d'euros à Bernard Arnault",
-    "summary": "Pour la première fois, Bernard Arnault fait l'objet d'un important redressement fiscal. Selon L'Informé, le milliardaire est soupçonné d'avoir réduit son imposition grâce à un montage financier complexe au sein de son groupe. Des accusatio…",
-    "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/economie/entreprises/le-fisc-reclame-22-5-millions-d-euros-a-bernard-arnault_8094653.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Histoires d’amour, d’amitié, de vies transformées... Comment, en 20 ans, Leboncoin est devenu bien plus qu’un simple site de revente",
-    "summary": "TÉMOIGNAGES - Depuis sa création en 2006, la plateforme de seconde main a permis à des millions de Français de revendre leurs objets. Mais elle a aussi été le théâtre d’histoires plus personnelles... et inattendues.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/histoires-d-amour-d-amitie-de-vies-transformees-comment-en-20-ans-leboncoin-est-devenu-bien-plus-qu-un-simple-site-de-revente-20260704",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Kiev annonce avoir frappé plusieurs sous-stations électriques et une base aérienne en Crimée annexée, dans la nuit de samedi à dimanche",
-    "summary": "De son côté, la Russie dit avoir intercepté et détruit 71 drones ukrainiens au-dessus de ses territoires et de ceux de l’Ukraine qu’elle occupe, lors de cette même nuit.",
-    "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-guerre-en-ukraine-kiev-annonce-avoir-frappe-plusieurs-sous-stations-electriques-en-crimee-annexee-dans-la-nuit-de-samedi-a-dimanche_6720832_3210.html",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "«Le supplément du dimanche» du 5 juillet 2026",
-    "summary": "Direction Libreville. À l'instar de nombreuses sociétés d'Afrique centrale, mais plus qu'ailleurs, la société gabonaise est meurtrie par les crimes rituels. Chaque année, ils font leur lot de victimes au nom de croyances pour des raisons p…",
-    "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/grand-reportage/20260705-le-suppl%C3%A9ment-du-dimanche-du-5-juillet-2026",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Au Yémen, les houthistes renforcent leur pouvoir en s’attaquant aux tribus",
-    "summary": "À la faveur de l’accalmie relative depuis 2022 dans ce pays longtemps ravagé par la guerre, le groupe rebelle pro-Téhéran cherche à asseoir davantage son pouvoir en matant les tribus. Relativement autonomes, ces dernières sont perçues par…",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-au-yemen-les-houthistes-renforcent-leur-pouvoir-en-s-attaquant-aux-tribus_245120",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Evacuations in Guam as super typhoon Bavi approaches",
-    "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Trump praises US military as it marks 250 years of independence",
-    "summary": "Trump praises US military as it marks 250 years of independence",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss",
     "date": "2026-07-05"
   },
   {
@@ -329,122 +213,122 @@
   },
   {
     "type": "news",
-    "title": "Iran: Pressure on persecuted Baha'i community intensifies",
-    "summary": "Arrests, torture, mock executions: War has seen the Iranian regime crack down on dissidents of all kinds. Members of the country's Baha'i faith have long been persecuted, but their situation is now worsening.",
+    "title": "Students leave Gaza to continue studies, others in limbo",
+    "summary": "More than three school years since the start of Israel's war in Gaza, more Palestinian students are restarting studies at universities abroad. Education has yet to return to normal, as schools expand online teaching.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Magyar files constitutional amendment to fire Orbán-allied president",
-    "summary": "President Tamás Sulyok has vowed not to leave office. His term ends in 2029.",
+    "title": "German defense chief opposes sharing intel with AfD ministers",
+    "summary": "Defense Minister Boris Pistorius cited the far-right party's close links with Moscow and Russian President Vladimir Putin as the main reason.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/peter-magyar-files-constitutional-change-to-fire-viktor-orban-allied-president-hungary-tamas-sulyok/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/germany-defense-minister-boris-pistorius-oppose-share-intelligence-afd/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
-    "summary": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+    "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+    "summary": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03"
+    "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Are stablecoins money?",
-    "summary": "Policymakers’ job is to make them safe as well as useful",
+    "title": "Is The Economist always wrong?",
+    "summary": "We used artificial intelligence to test the accuracy of our forecasts",
     "source": "The Economist — Finance",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
     "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "The World Cup sends prediction market volumes soaring to record highs",
-    "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
+    "title": "UK and France agree with Oman to ensure safety of its territorial waters",
+    "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+    "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
     "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Claude Design System Prompt",
-    "summary": "Article URL: https://github.com/Trystan-SA/claude-design-system-prompt Comments URL: https://news.ycombinator.com/item?id=48792399 Points: 23 # Comments: 1",
+    "title": "Falling fertility on the left as key driver of US birth decline",
+    "summary": "Article URL: https://www.nature.com/articles/s41598-026-57582-3 Comments URL: https://news.ycombinator.com/item?id=48795939 Points: 8 # Comments: 1",
     "source": "Hacker News",
-    "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+    "link": "https://www.nature.com/articles/s41598-026-57582-3",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolute…",
+    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the…",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Anne Chopinet, polytechnicienne : « Avant les lettres, j’ai écrit des chiffres sur un tableau noir »",
-    "summary": "« Je ne serais pas arrivée là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. La première femme major d’entrée de l’Ecole polytechnique revient sur un moment-clé pour l’égalité femmes-h…",
+    "title": "Aux Etats-Unis, des foires pour développer l’esprit d’entreprise des enfants",
+    "summary": "« Darons d’ailleurs ». Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Les Kids Business Fairs, où les enfants se transforment en marchands, ont pour but de leur donner les bases d’une…",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/societe/article/2026/07/05/anne-chopinet-polytechnicienne-avant-les-lettres-j-ai-ecrit-des-chiffres-sur-un-tableau-noir_6720827_3224.html",
+    "link": "https://www.lemonde.fr/intimites/article/2026/07/05/aux-etats-unis-des-foires-pour-developper-l-esprit-d-entreprise-des-enfants_6720882_6190330.html",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "TEMOIGNAGE. \"Comment je fais ? Je me mets dans le congélo ?\" : à l'approche d'une nouvelle canicule, Mireille redoute que son HLM ne se transforme encore en \"grille-pain\"",
-    "summary": "Selon la Fondation pour le logement, les locataires précaires sont les plus vulnérables aux vagues de chaleur. C'est le cas de Mireille Walter, qui vit dans une bouilloire thermique de la banlieue parisienne.",
+    "title": "Le fisc réclame 22,5 millions d'euros à Bernard Arnault",
+    "summary": "Pour la première fois, Bernard Arnault fait l'objet d'un important redressement fiscal. Selon L'Informé, le milliardaire est soupçonné d'avoir réduit son imposition grâce à un montage financier complexe au sein de son groupe. Des accusatio…",
     "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temoignage-comment-je-fais-je-me-mets-dans-le-congelo-a-l-approche-d-une-nouvelle-canicule-mireille-redoute-que-son-hlm-ne-se-transforme-encore-en-grille-pain_8092349.html#xtor=RSS-3-%5Bgeneral%5D",
+    "link": "https://www.franceinfo.fr/economie/entreprises/le-fisc-reclame-22-5-millions-d-euros-a-bernard-arnault_8094653.html#xtor=RSS-3-%5Bgeneral%5D",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Canicule : quand le manque de climatiseurs met (encore) en lumière la dépendance de l’Europe à l’Asie",
-    "summary": "DÉCRYPTAGE - Alors qu’une nouvelle vague de chaleur déferle sur la France, les rayons des ventilateurs et des climatiseurs se vident à toute vitesse. Une explosion de la demande qui profite aux fabricants chinois, et pose à nouveau la ques…",
+    "title": "Nicolas Baverez : « Dette ou souveraineté, il faut choisir ! »",
+    "summary": "CHRONIQUE - La dépense publique atteint désormais 1770 milliards d’euros, soit 57,1 % du PIB. Cette dérive, fruit d’une gestion kafkaïenne et irresponsable, est devenue insoutenable pour notre pays.",
     "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/conjoncture/canicule-quand-le-manque-de-climatiseurs-met-encore-en-lumiere-la-dependance-de-l-europe-a-l-asie-20260704",
+    "link": "https://www.lefigaro.fr/vox/economie/nicolas-baverez-la-dette-et-les-services-publics-contre-les-francais-20260704",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Au Yémen, 14 soldats tués dans une attaque des rebelles houthistes",
-    "summary": "En guerre contre les forces du gouvernement depuis 2015, les houthistes contrôlent de larges pans du pays, dont la capitale, Sanaa.",
+    "title": "Au Venezuela, le séisme a mis en lumière une situation économique et sociale catastrophique : « J’ai peur qu’on connaisse à nouveau des pénuries »",
+    "summary": "Alors que les « barrios » de Caracas menacent de s’effondrer après les séismes du 24 juin, la population tente de s’organiser face à l’urgence humanitaire et à l’inflation galopante. Le ressentiment grandit contre la mainmise opaque des Et…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/05/au-yemen-14-soldats-tues-dans-une-attaque-des-rebelles-houthistes_6720853_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/05/avec-ce-seisme-j-ai-peur-qu-on-connaisse-a-nouveau-des-penuries-au-venezuela-le-tremblement-de-terre-a-mis-en-lumiere-une-situation-economique-et-sociale-catastrophique_6720889_3210.html",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Comment religions, croyances et pratiques traditionnelles accompagnent les parcours de migration",
-    "summary": "Comment les religions peuvent-elles aider à affronter la migration ? Dans les parcours migratoires, d’Afrique vers l’Europe ou d’un pays africain à un autre, les pratiques religieuses, les objets comme des amulettes et les croyances dans l…",
+    "title": "«Le supplément du dimanche» du 5 juillet 2026",
+    "summary": "Direction Libreville. À l'instar de nombreuses sociétés d'Afrique centrale, mais plus qu'ailleurs, la société gabonaise est meurtrie par les crimes rituels. Chaque année, ils font leur lot de victimes au nom de croyances pour des raisons p…",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/religions-du-monde/20260705-comment-religions-croyances-et-pratiques-traditionnelles-accompagnent-les-parcours-de-migration",
+    "link": "https://www.rfi.fr/fr/podcasts/grand-reportage/20260705-le-suppl%C3%A9ment-du-dimanche-du-5-juillet-2026",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Avec 850 000 fusées, Washington s’offre “le plus grand feu d’artifice de l’histoire du monde”",
-    "summary": "Point d’orgue des célébrations du 250e anniversaire de l’indépendance des États-Unis samedi 4 juillet, un immense feu d’artifice tiré à Washington. Un nouveau record a été établi.",
+    "title": "Procès en appel de Marine Le Pen : quels scénarios après le verdict du 7 juillet ?",
+    "summary": "Alors que la présidente du groupe RN à l’Assemblée nationale a été condamnée en première instance, la cour d’appel de Paris doit se prononcer ce 7 juillet sur l’affaire des assistants parlementaires européens du Front national (ancien nom…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/video/video-avec-850-000-fusees-washington-s-offre-le-plus-grand-feu-d-artifice-de-l-histoire-du-monde_246810",
+    "link": "https://www.courrierinternational.com/explainer/tout-s-explique-proces-en-appel-de-marine-le-pen-quels-scenarios-apres-le-verdict-du-7-juillet_245861",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Chinese underground church figure Jin Mingri freed from prison",
-    "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+    "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+    "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "China and Russia to hold annual joint naval drills",
-    "summary": "Exercises from Monday to July 13 off Qingdao to be followed by joint maritime patrols in the Pacific Ocean.",
+    "title": "What is the religious and political messaging behind Khamenei’s funeral?",
+    "summary": "The Islamic Republic is leaning into religious imagery to hone its political messages locally and across the region.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss",
     "date": "2026-07-05"
   },
   {
@@ -465,42 +349,170 @@
   },
   {
     "type": "news",
-    "title": "Russia threatens. Are NATO’s new borders ready?",
-    "summary": "We went to find out if the alliance’s eastern flank is prepared.",
+    "title": "EU pushes to beat airport delays caused by new biometric system",
+    "summary": "The new photo and fingerprint requirements are designed to stop criminals and visa overstayers — but they have left thousands stuck in line.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/magazine/2026/07/05/nato-eastern-flank-putin-russia-finland-00983997?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-launches-push-to-beat-airport-queue-backlog-caused-by-new-biometric-system/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Burnham says there is some room for movement on tax",
-    "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+    "title": "What Sky buying ITV could mean for your favourite shows",
+    "summary": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-03"
+    "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-04"
   },
   {
     "type": "news",
-    "title": "Unpacking Venezuela’s peculiar debt restructuring",
-    "summary": "Hazy numbers and the absence of the IMF make for an unusual negotiation",
+    "title": "How much will a 4th of July cookout cost this year?",
+    "summary": "We calculate the rising price of Americans’ summer staples",
     "source": "The Economist — Finance",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
     "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
-    "summary": "Oman is using strategic ambiguity as talks over possible Strait of Hormuz fees raise legal, diplomatic and oil market concerns.",
+    "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+    "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html",
+    "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "\"These cameras are just like the Eye of Sauron\"",
+    "summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 17 # Comments: 0",
+    "source": "Hacker News",
+    "link": "https://arxiv.org/abs/2602.09239",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolute…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
     "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Apocketlypse",
-    "summary": "Article URL: https://0dd.company/galleries/triumph/1.html Comments URL: https://news.ycombinator.com/item?id=48792352 Points: 26 # Comments: 5",
+    "title": "Fondations privées : l’art délicat du mécénat",
+    "summary": "Si le mariage de l’argent, de l’art et du pouvoir remonte à l’Antiquité, le développement du mécénat et des grandes fondations privées pose aujourd’hui la question de la conversion du capital économique en capital culturel.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/culture/article/2026/07/05/fondations-privees-l-art-delicat-du-mecenat_6720872_3246.html",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "TEMOIGNAGE. \"Comment je fais ? Je me mets dans le congélo ?\" : à l'approche d'une nouvelle canicule, Mireille redoute que son HLM ne se transforme encore en \"grille-pain\"",
+    "summary": "Selon la Fondation pour le logement, les locataires précaires sont les plus vulnérables aux vagues de chaleur. C'est le cas de Mireille Walter, qui vit dans une bouilloire thermique de la banlieue parisienne.",
+    "source": "France Info Éco",
+    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temoignage-comment-je-fais-je-me-mets-dans-le-congelo-a-l-approche-d-une-nouvelle-canicule-mireille-redoute-que-son-hlm-ne-se-transforme-encore-en-grille-pain_8092349.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "« Il faudrait enfermer les candidats à la présidentielle jusqu’à ce qu’ils se mettent d’accord » : à Aix, les patrons se désespèrent des désunions du bloc central",
+    "summary": "RÉCIT - À neuf mois de l’élection, les Rencontres économiques d’Aix-en-Provence ont rassemblé le monde des affaires parisien, douze ministres et de nombreux présidentiables… Ni LFI, ni le RN n’étaient invités.",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/conjoncture/il-faudrait-enfermer-les-candidats-a-la-presidentielle-jusqu-a-ce-qu-ils-se-mettent-d-accord-a-aix-les-patrons-se-desesperent-des-desunions-du-bloc-central-20260704",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "« Il aurait fallu être plus équitable » : la frustration du Mexique, à l’heure d’accueillir son dernier match de la Coupe du monde 2026",
+    "summary": "Dans une atmosphère d’unité nationale, la sélection mexicaine doit affronter l’Angleterre, lundi, en huitièmes de finale, au stade Azteca de Mexico. C’est le dernier des 13 matchs programmés dans le pays, qui se sent lésé au profit des Eta…",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/sport/article/2026/07/05/il-aurait-fallu-etre-plus-equitable-la-frustration-du-mexique-a-l-heure-d-accueillir-son-dernier-match-de-la-coupe-du-monde-2026_6720883_3242.html",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Comment religions, croyances et pratiques traditionnelles accompagnent les parcours de migration",
+    "summary": "Comment les religions peuvent-elles aider à affronter la migration ? Dans les parcours migratoires, d’Afrique vers l’Europe ou d’un pays africain à un autre, les pratiques religieuses, les objets comme des amulettes et les croyances dans l…",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/religions-du-monde/20260705-comment-religions-croyances-et-pratiques-traditionnelles-accompagnent-les-parcours-de-migration",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Coupe du monde : au Liban, une “passion débordante” pour l’équipe du Brésil",
+    "summary": "La Seleção, talonnée par l’Allemagne, est sans doute la sélection la plus populaire dans le pays du Cèdre, qui s’orne de multiples drapeaux brésiliens durant les périodes de Coupe du monde. Un engouement né dans les années de guerre civile…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/football-coupe-du-monde-au-liban-une-passion-debordante-pour-l-equipe-du-bresil_246195",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Evacuations in Guam as super typhoon Bavi approaches",
+    "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
+    "summary": "Live coverage and text updates as Brazil play Norway in the round of 16 knockout stage.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/brazil-vs-norway-live-fifa-world-cup-2026-last-16?traffic_source=rss",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Pope Leo visits Lampedusa to spotlight missing migrants",
+    "summary": "Pope Leo XIV will spend July 4th in Lampedusa, Italy, one of Europe's busiest migrant landing points. He will pray with migrants and honor those who died trying to cross the Mediterranean to Europe.",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Nigeria condemns deaths of 2 nationals in South Africa protests",
+    "summary": "Nigeria claimed one of the victims was killed by police following anti-migrant marches that have fueled xenophobia.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/nigeria-condemns-deaths-of-2-nationals-in-south-africa-protests/a-77838899?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "US interior secretary doubles down on blaming vandals for reflecting pool woes",
+    "summary": "The interior secretary rebuffed the idea that the president's motorcade ride over the unfinished pool may have damaged it.",
+    "source": "Politico EU",
+    "link": "https://www.politico.com/news/2026/07/05/burgum-vandals-reflecting-pool-00987197?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+    "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Are stablecoins money?",
+    "summary": "Policymakers’ job is to make them safe as well as useful",
+    "source": "The Economist — Finance",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "The World Cup sends prediction market volumes soaring to record highs",
+    "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+    "summary": "Article URL: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/ Comments URL: https://news.ycombinator.com/item?id=48795826 Points: 27 # Comments: 12",
     "source": "Hacker News",
-    "link": "https://0dd.company/galleries/triumph/1.html",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "date": "2026-07-05"
   },
   {
@@ -513,10 +525,10 @@
   },
   {
     "type": "news",
-    "title": "Derrière la rivalité entre Pékin et Washington, l’essor de l’IA chinoise aux Etats-Unis",
-    "summary": "Avec le lancement de l’intelligence artificielle GLM-5.2 par la start-up Zhipu, la Chine prouve qu’elle peut concurrencer les meilleurs modèles américains au moment où les géants de la Silicon Valley s’opposent sur les prix et les restrict…",
+    "title": "Marché du timbre : une rare paire du « Black Penny » à 105 000 euros",
+    "summary": "L’actualité des ventes aux enchères nous conduit en Suisse et en Grande-Bretagne, avec quelques bons prix à la clé.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/05/derriere-la-rivalite-entre-pekin-et-washington-l-essor-de-l-ia-chinoise-aux-etats-unis_6720820_3234.html",
+    "link": "https://www.lemonde.fr/argent/article/2026/07/05/marche-du-timbre-une-rare-paire-du-black-penny-a-105-000-euros_6720835_1657007.html",
     "date": "2026-07-05"
   },
   {
@@ -537,10 +549,10 @@
   },
   {
     "type": "news",
-    "title": "VIDÉO – 250 ans des Etats-Unis : les images des célébrations et du discours de Donald Trump",
-    "summary": "A Washington, le président américain n’a pu prononcer son discours qu’après 23 heures, la foule ayant été évacuée durant plusieurs heures du National Mall en raison d’un risque d’orages violents.",
+    "title": "« La Palestine est devenue un étalon de vertu, mais aussi une métaphore »",
+    "summary": "La sociologue Laetitia Bucaille analyse, dans une tribune au « Monde », la manière dont le conflit au Proche-Orient génère des postures qui figent les individus et les sociétés dans des représentations manichéennes. Le 7-Octobre et Gaza so…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/video/2026/07/05/250-ans-des-etats-unis-les-images-des-celebrations-et-du-discours-de-donald-trump_6720847_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/05/la-palestine-est-devenue-un-etalon-de-vertu-mais-aussi-une-metaphore_6720878_3232.html",
     "date": "2026-07-05"
   },
   {
@@ -553,154 +565,26 @@
   },
   {
     "type": "news",
-    "title": "Les Albanais dans les rues rêvent toujours d’Europe et de changement",
-    "summary": "Le pays des Balkans vit depuis des semaines au rythme des manifestations qui réclament la démission du gouvernement, coupable d’avoir permis la construction d’un complexe touristique de luxe dans un lagon protégé. Mais les problèmes de l’A…",
+    "title": "“Une honte !” : du Monténégro à Hong Kong, la presse tire à boulets rouges sur l’arbitre de France-Paraguay",
+    "summary": "Au lendemain du huitième de finale remporté difficilement par les hommes de Didier Deschamps, de nombreux journaux critiquent le jeu et l’antijeu des Paraguayens. Mais aussi et surtout l’arbitrage de l’Ouzbek Ilgiz Tantashev. Certains vont…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-les-albanais-dans-les-rues-revent-toujours-d-europe-et-de-changement_245606",
+    "link": "https://www.courrierinternational.com/article/coupe-du-monde-une-honte-du-montenegro-a-hong-kong-la-presse-tire-a-boulets-rouges-sur-l-arbitre-de-france-paraguay_246843",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Former chess champion Kramnik banned over cheating remarks",
-    "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+    "title": "Australia probes mystery space balls that washed up on beach",
+    "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
     "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04"
+    "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Release Dr Hussam Abu Safia immediately!",
-    "summary": "It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.",
+    "title": "Syria delays first session of transitional parliament without explanation",
+    "summary": "The transitional parliament aims to draft a new elections law during its 30-month term.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Pope Leo visits Lampedusa to spotlight missing migrants",
-    "summary": "Pope Leo XIV will spend July 4th in Lampedusa, Italy, one of Europe's busiest migrant landing points. He will pray with migrants and honor those who died trying to cross the Mediterranean to Europe.",
-    "source": "NPR World",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "India news: Indian passport slips one spot in global ranking",
-    "summary": "The Indian passport has slipped one spot below last year's ranking on the Global Passport Index. Follow DW for more.",
-    "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/india-news-indian-passport-slips-one-spot-in-global-ranking/live-77836287?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Poll: Americans say they’re sick of politics taking over their lives. With exceptions.",
-    "summary": "The POLITICO Poll finds that a majority of Americans think there’s too much politics in places it doesn’t belong. But they can still be influenced by what their favorite stars and businesses say.",
-    "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/04/poll-politics-celebrities-athletes-partisan-divides-00986697?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
-    "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
-    "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
-  },
-  {
-    "type": "news",
-    "title": "A new Plaza Accord for global currencies wouldn’t work",
-    "summary": "The conditions and will for a deal are not what they were in 1985",
-    "source": "The Economist — Finance",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
-    "date": "2026-06-30"
-  },
-  {
-    "type": "news",
-    "title": "Rafael Nadal talks tennis prize money, his hotels, and what sports taught him about business",
-    "summary": "Rafael Nadal opened his fourth Zel hotel as he expands into hospitality, education and sports after retiring from tennis.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/06/30/rafael-nadal-zel-hotels-business.html",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "Knowledge Should Not Be Gated",
-    "summary": "Article URL: https://www.formaly.io/blog/knowledge-should-not-be-gated Comments URL: https://news.ycombinator.com/item?id=48792195 Points: 9 # Comments: 0",
-    "source": "Hacker News",
-    "link": "https://www.formaly.io/blog/knowledge-should-not-be-gated",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Teaching AI to run with the turbines",
-    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure,…",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "date": "2026-07-02"
-  },
-  {
-    "type": "news",
-    "title": "Bernard Arnault soumis à un redressement fiscal de 22,5 millions d’euros",
-    "summary": "Le fond de l’affaire porte sur l’« actionnariat complexe » de LVMH, selon « L’Informé », qui a dévoilé la décision de la justice administrative. « La famille Arnault n’est pas présente directement au capital du groupe de luxe, mais via une…",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/04/bernard-arnault-soumis-a-un-redressement-fiscal-de-22-5-millions-d-euros_6720699_3234.html",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "Cohue pour les climatiseurs Lidl : une députée va saisir la DGCCRF",
-    "summary": "Après les scènes de chaos provoquées par la vente de climatiseurs dans des magasins Lidl, jeudi 2 juillet, la députée écologiste Delphine Batho a annoncé saisir la DGCCRF. Elle accuse l’enseigne d’“arnaque”, des accusations que Lidl réfute",
-    "source": "France Info Éco",
-    "link": "https://www.franceinfo.fr/economie/cohue-pour-les-climatiseurs-lidl-une-deputee-va-saisir-la-dgccrf_8094257.html#xtor=RSS-3-%5Bgeneral%5D",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "Carburants: Patrick Pouyanné annonce que TotalEnergies prévoit de maintenir le plafonnement des prix dans les stations-service rurales",
-    "summary": "Le patron de TotalEnergies estime que les prix à la pompe mettront plusieurs mois à baisser en raison des tensions persistantes dans les capacités de raffinerie.",
-    "source": "Le Figaro Éco",
-    "link": "https://www.lefigaro.fr/societes/carburants-patrick-pouyanne-annonce-que-totalenergies-prevoit-de-maintenir-le-plafonnement-des-prix-dans-les-stations-service-rurales-20260623",
-    "date": "2026-06-24"
-  },
-  {
-    "type": "news",
-    "title": "Iran : à Téhéran, l’heure est à la prière au deuxième jour des funérailles nationales d’Ali Khamenei",
-    "summary": "Le président iranien, Massoud Pezeshkian, en compagnie de membres du gouvernement − dont l’influent Mohammad Bagher Ghalibaf, président du Parlement et chef de l’équipe de négociation iranienne − étaient présents, dimanche matin.",
-    "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/05/iran-a-teheran-l-heure-est-a-la-priere-au-deuxieme-jour-des-funerailles-nationales-d-ali-khamenei_6720843_3210.html",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Qui s’intéresse encore à la Corée du Nord ?",
-    "summary": "Guerre en Ukraine, conflit au Moyen Orient… plus personne ou presque n’a les yeux sur Pyongyang et sa bombe atomique…. Alors qu’il y a encore quelques années l’arrêt du programme nucléaire Nord-Coréen semblait une priorité pour la communau…",
-    "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260705-qui-s-int%C3%A9resse-encore-%C3%A0-la-cor%C3%A9e-du-nord",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "“Le célibat n’est pas une cage” : c’est quoi le “solo-maxxing” ?",
-    "summary": "C’est une tendance de plus avec le suffixe “-maxxing” : le “solo-maxxing”. Popularisée sur TikTok, il s’agit pour la Gen Z de choisir délibérément de rester célibataire, voire de glamouriser une vie sans amis. Cette tendance s’inscrit dans…",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/stories/love-etc-le-celibat-n-est-pas-une-cage-c-est-quoi-le-solo-maxxing_245836",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-    "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-    "source": "BBC World",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-04"
-  },
-  {
-    "type": "news",
-    "title": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude",
-    "summary": "One of the most anticipated knockout matches takes place when Mexico plays England at the Azteca in the round of 16.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss",
     "date": "2026-07-05"
   },
   {
@@ -713,10 +597,138 @@
   },
   {
     "type": "news",
-    "title": "China frees pastor after Trump raised case with Xi",
-    "summary": "China has released the pastor of a prominent underground church after US President Donald Trump pressed his case with Chinese leader Xi Jinping. His family hailed the move as a hopeful sign for religious freedom.",
+    "title": "Cargo ship reportedly attacked in Red Sea off Yemen",
+    "summary": "The UK Maritime Trade Office said a vessel was attacked 30 nautical miles southwest of Hodeida, which is under control of the Houthi rebels. The Iran-backed group recently vowed to resume attacks in the Red Sea.",
     "source": "DW (Europe)",
-    "link": "https://www.dw.com/en/china-frees-pastor-after-trump-raised-case-with-xi/a-77836084?maca=en-rss-en-all-1573-rdf",
+    "link": "https://www.dw.com/en/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/a-77838529?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "During America’s July 4th weekend, historians offer perspective and hope",
+    "summary": "\"I really think it can give us hope,\" Doris Kearns Goodwin said of history.",
+    "source": "Politico EU",
+    "link": "https://www.politico.com/news/2026/07/05/historians-july-4th-goodwin-burns-bunch-00987126?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Clay, kilns and the cost of survival for tile makers",
+    "summary": "While some firms lean into their heritage, others are modernising in the face of economic pressures.",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Unpacking Venezuela’s peculiar debt restructuring",
+    "summary": "Hazy numbers and the absence of the IMF make for an unusual negotiation",
+    "source": "The Economist — Finance",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "Rafael Nadal talks tennis prize money, his hotels, and what sports taught him about business",
+    "summary": "Rafael Nadal opened his fourth Zel hotel as he expands into hospitality, education and sports after retiring from tennis.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/06/30/rafael-nadal-zel-hotels-business.html",
+    "date": "2026-07-03"
+  },
+  {
+    "type": "news",
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+    "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement Comments URL: https://news.ycombinator.com/item?id=48795368 Points: 39 # Comments: 2",
+    "source": "Hacker News",
+    "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Teaching AI to run with the turbines",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure,…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "date": "2026-07-02"
+  },
+  {
+    "type": "news",
+    "title": "« André Gorz a pressenti comment le capitalisme allait s’emparer de l’IA » : entretien avec l’économiste Christophe Fourel et le mathématicien Cédric Villani",
+    "summary": "Plus de vingt ans après sa rédaction, la version augmentée par le philosophe de son texte « L’Immatériel » est enfin publiée. Les préfaciers, Christophe Fourel et Cédric Villani, expliquent dans un entretien au « Monde » combien ce livre l…",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/05/andre-gorz-a-pressenti-comment-le-capitalisme-allait-s-emparer-de-l-ia-entretien-avec-l-economiste-christophe-fourel-et-le-mathematicien-cedric-villani_6720828_3232.html",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Cohue pour les climatiseurs Lidl : une députée va saisir la DGCCRF",
+    "summary": "Après les scènes de chaos provoquées par la vente de climatiseurs dans des magasins Lidl, jeudi 2 juillet, la députée écologiste Delphine Batho a annoncé saisir la DGCCRF. Elle accuse l’enseigne d’“arnaque”, des accusations que Lidl réfute",
+    "source": "France Info Éco",
+    "link": "https://www.franceinfo.fr/economie/cohue-pour-les-climatiseurs-lidl-une-deputee-va-saisir-la-dgccrf_8094257.html#xtor=RSS-3-%5Bgeneral%5D",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Canicule : quand le manque de climatiseurs met (encore) en lumière la dépendance de l’Europe à l’Asie",
+    "summary": "DÉCRYPTAGE - Alors qu’une nouvelle vague de chaleur déferle sur la France, les rayons des ventilateurs et des climatiseurs se vident à toute vitesse. Une explosion de la demande qui profite aux fabricants chinois, et pose à nouveau la ques…",
+    "source": "Le Figaro Éco",
+    "link": "https://www.lefigaro.fr/conjoncture/canicule-quand-le-manque-de-climatiseurs-met-encore-en-lumiere-la-dependance-de-l-europe-a-l-asie-20260704",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev annonce avoir frappé plusieurs sous-stations électriques et une base aérienne en Crimée annexée ; un mort dans l’attaque d’une station-service ukrainienne à Izioum",
+    "summary": "De son côté, la Russie dit avoir intercepté et détruit 71 drones ukrainiens au-dessus de ses territoires et de ceux de l’Ukraine qu’elle occupe, lors de cette même nuit.",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-guerre-en-ukraine-kiev-annonce-avoir-frappe-plusieurs-sous-stations-electriques-et-une-base-aerienne-en-crimee-annexee-un-mort-dans-l-attaque-d-une-station-service-ukrainienne-a-izioum_6720832_3210.html",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Qui s’intéresse encore à la Corée du Nord ?",
+    "summary": "Guerre en Ukraine, conflit au Moyen Orient… plus personne ou presque n’a les yeux sur Pyongyang et sa bombe atomique…. Alors qu’il y a encore quelques années l’arrêt du programme nucléaire Nord-Coréen semblait une priorité pour la communau…",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260705-qui-s-int%C3%A9resse-encore-%C3%A0-la-cor%C3%A9e-du-nord",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "La Coupe du monde est le moment idéal pour ceux qui détestent le football",
+    "summary": "La Coupe du monde est une fête pour tous. Pour les supporteurs, mais surtout pour ceux qui ne veulent pas regarder un seul match, ironise un journaliste du quotidien “Süddeutsche Zeitung”. Car les millions de personnes qui se massent dans…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/opinion-la-coupe-du-monde-est-le-moment-ideal-pour-ceux-qui-detestent-le-football_245652",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+    "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Charles Leclerc wins F1 British Grand Prix behind safety car",
+    "summary": "Charles Leclerc collects his first victory of the 2026 F1 season after late safety car confusion in the final laps.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/5/charles-leclerc-wins-f1-british-grand-prix-behind-the-safety-car?traffic_source=rss",
+    "date": "2026-07-05"
+  },
+  {
+    "type": "news",
+    "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+    "summary": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
+    "source": "NPR World",
+    "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+    "date": "2026-07-04"
+  },
+  {
+    "type": "news",
+    "title": "Germany news: AfD conference wraps up in Erfurt",
+    "summary": "AfD leaders have used their party conference to underline their goal of entering government at state and federal level. Meanwhile, Germany travel complaints hit record in first half of 2026. DW has more.",
+    "source": "DW (Europe)",
+    "link": "https://www.dw.com/en/germany-news-afd-conference-wraps-up-in-erfurt/live-77830605?maca=en-rss-en-all-1573-rdf",
     "date": "2026-07-05"
   }
 ]
