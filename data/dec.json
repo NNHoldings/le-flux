@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que les NEP ?",
+    "answer": "Les NEP (Normes d'Exercice Professionnel) sont des normes applicables aux missions d'audit en France, édictées par la Compagnie Nationale des Commissaires aux Comptes (CNCC)."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est le but principal des NEP ?",
+    "answer": "Le but principal des NEP est de garantir la qualité, la fiabilité et la transparence des travaux d'audit des comptes, afin de protéger l'intérêt public."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme NEP traite de l'indépendance de l'auditeur ?",
+    "answer": "La norme NEP 200 'Indépendance de l'auditeur' précise les exigences concernant l'indépendance des auditeurs lors de l'exercice de leur mission."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la référence légale des NEP dans le code de commerce ?",
+    "answer": "Les NEP sont intégrées dans le Code de commerce français, notamment dans les articles L. 823-1 à L. 823-19, qui régissent les missions d'audit légal."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les éléments clés d'une mission d'audit selon les NEP ?",
+    "answer": "Les éléments clés incluent la planification, la collecte de preuves, l'évaluation des risques, et la formulation d'une opinion sur les états financiers."
+  },
+  {
+    "type": "dec",
+    "question": "Comment les NEP abordent-elles la documentation des travaux d'audit ?",
+    "answer": "La norme NEP 230 'Documentation de l'audit' stipule que l'auditeur doit documenter les travaux réalisés, les conclusions tirées et les éléments probants recueillis."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 300?",
     "answer": "L'évaluation des risques d'audit selon la NEP 300 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, afin de concevoir des procédures d'audit appropriées."
   },
