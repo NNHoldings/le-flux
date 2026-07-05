@@ -13,7 +13,7 @@ on:
         description: "Type de cartes"
         type: choice
         required: false
-        options: [mandarin, finance, dec]
+        options: [mandarin, finance, dec, ia, histoire]
       topic:
         description: "Thème (ex: vocabulaire de la banque, IFRS 15, NEP 240)"
         type: string

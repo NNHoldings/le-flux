@@ -1,41 +1,74 @@
-// Récupère les flux RSS et écrit data/news.json.
-// Édite librement la liste FEEDS ci-dessous (titre + URL).
+// Récupère les flux RSS, score la pertinence, écrit data/news.json.
+// Objectif : des actus à haute valeur (macro, marchés, géopolitique, énergie,
+// défense, innovation, IA, science) — pas de faits divers.
 import { writeFileSync } from "node:fs";
 import { XMLParser } from "fast-xml-parser";
 
-// Sources volontairement diverses : éco FR, géopolitique / monde, finance &
-// marchés, tech, Europe, Moyen-Orient — en français ET en anglais.
+// Sources sélectionnées pour leur valeur intellectuelle (FR + EN). Un flux qui
+// tombe est simplement ignoré (jamais de crash). Le scoring filtre le bruit.
 const FEEDS = [
-  // — Économie & France —
-  { source: "Le Monde Éco", url: "https://www.lemonde.fr/economie/rss_full.xml" },
-  { source: "France Info Éco", url: "https://www.francetvinfo.fr/economie.rss" },
-  { source: "Le Figaro Éco", url: "https://www.lefigaro.fr/rss/figaro_economie.xml" },
-  // — Monde & géopolitique (FR) —
-  { source: "Le Monde International", url: "https://www.lemonde.fr/international/rss_full.xml" },
-  { source: "RFI Monde", url: "https://www.rfi.fr/fr/monde/rss" },
-  { source: "Courrier International", url: "https://www.courrierinternational.com/feed/all/rss.xml" },
-  // — Monde & géopolitique (EN) —
-  { source: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-  { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
-  { source: "NPR World", url: "https://feeds.npr.org/1004/rss.xml" },
-  { source: "DW (Europe)", url: "https://rss.dw.com/rdf/rss-en-all" },
-  { source: "Politico EU", url: "https://www.politico.eu/feed/" },
-  // — Finance & marchés (EN) —
-  { source: "BBC Business", url: "https://feeds.bbci.co.uk/news/business/rss.xml" },
+  // Macro / marchés / banques centrales
   { source: "The Economist — Finance", url: "https://www.economist.com/finance-and-economics/rss.xml" },
+  { source: "BCE (banques centrales)", url: "https://www.ecb.europa.eu/rss/press.html" },
+  { source: "BBC Business", url: "https://feeds.bbci.co.uk/news/business/rss.xml" },
   { source: "CNBC", url: "https://www.cnbc.com/id/100727362/device/rss/rss.html" },
-  // — Tech & innovation (EN) —
-  { source: "Hacker News", url: "https://hnrss.org/frontpage" },
+  { source: "Google Actualités — Éco", url: "https://news.google.com/rss/search?q=(%C3%A9conomie%20OR%20march%C3%A9s%20OR%20inflation%20OR%20%22banque%20centrale%22)%20when:2d&hl=fr&gl=FR&ceid=FR:fr" },
+  // Géopolitique / relations internationales
+  { source: "Le Monde International", url: "https://www.lemonde.fr/international/rss_full.xml" },
+  { source: "Le Monde Diplomatique", url: "https://www.monde-diplomatique.fr/rss" },
+  { source: "Project Syndicate", url: "https://www.project-syndicate.org/rss" },
+  { source: "Courrier International", url: "https://www.courrierinternational.com/feed/all/rss.xml" },
+  { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+  { source: "Politico EU", url: "https://www.politico.eu/feed/" },
+  { source: "RFI Monde", url: "https://www.rfi.fr/fr/monde/rss" },
+  // Éco France
+  { source: "Le Monde Éco", url: "https://www.lemonde.fr/economie/rss_full.xml" },
+  // Innovation / IA / tech
   { source: "MIT Technology Review", url: "https://www.technologyreview.com/feed/" },
+  { source: "MIT Sloan Review", url: "https://sloanreview.mit.edu/feed/" },
+  { source: "Ars Technica", url: "https://feeds.arstechnica.com/arstechnica/index" },
+  { source: "Hacker News", url: "https://hnrss.org/frontpage?points=150" },
+  // Science
+  { source: "Nature", url: "https://www.nature.com/nature.rss" },
 ];
 
-const MAX_ITEMS = 90;          // nombre max d'actus gardées (toutes sources confondues)
-const PER_FEED = 10;           // plafond par source → garantit la diversité
-const SUMMARY_LEN = 240;       // longueur max du résumé
+const MAX_ITEMS = 48;          // total gardé (mieux vaut 48 excellents que 90 moyens)
+const PER_FEED = 6;            // plafond par source (diversité)
+const SUMMARY_LEN = 360;       // résumés plus riches (2-4 phrases quand dispo)
+
+// Mots-clés de valeur (FR + EN). Un item sans aucun mot-clé est écarté ;
+// le score sert aussi à classer les items d'un même flux.
+const KEYWORDS = [
+  // macro / marchés / finance
+  "économie", "economy", "economic", "inflation", "taux", "interest rate", "central bank",
+  "banque centrale", "fed", "bce", "ecb", "monetary", "récession", "recession", "croissance",
+  "growth", "pib", "gdp", "dette", "debt", "déficit", "deficit", "budget", "bourse", "marché",
+  "market", "stocks", "actions", "bond", "obligation", "yield", "trader", "wall street",
+  "earnings", "résultats", "profit", "revenue", "valuation", "ipo", "merger", "acquisition",
+  "fusion", "m&a", "investissement", "investment", "fund", "private equity", "venture", "capital",
+  "startup", "banque", "bank", "crédit", "monnaie", "currency", "dollar", "euro", "commodities",
+  // énergie / défense
+  "énergie", "energy", "pétrole", "oil", "gaz", "gas", "nucléaire", "nuclear", "électricité",
+  "défense", "defense", "defence", "military", "militaire", "armement", "weapons", "otan", "nato",
+  // géopolitique
+  "géopolitique", "geopolitics", "guerre", "war", "conflit", "conflict", "diplomatie", "diplomacy",
+  "sanctions", "traité", "treaty", "élection", "election", "chine", "china", "russie", "russia",
+  "ukraine", "états-unis", "united states", "europe", "afrique", "africa", "moyen-orient",
+  "middle east", "inde", "india", "souveraineté", "trade", "commerce", "tariff", "droits de douane",
+  // innovation / IA / tech
+  "ia", "ai", "intelligence artificielle", "artificial intelligence", "machine learning",
+  "algorithm", "algorithme", "semiconductor", "semi-conducteur", "chip", "puce", "quantum",
+  "quantique", "technologie", "technology", "innovation", "software", "cloud", "data", "données",
+  "cyber", "robot", "nvidia", "openai", "startup",
+  // science
+  "science", "recherche", "research", "study", "étude", "découverte", "discovery", "climat",
+  "climate", "espace", "space", "physique", "physics", "biologie", "biology", "génome", "genome",
+  "médecine", "medicine", "énergie",
+];
 
 const parser = new XMLParser({ ignoreAttributes: false });
 
-const NAMED = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", laquo: "«", raquo: "»", hellip: "…", eacute: "é", egrave: "è", agrave: "à", ccedil: "ç", ugrave: "ù", ocirc: "ô", euml: "ë" };
+const NAMED = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", laquo: "«", raquo: "»", hellip: "…", eacute: "é", egrave: "è", agrave: "à", ccedil: "ç", ugrave: "ù", ocirc: "ô", euml: "ë", rsquo: "’", ldquo: "“", rdquo: "”", mdash: "—", ndash: "–" };
 
 function decodeEntities(s) {
   return s
@@ -46,21 +79,37 @@ function decodeEntities(s) {
 
 function clean(html = "") {
   return decodeEntities(
-    String(html)
-      .replace(/<!\[CDATA\[|\]\]>/g, "")
-      .replace(/<[^>]+>/g, "")
+    String(html).replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]+>/g, "")
   ).replace(/\s+/g, " ").trim();
 }
 
 function truncate(s, n) {
-  return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s;
+  if (s.length <= n) return s;
+  const cut = s.slice(0, n);
+  const lastDot = cut.lastIndexOf(". ");
+  return (lastDot > n * 0.5 ? cut.slice(0, lastDot + 1) : cut.trimEnd() + "…");
 }
 
-// Normalise une date de flux (RFC822, ISO, dc:date…) en YYYY-MM-DD, sinon "".
+// Nettoie les titres Google News (« Titre - Média »).
+function cleanTitle(t) {
+  return clean(t).replace(/\s+-\s+[^-]{2,40}$/u, "").trim();
+}
+
 function normDate(raw) {
   if (!raw) return "";
   const t = Date.parse(String(raw));
   return Number.isNaN(t) ? "" : new Date(t).toISOString().slice(0, 10);
+}
+
+function relevance(title, summary) {
+  const hay = (title + " " + summary).toLowerCase();
+  const titleLow = title.toLowerCase();
+  let score = 0;
+  for (const kw of KEYWORDS) {
+    if (titleLow.includes(kw)) score += 2;
+    else if (hay.includes(kw)) score += 1;
+  }
+  return score;
 }
 
 async function fetchFeed(feed) {
@@ -75,48 +124,53 @@ async function fetchFeed(feed) {
     if (!res.ok) throw new Error("HTTP " + res.status);
     const xml = await res.text();
     const data = parser.parse(xml);
-    // RSS 2.0 (rss.channel.item), Atom (feed.entry) ou RDF/RSS 1.0 (rdf:RDF.item, ex. DW).
     const items = data?.rss?.channel?.item || data?.feed?.entry || data?.["rdf:RDF"]?.item || [];
     const arr = Array.isArray(items) ? items : [items];
     return arr.map((it) => {
       const rawLink = Array.isArray(it.link) ? it.link[0] : it.link;
       const link = typeof rawLink === "object" ? rawLink["@_href"] || rawLink["#text"] : rawLink;
+      const title = cleanTitle(it.title?.["#text"] || it.title);
+      const summary = truncate(clean(it["content:encoded"] || it.description || it.summary || it.content || ""), SUMMARY_LEN);
       return {
         type: "news",
-        title: clean(it.title?.["#text"] || it.title),
-        summary: truncate(clean(it.description || it.summary || it.content || it["content:encoded"] || ""), SUMMARY_LEN),
+        title,
+        summary,
         source: feed.source,
-        link: (link || "").trim(),
+        link: String(link || "").trim(),
         date: normDate(it.pubDate || it.published || it.updated || it["dc:date"] || ""),
+        score: relevance(title, summary),
       };
-    }).filter((x) => x.title).slice(0, PER_FEED);
+    })
+      .filter((x) => x.title && x.score >= 1)     // écarte les items hors-thème
+      .sort((a, b) => b.score - a.score)          // meilleurs d'abord
+      .slice(0, PER_FEED);
   } catch (e) {
     console.warn(`⚠️  ${feed.source} ignoré : ${e.message}`);
     return [];
   }
 }
 
-// Un tableau d'actus par source (chacun déjà trié du plus récent, plafonné).
 const perFeed = await Promise.all(FEEDS.map(fetchFeed));
 
-// Dédoublonnage global par titre.
+// Dédoublonnage global par titre normalisé.
 const seen = new Set();
 for (const list of perFeed) {
   for (let i = list.length - 1; i >= 0; i--) {
-    const k = list[i].title.toLowerCase();
+    const k = list[i].title.toLowerCase().replace(/\s+/g, " ").trim();
     if (seen.has(k)) list.splice(i, 1);
     else seen.add(k);
   }
 }
 
-// Entrelacement round-robin : chaque source contribue à tour de rôle
-// → diversité garantie même quand une source est très prolifique.
+// Round-robin : chaque source contribue à tour de rôle (diversité garantie).
 const out = [];
 const lists = perFeed.filter((l) => l.length);
 for (let round = 0; out.length < MAX_ITEMS && lists.some((l) => l.length); round++) {
   for (const list of lists) {
     if (round < list.length) {
-      out.push(list[round]);
+      const item = { ...list[round] };
+      delete item.score;                          // le score ne sert qu'au tri
+      out.push(item);
       if (out.length >= MAX_ITEMS) break;
     }
   }

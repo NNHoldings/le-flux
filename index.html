@@ -7,10 +7,10 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Le Flux" />
-  <meta name="description" content="Un scroll qui te rend meilleur : actus éco/géo, mandarin, finance, révisions DEC." />
+  <meta name="description" content="Un scroll qui te rend meilleur : macro, marchés, géopolitique, IA, mandarin, finance, DEC, histoire." />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="点滴 · Le Flux" />
-  <meta property="og:description" content="Un scroll qui te rend meilleur : actus éco/géo, mandarin, finance, révisions DEC." />
+  <meta property="og:description" content="Un scroll qui te rend meilleur : macro, marchés, géopolitique, IA, mandarin, finance, DEC, histoire." />
   <meta property="og:image" content="./icons/icon-512.png" />
   <meta name="twitter:card" content="summary" />
   <link rel="apple-touch-icon" href="./icons/icon-180.png" />
@@ -23,19 +23,19 @@
     <div class="bar-top">
       <span class="brand">点滴 <span class="brand-sub">Le Flux</span></span>
       <div class="bar-actions">
+        <span class="offline" id="offline" hidden title="Hors ligne — contenu servi depuis le cache">hors ligne</span>
         <span class="stats" id="stats" aria-live="polite"></span>
         <button class="icon-btn" id="refresh" aria-label="Rafraîchir le flux" title="Rafraîchir">↻</button>
       </div>
     </div>
-    <div class="filters" id="filters"></div>
+    <nav class="filters" id="filters" aria-label="Filtrer par catégorie"></nav>
   </header>
 
   <main id="feed" class="feed" aria-live="polite"></main>
 
   <div id="sentinel" class="sentinel"></div>
-
   <div id="status" class="status">Chargement…</div>
 
-  <script type="module" src="./app.js"></script>
+  <script type="module" src="./js/main.js"></script>
 </body>
 </html>

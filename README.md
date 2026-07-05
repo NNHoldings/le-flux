@@ -1,74 +1,108 @@
 # 点滴 · Le Flux
 
-Ton flux personnel enrichissant pour remplacer le scroll réflexe : actus éco/géo,
-flashcards de mandarin, concepts de finance, fiches de révision DEC.
+Un scroll qui te rend meilleur. Un feed infini de cartes mélangées — actualités à
+haute valeur (macro, marchés, géopolitique, énergie, IA, science), flashcards de
+**mandarin**, concepts de **finance**, révisions **DEC**, notions d'**IA/tech** et
+d'**histoire** — avec **répétition espacée** pour vraiment mémoriser.
 
-**Architecture (coût = 0 €)**
-- PWA statique (HTML/CSS/JS, aucun build) servie par **GitHub Pages**.
-- Un **cron GitHub Actions** rafraîchit les actus chaque matin depuis des flux RSS.
-- Un **job manuel** génère des cartes via **GitHub Models** (IA gratuite, jeton intégré).
-- L'app ne fait que lire des fichiers JSON → **zéro appel API à l'usage**.
+**Coût = 0 €.** PWA statique servie par GitHub Pages, alimentée par GitHub Actions
+et GitHub Models (IA gratuite). Aucun backend, aucune clé API, aucun build.
 
----
-
-## 1. Mettre en ligne (une seule fois, ~5 min)
-
-1. Crée un dépôt GitHub **public** (public = Actions + Pages 100 % gratuits) et pousse ces fichiers :
-   ```bash
-   git init && git add . && git commit -m "init le flux"
-   git branch -M main
-   git remote add origin https://github.com/TON_USER/le-flux.git
-   git push -u origin main
-   ```
-2. **Active Pages** : *Settings → Pages → Build and deployment → Source : « Deploy from a branch » → Branch : `main` / `/ (root)` → Save.*
-   Ton app sera dispo à `https://TON_USER.github.io/le-flux/` (compte ~1 min au 1er déploiement).
-3. **Autorise les workflows à écrire** (pour que le cron puisse committer les actus) :
-   *Settings → Actions → General → Workflow permissions → « Read and write permissions » → Save.*
-
-## 2. Installer sur iPhone
-
-Ouvre `https://TON_USER.github.io/le-flux/` **dans Safari** → bouton Partager →
-**« Sur l'écran d'accueil »**. Une vraie icône apparaît, l'app se lance en plein écran
-et fonctionne hors-ligne. (L'installation ne marche que depuis Safari sur iOS.)
-
-## 3. Alimenter le flux
-
-**Actus** — automatique chaque matin. Pour lancer tout de suite : onglet *Actions →
-« Mise à jour des actus » → Run workflow*. Édite la liste des flux RSS dans
-[`scripts/fetch-news.mjs`](scripts/fetch-news.mjs).
-
-**Cartes IA (mandarin / finance / DEC)** — **automatique 3×/jour** aussi
-(07h30 / 13h30 / 19h30 Paris) : matin = mandarin, midi = finance, soir = DEC,
-avec un thème qui tourne chaque jour. Aucune action requise.
-Pour forcer un type / thème précis : onglet *Actions → « Générer des cartes (IA) »
-→ Run workflow*, choisis le type, le thème (ex. `IFRS 15`, `NEP 240`) et le nombre.
-Les cartes sont ajoutées au JSON correspondant et committées automatiquement.
-Tu peux aussi déclencher tout ça depuis l'app **GitHub** sur ton iPhone.
-
-**Sources d'actus** — 16 flux diversifiés, français ET anglais : éco (Le Monde,
-Le Figaro, France Info), géopolitique/monde (Le Monde Intl, RFI, Courrier Intl,
-BBC World, Al Jazeera, NPR, DW, Politico EU), finance/marchés (BBC Business,
-The Economist, CNBC), tech (Hacker News, MIT Tech Review). Un round-robin garantit
-que chaque source apparaît dans le flux. Édite la liste dans
-[`scripts/fetch-news.mjs`](scripts/fetch-news.mjs) → `FEEDS`.
+**En ligne :** https://nnholdings.github.io/le-flux/
 
 ---
 
-## Personnalisation
+## 1. Comment ça marche
+
+- **PWA statique** (HTML/CSS/JS vanilla, modules ES) — pas de bundler, pas de framework.
+- Un **cron GitHub Actions** rafraîchit les actus 3×/jour depuis ~18 flux RSS,
+  filtrés par un **scoring de pertinence** (macro, marchés, géopolitique, énergie,
+  défense, IA, tech, science) pour éliminer les faits divers.
+- Un autre **cron 3×/jour** génère des flashcards (mandarin / finance / DEC / IA /
+  histoire) via GitHub Models, en rotation automatique.
+- L'app ne fait que **lire des JSON** → zéro appel API à l'usage. Elle fonctionne
+  **hors ligne** après la première visite (Service Worker).
+
+### Répétition espacée (SRS)
+Sur chaque flashcard, après révélation : **« ✓ Je savais »** / **« ↻ À revoir »**.
+Les intervalles s'allongent à chaque succès (1 → 3 → 7 → 16 → 35 → 75 → 150 jours) ;
+une carte « à revoir » revient à J+1. Les cartes non dues sont **exclues** du feed
+tant qu'elles ne sont pas à échéance. Tout est stocké en `localStorage`.
+
+### Diversité
+Un **entrelacement contraint** évite plus de 2 cartes du même type d'affilée et
+mixe naturellement actus et apprentissage. Les articles déjà vus ne réapparaissent
+pas tant qu'il reste du neuf ; quand tout est vu, une carte « tu es à jour » s'affiche.
+
+---
+
+## 2. Mettre en ligne (une seule fois)
+
+1. Repo GitHub **public** (public = Actions + Pages gratuits), pousse ces fichiers.
+2. **Pages → Source = « GitHub Actions »** (le déploiement est géré par
+   `.github/workflows/deploy-pages.yml`, plus fiable que « Deploy from a branch »).
+3. **Settings → Actions → General → « Read and write permissions »** (le bot commite
+   les actus et les cartes).
+
+## 3. Installer sur iPhone
+
+Ouvre l'URL **dans Safari** → Partager → **« Sur l'écran d'accueil »**. L'app se lance
+en plein écran et fonctionne hors-ligne.
+
+## 4. Alimenter le flux
+
+- **Actus** : automatique 3×/jour. Manuel : *Actions → « Mise à jour des actus »*.
+  Sources dans [`scripts/fetch-news.mjs`](scripts/fetch-news.mjs) → `FEEDS` (+ mots-clés
+  de scoring dans `KEYWORDS`).
+- **Cartes IA** : automatique 3×/jour, rotation sur les 5 types d'apprentissage.
+  Manuel avec thème précis : *Actions → « Générer des cartes (IA) »*.
+
+---
+
+## 5. Architecture du code
+
+```
+index.html            shell PWA (topbar : stats, refresh, filtres ; feed)
+styles.css            thème dark, 6 accents, animations sobres, reduced-motion
+js/
+  config.js           configuration centrale (types, ratios feed, paliers SRS, clés)
+  srs.js              répétition espacée (Leitner à paliers) — pur, testé
+  feed.js             dédup, clés stables, shuffle à graine, entrelacement — pur, testé
+  store.js            localStorage (vus, SRS, stats, prefs) + migration + purge 30 j
+  render.js           rendu DOM des cartes (flashcards, actus, pause, « à jour »)
+  main.js             orchestration : chargement, deck, scroll infini, filtres, offline
+sw.js                 Service Worker : shell cache-first, data stale-while-revalidate
+data/*.json           news, flashcards (mandarin), finance, dec, ia, histoire
+scripts/
+  fetch-news.mjs      RSS → news.json (scoring, dédup, round-robin, résumés riches)
+  daily-digest.mjs    « L'essentiel du jour » (3 points, GitHub Models) — non bloquant
+  generate-content.mjs cartes IA (6 types, rotation auto) — GitHub Models
+  selftest.mjs        tests de la logique pure (`npm test`)
+.github/workflows/
+  update-news.yml     cron 3×/j : actus + synthèse
+  generate-content.yml cron 3×/j : cartes IA (+ manuel)
+  deploy-pages.yml    déploiement Pages sur push main
+```
+
+## 6. Développement
+
+```bash
+npm install
+npm test        # logique pure : SRS, dédup, entrelacement, migration
+npm run news    # récupère les actus → data/news.json
+npm run generate GITHUB_TOKEN=… TYPE=ia TOPIC="les LLM" COUNT=6
+```
+Pour l'UI : `npx serve` puis ouvrir au viewport iPhone. Node 20+.
+
+## 7. Personnalisation
 
 | Envie | Où |
 |---|---|
-| Changer les flux RSS | `scripts/fetch-news.mjs` → `FEEDS` |
-| Ajouter/éditer des cartes à la main | `data/flashcards.json`, `data/finance.json`, `data/dec.json` |
+| Sources / mots-clés d'actus | `scripts/fetch-news.mjs` (`FEEDS`, `KEYWORDS`) |
+| Ratios du feed, paliers SRS | `js/config.js` (`FEED`, `SRS`) |
+| Thèmes de génération auto | `scripts/generate-content.mjs` (`AUTO_TOPICS`) |
 | Couleurs / thème | `styles.css` (variables `:root`) |
-| Rythme du cron | `.github/workflows/update-news.yml` → `cron` |
+| Rythme des crons | `.github/workflows/*.yml` (`cron`) |
 
-## Notes
-
-- **GitHub Models** : l'ID de modèle et l'endpoint peuvent évoluer. Si le job IA renvoie
-  une erreur de modèle, vérifie l'ID courant sur https://github.com/marketplace/models
-  et ajuste `ENDPOINT` / `MODEL` en tête de `scripts/generate-content.mjs`.
-- Le palier gratuit de GitHub Models a un débit limité par minute : pour de gros lots,
-  génère en plusieurs passes (ex. 10 cartes à la fois).
-- Repo public = le contenu JSON est visible publiquement. Comme il ne contient que des
-  actus, du vocabulaire et des fiches, aucun souci de confidentialité.
+Repo public = le contenu JSON (actus, vocabulaire, fiches) est visible publiquement.
+Rien de personnel ni de confidentiel n'y figure.
