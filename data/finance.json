@@ -1,6 +1,36 @@
 [
   {
     "type": "finance",
+    "term": "Impôt sur les sociétés",
+    "explanation": "L'impôt sur les sociétés (IS) est un impôt direct qui est prélevé sur le bénéfice des entreprises. Le taux d'imposition peut varier en fonction de la taille de l'entreprise et de son secteur d'activité."
+  },
+  {
+    "type": "finance",
+    "term": "TVA (Taxe sur la Valeur Ajoutée)",
+    "explanation": "La TVA est une taxe indirecte sur la consommation qui est perçue à chaque étape de la chaîne de production et de distribution. Les entreprises collectent la TVA sur leurs ventes et peuvent récupérer celle qu'elles ont payée sur leurs achats."
+  },
+  {
+    "type": "finance",
+    "term": "Déductibilité fiscale",
+    "explanation": "La déductibilité fiscale permet aux entreprises de réduire leur base imposable en soustrayant certaines charges et dépenses. Cela inclut des éléments comme les salaires, les intérêts d'emprunt et les frais de fonctionnement."
+  },
+  {
+    "type": "finance",
+    "term": "Crédit d'impôt",
+    "explanation": "Un crédit d'impôt est une réduction d'impôt qui peut être accordée aux entreprises pour inciter certaines activités, comme la recherche et le développement. Il permet de réduire le montant de l'impôt dû, souvent dans une limite déterminée."
+  },
+  {
+    "type": "finance",
+    "term": "Régime fiscal des sociétés",
+    "explanation": "Le régime fiscal des sociétés définit le cadre réglementaire et les obligations fiscales auxquelles les entreprises doivent se conformer. Cela inclut le choix entre l'imposition sur le bénéfice réel ou simplifié."
+  },
+  {
+    "type": "finance",
+    "term": "Contrôle fiscal",
+    "explanation": "Le contrôle fiscal est une vérification effectuée par l'administration fiscale pour s'assurer de la conformité des déclarations fiscales des entreprises. Cela peut entraîner des ajustements d'impôts et des pénalités en cas de non-conformité."
+  },
+  {
+    "type": "finance",
     "term": "Analyse financière",
     "explanation": "L'analyse financière est un processus d'évaluation de la santé financière d'une entreprise à l'aide de ses états financiers. Elle permet d'identifier les forces et les faiblesses, d'évaluer la rentabilité et la solvabilité, et d'aider à la prise de décisions stratégiques."
   },
