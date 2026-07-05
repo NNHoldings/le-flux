@@ -1,6 +1,42 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "快乐",
+    "pinyin": "kuàilè",
+    "fr": "heureux"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "生气",
+    "pinyin": "shēngqì",
+    "fr": "en colère"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "担心",
+    "pinyin": "dān xīn",
+    "fr": "inquiet"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuān",
+    "fr": "aimer"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "失望",
+    "pinyin": "shīwàng",
+    "fr": "déçu"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "认为",
+    "pinyin": "rènwéi",
+    "fr": "penser/croire"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "新闻",
     "pinyin": "xīnwén",
     "fr": "nouvelles"
