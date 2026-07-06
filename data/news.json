@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés sont en tension entre inflation et récession, impactant les obligations.",
-      "La guerre en Ukraine continue d'affecter la sécurité en Europe, avec des appels à des actions fermes au sommet de l'OTAN.",
-      "L'IA progresse rapidement, suscitant des préoccupations parmi les banquiers et les régulateurs européens."
+      "Les marchés sont en alerte face aux tensions géopolitiques entre l'Ukraine et la Russie.",
+      "L'Europe peine à sécuriser ses approvisionnements en gaz malgré la trêve au Moyen-Orient.",
+      "L'impact de l'inflation et de la récession continue de se faire sentir sur les marchés obligataires."
     ],
     "source": "Le Flux",
     "date": "2026-07-06"
@@ -37,26 +37,26 @@
   },
   {
     "type": "news",
-    "title": "AI is outpacing the rules, Europe’s top bankers and regulators warn",
-    "summary": "Europe's top bankers and financial regulators are grappling with how to better regulate AI risks.",
+    "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
+    "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/03/ai-outpacing-rules-europe-top-bankers-regulators-warn.html",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés",
-    "summary": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés Les Echos",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTGxETnMyR1dfYlRTNU5CRHM4bTVsUHFmMmFKQy01ZmZiXzlqZHc5eTJDQ0ZObFhGT25FVE5UTm1PTXFaendyQXFDa21MMnNQM1h5UmJTLVlxVjVJbmtQTHNwUWZCdEFXQ2wwak1OMVZHZ1l6VGJiOGJEMTg0OWwteVE4YWljUVE2RUcweE5LZ0pJcXllWWRlUDNRRjhzci1nd3dLbTQ3eXBxcnRjYVBBU2pFOEt6aWhzd1dNSk9GUE9SZXJJUEZ0YVU3dUxJNHdpS1o3Qm5uRzNUR2RnSjhkazlyV1hEbzBETHQ4?oc=5",
+    "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky appelle ses alliés à prendre des « décisions fermes » au sommet de l’OTAN",
-    "summary": "Le président ukrainien a condamné l’« attaque massive » lancée par la Russie dans la nuit, qui a fait au moins 11 morts à Kiev et 3 autres dans l’oblast de la capitale.",
+    "title": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés",
+    "summary": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés Boursorama",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUtIB-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUg?oc=5",
+    "date": "2026-07-06"
+  },
+  {
+    "type": "news",
+    "title": "Malgré la trêve au Moyen-Orient, l’Europe tarde à remplir ses stocks de gaz",
+    "summary": "Les prix du gaz ont diminué bien moins rapidement que ceux du pétrole depuis le début des pourparlers qui ont eu lieu, à la mi-juin, entre les Etats-Unis et l’Iran. Le signe d’un marché qui demeure plus tendu.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-appelle-ses-allies-a-prendre-des-decisions-fermes-au-sommet-de-l-otan_6720832_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/06/gaz-malgre-la-treve-au-moyen-orient-l-europe-tarde-a-remplir-ses-stocks_6721162_3234.html",
     "date": "2026-07-06"
   },
   {
@@ -69,26 +69,26 @@
   },
   {
     "type": "news",
-    "title": "How to Empower Africa’s Multilateral Development Banks",
-    "summary": "Capitalizing multilateral development banks in Africa is a strategic investment in the continent’s economic transformation. To mobilize adequate funding will require leveraging domestic savings, pursuing monetary integration, using innovative financing mechanisms, and strengthening regional capital markets.",
+    "title": "Europe Must Face the World on Its Own",
+    "summary": "Under pressure from Russian aggression—which has reached its full expression in the ongoing war against Ukraine—and an increasingly hostile US administration, Europe urgently needs to make progress toward a defense union. But that will require Franco-German leadership of the kind that is not yet on offer.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/africa-multilateral-development-banks-must-be-better-capitalized-by-hippolyte-fofack-2026-06",
-    "date": "2026-06-30"
-  },
-  {
-    "type": "news",
-    "title": "La vraie raison pour laquelle les Français n’ont pas la clim",
-    "summary": "Climatisation à outrance d’un côté, surchauffe de l’autre : depuis le dernier épisode caniculaire en France, cet autre fossé entre Américains et Européens a été amplement médiatisé. Pour cet auteur américain, les différentes approches face à la climatisation s’expliquent par des conceptions très différentes de la souffrance physique et du sacrifice, d’une ri…",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-des-etats-unis-la-vraie-raison-pour-laquelle-les-francais-n-ont-pas-la-clim_245855",
+    "link": "https://www.project-syndicate.org/commentary/european-defense-union-should-be-franco-german-priority-by-joschka-fischer-2026-07",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-    "summary": "Ukrainian President Volodymyr Zelenskyy had warned of a likely attack ahead of meeting with US President Donald Trump.",
+    "title": "La compagnie britannique easyJet prête à passer sous contrôle américain",
+    "summary": "La compagnie aérienne à bas coûts easyJet vient d’accepter une offre de rachat du fonds américain Castlelake. Une opération qui intervient dans un contexte économique difficile pour le secteur, du fait de la flambée des prix du carburant provoquée par la guerre au Moyen-Orient. Ce lundi 6 juillet, à la Bourse de Londres, le cours de l’action easyJet a bondi.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/transport-la-compagnie-britannique-easyjet-prete-a-passer-sous-controle-americain_247074",
+    "date": "2026-07-06"
+  },
+  {
+    "type": "news",
+    "title": "Large-scale Russian attack on Ukraine before NATO summit",
+    "summary": "Large-scale Russian attack on Ukraine before NATO summit",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
     "date": "2026-07-06"
   },
   {
@@ -109,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "« André Gorz a pressenti comment le capitalisme allait s’emparer de l’IA » : entretien avec l’économiste Christophe Fourel et le mathématicien Cédric Villani",
-    "summary": "Plus de vingt ans après sa rédaction, la version augmentée par le philosophe de son texte « L’Immatériel » est enfin publiée. Les préfaciers, Christophe Fourel et Cédric Villani, expliquent dans un entretien au « Monde » combien ce livre lumineux, qui explore la mutation en cours du capitalisme, éclaire le débat sur l’intelligence artificielle.",
+    "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
+    "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/05/andre-gorz-a-pressenti-comment-le-capitalisme-allait-s-emparer-de-l-ia-entretien-avec-l-economiste-christophe-fourel-et-le-mathematicien-cedric-villani_6720828_3232.html",
-    "date": "2026-07-05"
+    "link": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -141,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-    "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 160 # Comments: 95",
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "summary": "Article URL: https://arxiv.org/abs/2605.20049 Comments URL: https://news.ycombinator.com/item?id=48798815 Points: 167 # Comments: 83",
     "source": "Hacker News",
-    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "link": "https://arxiv.org/abs/2605.20049",
     "date": "2026-07-05"
   },
   {
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
-    "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
+    "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
+    "summary": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the tough task Brussels faces in rebalancing trade with Beijing.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
-    "date": "2026-07-06"
+    "link": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "La Bourse de Paris attendue sans grand élan, les marchés attendent que les résultats prennent le relais",
-    "summary": "La Bourse de Paris attendue sans grand élan, les marchés attendent que les résultats prennent le relais Les Echos",
+    "title": "Comment les marchés publics de travaux intègrent l’économie circulaire ? Panorama des pratiques dans l’Union européenne",
+    "summary": "Comment les marchés publics de travaux intègrent l’économie circulaire ? Panorama des pratiques dans l’Union européenne Le Moniteur",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeDV1Y1plYzNndFB0eWlZZzlzcWlQUU9XRVBXYTFSYXBPZFBvb1p1V1NzNHVNNzd5N1pxaFJfZzBpa3NVR2otV05NMVpKU0FGNTBJc01SUGZxN2s1OExBZDJzZWlrQmR6UjhxajlNbE1QcFRpS1JXQWxybmRZaS02MHdydlcxRm1GaWwwVTJ1RmkxcGVrMTNzMWhFN21ETmV2S3I0NU8ySk1BR2E3aDRwQmJaTm5GRFlwMkNDVk9aN3VabHEzc1BSa3dMZGY4RzdMdHpkV05oZDhMVk9MUkFycjg2LUN4RzNPTFZKSnVlbzNObGJkVnhWcU1jcXFrSmthT0cw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOREY0WTdFV2NvSVJuYW9DVEhycGVBbi0zd0hHdVdZVXpLbHg0N0RwTWM3eDhrczBzeFF2b3dGWTVGWnR2WUdMZ3hkRmR1c1lDVUF1a2w5bVBSTFlhTExjQ0hZdERSd1VTQmE1R3Y0Z0M1Wl96TFo2RXdyWGN1elNLTXd1bDMwVFRtOGIxTXp3X0xDSkZxSzZva0I0TzBJUVZmeVBscGJnTjlCT3hzSk1zaGpfamkwd2lmamtmMFdxeDhBeFI2RWxjQV9zRUl5T2xYdlItSVdVX3VKTVFxV3RJTkpLT3FLV293RHkzVjBOVkdaM2lSREN2bUVqOEE1bnlQUUg1MERMLUxXVjJqUWI2RWdnd3dlVjg?oc=5",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : au moins dix morts dans la région de Kiev, visée par des missiles balistiques russes",
-    "summary": "Neuf personnes ont été tuées dans la capitale ukrainienne et une dans le district de Boutcha, en périphérie. Les autorités locales ont recensé plusieurs dizaines de blessés.",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion en urgence du Conseil de sécurité de l’ONU après les frappes russes nocturnes",
+    "summary": "Volodymyr Zelensky a condamné l’« attaque massive » lancée par la Russie dans la nuit de dimanche à lundi, qui a fait au moins 12 morts dans la capitale ukrainienne et six autres dans son oblast.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/video/2026/07/06/guerre-en-ukraine-au-moins-dix-morts-dans-la-region-de-kiev-visee-par-des-missiles-balistiques-russes_6721152_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-en-urgence-du-conseil-de-securite-de-l-onu-apres-les-frappes-russes-nocturnes_6720832_3210.html",
     "date": "2026-07-06"
   },
   {
@@ -229,18 +229,18 @@
   },
   {
     "type": "news",
-    "title": "China missile test draws criticism from Australia, New Zealand, Japan",
-    "summary": "Countries raise concerns after Chinese military test-launches ballistic missile from submarine in the Pacific Ocean.",
+    "title": "Hamas announces dissolution of Gaza governing body",
+    "summary": "A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Zelenskyy demands Western support after Russian strikes kill 11 in Kyiv",
-    "summary": "Ukrainian President Volodymyr Zelenskyy renewed his calls for more Patriot missiles Monday as Russia’s latest missile attacks killed at least 11 people and injured 46 in Kyiv on Sunday night.",
+    "title": "Britain heads to NATO summit with no funding plan",
+    "summary": "ABOARD THE HMS PRINCE OF WALES — The U.K. will show up at this week’s NATO summit with no long-term plan to reach alliance spending targets, something Defence Secretary Dan Jarvis told POLITICO is “mission critical” to deliver as soon as possible. “Those were the assurances that I was giving to NATO partners when I was in Brussels a couple of weeks ago.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russian-attack-kyiv-kills-11-injures-46/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/dan-jarvis-britain-nato-summit-alliance-funding-plan-mission-critical/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-06"
   },
   {
@@ -253,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
-    "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
+    "title": "EasyJet, deuxième compagnie aérienne européenne, accepte une offre de rachat du fonds américain Castlelake à 6 milliards d’euros",
+    "summary": "La compagnie britannique, qui dessert 164 aéroports dans 38 pays et a transporté 93,4 millions de passagers en 2024-2025, dispose d’actifs très recherchés, comme une flotte de plus de 350 Airbus A320.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
-    "date": "2026-07-06"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/05/easyjet-deuxieme-compagnie-aerienne-europeenne-accepte-une-offre-de-rachat-du-fonds-americain-castlelake-a-6-milliards-d-euros_6720917_3234.html",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scie…",
+    "title": "Why California’s carbon manure math doesn’t add up",
+    "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "date": "2026-07-01"
+    "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
@@ -285,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "Completing a computer science degree on Coursera",
-    "summary": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 194 # Comments: 122",
+    "title": "Real-time map of Great Britain's rail network",
+    "summary": "Article URL: https://www.map.signalbox.io Comments URL: https://news.ycombinator.com/item?id=48802535 Points: 253 # Comments: 98",
     "source": "Hacker News",
-    "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-    "date": "2026-07-05"
+    "link": "https://www.map.signalbox.io",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -325,27 +325,27 @@
   },
   {
     "type": "news",
-    "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
-    "summary": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the tough task Brussels faces in rebalancing trade with Beijing.",
+    "title": "'Electronic warfare is a tech phenomenon': Why the market is rethinking defense valuations",
+    "summary": "There's a growing investment in newer areas of defense such as deep strike capabilities, anti-drone and unmanned systems, with different priorities for different countries.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html",
-    "date": "2026-07-02"
-  },
-  {
-    "type": "news",
-    "title": "La Bourse de Paris sans grand élan, les marchés attendent que les résultats prennent le relais",
-    "summary": "La Bourse de Paris sans grand élan, les marchés attendent que les résultats prennent le relais Les Echos",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS21ZN3RGcEVlRXRTajlBUTN4WlBEVTB3cXhMWXlicWVYbzFtdElRdk9oOGdjeWV0TTQ3RXhoc2JkaXViODE1SGRxb1lra1BxSkRweWtwUkdGYk0xdVFJNjZWSDBjN3N0cDI0MUYzQUNCUnZIRjdXalN0enhuZEJocVJUbktZd3ZCWWdmZ2xyT1ZyNVNCTFgxbkZIWmhRY3BZVGxKcUlDN1dWck56RWI0anJNWU04S2dVaWx2OWw2RzZZSzZEelVFMFNPcjVtZ2ktX0ZCZ1FEcjE0ZjFjNnQ2ZDM0RGpBSmtlNW10cG9XWng1NnZWb2Jz?oc=5",
+    "link": "https://www.cnbc.com/2026/07/06/defense-tech-stocks-drones-electronic-warfare-valuation.html",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "La course hippique Durban July, un « Ascot sud-africain » miroir des aspirations multiraciales et des fractures sociales du pays",
-    "summary": "Chaque premier samedi de juillet, la plus prestigieuse course de chevaux d’Afrique se tient à Durban. Un rendez-vous mondain qui aspire à être imperméable aux divisions de la société.",
+    "title": "Dette, inflation, récession : le scénario noir du Mécanisme européen de stabilité",
+    "summary": "Dette, inflation, récession : le scénario noir du Mécanisme européen de stabilité Le Point",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTdUTXA5SGRiQkllcnFwbTI5VUp0ZWZwcXRaVDF0TGJ0WHhNSzRJUV85dHNwTm9iSGwtN2xYUEZCbThVZWF5Y1dLS1gxWUpLSjVneHVHcERnc1dKMVNraUhMU1hYc1FmNzVtdUduZGJFWXU5ZDNjQnJRUk5FbjlEUG5OQmNNT0ZsajhSZGE1cnVqNGtvSkYwNGRpNG5JSWg2RG9FTkhwamN4aVhpRlJkS0U2aDBqUWV6ZVBhRkh3V3kzX0M3dTRCTk1YcFZWR292Q1RZ?oc=5",
+    "date": "2026-07-06"
+  },
+  {
+    "type": "news",
+    "title": "Marc Pierini, diplomate : « Le président turc entend monnayer son appui sécuritaire à l’Europe »",
+    "summary": "Octroyer à Recep Tayyip Erdogan un rôle central dans l’architecture européenne de sécurité reviendrait à atteler la défense du continent à un chef d’Etat qui, à l’unisson de ses partenaires au Kremlin et à la Maison Blanche, renie l’Etat de droit, estime Marc Pierini, ancien ambassadeur de l’Union européenne en Turquie, dans une tribune au « Monde ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/05/la-course-hippique-durban-july-un-ascot-sud-africain-miroir-des-aspirations-multiraciales-et-des-fractures-sociales-du-pays_6720892_3212.html",
-    "date": "2026-07-05"
+    "link": "https://www.lemonde.fr/idees/article/2026/07/06/marc-pierini-diplomate-le-president-turc-entend-monnayer-son-appui-securitaire-a-l-europe_6721180_3232.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -365,27 +365,27 @@
   },
   {
     "type": "news",
-    "title": "Ce que l’expatriation fait aux enfants (et aux parents)",
-    "summary": "Beaucoup de parents qui vivent à l’étranger en famille espèrent que l’exposition à une autre culture sera enrichissante et positive. “Business Insider” et “The Times of India” publient les témoignages de deux mères sur leurs expériences en Asie.",
+    "title": "Le rêve américain s’essouffle... mais pas partout",
+    "summary": "À l’heure du 250e anniversaire des États-Unis, les Américains partent et les étrangers arrivent. Les médias dressent le portrait d’un pays qui fait encore rêver à l’étranger… mais presque plus ses citoyens.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/temoignages-ce-que-l-expatriation-fait-aux-enfants-et-aux-parents_245567",
-    "date": "2026-07-05"
-  },
-  {
-    "type": "news",
-    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "summary": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/etats-unis-le-reve-americain-s-essouffle-mais-pas-partout_246922",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Former French PM Philippe slams far right as two-faced at first major campaign rally",
-    "summary": "PARIS — French presidential hopeful Edouard Philippe used his first major campaign rally in Paris on Sunday to launch a scathing attack on the National Rally, hitting the polls-leading far-right party as unprincipled and opportunistic.",
+    "title": "Impeachment trial of Philippine Vice President Sara Duterte begins",
+    "summary": "Senate trial outcome could permanently bar Duterte from office, shaking her frontrunner status for the 2028 election.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss",
+    "date": "2026-07-06"
+  },
+  {
+    "type": "news",
+    "title": "EU calls for ‘fair play’ after Trump’s red card intervention rocks World Cup",
+    "summary": "BRUSSELS — The European Commission has demanded “fair play and transparent competition” in sport after a suspension for U.S. star Folarin Balogun was overturned following a call between President Donald Trump and FIFA chief Gianni Infantino.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/edouard-philippe-far-right-national-rally-france-president-election/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-05"
+    "link": "https://www.politico.eu/article/eu-fair-play-donald-trump-red-card-intervention-world-cup-folarin-balogun/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
