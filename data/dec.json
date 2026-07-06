@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales missions du commissaire aux comptes selon le code de commerce ?",
+    "answer": "Les principales missions du commissaire aux comptes sont de certifier les comptes annuels, de réaliser des examens limités et d'effectuer des missions de contrôle légal des comptes."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les principes déontologiques fondamentaux du commissaire aux comptes selon les NEP ?",
+    "answer": "Les principes déontologiques fondamentaux incluent l'intégrité, l'objectivité, la compétence professionnelle, la diligence, la confidentialité et un comportement professionnel."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme encadre la prévention des conflits d'intérêts pour les commissaires aux comptes ?",
+    "answer": "La norme NEP 100 'Indépendance' encadre la prévention des conflits d'intérêts, stipulant que le commissaire aux comptes doit éviter toute situation pouvant compromettre son indépendance."
+  },
+  {
+    "type": "dec",
+    "question": "Quel article du Code de commerce traite des obligations de déclaration des commissaires aux comptes ?",
+    "answer": "L'article L. 822-11 du Code de commerce traite des obligations de déclaration, précisant que le commissaire aux comptes doit signaler toute irrégularité ou anomalie constatée."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les risques encourus par un commissaire aux comptes en cas de manquement à ses obligations déontologiques ?",
+    "answer": "Les risques incluent la perte de son mandat, des sanctions disciplinaires, des poursuites judiciaires et des dommages à sa réputation professionnelle."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le commissaire aux comptes doit-il gérer les relations avec ses clients pour respecter la déontologie ?",
+    "answer": "Le commissaire aux comptes doit établir une relation transparente et honnête, éviter les pressions pour influencer ses jugements et maintenir une communication ouverte sur ses missions."
+  },
+  {
+    "type": "dec",
     "question": "Quelles sont les principales missions du commissaire aux comptes selon la déontologie ?",
     "answer": "Le commissaire aux comptes a pour missions de certifier les comptes, d'évaluer la régularité et la sincérité des comptes annuels et de formuler des recommandations sur l'amélioration des procédures comptables."
   },
