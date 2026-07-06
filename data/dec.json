@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales missions du commissaire aux comptes selon la déontologie ?",
+    "answer": "Le commissaire aux comptes a pour missions de certifier les comptes, d'évaluer la régularité et la sincérité des comptes annuels et de formuler des recommandations sur l'amélioration des procédures comptables."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les principes déontologiques fondamentaux du commissaire aux comptes ?",
+    "answer": "Les principes déontologiques fondamentaux incluent l'intégrité, l'objectivité, la compétence, la diligence, la confidentialité et le comportement professionnel."
+  },
+  {
+    "type": "dec",
+    "question": "Quel article du Code de commerce traite des obligations déontologiques des commissaires aux comptes ?",
+    "answer": "L'article L. 820-1 du Code de commerce établit les obligations déontologiques des commissaires aux comptes, incluant l'indépendance et l'impartialité."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce que la NEP 100 et quel est son objectif ?",
+    "answer": "La NEP 100, intitulée 'Indépendance de l'auditeur', vise à assurer l'indépendance du commissaire aux comptes dans l'exercice de sa mission, en prévenant les conflits d'intérêts."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le commissaire aux comptes doit-il gérer les conflits d'intérêts selon la déontologie ?",
+    "answer": "Il doit éviter toute situation pouvant nuire à son indépendance, divulguer les conflits d'intérêts potentiels et se récuser si nécessaire pour maintenir l'intégrité de son jugement."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la sanction en cas de non-respect des règles déontologiques par un commissaire aux comptes ?",
+    "answer": "Le non-respect des règles déontologiques peut entraîner des sanctions disciplinaires, allant du simple avertissement à la radiation de l'ordre des commissaires aux comptes."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce que les NEP ?",
     "answer": "Les NEP (Normes d'Exercice Professionnel) sont des normes applicables aux missions d'audit en France, édictées par la Compagnie Nationale des Commissaires aux Comptes (CNCC)."
   },
