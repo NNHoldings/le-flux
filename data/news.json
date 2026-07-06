@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés sont en alerte face aux tensions géopolitiques entre l'Ukraine et la Russie.",
-      "L'Europe peine à sécuriser ses approvisionnements en gaz malgré la trêve au Moyen-Orient.",
-      "L'impact de l'inflation et de la récession continue de se faire sentir sur les marchés obligataires."
+      "Les marchés financiers sont en alerte face aux tensions géopolitiques, notamment en Ukraine.",
+      "L'Europe fait face à des défis économiques, avec une attention particulière sur l'inflation et les résultats des entreprises.",
+      "Les enjeux de la sécurité énergétique et des migrations restent cruciaux pour l'Union européenne."
     ],
     "source": "Le Flux",
     "date": "2026-07-06"
@@ -45,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés",
-    "summary": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés Boursorama",
+    "title": "Point marchés-L'Europe finit dans le rouge, prudence avant la saison des résultats",
+    "summary": "Point marchés-L'Europe finit dans le rouge, prudence avant la saison des résultats Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUtIB-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnFtd09qYnRyek1qTW1lNkhtRVhPQnYtYjdvWDNqQWozeUVHYjFfUzBKODMxSkR6SHdwS2JZX3c3WDN6QnR4QmoxSkNjbFJ5Z28tRjlNWnV5ZlZFM2NVT3huRjlKOE1GN2ZKa2hoVEtidGRhSGVfakV4ZnVYaTA3TFhYMVNReG1yZV9uRl9zZzd0VDAtN0xQcV9aRk5uNjJpck1Fb3FjSVA3LV9uQldUOURxbmRaOFUtTHc3UkNSdW91Y2wxNjZLRkMzVGdPR1VlUlVfUzlFYUhsdw?oc=5",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Malgré la trêve au Moyen-Orient, l’Europe tarde à remplir ses stocks de gaz",
-    "summary": "Les prix du gaz ont diminué bien moins rapidement que ceux du pétrole depuis le début des pourparlers qui ont eu lieu, à la mi-juin, entre les Etats-Unis et l’Iran. Le signe d’un marché qui demeure plus tendu.",
+    "title": "EN DIRECT, guerre en Ukraine : Mark Rutte, le secrétaire général de l’OTAN, dénonce des attaques russes « indiscriminées »",
+    "summary": "Le chef de l’Alliance atlantique a estimé que les bombardements russes sur Kiev et sa région dans la nuit de dimanche à lundi montrent que le président russe, Vladimir Poutine, « perd le contrôle en raison des succès de l’Ukraine sur le champ de bataille ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/06/gaz-malgre-la-treve-au-moyen-orient-l-europe-tarde-a-remplir-ses-stocks_6721162_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-mark-rutte-le-secretaire-general-de-l-otan-denonce-des-attaques-russes-indiscriminees_6720832_3210.html",
     "date": "2026-07-06"
   },
   {
@@ -77,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "La compagnie britannique easyJet prête à passer sous contrôle américain",
-    "summary": "La compagnie aérienne à bas coûts easyJet vient d’accepter une offre de rachat du fonds américain Castlelake. Une opération qui intervient dans un contexte économique difficile pour le secteur, du fait de la flambée des prix du carburant provoquée par la guerre au Moyen-Orient. Ce lundi 6 juillet, à la Bourse de Londres, le cours de l’action easyJet a bondi.",
+    "title": "Sommet de l’Otan à Ankara : pour les Européens, la menace s’appelle Donald Trump",
+    "summary": "Mardi 7 juillet, à Ankara, en Turquie, s’ouvre le sommet de l’Organisation du traité de l’Atlantique nord. Dans les colonnes de la presse européenne, l’opinion dominante est toujours la même : il va falloir composer avec Donald Trump et ne pas céder à toutes ses requêtes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/transport-la-compagnie-britannique-easyjet-prete-a-passer-sous-controle-americain_247074",
+    "link": "https://www.courrierinternational.com/article/diplomatie-sommet-de-l-otan-a-ankara-pour-les-europeens-la-menace-s-appelle-donald-trump_247154",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Large-scale Russian attack on Ukraine before NATO summit",
-    "summary": "Large-scale Russian attack on Ukraine before NATO summit",
+    "title": "Is NATO at breaking point as it meets in Turkiye?",
+    "summary": "NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Britain intercepted Russian aircraft in expanded NATO Arctic mission",
-    "summary": "ABOARD THE HMS PRINCE OF WALES — Britain intercepted a Russian plane after moving an aircraft carrier to the Arctic Circle to support NATO missions. The Ministry of Defence said Monday that a Russian “Bear F” maritime patrol aircraft had repeatedly approached the U.K.’s carrier strike group in the Norwegian sea in an “unsafe and unprofessional” maneuver late…",
+    "title": "Ukrainian drones strike Russia’s largest oil refinery",
+    "summary": "Ukrainian drones on Monday attacked Russia’s Omsk oil refinery, the country’s largest, damaging an essential part of refinery, the General Staff of the Armed Forces of Ukraine said in a statement. Videos of a large fire and clouds of smoke billowing from the plant were shared by Ukrainian and Russian social media channels.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/britain-intercepted-russian-aircraft-nato-arctic-mission/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/russian-largest-oil-refinery-first-time-hit-by-ukraine-drones/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-06"
   },
   {
@@ -109,10 +109,10 @@
   },
   {
     "type": "news",
-    "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
-    "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
+    "title": "Malgré la trêve au Moyen-Orient, l’Europe tarde à remplir ses stocks de gaz",
+    "summary": "Les prix du gaz ont diminué bien moins rapidement que ceux du pétrole depuis le début des pourparlers qui ont eu lieu, à la mi-juin, entre les Etats-Unis et l’Iran. Le signe d’un marché qui demeure plus tendu.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/06/gaz-malgre-la-treve-au-moyen-orient-l-europe-tarde-a-remplir-ses-stocks_6721162_3234.html",
     "date": "2026-07-06"
   },
   {
@@ -141,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-    "summary": "Article URL: https://arxiv.org/abs/2605.20049 Comments URL: https://news.ycombinator.com/item?id=48798815 Points: 167 # Comments: 83",
+    "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+    "summary": "Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html Comments URL: https://news.ycombinator.com/item?id=48804193 Points: 232 # Comments: 153",
     "source": "Hacker News",
-    "link": "https://arxiv.org/abs/2605.20049",
-    "date": "2026-07-05"
+    "link": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -189,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Comment les marchés publics de travaux intègrent l’économie circulaire ? Panorama des pratiques dans l’Union européenne",
-    "summary": "Comment les marchés publics de travaux intègrent l’économie circulaire ? Panorama des pratiques dans l’Union européenne Le Moniteur",
+    "title": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés",
+    "summary": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOREY0WTdFV2NvSVJuYW9DVEhycGVBbi0zd0hHdVdZVXpLbHg0N0RwTWM3eDhrczBzeFF2b3dGWTVGWnR2WUdMZ3hkRmR1c1lDVUF1a2w5bVBSTFlhTExjQ0hZdERSd1VTQmE1R3Y0Z0M1Wl96TFo2RXdyWGN1elNLTXd1bDMwVFRtOGIxTXp3X0xDSkZxSzZva0I0TzBJUVZmeVBscGJnTjlCT3hzSk1zaGpfamkwd2lmamtmMFdxeDhBeFI2RWxjQV9zRUl5T2xYdlItSVdVX3VKTVFxV3RJTkpLT3FLV293RHkzVjBOVkdaM2lSREN2bUVqOEE1bnlQUUg1MERMLUxXVjJqUWI2RWdnd3dlVjg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUtIB-AFBVV95cUxONldodkszLVlmN3dPaEtlejZlRU4yVGFldWZKRF9odFNKQl9WWm4zQWVzX2FlbkM0OEVtUmJldUJtY0picDVmZ0dGYklzOWhEZjNrZHlQVElickV2S1RIUEhPMnpiaHVyTC15UFM3R2N3TS1fVmVrdEc0Rk9ZUlFySnNFamJlbC1MRW9CWmxLdDl5V2pNNkJyamZGN25NVm55UFdPbVNRT0VfTnRad2pNZUtERXVYM0t4QTlKTVVodzhyQkUwZy1FVTQtUXB5M2VuR1JrNFY1NE9SeVd4TDVkVWJ6VmZSbHVkaFctbXdmQlJkZmdTNTZfUg?oc=5",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion en urgence du Conseil de sécurité de l’ONU après les frappes russes nocturnes",
-    "summary": "Volodymyr Zelensky a condamné l’« attaque massive » lancée par la Russie dans la nuit de dimanche à lundi, qui a fait au moins 12 morts dans la capitale ukrainienne et six autres dans son oblast.",
+    "title": "Marc Pierini, diplomate : « Le président turc entend monnayer son appui sécuritaire à l’Europe »",
+    "summary": "Octroyer à Recep Tayyip Erdogan un rôle central dans l’architecture européenne de sécurité reviendrait à atteler la défense du continent à un chef d’Etat qui, à l’unisson de ses partenaires au Kremlin et à la Maison Blanche, renie l’Etat de droit, estime Marc Pierini, ancien ambassadeur de l’Union européenne en Turquie, dans une tribune au « Monde ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-en-urgence-du-conseil-de-securite-de-l-onu-apres-les-frappes-russes-nocturnes_6720832_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/06/marc-pierini-diplomate-le-president-turc-entend-monnayer-son-appui-securitaire-a-l-europe_6721180_3232.html",
     "date": "2026-07-06"
   },
   {
@@ -221,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "Sommet de l’Otan : entre Trump et Erdogan, une idylle très commerciale",
-    "summary": "S’il affiche son mépris pour ses alliés européens, Donald Trump couvre de compliments son homologue turc, qui le lui rend bien, lui qui prévoit de dérouler le tapis rouge lors de sa venue, les 7 et 8 juillet, à Ankara, pour le sommet de l’Otan. Surtout, la Turquie espère obtenir la levée d’un embargo important sur la vente d’armes, analyse la presse turque.",
+    "title": "Trump détricote la réglementation sur les armes à feu, et son fils pourrait en profiter",
+    "summary": "Champion du deuxième amendement de la Constitution américaine, qui garantit le droit au port d’armes, Donald Trump vient d’assouplir de nombreuses réglementations sur les ventes d’armes aux États-Unis, soulignent les médias américains.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/visite-sommet-de-l-otan-entre-trump-et-erdogan-une-idylle-tres-commerciale_246554",
+    "link": "https://www.courrierinternational.com/article/etats-unis-trump-detricote-la-reglementation-sur-les-armes-a-feu-et-son-fils-pourrait-en-profiter_247147",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Hamas announces dissolution of Gaza governing body",
-    "summary": "A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.",
+    "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+    "summary": "President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Britain heads to NATO summit with no funding plan",
-    "summary": "ABOARD THE HMS PRINCE OF WALES — The U.K. will show up at this week’s NATO summit with no long-term plan to reach alliance spending targets, something Defence Secretary Dan Jarvis told POLITICO is “mission critical” to deliver as soon as possible. “Those were the assurances that I was giving to NATO partners when I was in Brussels a couple of weeks ago.",
+    "title": "EU plan to advance Serbia’s membership bid fails to win over capitals",
+    "summary": "BRUSSELS — The European Commission’s bid to advance Serbia’s EU membership application is set to fall short of the backing needed from member countries, exposing a growing rift over how countries should earn their way into the bloc.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/dan-jarvis-britain-nato-summit-alliance-funding-plan-mission-critical/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-members-split-over-serbia-membership-bid/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-06"
   },
   {
@@ -253,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "EasyJet, deuxième compagnie aérienne européenne, accepte une offre de rachat du fonds américain Castlelake à 6 milliards d’euros",
-    "summary": "La compagnie britannique, qui dessert 164 aéroports dans 38 pays et a transporté 93,4 millions de passagers en 2024-2025, dispose d’actifs très recherchés, comme une flotte de plus de 350 Airbus A320.",
+    "title": "Accidents du travail : le gouvernement demande 800 millions d’économies aux partenaires sociaux",
+    "summary": "Gérée par l’Assurance-maladie et supervisée par les partenaires sociaux, la branche de la Sécurité sociale visée par l’exécutif a un déficit attendu de « 1 milliard d’euros en 2026 et 1,5 milliard en 2027 », selon le ministère du travail.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/05/easyjet-deuxieme-compagnie-aerienne-europeenne-accepte-une-offre-de-rachat-du-fonds-americain-castlelake-a-6-milliards-d-euros_6720917_3234.html",
-    "date": "2026-07-05"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/06/accidents-du-travail-le-gouvernement-demande-800-millions-d-economies-aux-partenaires-sociaux_6721241_3234.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -277,18 +277,18 @@
   },
   {
     "type": "news",
-    "title": "Newly discovered PamStealer isn't your typical macOS malware",
-    "summary": "Researchers have found a never-before-seen piece of macOS malware that combines a series of clever tradecraft to infect Macs with stealthy, custom-developed credential-stealing code. The malware is delivered in two stages. The first is distributed in a disk image that masquerades as Maccy, a clipboard manager for Macs.",
+    "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+    "summary": "Regulators are in an “arms race” to keep up with the use of artificial intelligence in financial services, a senior UK official has warned, with millions of people using the technology to help them make personal finance decisions.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-    "date": "2026-07-02"
+    "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Real-time map of Great Britain's rail network",
-    "summary": "Article URL: https://www.map.signalbox.io Comments URL: https://news.ycombinator.com/item?id=48802535 Points: 253 # Comments: 98",
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 166 # Comments: 135",
     "source": "Hacker News",
-    "link": "https://www.map.signalbox.io",
+    "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
     "date": "2026-07-06"
   },
   {
@@ -333,27 +333,27 @@
   },
   {
     "type": "news",
-    "title": "Dette, inflation, récession : le scénario noir du Mécanisme européen de stabilité",
-    "summary": "Dette, inflation, récession : le scénario noir du Mécanisme européen de stabilité Le Point",
+    "title": "La Banque centrale d’Israël abaisse ses taux d’intérêt à 3,5 %",
+    "summary": "La Banque centrale d’Israël abaisse ses taux d’intérêt à 3,5 % The Times of Israël",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTdUTXA5SGRiQkllcnFwbTI5VUp0ZWZwcXRaVDF0TGJ0WHhNSzRJUV85dHNwTm9iSGwtN2xYUEZCbThVZWF5Y1dLS1gxWUpLSjVneHVHcERnc1dKMVNraUhMU1hYc1FmNzVtdUduZGJFWXU5ZDNjQnJRUk5FbjlEUG5OQmNNT0ZsajhSZGE1cnVqNGtvSkYwNGRpNG5JSWg2RG9FTkhwamN4aVhpRlJkS0U2aDBqUWV6ZVBhRkh3V3kzX0M3dTRCTk1YcFZWR292Q1RZ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMC1HbjZkTUJoZkdicnNWQzktV1lZUGg3d09nb3NkZDRmbk11bUtjQS1jNWdOMm1qVzBsUThpajh0VGtjYmRNUVlsdnl0TDdVeXJpandIT2xjVTU5WHlFcThnemZ2eXJOY1FSWm9lV3dlRlpIYUxDaW9KMXpXdkNZR3htLTQ5YWpOTDhQNGxLUFAxR1NrSVHSAZYBQVVfeXFMTjAtR242ZE1CaGZHYnJzVkM5LVdZWVBoN3dPZ29zZGQ0Zm5NdW1LY0EtYzVnTjJtalcwbFE4aWo4dFRrY2JkTVFZbHZ5dEw3VXlyaWp3SE9sY1U1OVh5RXE4Z3pmdnlyTmNRUlpvZVd3ZUZaSGFMQ2lvSjF6V3ZDWUd4bS00OWFqTkw4UDRsS1BQMUdTa0lR?oc=5",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Marc Pierini, diplomate : « Le président turc entend monnayer son appui sécuritaire à l’Europe »",
-    "summary": "Octroyer à Recep Tayyip Erdogan un rôle central dans l’architecture européenne de sécurité reviendrait à atteler la défense du continent à un chef d’Etat qui, à l’unisson de ses partenaires au Kremlin et à la Maison Blanche, renie l’Etat de droit, estime Marc Pierini, ancien ambassadeur de l’Union européenne en Turquie, dans une tribune au « Monde ».",
+    "title": "Comment Starlink a réussi à s’imposer en Afrique",
+    "summary": "La firme du milliardaire américain Elon Musk propose désormais ses services dans 26 des 54 Etats africains. De nombreux pays, initialement réfractaires au fournisseur d’Internet par satellite, espèrent ainsi réduire leur fracture numérique dans les zones rurales enclavées.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/06/marc-pierini-diplomate-le-president-turc-entend-monnayer-son-appui-securitaire-a-l-europe_6721180_3232.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/06/comment-starlink-a-reussi-a-s-imposer-en-afrique_6721209_3212.html",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "À qui profite la clim ?",
-    "summary": "L'été libère le temps ; le « Diplo » émancipe les cerveaux. Le bruit médiatique baisse d'un ton. C'est le moment de sonder ce qui s'agite sous l'écume. Jusqu'au 15 août, profitez de notre offre d'été : Le Monde diplomatique sur écrans pour 3,90 € par mois.",
+    "title": "Tout le monde déteste l'IA",
+    "summary": "Les investisseurs n'ont d'yeux que pour elle ; ses architectes toisent les chefs d'État ; son usage se propage comme le feu dans la plaine : l'intelligence artificielle, dit-on, va transformer l'humanité.",
     "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/dossier/a_qui_profite_la_clim",
-    "date": "2026-07-01"
+    "link": "https://www.monde-diplomatique.fr/2026/07/RIMBERT/69683",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -365,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "Le rêve américain s’essouffle... mais pas partout",
-    "summary": "À l’heure du 250e anniversaire des États-Unis, les Américains partent et les étrangers arrivent. Les médias dressent le portrait d’un pays qui fait encore rêver à l’étranger… mais presque plus ses citoyens.",
+    "title": "La compagnie britannique easyJet prête à passer sous contrôle américain",
+    "summary": "La compagnie aérienne à bas coûts easyJet vient d’accepter une offre de rachat du fonds américain Castlelake. Une opération qui intervient dans un contexte économique difficile pour le secteur, du fait de la flambée des prix du carburant provoquée par la guerre au Moyen-Orient. Ce lundi 6 juillet, à la Bourse de Londres, le cours de l’action easyJet a bondi.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-le-reve-americain-s-essouffle-mais-pas-partout_246922",
+    "link": "https://www.courrierinternational.com/article/transport-la-compagnie-britannique-easyjet-prete-a-passer-sous-controle-americain_247074",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Impeachment trial of Philippine Vice President Sara Duterte begins",
-    "summary": "Senate trial outcome could permanently bar Duterte from office, shaking her frontrunner status for the 2028 election.",
+    "title": "UN rights body demands release of Palestinian doctor detained by Israel",
+    "summary": "Hussam Abu Safia's family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/6/impeachment-trial-of-philippine-vice-president-sara-duterte-begins?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "EU calls for ‘fair play’ after Trump’s red card intervention rocks World Cup",
-    "summary": "BRUSSELS — The European Commission has demanded “fair play and transparent competition” in sport after a suspension for U.S. star Folarin Balogun was overturned following a call between President Donald Trump and FIFA chief Gianni Infantino.",
+    "title": "Germany ramps up defense spending in new budget plan ahead of NATO summit",
+    "summary": "BERLIN — Chancellor Friedrich Merz is putting Germany’s rearmament drive at the center of government spending, with a draft budget approved by his cabinet Monday allocating one in every five euros of federal expenditure in 2027 to defense.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-fair-play-donald-trump-red-card-intervention-world-cup-folarin-balogun/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/germany-ramps-up-defense-spending-in-new-budget-plan-ahead-of-nato-summit/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-06"
   },
   {
