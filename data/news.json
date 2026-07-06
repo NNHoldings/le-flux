@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés sont en tension entre inflation et récession, impactant les obligations.",
+      "La guerre en Ukraine continue d'affecter la sécurité en Europe, avec des appels à des actions fermes au sommet de l'OTAN.",
+      "L'IA progresse rapidement, suscitant des préoccupations parmi les banquiers et les régulateurs européens."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-06"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,19 +45,19 @@
   },
   {
     "type": "news",
-    "title": "Les marchés africains se redressent grâce à la baisse des prix du pétrole qui stimule la croissance",
-    "summary": "Les marchés africains se redressent grâce à la baisse des prix du pétrole qui stimule la croissance Business AM",
+    "title": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés",
+    "summary": "POINT HEBDO-Kevin Warsh, l'Otan et le pétrole devraient tenir en haleine les marchés Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWjJ5WERMRDlQVnZ5dG9BYVlOa3FacldFcU1WVlJoT3BFeHJsQ1JOT2RjUlVHeV9jUkhueDZDcVJ4S1RyUUgyZGZqOTNuQ1ljem5iX2c2UVFqY3M5WEFtd1c0THlONnB1QWJTVEw4N2VJMWxWaW9tZ09OVk1KV0lOSEE2OG5sZ09IN0h6M3U5UjU3THVCeFFBczJfVmhaaUxVeDRmZzFjVHI5eWx2MjV3eE4xX1JTLTlmdUFpWGxBNjRCY2c?oc=5",
-    "date": "2026-07-05"
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTGxETnMyR1dfYlRTNU5CRHM4bTVsUHFmMmFKQy01ZmZiXzlqZHc5eTJDQ0ZObFhGT25FVE5UTm1PTXFaendyQXFDa21MMnNQM1h5UmJTLVlxVjVJbmtQTHNwUWZCdEFXQ2wwak1OMVZHZ1l6VGJiOGJEMTg0OWwteVE4YWljUVE2RUcweE5LZ0pJcXllWWRlUDNRRjhzci1nd3dLbTQ3eXBxcnRjYVBBU2pFOEt6aWhzd1dNSk9GUE9SZXJJUEZ0YVU3dUxJNHdpS1o3Qm5uRzNUR2RnSjhkazlyV1hEbzBETHQ4?oc=5",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie prépare « une nouvelle attaque massive », alerte Volodymyr Zelensky",
-    "summary": "Donald Trump rencontrera son homologue ukrainien mercredi, en marge du sommet de l’OTAN à Ankara, a annoncé la Maison Blanche. Le président américain discutera ensuite avec le président russe Vladimir Poutine.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky appelle ses alliés à prendre des « décisions fermes » au sommet de l’OTAN",
+    "summary": "Le président ukrainien a condamné l’« attaque massive » lancée par la Russie dans la nuit, qui a fait au moins 11 morts à Kiev et 3 autres dans l’oblast de la capitale.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/05/en-direct-guerre-en-ukraine-la-russie-prepare-une-nouvelle-attaque-massive-alerte-volodymyr-zelensky_6720832_3210.html",
-    "date": "2026-07-05"
+    "link": "https://www.lemonde.fr/international/live/2026/07/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-appelle-ses-allies-a-prendre-des-decisions-fermes-au-sommet-de-l-otan_6720832_3210.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -65,27 +77,27 @@
   },
   {
     "type": "news",
-    "title": "Les Albanais dans les rues rêvent toujours d’Europe et de changement",
-    "summary": "Le pays des Balkans vit depuis des semaines au rythme des manifestations qui réclament la démission du gouvernement, coupable d’avoir permis la construction d’un complexe touristique de luxe dans un lagon protégé. Mais les problèmes de l’Albanie sont bien plus nombreux, explique le quotidien italien “Il Sole-24 Ore”.",
+    "title": "La vraie raison pour laquelle les Français n’ont pas la clim",
+    "summary": "Climatisation à outrance d’un côté, surchauffe de l’autre : depuis le dernier épisode caniculaire en France, cet autre fossé entre Américains et Européens a été amplement médiatisé. Pour cet auteur américain, les différentes approches face à la climatisation s’expliquent par des conceptions très différentes de la souffrance physique et du sacrifice, d’une ri…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-les-albanais-dans-les-rues-revent-toujours-d-europe-et-de-changement_245606",
-    "date": "2026-07-05"
+    "link": "https://www.courrierinternational.com/article/vu-des-etats-unis-la-vraie-raison-pour-laquelle-les-francais-n-ont-pas-la-clim_245855",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
-    "summary": "Russia says its forces have taken the city of Kostiantynivka in Donestk, Ukraine denies that.",
+    "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
+    "summary": "Ukrainian President Volodymyr Zelenskyy had warned of a likely attack ahead of meeting with US President Donald Trump.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss",
-    "date": "2026-07-05"
+    "link": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "How Trump is turning NATO into a cash machine",
-    "summary": "President Donald Trump has recast a generations-old transatlantic alliance built on shared democratic values into a framework he’s more comfortable dealing with — a business. He’s persuaded NATO members to turbocharge their own defense spending and to invest heavily in American arms for Ukraine. This week, at the annual meeting of alliance leaders, the U.S.",
+    "title": "Britain intercepted Russian aircraft in expanded NATO Arctic mission",
+    "summary": "ABOARD THE HMS PRINCE OF WALES — Britain intercepted a Russian plane after moving an aircraft carrier to the Arctic Circle to support NATO missions. The Ministry of Defence said Monday that a Russian “Bear F” maritime patrol aircraft had repeatedly approached the U.K.’s carrier strike group in the Norwegian sea in an “unsafe and unprofessional” maneuver late…",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/05/nato-trump-cash-machine-00985766?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-05"
+    "link": "https://www.politico.eu/article/britain-intercepted-russian-aircraft-nato-arctic-mission/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -129,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "Introduction to Compilers and Language Design (2021)",
-    "summary": "Article URL: https://dthain.github.io/books/compiler/ Comments URL: https://news.ycombinator.com/item?id=48793454 Points: 244 # Comments: 42",
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 160 # Comments: 95",
     "source": "Hacker News",
-    "link": "https://dthain.github.io/books/compiler/",
+    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
     "date": "2026-07-05"
   },
   {
@@ -169,35 +181,35 @@
   },
   {
     "type": "news",
-    "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
-    "summary": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the tough task Brussels faces in rebalancing trade with Beijing.",
+    "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
+    "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html",
-    "date": "2026-07-02"
+    "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Pourquoi l’inflation dette énergie finit toujours par toucher les ménages, même quand les marchés affichent le calme - parlons-politique.fr",
-    "summary": "Pourquoi l’inflation dette énergie finit toujours par toucher les ménages, même quand les marchés affichent le calme parlons-politique.fr",
+    "title": "La Bourse de Paris attendue sans grand élan, les marchés attendent que les résultats prennent le relais",
+    "summary": "La Bourse de Paris attendue sans grand élan, les marchés attendent que les résultats prennent le relais Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT25zaFhxZkNwd25UWUZ5UHAwcDJpajhHTFExTmdBcGdnc0luS0dYT3hoUGJ4cEZkWTk5ZmZZZ1ZmN2VWcXRHbUtMeEZOUTQ0V1k0dU0ybDJSSVFVc2FhQUpCOUt2UkM4UmpqLXN0OVpTaWluTXd2RzZfSGE1Mk1fbUpDaDdRMU13Uk4xTjIyNzE3SVpaWF9jTVAtWGNJY296VHNaU1BlZ1pldlE0dE5jSlhDQjNjaDZvZjlFQkRMNXg4UG9VajZTTWc4RHg0TTVzcks2T1FJX0M3aE40eEc0VmFBTHAzZFRpV0lUTTl0Tkp6NEsxdUFOaVFoNU83TURr?oc=5",
-    "date": "2026-07-04"
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeDV1Y1plYzNndFB0eWlZZzlzcWlQUU9XRVBXYTFSYXBPZFBvb1p1V1NzNHVNNzd5N1pxaFJfZzBpa3NVR2otV05NMVpKU0FGNTBJc01SUGZxN2s1OExBZDJzZWlrQmR6UjhxajlNbE1QcFRpS1JXQWxybmRZaS02MHdydlcxRm1GaWwwVTJ1RmkxcGVrMTNzMWhFN21ETmV2S3I0NU8ySk1BR2E3aDRwQmJaTm5GRFlwMkNDVk9aN3VabHEzc1BSa3dMZGY4RzdMdHpkV05oZDhMVk9MUkFycjg2LUN4RzNPTFZKSnVlbzNObGJkVnhWcU1jcXFrSmthT0cw?oc=5",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "La course hippique Durban July, un « Ascot sud-africain » miroir des aspirations multiraciales et des fractures sociales du pays",
-    "summary": "Chaque premier samedi de juillet, la plus prestigieuse course de chevaux d’Afrique se tient à Durban. Un rendez-vous mondain qui aspire à être imperméable aux divisions de la société.",
+    "title": "Guerre en Ukraine : au moins dix morts dans la région de Kiev, visée par des missiles balistiques russes",
+    "summary": "Neuf personnes ont été tuées dans la capitale ukrainienne et une dans le district de Boutcha, en périphérie. Les autorités locales ont recensé plusieurs dizaines de blessés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/05/la-course-hippique-durban-july-un-ascot-sud-africain-miroir-des-aspirations-multiraciales-et-des-fractures-sociales-du-pays_6720892_3212.html",
-    "date": "2026-07-05"
+    "link": "https://www.lemonde.fr/international/video/2026/07/06/guerre-en-ukraine-au-moins-dix-morts-dans-la-region-de-kiev-visee-par-des-missiles-balistiques-russes_6721152_3210.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "À qui profite la clim ?",
-    "summary": "L'été libère le temps ; le « Diplo » émancipe les cerveaux. Le bruit médiatique baisse d'un ton. C'est le moment de sonder ce qui s'agite sous l'écume. Jusqu'au 15 août, profitez de notre offre d'été : Le Monde diplomatique sur écrans pour 3,90 € par mois.",
+    "title": "De Belgrade à Tirana, ces chefs d'État qui vénèrent M. Trump",
+    "summary": "Profitant du contexte créé par la guerre en Ukraine, Washington entend renforcer son emprise sur le secteur énergétique des Balkans. L'objectif est de remplacer progressivement les centrales électriques à charbon par des centrales alimentées en gaz américain.",
     "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/dossier/a_qui_profite_la_clim",
-    "date": "2026-07-01"
+    "link": "https://www.monde-diplomatique.fr/2026/07/OTASEVIC/69694",
+    "date": "2026-07-05"
   },
   {
     "type": "news",
@@ -209,27 +221,27 @@
   },
   {
     "type": "news",
-    "title": "Ce que l’expatriation fait aux enfants (et aux parents)",
-    "summary": "Beaucoup de parents qui vivent à l’étranger en famille espèrent que l’exposition à une autre culture sera enrichissante et positive. “Business Insider” et “The Times of India” publient les témoignages de deux mères sur leurs expériences en Asie.",
+    "title": "Sommet de l’Otan : entre Trump et Erdogan, une idylle très commerciale",
+    "summary": "S’il affiche son mépris pour ses alliés européens, Donald Trump couvre de compliments son homologue turc, qui le lui rend bien, lui qui prévoit de dérouler le tapis rouge lors de sa venue, les 7 et 8 juillet, à Ankara, pour le sommet de l’Otan. Surtout, la Turquie espère obtenir la levée d’un embargo important sur la vente d’armes, analyse la presse turque.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/temoignages-ce-que-l-expatriation-fait-aux-enfants-et-aux-parents_245567",
-    "date": "2026-07-05"
+    "link": "https://www.courrierinternational.com/article/visite-sommet-de-l-otan-entre-trump-et-erdogan-une-idylle-tres-commerciale_246554",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
-    "summary": "Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.",
+    "title": "China missile test draws criticism from Australia, New Zealand, Japan",
+    "summary": "Countries raise concerns after Chinese military test-launches ballistic missile from submarine in the Pacific Ocean.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss",
-    "date": "2026-07-05"
+    "link": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Russia threatens. Are NATO’s new borders ready?",
-    "summary": "NORTH KARELIA, Finland — Bears, wolves and moose still cross the frontier freely, but for the border guards patrolling this stretch of fields and forest, this is where NATO ends. A line of wooden poles and painted markers cuts through the light green grass, separating Finland from Russia along the alliance’s longest border with Moscow — 1,343 kilometers (835…",
+    "title": "Zelenskyy demands Western support after Russian strikes kill 11 in Kyiv",
+    "summary": "Ukrainian President Volodymyr Zelenskyy renewed his calls for more Patriot missiles Monday as Russia’s latest missile attacks killed at least 11 people and injured 46 in Kyiv on Sunday night.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/magazine/2026/07/05/nato-eastern-flank-putin-russia-finland-00983997?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-05"
+    "link": "https://www.politico.eu/article/russian-attack-kyiv-kills-11-injures-46/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -241,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "« La rigueur budgétaire ne réduit pas durablement le taux d’endettement public »",
-    "summary": "Seule une inflation élevée non compensée par les taux d’intérêt permettrait de réduire la dette, mais au prix d’un coût politique important pour les épargnants, observe l’économiste Patrick Artus, dans sa chronique au « Monde ».",
+    "title": "Les contrats d’électricité à tarification dynamique, un pari risqué, mais qui peut être très rentable",
+    "summary": "Les tarifs dynamiques contraignent les ménages à payer leur électricité selon des prix boursiers fluctuant chaque heure. Ces contrats présentent donc un risque de flambée des factures en cas de nouvelle crise énergétique, mais peuvent en revanche déboucher sur des centaines d’euros d’économies par an.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/04/la-rigueur-budgetaire-ne-reduit-pas-durablement-le-taux-d-endettement-public_6720669_3232.html",
-    "date": "2026-07-04"
+    "link": "https://www.lemonde.fr/argent/article/2026/07/06/les-contrats-d-electricite-a-tarification-dynamique-un-pari-risque-mais-qui-peut-etre-tres-rentable_6721129_1657007.html",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -273,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "It's not about physical vs. digital games, it's about ownership",
-    "summary": "Article URL: https://popcar.bearblog.dev/its-about-ownership/ Comments URL: https://news.ycombinator.com/item?id=48794750 Points: 206 # Comments: 152",
+    "title": "Completing a computer science degree on Coursera",
+    "summary": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 194 # Comments: 122",
     "source": "Hacker News",
-    "link": "https://popcar.bearblog.dev/its-about-ownership/",
+    "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
     "date": "2026-07-05"
   },
   {
@@ -313,35 +325,35 @@
   },
   {
     "type": "news",
-    "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-    "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+    "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
+    "summary": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the tough task Brussels faces in rebalancing trade with Beijing.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-    "date": "2026-07-04"
+    "link": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "Inflation : le reflux des prix de l'énergie \" facilite la tâche \" de la BCE, selon le gouverneur",
-    "summary": "Inflation : le reflux des prix de l'énergie \" facilite la tâche \" de la BCE, selon le gouverneur lecourrier.vn",
+    "title": "La Bourse de Paris sans grand élan, les marchés attendent que les résultats prennent le relais",
+    "summary": "La Bourse de Paris sans grand élan, les marchés attendent que les résultats prennent le relais Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXpteTRrNUVvNUs2dUlDdm5fVkJVZGxQb0hwNUF5dWd5MUJqRjZfV2pGdmZRbUhXNkQ1X243WlgxQUItZ2lPNHR1Z3piQ25IdVNXMEE5cUtaQjdmc01acklHZmRLUEhPYkdLaXpNUGZLaFpYTDlwWlRqVVJCYm1LSFRseW5TVjNnYURPTndSQkVmUjNVeEFXUGwwXzBqeDEzeFA3eHJVb2hqNWlkbTZOZ0Z4QjhwRjVfc0NNZmRScWk?oc=5",
-    "date": "2026-07-04"
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS21ZN3RGcEVlRXRTajlBUTN4WlBEVTB3cXhMWXlicWVYbzFtdElRdk9oOGdjeWV0TTQ3RXhoc2JkaXViODE1SGRxb1lra1BxSkRweWtwUkdGYk0xdVFJNjZWSDBjN3N0cDI0MUYzQUNCUnZIRjdXalN0enhuZEJocVJUbktZd3ZCWWdmZ2xyT1ZyNVNCTFgxbkZIWmhRY3BZVGxKcUlDN1dWck56RWI0anJNWU04S2dVaWx2OWw2RzZZSzZEelVFMFNPcjVtZ2ktX0ZCZ1FEcjE0ZjFjNnQ2ZDM0RGpBSmtlNW10cG9XWng1NnZWb2Jz?oc=5",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "EasyJet, deuxième compagnie aérienne européenne, accepte une offre de rachat du fonds américain Castlelake à 6 milliards d’euros",
-    "summary": "La compagnie britannique, qui dessert 164 aéroports dans 38 pays et a transporté 93,4 millions de passagers en 2024-2025, dispose d’actifs très recherchés, comme une flotte de plus de 350 Airbus A320.",
+    "title": "La course hippique Durban July, un « Ascot sud-africain » miroir des aspirations multiraciales et des fractures sociales du pays",
+    "summary": "Chaque premier samedi de juillet, la plus prestigieuse course de chevaux d’Afrique se tient à Durban. Un rendez-vous mondain qui aspire à être imperméable aux divisions de la société.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/05/easyjet-deuxieme-compagnie-aerienne-europeenne-accepte-une-offre-de-rachat-du-fonds-americain-castlelake-a-6-milliards-d-euros_6720917_3234.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/05/la-course-hippique-durban-july-un-ascot-sud-africain-miroir-des-aspirations-multiraciales-et-des-fractures-sociales-du-pays_6720892_3212.html",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Rumba congolaise et quatuor à cordes",
-    "summary": "Durant les années 1980, quand il s'installe à Paris, Ray Lema est l'incarnation de ce qu'on a pu appeler la « sono mondiale ». Synthétique et électro sur Médecine (1985) ou conviant les voix bulgares de l'ensemble Pirin en 1992, la musique du pianiste et compositeur congolais ouvrait à de (…) / Congo, Musique",
+    "title": "À qui profite la clim ?",
+    "summary": "L'été libère le temps ; le « Diplo » émancipe les cerveaux. Le bruit médiatique baisse d'un ton. C'est le moment de sonder ce qui s'agite sous l'écume. Jusqu'au 15 août, profitez de notre offre d'été : Le Monde diplomatique sur écrans pour 3,90 € par mois.",
     "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/07/SERVANT/69725",
-    "date": "2026-06-29"
+    "link": "https://www.monde-diplomatique.fr/dossier/a_qui_profite_la_clim",
+    "date": "2026-07-01"
   },
   {
     "type": "news",
@@ -353,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "Coupe du monde : au Liban, une “passion débordante” pour l’équipe du Brésil",
-    "summary": "La Seleção, talonnée par l’Allemagne, est sans doute la sélection la plus populaire dans le pays du Cèdre, qui s’orne de multiples drapeaux brésiliens durant les périodes de Coupe du monde. Un engouement né dans les années de guerre civile, qui va bien au-delà de la forte présence de la diaspora libanaise au Brésil.",
+    "title": "Ce que l’expatriation fait aux enfants (et aux parents)",
+    "summary": "Beaucoup de parents qui vivent à l’étranger en famille espèrent que l’exposition à une autre culture sera enrichissante et positive. “Business Insider” et “The Times of India” publient les témoignages de deux mères sur leurs expériences en Asie.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/football-coupe-du-monde-au-liban-une-passion-debordante-pour-l-equipe-du-bresil_246195",
+    "link": "https://www.courrierinternational.com/article/temoignages-ce-que-l-expatriation-fait-aux-enfants-et-aux-parents_245567",
     "date": "2026-07-05"
   },
   {
     "type": "news",
-    "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
-    "summary": "The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests",
+    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+    "summary": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
-    "date": "2026-07-05"
+    "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "German defense chief opposes sharing intel with AfD ministers",
-    "summary": "German Defense Minister Boris Pistorius on Sunday said he is in favor of excluding potential far-right Alternative for Germany (AfD) ministers in state administrations from being included in the sharing of classified information. He cited the AfD’s close bonds with Moscow and Russian President Vladimir Putin as the main reason.",
+    "title": "Former French PM Philippe slams far right as two-faced at first major campaign rally",
+    "summary": "PARIS — French presidential hopeful Edouard Philippe used his first major campaign rally in Paris on Sunday to launch a scathing attack on the National Rally, hitting the polls-leading far-right party as unprincipled and opportunistic.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/germany-defense-minister-boris-pistorius-oppose-share-intelligence-afd/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/edouard-philippe-far-right-national-rally-france-president-election/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-05"
   },
   {
