@@ -1,6 +1,18 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "评论",
+    "pinyin": "pínglùn",
+    "fr": "commentaire"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "新闻稿",
+    "pinyin": "xīnwén gǎo",
+    "fr": "communiqué de presse"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "快乐",
     "pinyin": "kuàilè",
     "fr": "heureux"
