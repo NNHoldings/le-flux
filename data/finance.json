@@ -1,6 +1,26 @@
 [
   {
     "type": "finance",
+    "term": "Coût de capital",
+    "explanation": "Le coût de capital représente le coût des fonds utilisés pour financer une entreprise, incluant les coûts d'emprunt et le coût des capitaux propres. Il est essentiel pour évaluer la rentabilité des projets d'investissement."
+  },
+  {
+    "type": "finance",
+    "term": "Gestion de trésorerie",
+    "explanation": "La gestion de trésorerie implique le suivi et la planification des flux de liquidités d'une entreprise. Elle vise à assurer que l'entreprise dispose de suffisamment de liquidités pour couvrir ses obligations à court terme."
+  },
+  {
+    "type": "finance",
+    "term": "Analyse des ratios financiers",
+    "explanation": "L'analyse des ratios financiers consiste à utiliser des indicateurs clés pour évaluer la performance d'une entreprise. Ces ratios, tels que le ratio de liquidité ou le ratio d'endettement, permettent de comparer la santé financière entre différentes entreprises."
+  },
+  {
+    "type": "finance",
+    "term": "Évaluation d'entreprise",
+    "explanation": "L'évaluation d'entreprise est le processus d'estimation de la valeur d'une entreprise, souvent utilisé lors de fusions, d'acquisitions ou de levées de fonds. Les méthodes courantes incluent l'approche par les flux de trésorerie actualisés et l'approche par les multiples de bénéfices."
+  },
+  {
+    "type": "finance",
     "term": "Impôt sur les sociétés",
     "explanation": "L'impôt sur les sociétés (IS) est un impôt direct qui est prélevé sur le bénéfice des entreprises. Le taux d'imposition peut varier en fonction de la taille de l'entreprise et de son secteur d'activité."
   },
