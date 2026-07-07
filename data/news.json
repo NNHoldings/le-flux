@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La Banque Royale du Canada nomme de nouveaux dirigeants pour sa croissance en Europe.",
-      "L'OTAN renforce ses relations avec l'Europe face aux menaces russes."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-07"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -45,18 +33,18 @@
   },
   {
     "type": "news",
-    "title": "La Banque Royale du Canada (RBC) nomme Sian Hurrell et Robin Beer comme codirecteurs généraux afin d'accélérer sa croissance en Europe",
-    "summary": "La Banque Royale du Canada (RBC) nomme Sian Hurrell et Robin Beer comme codirecteurs généraux afin d'accélérer sa croissance en Europe TradingView",
+    "title": "Point marchés-L'Europe finit en baisse, inquiétude autour de l'IA et la géopolitique",
+    "summary": "Point marchés-L'Europe finit en baisse, inquiétude autour de l'IA et la géopolitique Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bG5yX3ZEaTRXQ25RT2VDSXh3Ykt3aDBZOXZNX0dzNWRQWHJPMjZzcEFuLUpLdXZOS0hRaXZmLXA1SUo3ODhNWUVYaUNyd2QtbHRIajN2ODVCY1U4dk92UVE0LXItVlJJa3pn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2I3UXJ3N2dod1ZEOUc2UmcyOUdUMEZNUk5mRlVBWG1SZ0R3UTBvTURUVzZuNzlYcmM5QloyM1I5RHJ3M1hMT283TkpkN1dvTjJBd3dMN1REaDNPVy1pUDFGSTFtZUEyUzlZLWdSY3VwdURiU3VhUWJxNXVDS2U1bG9zZmhTU1FQdlJqY3VOR2d5OUxlVzNRM1BDdkFPeGUxVk9mQVB2akxlOTQ2TzZiRHRXNnpEdl9mSjZ3NlY5cERwelRGYjRJeDJJVjE1N0JaZDdVR1hRc2FTUF80?oc=5",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky assure que Kiev pourrait apporter à l’OTAN des capacités de défense « extraordinaires »",
-    "summary": "Le président ukrainien est en Turquie, mardi, pour assister au sommet de l’OTAN, au lendemain de nouvelles attaques russes qui ont fait près de 30 morts dans la région de Kiev. « Nous sommes capables de tout faire nous-mêmes, mais lorsqu’il s’agit de défense aérienne nous avons besoin de la détermination de nos partenaires », a-t-il ajouté.",
+    "title": "EN DIRECT, guerre en Ukraine : à Ankara, Volodymyr Zelensky a évoqué avec Mark Rutte, le secrétaire général de l’OTAN, la nécessité de livraisons urgentes de missiles pour la défense aérienne ukrainienne",
+    "summary": "Selon le président ukrainien, les deux hommes ont également discuté, au premier jour du sommet de l’OTAN dans la capitale turque, d’un renforcement de la coopération militaire entre l’Ukraine et les pays de l’Alliance, notamment à travers la production conjointe d’armes.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/07/en-direct-guerre-en-ukraine-nous-esperons-que-ce-sommet-de-l-otan-sera-solide-et-fructueux-affirme-volodymyr-zelensky-a-son-arrivee-a-ankara_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/07/en-direct-guerre-en-ukraine-a-ankara-volodymyr-zelensky-a-evoque-avec-mark-rutte-le-secretaire-general-de-l-otan-la-necessite-de-livraisons-urgentes-de-missiles-pour-la-defense-aerienne-ukrainienne_6720832_3210.html",
     "date": "2026-07-07"
   },
   {
@@ -69,34 +57,34 @@
   },
   {
     "type": "news",
-    "title": "Europe Must Face the World on Its Own",
-    "summary": "Under pressure from Russian aggression—which has reached its full expression in the ongoing war against Ukraine—and an increasingly hostile US administration, Europe urgently needs to make progress toward a defense union. But that will require Franco-German leadership of the kind that is not yet on offer.",
+    "title": "Inside Ukraine’s Game-Changing Drone Industry",
+    "summary": "In recent months, Ukrainian drones have successfully struck dozens of sites deep inside Russia, targeting the oil industry, weapons plants, and logistics hubs. But while Ukraine has developed a world-leading military technology to defend itself from a much larger aggressor, drones will not be enough to end the war.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/european-defense-union-should-be-franco-german-priority-by-joschka-fischer-2026-07",
-    "date": "2026-07-06"
+    "link": "https://www.project-syndicate.org/commentary/how-ukraine-developed-world-leading-drone-technology-by-yuriy-gorodnichenko-et-al-2026-07",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Le sommet de l’Otan à Ankara consacre le rapprochement entre l’Europe et la Turquie",
-    "summary": "Les pays européens voient de plus en plus dans la Turquie un partenaire précieux, notamment en ce qui concerne l’armement, l’une des priorités du sommet de l’Alliance organisé à Ankara ces mardi 7 et mercredi 8 juillet. Quitte à détourner les yeux face au déclin de la démocratie sous la présidence de Recep Tayyip Erdogan.",
+    "title": "Samsung annonce des profits record, mais dévisse à la Bourse de Séoul",
+    "summary": "Au deuxième trimestre, les bénéfices du géant sud-coréen devraient s’élever à plus de 51 milliards d’euros, soit une hausse de 1 810,3 % sur un an. Mais les investisseurs, de plus en plus inquiets devant la possible formation d’une “bulle de l’IA”, anticipent une éventuelle surproduction de puces mémoire.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-le-sommet-de-l-otan-a-ankara-consacre-le-rapprochement-entre-l-europe-et-la-turquie_247279",
+    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-samsung-annonce-des-profits-record-mais-devisse-a-la-bourse-de-seoul_247339",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
-    "summary": "As Russia faces challenges on the frontlines and at home, President Putin's backers decry Kyiv's Western allies.",
+    "title": "US trade deficit surges amid artificial intelligence spending boom",
+    "summary": "Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Bank of England warns an AI crash could plunge UK into recession",
-    "summary": "The U.K. is at risk of recession if the artificial intelligence bubble pops, the Bank of England warned today, as investors increasingly park their cash into tech stocks. A price correction in AI stocks, driven by a change in productivity and profitability among tech-led companies, could cause a 2.2 percent fall in U.K.",
+    "title": "‘Can you help us?’: US oil execs turn to Trump to topple Europe’s climate rules",
+    "summary": "The U.S. oil and gas industry has succeeded in exporting massive amounts of natural gas to Europe. Now, with the help of White House officials, it looks like it might also succeed in exporting the Trump administration’s deregulatory agenda.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/bank-of-england-andrew-bailey-warn-ai-uk-recession/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/07/oil-executives-trump-europe-climate-00987782?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
@@ -109,10 +97,10 @@
   },
   {
     "type": "news",
-    "title": "Le gouvernement annonce trois milliards d’euros d’économies supplémentaires pour l’Etat et la Sécurité sociale",
-    "summary": "L’objectif de 5 % de déficit public en 2026 que s’est fixé le gouvernement est « difficile à atteindre », mais tout sera fait pour « s’en rapprocher au maximum », a déclaré mardi le ministre de l’économie, Roland Lescure, à l’issue d’un comité d’alerte des finances publiques à Bercy.",
+    "title": "La publicité pour les énergies fossiles sera bientôt interdite en France, cinq ans après la loi Climat et résilience",
+    "summary": "La promotion des produits pétroliers et du gaz naturel a déjà quasi disparu, mais les actions de communication autour du biométhane semblent aussi visées.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/politique/article/2026/07/07/le-gouvernement-annonce-trois-milliards-d-euros-d-economies-supplementaires-pour-l-etat-et-la-securite-sociale_6721483_823448.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/07/la-publicite-pour-les-energies-fossiles-sera-bientot-interdite-en-france-cinq-ans-apres-la-loi-climat-et-resilience_6721520_3234.html",
     "date": "2026-07-07"
   },
   {
@@ -141,19 +129,19 @@
   },
   {
     "type": "news",
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 185 # Comments: 61",
+    "title": "Microsoft fire idTech team at Id software",
+    "summary": "Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/ Comments URL: https://news.ycombinator.com/item?id=48819244 Points: 321 # Comments: 307",
     "source": "Hacker News",
-    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "date": "2026-07-06"
+    "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Daily briefing: How to brew a climate-friendly coffee",
-    "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02076-5Researchers are racing to safeguard coffee from climate change. Plus, how ticks are making people allergic to meat and how AI tools can help neurodivergent students succeed in their science careers.",
+    "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
+    "summary": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2Technology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02076-5",
-    "date": "2026-06-30"
+    "link": "https://www.nature.com/articles/d41586-026-01358-2",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -189,18 +177,18 @@
   },
   {
     "type": "news",
-    "title": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ?",
-    "summary": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ? Lesfrancais.press",
+    "title": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN - North Atlantic Treaty Organization | NATO",
+    "summary": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN North Atlantic Treaty Organization | NATO",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemgyR0tadjh6bHBvSGhoNVRRS3RsTjkyVXRjakJ2dl9zalhVOV92UmZydkxlbmxYUVc5TzhtZWVOQ2lSNjJHaHZ1MmJKN0l0a0VWcXE3eFprZHlCajMzYmstR3ZwOG54TnFTNUtOZWVqWmxnMTZPQmlxb0ZmVWQzbnMxN2ZBYlA4amZENGUxa0k?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUNUdW5ERm83dzloWGdIWkVrcjdqdDI4LTVKRlNYS3hKMkFwM2lyT0xlUWxPTlctS29NU2diZ3lVUmVDYXcwOXM1aWZ0ck1sMi1tVG9UMDZQQVJyUi1kMTltdnB3dWViQmhlc3RsTl9wYUV4MzlDcE5OTFphVjBGRVEtaGhXWmxiMGNRRzlfQWkwcW0zZVZPUGhYbTZFVm9GUUZ2ME1aM0w3OTV0QUMwZEk5aUtYS1ZnempSN05RcW10LVBZMjR5RngyZXVKRTNVOExBVE9nT2pXR0xiQ1d1TzRsU2R6OVROQTZ6MmlLZVV5LUk0?oc=5",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Retards, indemnisations, remboursements… le Parlement européen renforce les droits des passagers aériens",
-    "summary": "Indemnisation préservée en cas de retard de plus de trois heures, remboursement plus clair et plus rapide… Les députés européens ont adopté mardi un texte renforçant les droits des passagers, après presque treize années de négociations.",
+    "title": "Au premier jour du sommet de l’OTAN, à Ankara, Mark Rutte annonce une myriade de contrats de défense pour des milliards d’euros",
+    "summary": "Le montant exact, d’environ 43 milliards d’euros, doit être dévoilé, mercredi, par le secrétaire général de l’Alliance atlantique. L’objectif est de montrer au président américain, Donald Trump, arrivé mardi après-midi dans la capitale turque, que l’Europe et le Canada investissent massivement dans leur défense.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/07/retards-indemnisations-remboursements-le-parlement-europeen-renforce-les-droits-des-passagers-aeriens_6721478_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/07/au-premier-jour-du-sommet-de-l-otan-a-ankara-mark-rutte-annonce-une-myriade-de-contrats-de-defense-pour-des-milliards-d-euros_6721513_3210.html",
     "date": "2026-07-07"
   },
   {
@@ -213,34 +201,34 @@
   },
   {
     "type": "news",
-    "title": "Europe’s AI Dolce Vita?",
-    "summary": "Glacial growth, aging welfare states, and a shortage of centrist leaders suggest Europe faces a major debt crisis in the years ahead. But its emphasis on leisure over work could become a decisive advantage, positioning the continent as the leading model for thriving in an age of AI-driven abundance.",
+    "title": "Europe Must Face the World on Its Own",
+    "summary": "Under pressure from Russian aggression—which has reached its full expression in the ongoing war against Ukraine—and an increasingly hostile US administration, Europe urgently needs to make progress toward a defense union. But that will require Franco-German leadership of the kind that is not yet on offer.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-could-give-europe-unexpected-competitive-edge-by-kenneth-rogoff-2026-07",
-    "date": "2026-07-03"
+    "link": "https://www.project-syndicate.org/commentary/european-defense-union-should-be-franco-german-priority-by-joschka-fischer-2026-07",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Sommet d’Ankara : qu’est-ce que l’“Otan 3.0” voulue par les États-Unis ?",
-    "summary": "Le 36e sommet de l’Otan se tiendra les 7 et 8 juillet à Ankara, en Turquie. La question de l’avenir de l’Alliance, au sein de laquelle Washington veut voir l’Europe jouer un rôle plus important, sera centrale. Explications.",
+    "title": "Le sommet de l’Otan à Ankara consacre le rapprochement entre l’Europe et la Turquie",
+    "summary": "Les pays européens voient de plus en plus dans la Turquie un partenaire précieux, notamment en ce qui concerne l’armement, l’une des priorités du sommet de l’Alliance organisé à Ankara ces mardi 7 et mercredi 8 juillet. Quitte à détourner les yeux face au déclin de la démocratie sous la présidence de Recep Tayyip Erdogan.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/explainer/sommet-d-ankara-qu-est-ce-que-l-otan-3-0-voulue-par-les-etats-unis_245860",
+    "link": "https://www.courrierinternational.com/article/geopolitique-le-sommet-de-l-otan-a-ankara-consacre-le-rapprochement-entre-l-europe-et-la-turquie_247279",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
-    "summary": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.",
+    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+    "summary": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "‘Please help us’: Zelenskyy presses NATO for air defense aid",
-    "summary": "ANKARA — Ukrainian President Volodymyr Zelenskyy urged allies Tuesday to make helping with air defense one of the key outcomes of NATO’s Ankara summit, warning that Ukraine still lacks the means to stop Russian ballistic missiles.",
+    "title": "Trump rips NATO allies, dashing European hopes for a kumbaya summit",
+    "summary": "ANKARA, Turkey — President Donald Trump lashed out at NATO on Tuesday, spoiling the feel-good mood at an alliance summit and reminding allies that he’s not letting go of his grievances. But while Trump rehashed several of his complaints with NATO — including their unwillingness to join the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-ankara-nato-for-air-defense-aid/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/07/trump-rips-nato-allies-dashing-european-hopes-for-a-kumbaya-summit-00988547?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
@@ -253,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Le Canada choisit le groupe allemand TKMS pour construire sa nouvelle flotte de sous-marins militaires",
-    "summary": "Les négociations entre Ottawa et l’entreprise allemande, censée fournir douze navires de guerre au total, doivent s’achever d’ici la fin d’année 2027, avec une première livraison prévue en 2034.",
+    "title": "Le gouvernement annonce 3 milliards d’euros d’économies supplémentaires pour l’Etat et la Sécurité sociale",
+    "summary": "L’objectif de 5 % de déficit public en 2026 que s’est fixé le gouvernement est « difficile à atteindre », mais tout sera fait pour « s’en rapprocher au maximum », a déclaré mardi le ministre de l’économie, Roland Lescure, à l’issue d’un comité d’alerte des finances publiques à Bercy.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/07/07/le-canada-choisit-le-groupe-allemand-tkms-pour-construire-sa-nouvelle-flotte-de-sous-marins-militaires_6721291_3210.html",
-    "date": "2026-07-06"
+    "link": "https://www.lemonde.fr/politique/article/2026/07/07/le-gouvernement-annonce-trois-milliards-d-euros-d-economies-supplementaires-pour-l-etat-et-la-securite-sociale_6721483_823448.html",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
@@ -277,27 +265,27 @@
   },
   {
     "type": "news",
-    "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-    "summary": "Welcome to Edition 9.01 of the Rocket Report! Back in January, I wrote about the 20 launches and landings we were most excited about in 2026. The list included things that were, at the time, officially scheduled to occur this year. I also gave my own view of the probability of each of these events actually happening before December 31.",
+    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+    "summary": "DeepSeek, the Chinese startup developing large language models that are competitive with those from US companies like OpenAI and Anthropic, is planning to enter the silicon business, according to Reuters. Citing three people familiar with the matter, Reuters writes that DeepSeek has been working on a move into silicon for about a year.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-    "date": "2026-07-03"
+    "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "A global workspace in language models",
-    "summary": "Article URL: https://www.anthropic.com/research/global-workspace Comments URL: https://news.ycombinator.com/item?id=48808002 Points: 404 # Comments: 152",
+    "title": "Europe's company websites are mostly served by US vendors",
+    "summary": "Article URL: https://ciphercue.com/blog/european-web-hosting-vendor-share-2026 Comments URL: https://news.ycombinator.com/item?id=48816612 Points: 226 # Comments: 158",
     "source": "Hacker News",
-    "link": "https://www.anthropic.com/research/global-workspace",
-    "date": "2026-07-06"
+    "link": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Can Rwanda sustain its rise in science and technology? Here’s what can help",
-    "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01980-0An ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.",
+    "title": "How FAIR data are helping to build trust in science",
+    "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01982-yThe FAIR guidelines laid a solid foundation for ensuring data accessibility and reproducibility. A decade on, researchers are thinking beyond them.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-01980-0",
-    "date": "2026-06-30"
+    "link": "https://www.nature.com/articles/d41586-026-01982-y",
+    "date": "2026-07-01"
   },
   {
     "type": "news",
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "India fashion retailer Trent tumbles 11% as revenue growth disappoints",
-    "summary": "Shares of one of India's biggest fashion retailers, Trent, fell over 10% after the company reported weak earnings growth.",
+    "title": "Ukraine has already won the war against Russia, Finnish president tells CNBC",
+    "summary": "Ukraine needs NATO, but NATO needs Ukraine just as much, the Finnish president told CNBC on Tuesday.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/india-fashion-retailer-trent-tumbles-11percent-as-revenue-growth-disappoints.html",
+    "link": "https://www.cnbc.com/2026/07/07/ukraine-won-war-russia-nato-alexander-stubb-finnish-president.html",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue en ordre dispersé et l'Europe hésite, doutes et prise de bénéfices sur la \"tech\"",
-    "summary": "Point marchés-Wall Street vue en ordre dispersé et l'Europe hésite, doutes et prise de bénéfices sur la \"tech\" Zonebourse",
+    "title": "John Williams (Fed) se montre plus optimiste sur l'inflation face au repli des prix de l'énergie",
+    "summary": "John Williams (Fed) se montre plus optimiste sur l'inflation face au repli des prix de l'énergie Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQemZJR2VfbDFYMTdENkdONmV5dDBmU3ItRWRjcVJEcWNHaGMxQXVJdC1DYlJQRHBNVEdSOWZTcDNCT3dGRmQ4S2RIOHBEamtDRzFjU3B1czRET2xqUFVnNXhDeXliQ2hLM2d3cFZRZ0pCOHhoREZ0VVZnOHhseC1RWXVrYkltb3FOOTRISFRRZW1NMlY4dndkLUktQW1WSkQ3ZjVJY1RFNzAwS1ZxcmtDMWJSdGY3TVJ1NjJVR0ZtNWdtN2xXc3YxRVlRdzM3R01aOXBVQ2lxWTgwMWlqY1JCMGF6RkJ0QUVxOHV5Y005N1JFQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVdnQVNjU1EzLUxOZ2w2aHpLNGtBUEN1bXpXUzhWLU5CUndoYlBTeExXYTRvNWd5U19mLXRWY1k3dWpscDNaNnhEYUpjcFUweUtpQURMN29QbkR6N3BnSUpMUHB2cUhtdWVfOWtmb0JFaGJPc3BtR25WbWh4YW5EX0VFREUycGxvTG04a0E2bG5tdXMtREFVVmpRVWtZLW5URjNXZ05sOXlRSC1DMWJ3TnRkOGFFajFvYXJlTHRuQWdMbXpXbkFDbS1RZlFZVGotdC1TX2laX1oxb2ZaWEJSZGJEYnZ2T0JnZk5J?oc=5",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Le déficit commercial de la France se creuse en mai à près de 7 milliards d’euros, selon les douanes",
-    "summary": "Le déficit commercial de la France s’est dégradé de 1,5 milliard d’euros en mai en raison d’une baisse des exportations, qui étaient au contraire en hausse en avril.",
+    "title": "La Turquie, un allié encombrant devenu partenaire indispensable au sein de l’OTAN",
+    "summary": "Après s’être rapproché de la Russie dans les années 2010, le pays a resserré ses liens avec Washington et plusieurs capitales européennes. Le sommet de l’OTAN à Ankara, mardi et mercredi, acte la considération dont jouit le président Recep Tayipp Erdogan aux yeux des Occidentaux, malgré l’évolution de plus en plus autoritaire de son régime.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/07/france-le-deficit-commercial-se-creuse-en-mai-a-pres-de-7-milliards-d-euros-selon-les-douanes_6721430_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/07/la-turquie-un-allie-encombrant-devenu-partenaire-indispensable-au-sein-de-l-otan_6721492_3210.html",
     "date": "2026-07-07"
   },
   {
@@ -357,34 +345,34 @@
   },
   {
     "type": "news",
-    "title": "The Mismeasure of Europe’s Economy",
-    "summary": "While Nobel laureate economists Paul Krugman and Philippe Aghion disagree over how to measure Europe’s productivity gap with the United States, both overlook the value of its accumulated assets. That blind spot obscures the real story: Europe is living off a remarkable inheritance it has yet to convert into new growth.",
+    "title": "Europe’s AI Dolce Vita?",
+    "summary": "Glacial growth, aging welfare states, and a shortage of centrist leaders suggest Europe faces a major debt crisis in the years ahead. But its emphasis on leisure over work could become a decisive advantage, positioning the continent as the leading model for thriving in an age of AI-driven abundance.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/real-reason-europe-appears-less-productive-than-america-by-sami-mahroum-2026-07",
-    "date": "2026-07-01"
+    "link": "https://www.project-syndicate.org/commentary/ai-could-give-europe-unexpected-competitive-edge-by-kenneth-rogoff-2026-07",
+    "date": "2026-07-03"
   },
   {
     "type": "news",
-    "title": "Giovanni Pigni, journaliste indépendant : “En Russie, il y a une forme d’apathie et de résignation”",
-    "summary": "Journaliste indépendant travaillant pour plusieurs médias italiens et anglo-saxons, Giovanni Pigni est installé à Saint-Pétersbourg et a réalisé plusieurs reportages depuis la Russie. Il livre à “Courrier international” ses impressions sur les évolutions récentes dans le pays, après plus de quatre ans de guerre avec l’Ukraine.",
+    "title": "Marine Le Pen annonce maintenir sa candidature à l’élection présidentielle 2027",
+    "summary": "Condamnée en appel mardi 7 juillet pour détournements de fonds dans l’affaire des assistants parlementaires du FN, la cheffe de file du Rassemblement national a annoncé se pourvoir en cassation et assuré qu’elle serait candidate au scrutin présidentiel des 18 avril et 2 mai 2027.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/entretien-giovanni-pigni-journaliste-independant-en-russie-il-y-a-une-forme-d-apathie-et-de-resignation_245888",
+    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-marine-le-pen-annonce-maintenir-sa-candidature-a-l-election-presidentielle-2027_247371",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Ukrainian drones hit Russian fuel tankers",
-    "summary": "Ukrainian drones hit Russian fuel tankers",
+    "title": "French far-right leader Le Pen says will run in 2027 presidential election",
+    "summary": "Her announcement followed a court ruling that meant she would have to wear an electronic tag while campaigning.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Russia accuses Ukraine of targeting civilian infrastructure in overnight strikes",
-    "summary": "KYIV — Ukrainian armed forces hit multiple targets in Russia on Monday night, damaging an airport in Belgorod and a microchip manufacturer building “electronic warfare and weaponry” for Russia in the Bryansk region.",
+    "title": "Mark Rutte aux alliés de l’Otan : admettez-le, Trump avait raison",
+    "summary": "ANKARA — Le secrétaire général de l’Otan, Mark Rutte, a un message à adresser aux alliés à propos de Donald Trump : le président américain avait raison. Il avait raison de faire pression sur eux pour qu’ils augmentent leurs dépenses de défense, il avait raison de les inciter à moderniser leurs armées, et il avait raison de déclencher une guerre contre l’Iran…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-russia-strikes-infrastructure-belgorod-bryansk/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/mark-rutte-aux-allies-de-lotan-admettez-le-trump-avait-raison/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
