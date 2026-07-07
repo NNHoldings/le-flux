@@ -1,10 +1,72 @@
 [
-  { "type": "histoire", "question": "Que furent les accords de Bretton Woods (1944) ?", "answer": "Un système monétaire international fixant les taux de change sur le dollar, lui-même convertible en or. Il a créé le FMI et la Banque mondiale, et encadré la finance mondiale jusqu'à sa fin en 1971 (fin de la convertibilité or décidée par Nixon)." },
-  { "type": "histoire", "question": "Qu'est-ce que la route de la soie ?", "answer": "Réseau de routes commerciales reliant la Chine à la Méditerranée dès l'Antiquité, vecteur d'échanges de biens (soie, épices) mais aussi de techniques, de religions et d'idées. La Chine s'y réfère aujourd'hui avec les « Nouvelles routes de la soie » (BRI)." },
-  { "type": "histoire", "question": "Quelle fut la cause immédiate de la crise de 1929 ?", "answer": "Le krach boursier de Wall Street en octobre 1929, après une bulle spéculative alimentée par l'achat d'actions à crédit. Il a déclenché la Grande Dépression, marquée par faillites bancaires en chaîne, chômage de masse et repli protectionniste." },
-  { "type": "histoire", "question": "Qu'ont changé les Trente Glorieuses (1945-1975) ?", "answer": "Période de forte croissance et de plein emploi dans les pays occidentaux après-guerre, portée par la reconstruction, le progrès technique et l'État-providence. Elle s'achève avec les chocs pétroliers des années 1970." },
-  { "type": "histoire", "question": "Qu'est-ce que le tournant de 1978 en Chine ?", "answer": "Le lancement par Deng Xiaoping des réformes d'« ouverture et de modernisation » : introduction de mécanismes de marché, zones économiques spéciales, ouverture aux investissements étrangers. Point de départ de la transformation de la Chine en puissance économique." },
-  { "type": "histoire", "question": "Quel rôle a joué le plan Marshall (1947) ?", "answer": "Programme d'aide économique américain à la reconstruction de l'Europe de l'Ouest, à la fois moteur de reprise et instrument géopolitique face à l'URSS au début de la guerre froide. Il a ancré l'Europe occidentale dans le bloc atlantique." },
-  { "type": "histoire", "question": "Qu'a acté la chute du mur de Berlin (1989) ?", "answer": "Symbole de l'effondrement du bloc soviétique et de la fin de la guerre froide. Elle a ouvert la réunification allemande, l'élargissement de l'Europe et une phase de mondialisation accélérée dans les années 1990." },
-  { "type": "histoire", "question": "Qu'est-ce que la révolution industrielle ?", "answer": "Transformation économique et sociale amorcée au XVIIIe siècle en Grande-Bretagne : passage de l'artisanat à la production mécanisée (machine à vapeur, charbon, usines). Elle a bouleversé démographie, urbanisation et rapports de production." }
+  {
+    "type": "histoire",
+    "question": "Quels ont été les impacts économiques de l'ouverture de la Chine en 1978 ?",
+    "answer": "L'ouverture de la Chine en 1978 sous Deng Xiaoping a marqué le début des réformes économiques, transformant le pays d'une économie planifiée vers une économie de marché socialiste. Cela a entraîné une croissance économique rapide, avec un taux de croissance moyen du PIB d'environ 10 % par an et la sortie de millions de personnes de la pauvreté."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la guerre de l'opium a-t-elle influencé la géopolitique chinoise au XIXe siècle ?",
+    "answer": "La guerre de l'opium (1839-1842) a été un tournant majeur dans l'histoire de la Chine, conduisant à la signature du traité de Nankin en 1842, qui a cédé Hong Kong à la Grande-Bretagne. Cet événement a marqué le début d'une série d'humiliations et de traités inégaux qui ont affaibli la souveraineté chinoise et ont ouvert le pays à l'intervention étrangère."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations technologiques ont émergé en Chine au XXe siècle ?",
+    "answer": "Au XXe siècle, la Chine a connu plusieurs innovations importantes, telles que le développement de la technologie de la communication et des transports, notamment avec la construction du réseau ferroviaire et la mise en place de satellites. La réforme économique des années 1980 a également permis l'émergence de l'industrie technologique, avec des entreprises comme Huawei et Alibaba."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été le rôle de la Chine dans la guerre froide ?",
+    "answer": "Pendant la guerre froide, la Chine a d'abord été alliée à l'Union soviétique, mais après la rupture sino-soviétique dans les années 1960, elle a adopté une position plus indépendante. La visite de Richard Nixon en 1972 a marqué le début d'une normalisation des relations avec les États-Unis, ce qui a modifié l'équilibre géopolitique en Asie."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la politique de l'enfant unique a-t-elle affecté la société chinoise ?",
+    "answer": "Introduite en 1979, la politique de l'enfant unique visait à contrôler la croissance démographique en Chine. Bien qu'elle ait réussi à ralentir la croissance de la population, elle a également engendré des déséquilibres démographiques, des pénuries de main-d'œuvre, et un sex-ratio déséquilibré, avec un surplus d'hommes dans la population."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles réformes ont été mises en place en Chine après les événements de Tiananmen en 1989 ?",
+    "answer": "Après les manifestations de Tiananmen en 1989, le gouvernement chinois a renforcé son contrôle sur la société tout en poursuivant des réformes économiques. Ces réformes ont permis de maintenir une croissance économique soutenue, mais ont aussi entraîné une répression politique et une censure accrue des médias et d'Internet."
+  },
+  {
+    "type": "histoire",
+    "question": "Que furent les accords de Bretton Woods (1944) ?",
+    "answer": "Un système monétaire international fixant les taux de change sur le dollar, lui-même convertible en or. Il a créé le FMI et la Banque mondiale, et encadré la finance mondiale jusqu'à sa fin en 1971 (fin de la convertibilité or décidée par Nixon)."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'est-ce que la route de la soie ?",
+    "answer": "Réseau de routes commerciales reliant la Chine à la Méditerranée dès l'Antiquité, vecteur d'échanges de biens (soie, épices) mais aussi de techniques, de religions et d'idées. La Chine s'y réfère aujourd'hui avec les « Nouvelles routes de la soie » (BRI)."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle fut la cause immédiate de la crise de 1929 ?",
+    "answer": "Le krach boursier de Wall Street en octobre 1929, après une bulle spéculative alimentée par l'achat d'actions à crédit. Il a déclenché la Grande Dépression, marquée par faillites bancaires en chaîne, chômage de masse et repli protectionniste."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'ont changé les Trente Glorieuses (1945-1975) ?",
+    "answer": "Période de forte croissance et de plein emploi dans les pays occidentaux après-guerre, portée par la reconstruction, le progrès technique et l'État-providence. Elle s'achève avec les chocs pétroliers des années 1970."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'est-ce que le tournant de 1978 en Chine ?",
+    "answer": "Le lancement par Deng Xiaoping des réformes d'« ouverture et de modernisation » : introduction de mécanismes de marché, zones économiques spéciales, ouverture aux investissements étrangers. Point de départ de la transformation de la Chine en puissance économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle a joué le plan Marshall (1947) ?",
+    "answer": "Programme d'aide économique américain à la reconstruction de l'Europe de l'Ouest, à la fois moteur de reprise et instrument géopolitique face à l'URSS au début de la guerre froide. Il a ancré l'Europe occidentale dans le bloc atlantique."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'a acté la chute du mur de Berlin (1989) ?",
+    "answer": "Symbole de l'effondrement du bloc soviétique et de la fin de la guerre froide. Elle a ouvert la réunification allemande, l'élargissement de l'Europe et une phase de mondialisation accélérée dans les années 1990."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'est-ce que la révolution industrielle ?",
+    "answer": "Transformation économique et sociale amorcée au XVIIIe siècle en Grande-Bretagne : passage de l'artisanat à la production mécanisée (machine à vapeur, charbon, usines). Elle a bouleversé démographie, urbanisation et rapports de production."
+  }
 ]
