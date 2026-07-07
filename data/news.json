@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés obligataires oscillent entre inflation et récession.",
-      "La guerre en Ukraine continue de faire des victimes, avec 24 morts à Kiev.",
-      "L'Europe doit renforcer son autonomie face aux défis géopolitiques actuels."
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La Banque Royale du Canada nomme de nouveaux dirigeants pour sa croissance en Europe.",
+      "L'OTAN renforce ses relations avec l'Europe face aux menaces russes."
     ],
     "source": "Le Flux",
     "date": "2026-07-07"
@@ -45,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit dans le rouge, prudence avant la saison des résultats",
-    "summary": "Point marchés-L'Europe finit dans le rouge, prudence avant la saison des résultats Zonebourse",
+    "title": "La Banque Royale du Canada (RBC) nomme Sian Hurrell et Robin Beer comme codirecteurs généraux afin d'accélérer sa croissance en Europe",
+    "summary": "La Banque Royale du Canada (RBC) nomme Sian Hurrell et Robin Beer comme codirecteurs généraux afin d'accélérer sa croissance en Europe TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnFtd09qYnRyek1qTW1lNkhtRVhPQnYtYjdvWDNqQWozeUVHYjFfUzBKODMxSkR6SHdwS2JZX3c3WDN6QnR4QmoxSkNjbFJ5Z28tRjlNWnV5ZlZFM2NVT3huRjlKOE1GN2ZKa2hoVEtidGRhSGVfakV4ZnVYaTA3TFhYMVNReG1yZV9uRl9zZzd0VDAtN0xQcV9aRk5uNjJpck1Fb3FjSVA3LV9uQldUOURxbmRaOFUtTHc3UkNSdW91Y2wxNjZLRkMzVGdPR1VlUlVfUzlFYUhsdw?oc=5",
-    "date": "2026-07-06"
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bG5yX3ZEaTRXQ25RT2VDSXh3Ykt3aDBZOXZNX0dzNWRQWHJPMjZzcEFuLUpLdXZOS0hRaXZmLXA1SUo3ODhNWUVYaUNyd2QtbHRIajN2ODVCY1U4dk92UVE0LXItVlJJa3pn?oc=5",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : l’attaque menée par la Russie contre Kiev a fait 24 morts dans la région de la capitale",
-    "summary": "A la suite des frappes massives menées par la Russie dans la nuit de dimanche à lundi, Volodymyr Zelensky a dénoncé une attaque visant délibérément les civils et les infrastructures.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky assure que Kiev pourrait apporter à l’OTAN des capacités de défense « extraordinaires »",
+    "summary": "Le président ukrainien est en Turquie, mardi, pour assister au sommet de l’OTAN, au lendemain de nouvelles attaques russes qui ont fait près de 30 morts dans la région de Kiev. « Nous sommes capables de tout faire nous-mêmes, mais lorsqu’il s’agit de défense aérienne nous avons besoin de la détermination de nos partenaires », a-t-il ajouté.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/07/en-direct-guerre-en-ukraine-l-attaque-menee-par-la-russie-contre-kiev-a-fait-24-morts-dans-la-region-de-la-capitale_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/07/en-direct-guerre-en-ukraine-nous-esperons-que-ce-sommet-de-l-otan-sera-solide-et-fructueux-affirme-volodymyr-zelensky-a-son-arrivee-a-ankara_6720832_3210.html",
     "date": "2026-07-07"
   },
   {
@@ -77,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "Sommet d’Ankara : qu’est-ce que l’“Otan 3.0” voulue par les États-Unis ?",
-    "summary": "Le 36e sommet de l’Otan se tiendra les 7 et 8 juillet à Ankara, en Turquie. La question de l’avenir de l’Alliance, au sein de laquelle Washington veut voir l’Europe jouer un rôle plus important, sera centrale. Explications.",
+    "title": "Le sommet de l’Otan à Ankara consacre le rapprochement entre l’Europe et la Turquie",
+    "summary": "Les pays européens voient de plus en plus dans la Turquie un partenaire précieux, notamment en ce qui concerne l’armement, l’une des priorités du sommet de l’Alliance organisé à Ankara ces mardi 7 et mercredi 8 juillet. Quitte à détourner les yeux face au déclin de la démocratie sous la présidence de Recep Tayyip Erdogan.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/explainer/sommet-d-ankara-qu-est-ce-que-l-otan-3-0-voulue-par-les-etats-unis_245860",
+    "link": "https://www.courrierinternational.com/article/geopolitique-le-sommet-de-l-otan-a-ankara-consacre-le-rapprochement-entre-l-europe-et-la-turquie_247279",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-    "summary": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.",
+    "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+    "summary": "As Russia faces challenges on the frontlines and at home, President Putin's backers decry Kyiv's Western allies.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Leave ‘Queen’ Meloni alone, Belgian defense minister warns Trump",
-    "summary": "BRUSSELS — Europe still needs the U.S. to defend the continent for up to another decade, so leaders should be careful not to alienate Donald Trump, Belgian Defense Minister Theo Francken told POLITICO. But Francken made clear there are limits — especially when it comes to Trump’s recent attacks on Italian Prime Minister Giorgia Meloni.",
+    "title": "Bank of England warns an AI crash could plunge UK into recession",
+    "summary": "The U.K. is at risk of recession if the artificial intelligence bubble pops, the Bank of England warned today, as investors increasingly park their cash into tech stocks. A price correction in AI stocks, driven by a change in productivity and profitability among tech-led companies, could cause a 2.2 percent fall in U.K.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/dont-touch-queen-meloni-belgian-defense-minister-warns-trump/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/bank-of-england-andrew-bailey-warn-ai-uk-recession/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
@@ -109,19 +109,19 @@
   },
   {
     "type": "news",
-    "title": "Accidents du travail : le gouvernement demande 800 millions d’économies aux partenaires sociaux",
-    "summary": "Gérée par l’Assurance-maladie et supervisée par les partenaires sociaux, la branche de la Sécurité sociale visée par l’exécutif a un déficit attendu de « 1 milliard d’euros en 2026 et 1,5 milliard en 2027 », selon le ministère du travail.",
+    "title": "Le gouvernement annonce trois milliards d’euros d’économies supplémentaires pour l’Etat et la Sécurité sociale",
+    "summary": "L’objectif de 5 % de déficit public en 2026 que s’est fixé le gouvernement est « difficile à atteindre », mais tout sera fait pour « s’en rapprocher au maximum », a déclaré mardi le ministre de l’économie, Roland Lescure, à l’issue d’un comité d’alerte des finances publiques à Bercy.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/06/accidents-du-travail-le-gouvernement-demande-800-millions-d-economies-aux-partenaires-sociaux_6721241_3234.html",
-    "date": "2026-07-06"
+    "link": "https://www.lemonde.fr/politique/article/2026/07/07/le-gouvernement-annonce-trois-milliards-d-euros-d-economies-supplementaires-pour-l-etat-et-la-securite-sociale_6721483_823448.html",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "The Download: a startup has a solution for AI’s groupthink problem",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7.",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving the US government a 5% stake in OpenAI.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "date": "2026-07-02"
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
@@ -141,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "A global workspace in language models",
-    "summary": "Article URL: https://www.anthropic.com/research/global-workspace Comments URL: https://news.ycombinator.com/item?id=48808002 Points: 351 # Comments: 127",
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 185 # Comments: 61",
     "source": "Hacker News",
-    "link": "https://www.anthropic.com/research/global-workspace",
+    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
     "date": "2026-07-06"
   },
   {
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "India fashion retailer Trent tumbles 11% as revenue growth disappoints",
-    "summary": "Shares of one of India's biggest fashion retailers, Trent, fell over 10% after the company reported weak earnings growth.",
+    "title": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
+    "summary": "Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/india-fashion-retailer-trent-tumbles-11percent-as-revenue-growth-disappoints.html",
+    "link": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "En zone euro, le taux d'inflation baisse, mais les tensions sur les prix du gaz pourraient durer",
-    "summary": "En zone euro, le taux d'inflation baisse, mais les tensions sur les prix du gaz pourraient durer Rexecode",
+    "title": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ?",
+    "summary": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ? Lesfrancais.press",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbWNWVlczREFJNGpIdUlBSkFlSFZQbnpXTDd6WHlxRS1nNTY3dmNXeFdlN25tVm5OWVlGNkV5VzdDaWJpeEREclNFS2s1ZTR4MlZ2Rm1vSmdETGxjWUNxTFY3SnBCbTBaV3oyUl9VaU5pem03QWkxOG9FQ29oOENKWHJxM0Q0WU1HaU5fUnJaN0VCb1NoNmNfWE5ETTJBTXdwbVBwTDU2UHIzZWNEekZKd1NSd2VVeURzNlVZLUYwYmVlUVY0NGNXTTBpSE1meldhdTd5Tk94cVVwMWZmNmFNb29SNFhYY2Etakcwb191Y3pJOGx4NXdheDUxUngwY05M?oc=5",
-    "date": "2026-07-06"
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemgyR0tadjh6bHBvSGhoNVRRS3RsTjkyVXRjakJ2dl9zalhVOV92UmZydkxlbmxYUVc5TzhtZWVOQ2lSNjJHaHZ1MmJKN0l0a0VWcXE3eFprZHlCajMzYmstR3ZwOG54TnFTNUtOZWVqWmxnMTZPQmlxb0ZmVWQzbnMxN2ZBYlA4amZENGUxa0k?oc=5",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Le déficit commercial de la France se creuse en mai à près de 7 milliards d’euros, selon les douanes",
-    "summary": "Le déficit commercial de la France s’est dégradé de 1,5 milliard d’euros en mai en raison d’une baisse des exportations, qui étaient au contraire en hausse en avril.",
+    "title": "Retards, indemnisations, remboursements… le Parlement européen renforce les droits des passagers aériens",
+    "summary": "Indemnisation préservée en cas de retard de plus de trois heures, remboursement plus clair et plus rapide… Les députés européens ont adopté mardi un texte renforçant les droits des passagers, après presque treize années de négociations.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/07/france-le-deficit-commercial-se-creuse-en-mai-a-pres-de-7-milliards-d-euros-selon-les-douanes_6721430_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/07/retards-indemnisations-remboursements-le-parlement-europeen-renforce-les-droits-des-passagers-aeriens_6721478_3234.html",
     "date": "2026-07-07"
   },
   {
@@ -221,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "Sommet de l’Otan à Ankara : pour les Européens, la menace s’appelle Donald Trump",
-    "summary": "Mardi 7 juillet, à Ankara, en Turquie, s’ouvre le sommet de l’Organisation du traité de l’Atlantique nord. Dans les colonnes de la presse européenne, l’opinion dominante est toujours la même : il va falloir composer avec Donald Trump et ne pas céder à toutes ses requêtes.",
+    "title": "Sommet d’Ankara : qu’est-ce que l’“Otan 3.0” voulue par les États-Unis ?",
+    "summary": "Le 36e sommet de l’Otan se tiendra les 7 et 8 juillet à Ankara, en Turquie. La question de l’avenir de l’Alliance, au sein de laquelle Washington veut voir l’Europe jouer un rôle plus important, sera centrale. Explications.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/diplomatie-sommet-de-l-otan-a-ankara-pour-les-europeens-la-menace-s-appelle-donald-trump_247154",
-    "date": "2026-07-06"
-  },
-  {
-    "type": "news",
-    "title": "US budget slashing risks losing global scientific edge to China",
-    "summary": "Experts warn that cuts to US research funding is weakening the country’s scientific and technological capacity.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/explainer/sommet-d-ankara-qu-est-ce-que-l-otan-3-0-voulue-par-les-etats-unis_245860",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "The verdict that could shake up French politics",
-    "summary": "Listen on Spotify Apple Music Amazon Music Europe is on the edge of its seat as it awaits a crucial verdict in the case of France’s National Rally leader, Marine Le Pen, today. If the Paris appeals court upholds her five-year ban on holding public office, Le Pen’s dream of running in 2027 will be dashed, and the campaign of her 30-year-old protégé, Jordan Ba…",
+    "title": "LIVE: Trump, NATO leaders in Turkiye’s Ankara as defence tops summit agenda",
+    "summary": "Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
+    "date": "2026-07-07"
+  },
+  {
+    "type": "news",
+    "title": "‘Please help us’: Zelenskyy presses NATO for air defense aid",
+    "summary": "ANKARA — Ukrainian President Volodymyr Zelenskyy urged allies Tuesday to make helping with air defense one of the key outcomes of NATO’s Ankara summit, warning that Ukraine still lacks the means to stop Russian ballistic missiles.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-verdict-that-could-shake-up-french-politics/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-ankara-nato-for-air-defense-aid/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
@@ -253,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "Fibre Excellence : ultime délai pour conforter le plan de sauvetage de Matthieu Pigasse",
-    "summary": "Le tribunal de commerce de Toulouse a accordé, ​lundi 6 juillet, un délai de trois semaines au banquier d’affaires pour conforter son offre de reprise du papetier placé en redressement judiciaire. Son projet sera examiné le 27 juillet.",
+    "title": "Le Canada choisit le groupe allemand TKMS pour construire sa nouvelle flotte de sous-marins militaires",
+    "summary": "Les négociations entre Ottawa et l’entreprise allemande, censée fournir douze navires de guerre au total, doivent s’achever d’ici la fin d’année 2027, avec une première livraison prévue en 2034.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/06/fibre-excellence-ultime-delai-pour-conforter-le-plan-de-sauvetage-de-matthieu-pigasse_6721257_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/07/le-canada-choisit-le-groupe-allemand-tkms-pour-construire-sa-nouvelle-flotte-de-sous-marins-militaires_6721291_3210.html",
     "date": "2026-07-06"
   },
   {
     "type": "news",
-    "title": "Why California’s carbon manure math doesn’t add up",
-    "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air.",
+    "title": "Your family’s $300 stake in OpenAI",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-    "date": "2026-07-02"
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "date": "2026-07-06"
   },
   {
     "type": "news",
@@ -285,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-    "summary": "Article URL: https://github.com/MaximeRivest/Riddle Comments URL: https://news.ycombinator.com/item?id=48811591 Points: 395 # Comments: 219",
+    "title": "A global workspace in language models",
+    "summary": "Article URL: https://www.anthropic.com/research/global-workspace Comments URL: https://news.ycombinator.com/item?id=48808002 Points: 404 # Comments: 152",
     "source": "Hacker News",
-    "link": "https://github.com/MaximeRivest/Riddle",
+    "link": "https://www.anthropic.com/research/global-workspace",
     "date": "2026-07-06"
   },
   {
@@ -325,26 +325,26 @@
   },
   {
     "type": "news",
-    "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
-    "summary": "Trump reportedly spoke with Putin and Zelenskyy as Ukraine struck Russian targets and Moscow launched another deadly attack on Kyiv.",
+    "title": "India fashion retailer Trent tumbles 11% as revenue growth disappoints",
+    "summary": "Shares of one of India's biggest fashion retailers, Trent, fell over 10% after the company reported weak earnings growth.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
-    "date": "2026-07-06"
-  },
-  {
-    "type": "news",
-    "title": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ?",
-    "summary": "La hausse des taux directeurs par la Banque centrale européenne : une erreur ? Lesfrancais.press",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemgyR0tadjh6bHBvSGhoNVRRS3RsTjkyVXRjakJ2dl9zalhVOV92UmZydkxlbmxYUVc5TzhtZWVOQ2lSNjJHaHZ1MmJKN0l0a0VWcXE3eFprZHlCajMzYmstR3ZwOG54TnFTNUtOZWVqWmxnMTZPQmlxb0ZmVWQzbnMxN2ZBYlA4amZENGUxa0k?oc=5",
+    "link": "https://www.cnbc.com/2026/07/07/india-fashion-retailer-trent-tumbles-11percent-as-revenue-growth-disappoints.html",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Sommet de l’OTAN : face au désengagement américain, les armées des pays européens gagnent en puissance mais de façon dispersée",
-    "summary": "Réunis à Ankara, les 7 et 8 juillet, les dirigeants européens de l’Alliance atlantique veulent démontrer qu’ils peuvent augmenter leurs capacités de défense pour parer à toute attaque. Si des efforts sont désormais engagés, les Européens peinent toujours à les mener de concert.",
+    "title": "Point marchés-Wall Street vue en ordre dispersé et l'Europe hésite, doutes et prise de bénéfices sur la \"tech\"",
+    "summary": "Point marchés-Wall Street vue en ordre dispersé et l'Europe hésite, doutes et prise de bénéfices sur la \"tech\" Zonebourse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQemZJR2VfbDFYMTdENkdONmV5dDBmU3ItRWRjcVJEcWNHaGMxQXVJdC1DYlJQRHBNVEdSOWZTcDNCT3dGRmQ4S2RIOHBEamtDRzFjU3B1czRET2xqUFVnNXhDeXliQ2hLM2d3cFZRZ0pCOHhoREZ0VVZnOHhseC1RWXVrYkltb3FOOTRISFRRZW1NMlY4dndkLUktQW1WSkQ3ZjVJY1RFNzAwS1ZxcmtDMWJSdGY3TVJ1NjJVR0ZtNWdtN2xXc3YxRVlRdzM3R01aOXBVQ2lxWTgwMWlqY1JCMGF6RkJ0QUVxOHV5Y005N1JFQQ?oc=5",
+    "date": "2026-07-07"
+  },
+  {
+    "type": "news",
+    "title": "Le déficit commercial de la France se creuse en mai à près de 7 milliards d’euros, selon les douanes",
+    "summary": "Le déficit commercial de la France s’est dégradé de 1,5 milliard d’euros en mai en raison d’une baisse des exportations, qui étaient au contraire en hausse en avril.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/07/face-au-desengagement-americain-de-l-otan-les-armees-des-pays-europeens-gagnent-en-puissance-de-facon-dispersee_6721403_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/07/france-le-deficit-commercial-se-creuse-en-mai-a-pres-de-7-milliards-d-euros-selon-les-douanes_6721430_3234.html",
     "date": "2026-07-07"
   },
   {
@@ -365,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "“Démolis” par la Belgique, les Américains voient leur rêve de Coupe du monde “mourir salement”",
-    "summary": "Les États-Unis s’arrêtent en huitièmes de finale, stoppés par les Diables rouges (4-1) après 48 heures de polémique sur l’annulation du carton rouge de leur buteur Folarin Balogun.",
+    "title": "Giovanni Pigni, journaliste indépendant : “En Russie, il y a une forme d’apathie et de résignation”",
+    "summary": "Journaliste indépendant travaillant pour plusieurs médias italiens et anglo-saxons, Giovanni Pigni est installé à Saint-Pétersbourg et a réalisé plusieurs reportages depuis la Russie. Il livre à “Courrier international” ses impressions sur les évolutions récentes dans le pays, après plus de quatre ans de guerre avec l’Ukraine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/demolis-par-la-belgique-les-americains-voir-leur-reve-de-coupe-du-monde-mourir-salement_247206",
+    "link": "https://www.courrierinternational.com/article/entretien-giovanni-pigni-journaliste-independant-en-russie-il-y-a-une-forme-d-apathie-et-de-resignation_245888",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-    "summary": "Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.",
+    "title": "Ukrainian drones hit Russian fuel tankers",
+    "summary": "Ukrainian drones hit Russian fuel tankers",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Whatever happens to Le Pen, her party’s legal headaches are only beginning",
-    "summary": "PARIS — As Marine Le Pen awaits a verdict that will determine her political future, her chosen successor, Jordan Bardella, faces a legal problem of his own. Just a week before a court ruling that could make Bardella his party’s presidential candidate, police raided contractors who worked for the party’s group in the European Parliament before it was dissolve…",
+    "title": "Russia accuses Ukraine of targeting civilian infrastructure in overnight strikes",
+    "summary": "KYIV — Ukrainian armed forces hit multiple targets in Russia on Monday night, damaging an airport in Belgorod and a microchip manufacturer building “electronic warfare and weaponry” for Russia in the Bryansk region.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/whatever-happens-marine-le-pen-verdict-national-rally-legal-headaches-continue/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/ukraine-russia-strikes-infrastructure-belgorod-bryansk/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
