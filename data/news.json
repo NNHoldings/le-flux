@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "Le sommet de l'OTAN à Ankara annonce des contrats de défense majeurs.",
-      "La France va interdire la publicité pour les énergies fossiles."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-08"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,27 +25,27 @@
   },
   {
     "type": "news",
-    "title": "Google backs nuclear fusion startup targeting Europe’s first commercial power plant",
-    "summary": "Proxima Fusion has raised $468 million as it looks to move towards commercializing the promising but infamously difficult technical challenge of nuclear fusion.",
+    "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+    "summary": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/google-proxima-fusion-funding.html",
-    "date": "2026-07-07"
+    "link": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit en baisse, inquiétude autour de l'IA et la géopolitique",
-    "summary": "Point marchés-L'Europe finit en baisse, inquiétude autour de l'IA et la géopolitique Zonebourse",
+    "title": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN - North Atlantic Treaty Organization | NATO",
+    "summary": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN North Atlantic Treaty Organization | NATO",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2I3UXJ3N2dod1ZEOUc2UmcyOUdUMEZNUk5mRlVBWG1SZ0R3UTBvTURUVzZuNzlYcmM5QloyM1I5RHJ3M1hMT283TkpkN1dvTjJBd3dMN1REaDNPVy1pUDFGSTFtZUEyUzlZLWdSY3VwdURiU3VhUWJxNXVDS2U1bG9zZmhTU1FQdlJqY3VOR2d5OUxlVzNRM1BDdkFPeGUxVk9mQVB2akxlOTQ2TzZiRHRXNnpEdl9mSjZ3NlY5cERwelRGYjRJeDJJVjE1N0JaZDdVR1hRc2FTUF80?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUNUdW5ERm83dzloWGdIWkVrcjdqdDI4LTVKRlNYS3hKMkFwM2lyT0xlUWxPTlctS29NU2diZ3lVUmVDYXcwOXM1aWZ0ck1sMi1tVG9UMDZQQVJyUi1kMTltdnB3dWViQmhlc3RsTl9wYUV4MzlDcE5OTFphVjBGRVEtaGhXWmxiMGNRRzlfQWkwcW0zZVZPUGhYbTZFVm9GUUZ2ME1aM0w3OTV0QUMwZEk5aUtYS1ZnempSN05RcW10LVBZMjR5RngyZXVKRTNVOExBVE9nT2pXR0xiQ1d1TzRsU2R6OVROQTZ6MmlLZVV5LUk0?oc=5",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Au premier jour du sommet de l’OTAN, à Ankara, Mark Rutte annonce une myriade de contrats de défense pour des milliards d’euros",
-    "summary": "Le montant exact, d’environ 43 milliards d’euros, doit être dévoilé, mercredi 8 juillet, par le secrétaire général de l’Alliance atlantique. L’objectif est de montrer au président américain, Donald Trump, arrivé la veille dans la capitale turque, que l’Europe et le Canada investissent massivement dans leur défense.",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev « riposte à juste titre », estime Volodymyr Zelensky, à la suite d’attaques nocturnes ukrainiennes en Russie",
+    "summary": "Le président ukrainien a précisé que les frappes ukrainiennes avaient atteint les oblasts de Voronej (à 300 kilomètres de la ligne de front), de Saratov (à 800 kilomètres), le Tatarstan (à 1 400 kilomètres) et le Bachkorstostan (à 1 500 kilomètres).",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/07/au-premier-jour-du-sommet-de-l-otan-a-ankara-mark-rutte-annonce-une-myriade-de-contrats-de-defense-pour-des-milliards-d-euros_6721513_3210.html",
-    "date": "2026-07-07"
+    "link": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-en-ukraine-kiev-riposte-a-juste-titre-estime-volodymyr-zelensky-apres-des-attaques-nocturnes-ukrainiennes-en-russie_6720832_3210.html",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -77,26 +65,26 @@
   },
   {
     "type": "news",
-    "title": "Samsung annonce des profits record, mais dévisse à la Bourse de Séoul",
-    "summary": "Au deuxième trimestre, les bénéfices du géant sud-coréen devraient s’élever à plus de 51 milliards d’euros, soit une hausse de 1 810,3 % sur un an. Mais les investisseurs, de plus en plus inquiets devant la possible formation d’une “bulle de l’IA”, anticipent une éventuelle surproduction de puces mémoire.",
+    "title": "Fuite des riches : anatomie d’un phénomène mondial",
+    "summary": "Aux États-Unis comme en France, les plus fortunés cherchent à échapper le plus possible à l’impôt. Ils sont alors amenés à déménager pour des cieux plus cléments fiscalement. Explications.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-samsung-annonce-des-profits-record-mais-devisse-a-la-bourse-de-seoul_247339",
-    "date": "2026-07-07"
-  },
-  {
-    "type": "news",
-    "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
-    "summary": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/impots-fuite-des-riches-anatomie-d-un-phenomene-mondial_245736",
     "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Billionaire companies want to pull up the ladder behind them",
-    "summary": "In 2013, when the Association for Competitive Technology released its first State of the App Economy in Europe, mobile app-based software businesses were generating roughly €10 billion and sustaining more than 700,000 jobs.",
+    "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
+    "summary": "European intelligence report warns of strain on Russia's banks, but experts say a full-blown crisis is unlikely",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
+    "date": "2026-07-08"
+  },
+  {
+    "type": "news",
+    "title": "Trump reignites Greenland feud with Europe at NATO",
+    "summary": "ANKARA, Turkey — European leaders on Wednesday had a firm warning for Donald Trump as he revived his crusade to seize Greenland: Leave the Danish territory alone. “We are ready to defend every inch of NATO, including our own territory,” Danish Prime Minister Mette Frederiksen told reporters as she arrived at a gathering of the alliance leaders in Ankara.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/sponsored-content/billionaire-companies-want-to-pull-up-the-ladder-behind-them/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/donald-trump-greenland-comments-draw-warning-from-european-leaders/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-08"
   },
   {
@@ -142,7 +130,7 @@
   {
     "type": "news",
     "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "summary": "Article URL: https://kb.cert.org/vuls/id/213560 Comments URL: https://news.ycombinator.com/item?id=48825749 Points: 166 # Comments: 47",
+    "summary": "Article URL: https://kb.cert.org/vuls/id/213560 Comments URL: https://news.ycombinator.com/item?id=48825749 Points: 241 # Comments: 76",
     "source": "Hacker News",
     "link": "https://kb.cert.org/vuls/id/213560",
     "date": "2026-07-08"
@@ -181,19 +169,19 @@
   },
   {
     "type": "news",
-    "title": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
-    "summary": "Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.",
+    "title": "Ukraine has already won the war against Russia, Finnish president tells CNBC",
+    "summary": "Ukraine needs NATO, but NATO needs Ukraine just as much, the Finnish president told CNBC on Tuesday.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+    "link": "https://www.cnbc.com/2026/07/07/ukraine-won-war-russia-nato-alexander-stubb-finnish-president.html",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN - North Atlantic Treaty Organization | NATO",
-    "summary": "Annonce de nouveaux marchés pour plusieurs dizaines de milliards au Forum des industries de défense organisé en marge du sommet de l’OTAN North Atlantic Treaty Organization | NATO",
+    "title": "La Banque centrale européenne presse le secteur financier de s'armer contre les cyberattaques pour faire face à \"une transformation durable du paysage des menaces\"",
+    "summary": "La Banque centrale européenne presse le secteur financier de s'armer contre les cyberattaques pour faire face à \"une transformation durable du paysage des menaces\" BFM",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUNUdW5ERm83dzloWGdIWkVrcjdqdDI4LTVKRlNYS3hKMkFwM2lyT0xlUWxPTlctS29NU2diZ3lVUmVDYXcwOXM1aWZ0ck1sMi1tVG9UMDZQQVJyUi1kMTltdnB3dWViQmhlc3RsTl9wYUV4MzlDcE5OTFphVjBGRVEtaGhXWmxiMGNRRzlfQWkwcW0zZVZPUGhYbTZFVm9GUUZ2ME1aM0w3OTV0QUMwZEk5aUtYS1ZnempSN05RcW10LVBZMjR5RngyZXVKRTNVOExBVE9nT2pXR0xiQ1d1TzRsU2R6OVROQTZ6MmlLZVV5LUk0?oc=5",
-    "date": "2026-07-07"
+    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPeFJ1TVdrQnBJdVozbjV5WHVsdkVCVVhrVUZqNFFOYmdYSDdUcW5sUDlhdWFmZUdlQkRyczgyTDBoREh6TVlkYXM1UjFCRlF5cWtMSGpxb1loOFdjYXdrYzQwMlhIaERnMFFUZ2cwQmd4cDdVWmo1ZUNzeUlaeGVrRWJ6T0x5UVRUVGFfMlAwNnota1c0aVdXc3pib3dsaFA1YlpMV291RFZSZ2R0R3VGM1F1VmtsZEQzejA5SnRCZFZLclRfM19COFhGMWl5NUJONnhFdkZnYVpZRE5IanFvRnRfM205aDJiRGFuNkc4bmxUOXViYkRTalM3R0g1M2hFbjRkU2RKLVpSY21RdHphMzlOTC1hQmxuS0VzSzJDTHdLQ2dhSkxLRmU2OTNlMFBnWHpBVkJlODZuZlRIWlRmUWh3WllVU1ZhN0JXRXlpQzNUMUZGTWc?oc=5",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -221,42 +209,42 @@
   },
   {
     "type": "news",
-    "title": "Au sommet de l’OTAN à Ankara, Donald Trump tance toujours ses alliés, qui “retiennent leur souffle”",
-    "summary": "Dès son arrivée en Turquie, le président américain s’est plaint du manque de soutien des Européens et a réitéré ses menaces sur le Groenland, tout en courtisant son hôte, le “très fort” Recep Tayyip Erdogan auquel il a promis des avions F-35.",
+    "title": "Aux États-Unis, la Coupe du monde est créatrice d’“histoires d’amour internationales”",
+    "summary": "Outre-Atlantique, l’euphorie du Mondial pousse de nombreux jeunes Américains à sortir de nouveau et à rencontrer des fans du ballon rond venus du monde entier, rapporte le magazine londonien “Dazed”. Avec, s’ils ont un peu de chance, une idylle internationale à la clé.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/diplomatie-au-sommet-de-l-otan-a-ankara-donald-trump-tance-toujours-ses-allies-qui-retiennent-leur-souffle_247470",
+    "link": "https://www.courrierinternational.com/article/societe-aux-etats-unis-la-coupe-du-monde-est-creatrice-d-histoires-d-amour-internationales_246494",
     "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Iran war live: Sirens in Bahrain, Kuwait as Tehran responds to US attacks",
-    "summary": "Iran says it targeted '85 military installations' in Bahrain and Kuwait in retaliation for US strikes on its south.",
+    "title": "Nigeria’s counterterrorism gains carry a warning",
+    "summary": "Mass surrenders may weaken armed groups, but reintegration without justice risks fuelling resentment.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/7/8/nigerias-counterterrorism-gains-carry-a-warning?traffic_source=rss",
     "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Trump administration reimposes sanctions on Iran oil sales",
-    "summary": "The Trump administration on Tuesday revoked a general license that had authorized the sale of Iranian oil after several tankers were attacked while transiting the Strait of Hormuz. The development is a sign that the peace agreement reached between the U.S. and Iran last month remains on fragile ground. The memorandum of understanding directed the U.S.",
+    "title": "Trump orders a halt to US trade with Spain",
+    "summary": "ANKARA, Turkey — U.S. President Donald Trump said Wednesday he was cutting off trade with Spain over defense spending — reviving a long-running feud between Washington and Madrid. “I didn’t speak to Spain. Spain is a wasted cause.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/07/trump-reimposes-sanctions-iran-oil-sanctions-00989081?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-07"
+    "link": "https://www.politico.eu/article/trump-says-hes-cutting-off-trade-with-spain-over-defense-spending-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Qui s’intéresse encore à la Corée du Nord ?",
-    "summary": "Guerre en Ukraine, conflit au Moyen Orient… plus personne ou presque n’a les yeux sur Pyongyang et sa bombe atomique…. Alors qu’il y a encore quelques années l’arrêt du programme nucléaire Nord-Coréen semblait une priorité pour la communauté internationale. Un désintérêt qui n'est pas sans conséquences... Partenariat magazine Questions Internationales.",
+    "title": "Au sommet de l'Otan, les Européens tentent d'amadouer Donald Trump",
+    "summary": "Attendu avec une certaine anxiété par les Européens en raison de la défiance du président américain, poids lourd et pilier central de l’Alliance atlantique, le sommet de l’Otan, qui a commencé dans la soirée du mardi 7 juillet à Ankara, se poursuit ce mercredi dans la capitale turque. Et sans surprise, à son arrivée, Donald Trump a fait du Trump.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260705-qui-s-int%C3%A9resse-encore-%C3%A0-la-cor%C3%A9e-du-nord",
-    "date": "2026-07-05"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260708-au-sommet-de-l-otan-les-europ%C3%A9ens-tentent-d-amadouer-donald-trump",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Le gouvernement annonce 3 milliards d’euros d’économies supplémentaires pour l’Etat et la Sécurité sociale",
-    "summary": "L’objectif de 5 % de déficit public en 2026 que s’est fixé le gouvernement est « difficile à atteindre », mais tout sera fait pour « s’en rapprocher au maximum », a déclaré mardi le ministre de l’économie, Roland Lescure, à l’issue d’un comité d’alerte des finances publiques à Bercy.",
+    "title": "Finances publiques : la perspective d’une baisse du déficit s’éloigne, de nouvelles économies décidées",
+    "summary": "Le gouvernement a annoncé que l’objectif de ramener le déficit à 5 % en 2026 sera « difficile à atteindre », mardi 7 juillet, lors d’un comité d’alerte des finances publiques. Un effort de 3 milliards d’euros d’économies supplémentaires, réparti entre l’Etat et la Sécurité sociale, a été annoncé.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/politique/article/2026/07/07/le-gouvernement-annonce-trois-milliards-d-euros-d-economies-supplementaires-pour-l-etat-et-la-securite-sociale_6721483_823448.html",
+    "link": "https://www.lemonde.fr/politique/article/2026/07/07/finances-publiques-la-perspective-d-une-baisse-du-deficit-s-eloigne-de-nouvelles-economies-decidees_6721523_823448.html",
     "date": "2026-07-07"
   },
   {
@@ -285,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "Every new car sold in the European Union must include a driver monitoring camera",
-    "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 567 # Comments: 720",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "summary": "Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/ Comments URL: https://news.ycombinator.com/item?id=48829312 Points: 371 # Comments: 79",
     "source": "Hacker News",
-    "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "date": "2026-07-07"
+    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Ukraine has already won the war against Russia, Finnish president tells CNBC",
-    "summary": "Ukraine needs NATO, but NATO needs Ukraine just as much, the Finnish president told CNBC on Tuesday.",
+    "title": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland",
+    "summary": "Geopolitics are back in focus, with the U.S. retaliating against Iran after several ships were struck in the Strait of Hormuz, and Ukraine hitting Russia.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/ukraine-won-war-russia-nato-alexander-stubb-finnish-president.html",
-    "date": "2026-07-07"
+    "link": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Les marchés d'actions américains en baisse, plombés par les semi-conducteurs et la hausse du pétrole",
-    "summary": "Les marchés d'actions américains en baisse, plombés par les semi-conducteurs et la hausse du pétrole Zonebourse Suisse",
+    "title": "ENTRETIEN. 3 500 milliards d'euros de dette : \"Elle n'est pas plus lourde grâce à l'inflation...\" Et si le fardeau de la France n’avait pas vraiment augmenté",
+    "summary": "ENTRETIEN. 3 500 milliards d'euros de dette : \"Elle n'est pas plus lourde grâce à l'inflation...\" Et si le fardeau de la France n’avait pas vraiment augmenté ladepeche.fr",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRFhDNkJmN2pGNzBSTDdUdFhhR3BYekZaVWNheWxWbmdmcWEtalZ2dFhSSThERFN4OVhjXzZxNVpWV3NZUzdsdDExa1hncUdHc0FHYm9tdm1FWndWcllJVl94ZXFmRTY0MFJzMVVCdk1pUnZlamxIY2I4MHBQd1FFYzB1Y3BFSXZWMmJMVkx1eVlVTXItOXN3b21kekszTHJHY0NWLTFjbzI0RnM3YmZPUFliTkpCR2tIdFFtYnJ4MTJsS1VzbF9TaTQtcVZjeHJZZkZieTBGYk5LT1lReXpFY2dJa3ljdzVETk5WT0ZiUXM?oc=5",
-    "date": "2026-07-07"
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPS1VzU2lqLWRqRENnT2ljLWNudVRld2tVaFREQnVybWt6cF80bmF3T2VmLUd4dnpORGVIYzQ3c08tRXNPZ292NjB5ajBJWWZkTWxMRDY0U2lacXhEMXcwNGNrbFU0dE5idlRlMUtjQlVJSW5UcjNYNlFnS2hZYVd5OEV3elY5M0hUdmlTZDdFeWJhMmZTTVE1T0dmZHF6Uk5jYW5NS3BtMjlQM2hXbnRtSGFfcUJESGdqa2I5TDVDSERsVWNmWnVhZzlEUExCWFRpeVpCUVFQdTZrWDY2T0I3Y19PUFUxbk5ZWThBU2JKUU5Dc1FoQUxJLUJkbWQtSndoT1JhbDBrdGIxeDRWRmRpRVdPTFpxVEZNR210XzJ3NA?oc=5",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : plusieurs explosions secouent Kiev, attaque à Kharkiv",
-    "summary": "Les déflagrations entendues à Kiev surviennent quelques jours après les pires frappes russes sur la capitale ukrainienne et au dernier jour du sommet de l’OTAN en Turquie. Le maire a fait état de deux blessés, tout comme celui de Kharkiv.",
+    "title": "Comment l’IA a-t-elle déjà métamorphosé la guerre ?",
+    "summary": "Massivement déployée au service de différentes armées dans le monde, l’intelligence artificielle bouleverse la conduite des conflits et l’éthique de la guerre. Dans ce podcast, Alexandre Piquard, journaliste au service Economie du « Monde » chargé de l’IA, analyse cette révolution militaire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-en-ukraine-plusieurs-explosions-secouent-kiev-attaque-a-kharkiv_6720832_3210.html",
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/08/comment-l-ia-a-t-elle-deja-metamorphose-la-guerre_6721691_5463015.html",
     "date": "2026-07-08"
   },
   {
@@ -365,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "“Aller au Kazakhstan juste pour faire le plein” : en Asie centrale, l’onde de choc énergétique",
-    "summary": "Les conséquences des frappes ukrainiennes sur les installations du secteur énergétique russe se font sentir au-delà des frontières de la Russie. Si elles visent d’abord Moscou, elles viennent aussi rappeler la dépendance des pays d’Asie centrale, restés sous perfusion des carburants, des pipelines et des prix russes.",
+    "title": "En Hongrie, Peter Magyar suspend temporairement des médias publics pro-Orban",
+    "summary": "Mardi 7 juillet, la chaîne publique hongroise M1 était suspendue plusieurs heures pour acter l’évolution de l’audiovisuel d’État après seize années de contrôle serré sous le gouvernement Orban. Un exemple frappant de “l’arbitraire” du nouveau régime, taclent les médias critiques.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-aller-au-kazakhstan-juste-pour-faire-le-plein-en-asie-centrale-l-onde-de-choc-energetique_247276",
+    "link": "https://www.courrierinternational.com/article/politique-en-hongrie-peter-magyar-suspend-temporairement-des-medias-publics-pro-orban_247537",
     "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Oil surges as US strikes Iran, reversing return to pre-war prices",
-    "summary": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
+    "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+    "summary": "Trump made the announcement at a NATO summit after Iran attacked bases hosting US forces in Kuwait and Bahrain.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
     "date": "2026-07-08"
   },
   {
@@ -389,10 +377,10 @@
   },
   {
     "type": "news",
-    "title": "Women for justice ! Une histoire pionnière des militantes panafricaines pour les droits",
-    "summary": "Women for justice où le combat des femmes pour la justice et l’égalité en Afrique du Sud, au Ghana, ou encore au Nigeria. Une émission enregistrée en public au Campus Condorcet de Paris-Aubervilliers où nous avons installé notre studio RFI au cœur des 9è édition des Rencontres des Études africaines en France.",
+    "title": "Qui s’intéresse encore à la Corée du Nord ?",
+    "summary": "Guerre en Ukraine, conflit au Moyen Orient… plus personne ou presque n’a les yeux sur Pyongyang et sa bombe atomique…. Alors qu’il y a encore quelques années l’arrêt du programme nucléaire Nord-Coréen semblait une priorité pour la communauté internationale. Un désintérêt qui n'est pas sans conséquences... Partenariat magazine Questions Internationales.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-marche-du-monde/20260704-women-for-justice-une-histoire-pionni%C3%A8re-des-militantes-panafricaines-pour-les-droits",
-    "date": "2026-07-04"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260705-qui-s-int%C3%A9resse-encore-%C3%A0-la-cor%C3%A9e-du-nord",
+    "date": "2026-07-05"
   }
 ]
