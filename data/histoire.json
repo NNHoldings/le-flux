@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les idées économiques de Adam Smith ?",
+    "answer": "Adam Smith, dans son ouvrage 'La richesse des nations' (1776), propose la théorie de la main invisible, affirmant que les actions individuelles dans un marché libre conduisent à une allocation efficace des ressources. Il plaide également pour la division du travail comme source de productivité."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels sont les principes du mercantilisme ?",
+    "answer": "Le mercantilisme, dominant du XVIe au XVIIIe siècle, prône l'accumulation de richesses par le biais d'un excédent commercial et d'une forte intervention de l'État dans l'économie. Les mercantilistes croyaient que la puissance d'une nation était liée à sa capacité à contrôler le commerce et les ressources."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle est la contribution de Karl Marx à l'économie ?",
+    "answer": "Karl Marx, dans 'Le Capital' (1867), analyse le capitalisme en tant que mode de production basé sur l'exploitation des travailleurs. Il introduit le concept de la lutte des classes et prédit que le capitalisme serait remplacé par le socialisme à travers une révolution prolétarienne."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles idées économiques ont émergé pendant la Révolution industrielle ?",
+    "answer": "La Révolution industrielle, qui débute au XVIIIe siècle, entraîne des idées économiques telles que le capitalisme industriel et l'importance de l'innovation technologique. Elle favorise également la croissance des usines et le travail salarié, transformant les structures sociales et économiques."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment John Maynard Keynes a-t-il influencé l'économie moderne ?",
+    "answer": "John Maynard Keynes, dans 'Théorie générale de l'emploi, de l'intérêt et de la monnaie' (1936), remet en question les idées classiques sur le marché autorégulateur. Il argue que pendant les périodes de crise, l'État doit intervenir par des politiques fiscales et monétaires pour stimuler la demande et favoriser la reprise économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations économiques proviennent de la Chine ancienne ?",
+    "answer": "L'économie chinoise ancienne a introduit des innovations clés telles que la monnaie en papier au XIe siècle et le système de crédit, facilitant le commerce. Ces avancées ont eu un impact durable sur les pratiques économiques, influençant les échanges commerciaux à travers l'Asie et au-delà."
+  },
+  {
+    "type": "histoire",
     "question": "Quels ont été les impacts économiques de l'ouverture de la Chine en 1978 ?",
     "answer": "L'ouverture de la Chine en 1978 sous Deng Xiaoping a marqué le début des réformes économiques, transformant le pays d'une économie planifiée vers une économie de marché socialiste. Cela a entraîné une croissance économique rapide, avec un taux de croissance moyen du PIB d'environ 10 % par an et la sortie de millions de personnes de la pauvreté."
   },
