@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 200?",
+    "answer": "L'évaluation des risques d'audit selon la NEP 200 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, tant au niveau des assertions que des comptes."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la première étape de l'évaluation des risques d'audit?",
+    "answer": "La première étape de l'évaluation des risques d'audit est la compréhension de l'entité et de son environnement, y compris le contrôle interne, conformément à la NEP 210."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le code de commerce français traite-t-il l'évaluation des risques d'audit?",
+    "answer": "Le code de commerce français, notamment à l'article L823-10, impose aux commissaires aux comptes de réaliser une évaluation des risques d'anomalies significatives dans les comptes de l'entité."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les trois types de risques identifiés lors de l'évaluation des risques d'audit?",
+    "answer": "Les trois types de risques sont : le risque inhérent, le risque de contrôle et le risque de détection, conformément à la NEP 300."
+  },
+  {
+    "type": "dec",
+    "question": "Quel rôle joue le jugement professionnel dans l'évaluation des risques d'audit?",
+    "answer": "Le jugement professionnel est essentiel pour évaluer les risques d'audit, car il guide l'auditeur dans l'identification des risques et l'application de procédures d'audit adaptées, comme le stipule la NEP 200."
+  },
+  {
+    "type": "dec",
+    "question": "Comment les résultats de l'évaluation des risques influencent-ils les procédures d'audit?",
+    "answer": "Les résultats de l'évaluation des risques influencent la nature, le calendrier et l'étendue des procédures d'audit à mettre en œuvre, afin de répondre adéquatement aux risques identifiés, selon la NEP 300."
+  },
+  {
+    "type": "dec",
     "question": "Quelles sont les principales missions du commissaire aux comptes selon le code de commerce ?",
     "answer": "Les principales missions du commissaire aux comptes sont de certifier les comptes annuels, de réaliser des examens limités et d'effectuer des missions de contrôle légal des comptes."
   },
