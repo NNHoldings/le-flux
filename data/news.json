@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "Le sommet de l'OTAN à Ankara annonce des contrats de défense majeurs.",
+      "La France va interdire la publicité pour les énergies fossiles."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-08"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -41,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : à Ankara, Volodymyr Zelensky a évoqué avec Mark Rutte, le secrétaire général de l’OTAN, la nécessité de livraisons urgentes de missiles pour la défense aérienne ukrainienne",
-    "summary": "Selon le président ukrainien, les deux hommes ont également discuté, au premier jour du sommet de l’OTAN dans la capitale turque, d’un renforcement de la coopération militaire entre l’Ukraine et les pays de l’Alliance, notamment à travers la production conjointe d’armes.",
+    "title": "Au premier jour du sommet de l’OTAN, à Ankara, Mark Rutte annonce une myriade de contrats de défense pour des milliards d’euros",
+    "summary": "Le montant exact, d’environ 43 milliards d’euros, doit être dévoilé, mercredi 8 juillet, par le secrétaire général de l’Alliance atlantique. L’objectif est de montrer au président américain, Donald Trump, arrivé la veille dans la capitale turque, que l’Europe et le Canada investissent massivement dans leur défense.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/07/en-direct-guerre-en-ukraine-a-ankara-volodymyr-zelensky-a-evoque-avec-mark-rutte-le-secretaire-general-de-l-otan-la-necessite-de-livraisons-urgentes-de-missiles-pour-la-defense-aerienne-ukrainienne_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/07/au-premier-jour-du-sommet-de-l-otan-a-ankara-mark-rutte-annonce-une-myriade-de-contrats-de-defense-pour-des-milliards-d-euros_6721513_3210.html",
     "date": "2026-07-07"
   },
   {
@@ -73,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "US trade deficit surges amid artificial intelligence spending boom",
-    "summary": "Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.",
+    "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+    "summary": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss",
-    "date": "2026-07-07"
+    "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "‘Can you help us?’: US oil execs turn to Trump to topple Europe’s climate rules",
-    "summary": "The U.S. oil and gas industry has succeeded in exporting massive amounts of natural gas to Europe. Now, with the help of White House officials, it looks like it might also succeed in exporting the Trump administration’s deregulatory agenda.",
+    "title": "Billionaire companies want to pull up the ladder behind them",
+    "summary": "In 2013, when the Association for Competitive Technology released its first State of the App Economy in Europe, mobile app-based software businesses were generating roughly €10 billion and sustaining more than 700,000 jobs.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/07/oil-executives-trump-europe-climate-00987782?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-07"
+    "link": "https://www.politico.eu/sponsored-content/billionaire-companies-want-to-pull-up-the-ladder-behind-them/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -129,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "Microsoft fire idTech team at Id software",
-    "summary": "Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/ Comments URL: https://news.ycombinator.com/item?id=48819244 Points: 321 # Comments: 307",
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "summary": "Article URL: https://kb.cert.org/vuls/id/213560 Comments URL: https://news.ycombinator.com/item?id=48825749 Points: 166 # Comments: 47",
     "source": "Hacker News",
-    "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-    "date": "2026-07-07"
+    "link": "https://kb.cert.org/vuls/id/213560",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -185,11 +197,11 @@
   },
   {
     "type": "news",
-    "title": "Au premier jour du sommet de l’OTAN, à Ankara, Mark Rutte annonce une myriade de contrats de défense pour des milliards d’euros",
-    "summary": "Le montant exact, d’environ 43 milliards d’euros, doit être dévoilé, mercredi, par le secrétaire général de l’Alliance atlantique. L’objectif est de montrer au président américain, Donald Trump, arrivé mardi après-midi dans la capitale turque, que l’Europe et le Canada investissent massivement dans leur défense.",
+    "title": "En Europe, la crainte du retour de l’Allemagne comme puissance militaire",
+    "summary": "En prévoyant de consacrer 3,5 % de son produit intérieur brut à sa défense d’ici à 2029, Berlin répond aux attentes de ses alliés, qui somment le pays depuis des années de prendre davantage ses responsabilités sur la scène internationale. Mais ce réarmement ravive de vieilles peurs, notamment en France, en Italie et en Pologne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/07/au-premier-jour-du-sommet-de-l-otan-a-ankara-mark-rutte-annonce-une-myriade-de-contrats-de-defense-pour-des-milliards-d-euros_6721513_3210.html",
-    "date": "2026-07-07"
+    "link": "https://www.lemonde.fr/international/article/2026/07/08/en-europe-la-crainte-du-retour-de-l-allemagne-comme-puissance-militaire_6721769_3210.html",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -209,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "Le sommet de l’Otan à Ankara consacre le rapprochement entre l’Europe et la Turquie",
-    "summary": "Les pays européens voient de plus en plus dans la Turquie un partenaire précieux, notamment en ce qui concerne l’armement, l’une des priorités du sommet de l’Alliance organisé à Ankara ces mardi 7 et mercredi 8 juillet. Quitte à détourner les yeux face au déclin de la démocratie sous la présidence de Recep Tayyip Erdogan.",
+    "title": "Au sommet de l’OTAN à Ankara, Donald Trump tance toujours ses alliés, qui “retiennent leur souffle”",
+    "summary": "Dès son arrivée en Turquie, le président américain s’est plaint du manque de soutien des Européens et a réitéré ses menaces sur le Groenland, tout en courtisant son hôte, le “très fort” Recep Tayyip Erdogan auquel il a promis des avions F-35.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-le-sommet-de-l-otan-a-ankara-consacre-le-rapprochement-entre-l-europe-et-la-turquie_247279",
-    "date": "2026-07-07"
+    "link": "https://www.courrierinternational.com/article/diplomatie-au-sommet-de-l-otan-a-ankara-donald-trump-tance-toujours-ses-allies-qui-retiennent-leur-souffle_247470",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-    "summary": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
+    "title": "Iran war live: Sirens in Bahrain, Kuwait as Tehran responds to US attacks",
+    "summary": "Iran says it targeted '85 military installations' in Bahrain and Kuwait in retaliation for US strikes on its south.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
-    "date": "2026-07-07"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Trump rips NATO allies, dashing European hopes for a kumbaya summit",
-    "summary": "ANKARA, Turkey — President Donald Trump lashed out at NATO on Tuesday, spoiling the feel-good mood at an alliance summit and reminding allies that he’s not letting go of his grievances. But while Trump rehashed several of his complaints with NATO — including their unwillingness to join the U.S.",
+    "title": "Trump administration reimposes sanctions on Iran oil sales",
+    "summary": "The Trump administration on Tuesday revoked a general license that had authorized the sale of Iranian oil after several tankers were attacked while transiting the Strait of Hormuz. The development is a sign that the peace agreement reached between the U.S. and Iran last month remains on fragile ground. The memorandum of understanding directed the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/07/trump-rips-nato-allies-dashing-european-hopes-for-a-kumbaya-summit-00988547?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/07/trump-reimposes-sanctions-iran-oil-sanctions-00989081?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-07"
   },
   {
@@ -273,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "Europe's company websites are mostly served by US vendors",
-    "summary": "Article URL: https://ciphercue.com/blog/european-web-hosting-vendor-share-2026 Comments URL: https://news.ycombinator.com/item?id=48816612 Points: 226 # Comments: 158",
+    "title": "Every new car sold in the European Union must include a driver monitoring camera",
+    "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 567 # Comments: 720",
     "source": "Hacker News",
-    "link": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+    "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
     "date": "2026-07-07"
   },
   {
@@ -305,11 +317,11 @@
   },
   {
     "type": "news",
-    "title": "Samsung profits jump 1,800% as AI chip sales soar",
-    "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+    "title": "Airbnb data identifies illegal social home sublets",
+    "summary": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-07"
+    "link": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -321,19 +333,19 @@
   },
   {
     "type": "news",
-    "title": "John Williams (Fed) se montre plus optimiste sur l'inflation face au repli des prix de l'énergie",
-    "summary": "John Williams (Fed) se montre plus optimiste sur l'inflation face au repli des prix de l'énergie Zonebourse",
+    "title": "Les marchés d'actions américains en baisse, plombés par les semi-conducteurs et la hausse du pétrole",
+    "summary": "Les marchés d'actions américains en baisse, plombés par les semi-conducteurs et la hausse du pétrole Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVdnQVNjU1EzLUxOZ2w2aHpLNGtBUEN1bXpXUzhWLU5CUndoYlBTeExXYTRvNWd5U19mLXRWY1k3dWpscDNaNnhEYUpjcFUweUtpQURMN29QbkR6N3BnSUpMUHB2cUhtdWVfOWtmb0JFaGJPc3BtR25WbWh4YW5EX0VFREUycGxvTG04a0E2bG5tdXMtREFVVmpRVWtZLW5URjNXZ05sOXlRSC1DMWJ3TnRkOGFFajFvYXJlTHRuQWdMbXpXbkFDbS1RZlFZVGotdC1TX2laX1oxb2ZaWEJSZGJEYnZ2T0JnZk5J?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRFhDNkJmN2pGNzBSTDdUdFhhR3BYekZaVWNheWxWbmdmcWEtalZ2dFhSSThERFN4OVhjXzZxNVpWV3NZUzdsdDExa1hncUdHc0FHYm9tdm1FWndWcllJVl94ZXFmRTY0MFJzMVVCdk1pUnZlamxIY2I4MHBQd1FFYzB1Y3BFSXZWMmJMVkx1eVlVTXItOXN3b21kekszTHJHY0NWLTFjbzI0RnM3YmZPUFliTkpCR2tIdFFtYnJ4MTJsS1VzbF9TaTQtcVZjeHJZZkZieTBGYk5LT1lReXpFY2dJa3ljdzVETk5WT0ZiUXM?oc=5",
     "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "La Turquie, un allié encombrant devenu partenaire indispensable au sein de l’OTAN",
-    "summary": "Après s’être rapproché de la Russie dans les années 2010, le pays a resserré ses liens avec Washington et plusieurs capitales européennes. Le sommet de l’OTAN à Ankara, mardi et mercredi, acte la considération dont jouit le président Recep Tayipp Erdogan aux yeux des Occidentaux, malgré l’évolution de plus en plus autoritaire de son régime.",
+    "title": "EN DIRECT, guerre en Ukraine : plusieurs explosions secouent Kiev, attaque à Kharkiv",
+    "summary": "Les déflagrations entendues à Kiev surviennent quelques jours après les pires frappes russes sur la capitale ukrainienne et au dernier jour du sommet de l’OTAN en Turquie. Le maire a fait état de deux blessés, tout comme celui de Kharkiv.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/07/la-turquie-un-allie-encombrant-devenu-partenaire-indispensable-au-sein-de-l-otan_6721492_3210.html",
-    "date": "2026-07-07"
+    "link": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-en-ukraine-plusieurs-explosions-secouent-kiev-attaque-a-kharkiv_6720832_3210.html",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -353,27 +365,27 @@
   },
   {
     "type": "news",
-    "title": "Marine Le Pen annonce maintenir sa candidature à l’élection présidentielle 2027",
-    "summary": "Condamnée en appel mardi 7 juillet pour détournements de fonds dans l’affaire des assistants parlementaires du FN, la cheffe de file du Rassemblement national a annoncé se pourvoir en cassation et assuré qu’elle serait candidate au scrutin présidentiel des 18 avril et 2 mai 2027.",
+    "title": "“Aller au Kazakhstan juste pour faire le plein” : en Asie centrale, l’onde de choc énergétique",
+    "summary": "Les conséquences des frappes ukrainiennes sur les installations du secteur énergétique russe se font sentir au-delà des frontières de la Russie. Si elles visent d’abord Moscou, elles viennent aussi rappeler la dépendance des pays d’Asie centrale, restés sous perfusion des carburants, des pipelines et des prix russes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-marine-le-pen-annonce-maintenir-sa-candidature-a-l-election-presidentielle-2027_247371",
-    "date": "2026-07-07"
+    "link": "https://www.courrierinternational.com/article/economie-aller-au-kazakhstan-juste-pour-faire-le-plein-en-asie-centrale-l-onde-de-choc-energetique_247276",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "French far-right leader Le Pen says will run in 2027 presidential election",
-    "summary": "Her announcement followed a court ruling that meant she would have to wear an electronic tag while campaigning.",
+    "title": "Oil surges as US strikes Iran, reversing return to pre-war prices",
+    "summary": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss",
-    "date": "2026-07-07"
+    "link": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Mark Rutte aux alliés de l’Otan : admettez-le, Trump avait raison",
-    "summary": "ANKARA — Le secrétaire général de l’Otan, Mark Rutte, a un message à adresser aux alliés à propos de Donald Trump : le président américain avait raison. Il avait raison de faire pression sur eux pour qu’ils augmentent leurs dépenses de défense, il avait raison de les inciter à moderniser leurs armées, et il avait raison de déclencher une guerre contre l’Iran…",
+    "title": "NATO’s boss says Trump was right",
+    "summary": "Listen on Spotify Apple Music Amazon Music The European Union is in disagreement over whether the Commission should allow Serbia to progress in its membership process. The issue will come to a head at a meeting of EU ambassadors in Brussels today.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/mark-rutte-aux-allies-de-lotan-admettez-le-trump-avait-raison/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-07"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/natos-boss-says-trump-was-right/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
