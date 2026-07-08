@@ -1,6 +1,36 @@
 [
   {
     "type": "ia",
+    "term": "Alan Turing",
+    "explanation": "Alan Turing était un mathématicien britannique et l'un des pionniers de l'informatique. Il a proposé le concept de la machine de Turing, un modèle théorique qui définit ce que signifie calculer, et a introduit le test de Turing, une méthode pour évaluer l'intelligence d'une machine."
+  },
+  {
+    "type": "ia",
+    "term": "Le test de Turing",
+    "explanation": "Le test de Turing, proposé par Alan Turing en 1950, évalue la capacité d'une machine à imiter le comportement humain. Si un évaluateur humain ne peut pas distinguer une machine d'un humain lors d'une conversation, la machine est considérée comme 'intelligente'."
+  },
+  {
+    "type": "ia",
+    "term": "L'apprentissage automatique",
+    "explanation": "L'apprentissage automatique est un sous-domaine de l'intelligence artificielle qui permet aux machines d'apprendre à partir de données sans être explicitement programmées. Ce processus repose sur des algorithmes qui améliorent leurs performances au fil du temps en analysant des informations et en identifiant des motifs."
+  },
+  {
+    "type": "ia",
+    "term": "Le réseau de neurones",
+    "explanation": "Les réseaux de neurones sont des systèmes inspirés du fonctionnement du cerveau humain, composés de couches de nœuds interconnectés. Utilisés dans l'apprentissage profond, ils permettent de traiter des données complexes et d'accomplir des tâches telles que la reconnaissance d'images et le traitement du langage naturel."
+  },
+  {
+    "type": "ia",
+    "term": "L'IA symbolique",
+    "explanation": "L'IA symbolique, également connue sous le nom d'IA classique, repose sur des règles explicites et des représentations symboliques pour résoudre des problèmes. Bien que moins utilisée aujourd'hui par rapport aux approches basées sur l'apprentissage automatique, elle a été essentielle dans les premières explorations de l'intelligence artificielle."
+  },
+  {
+    "type": "ia",
+    "term": "L'impact économique de l'IA",
+    "explanation": "L'intelligence artificielle transforme les modèles économiques en améliorant l'efficacité et en réduisant les coûts dans divers secteurs, de la santé à la finance. Cependant, elle soulève également des enjeux tels que la perte d'emplois, la nécessité de reconversion professionnelle et des questions éthiques liées à la prise de décision automatisée."
+  },
+  {
+    "type": "ia",
     "term": "Apprentissage supervisé",
     "explanation": "L'apprentissage supervisé est une méthode d'apprentissage automatique où un modèle est entraîné à partir d'un ensemble de données étiquetées. Les algorithmes apprennent à établir des relations entre les entrées et les sorties afin de prédire des résultats sur de nouvelles données. Cette approche est largement utilisée pour des tâches telles que la classification et la régression."
   },
