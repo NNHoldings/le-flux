@@ -5,8 +5,8 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'OTAN fait face à des défis stratégiques, notamment en raison des actions de la Russie et du soutien à l'Ukraine.",
-      "Le FMI ajuste ses prévisions de croissance mondiale en raison des conséquences de la guerre en Iran."
+      "L'Ukraine utilise des drones pour frapper des cibles russes, modifiant les priorités de l'OTAN.",
+      "Le FMI estime que l'économie mondiale résiste mieux que prévu grâce à la croissance de l'IA."
     ],
     "source": "Le Flux",
     "date": "2026-07-09"
@@ -53,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "Au sommet de l’OTAN, Donald Trump alterne menaces et effusions, rassure ses alliés et apporte un nouveau soutien à l’Ukraine",
-    "summary": "En Turquie, le président américain, après avoir critiqué l’Espagne et rappelé ses visées sur le Groenland, a assuré de son engagement en faveur de la clause d’assistance mutuelle de l’Alliance et autorisé Kiev à produire sous licence des missiles Patriot.",
+    "title": "Entre la Chine et la Russie, de très secrets forums de coopération militaire",
+    "summary": "Depuis 2020, des réunions confidentielles ont lieu entre des dirigeants des armées russe et chinoise. Ces rassemblements annuels ont pour but d’échanger expérience militaire et soutien technologique pour « mener ensemble la contre-attaque et la percée » face aux pays occidentaux. Le prochain est prévu cet été, à Saint-Pétersbourg.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html",
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/09/entre-pekin-et-moscou-de-tres-secrets-forums-de-cooperation-militaire_6722048_4500055.html",
     "date": "2026-07-09"
   },
   {
@@ -77,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Sommet de l’Otan : après le vitriol, Trump change brusquement de ton et découvre “l’amour” entre alliés",
-    "summary": "À peine quelques heures après avoir étrillé les Européens au sommet de l’Otan, Donald Trump a brusquement changé de ton et assuré mercredi que les États-Unis restaient farouchement attachés à l’Alliance atlantique. Il a également promis à l’Ukraine de lui délivrer une licence pour fabriquer des missiles Patriot.",
+    "title": "L’Europe est “incapable de se représenter son avenir sans Washington”",
+    "summary": "Le sommet de l’Otan organisé les 7 et 8 juillet à Ankara a montré à quel point les puissances du Vieux Continent comptent sur les États-Unis de Donald Trump en matière de défense. Le journal allemand “Der Spiegel” appelle les Européens à changer de stratégie, face à un président américain devenu un “danger pour ses alliés”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-sommet-de-l-otan-apres-le-vitriol-trump-change-brusquement-de-ton-et-decouvre-l-amour-entre-allies_247767",
+    "link": "https://www.courrierinternational.com/article/vu-d-allemagne-l-europe-est-incapable-de-se-representer-son-avenir-sans-washington_247835",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-    "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
+    "title": "Ukraine targets Russian oil depots and tankers in drone attacks",
+    "summary": "Ukraine hit two oil tankers in Sea of Azov and several oil facilities across Russia in drone attacks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/9/ukraine-targets-russian-oil-depots-and-tankers-in-drone-attacks?traffic_source=rss",
     "date": "2026-07-09"
   },
   {
@@ -117,11 +117,11 @@
   },
   {
     "type": "news",
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving the US government a 5% stake in OpenAI.",
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "date": "2026-07-07"
+    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -181,18 +181,18 @@
   },
   {
     "type": "news",
-    "title": "La banque centrale de Malaisie maintient son taux directeur pour la sixième réunion consécutive sur fond de croissance stable",
-    "summary": "La banque centrale de Malaisie maintient son taux directeur pour la sixième réunion consécutive sur fond de croissance stable Zonebourse Suisse",
+    "title": "Malaisie : la banque centrale maintient son taux directeur pour la sixième fois consécutive face à une croissance stable",
+    "summary": "Malaisie : la banque centrale maintient son taux directeur pour la sixième fois consécutive face à une croissance stable Zonebourse Suisse",
     "source": "Google Actualités — Éco",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMXNoV2tFeURtSHI0ME4zNHRQSVlVWEhDdG44UHpQTlRBOGV2VnhuZmF5c284V0dJLUJvazF5MVlFSmlqRV9VT0pqVTRVc2U5YXUzbDB6TEh1eWhnZ2JuMDltS1VRS2NYM2JWaUtJWUpXNTdmR29PYjF4VmM2aGpES210bUdUd21JQkNNSFY5QlEwWTBIbDhmMU1Eb3lZR09VVXM1U1pfVk1HQTB2ZkN6Snd0dEVYTmZvTmZzdmRsZWNodF9wXzNqeFJZNUkwTW1UZWhULXJha1l0MTdWRzZLcVV0MFM0aHZGR21LY0VCYWM?oc=5",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : deux navires attaqués en mer d’Azov dans la nuit et un dépôt pétrolier russe en feu dans la région de Tver",
-    "summary": "L’Ukraine a poursuivi dans la nuit de mercredi à jeudi sa campagne de bombardements contre des navires pétroliers russes en mer d’Azov et des infrastructures énergétiques en Russie. Selon les autorités locales, aucune victime n’est à déplorer.",
+    "title": "Au sommet de l’OTAN, Donald Trump alterne menaces et effusions, rassure ses alliés et apporte un nouveau soutien à l’Ukraine",
+    "summary": "En Turquie, le président américain, après avoir critiqué l’Espagne et rappelé ses visées sur le Groenland, a assuré de son engagement en faveur de la clause d’assistance mutuelle de l’Alliance et autorisé Kiev à produire sous licence des missiles Patriot.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-deux-navires-attaques-en-mer-d-azov-dans-la-nuit-et-un-depot-petrolier-russe-en-feu-dans-la-region-de-tver_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html",
     "date": "2026-07-09"
   },
   {
@@ -213,18 +213,18 @@
   },
   {
     "type": "news",
-    "title": "Pourquoi l’Europe se laisse-t-elle encore surprendre par les canicules ?",
-    "summary": "La vague de chaleur de 2003 a permis d’améliorer les systèmes d’alerte : ils ont bien fonctionné lors des deux canicules de mai et de juin, concède le quotidien de gauche “The Guardian”. Mais pour le reste, rien ne change : les responsables politiques semblent comme frappés d’amnésie à la fin de chaque été.",
+    "title": "Sommet de l’Otan : après le vitriol, Trump change brusquement de ton et découvre “l’amour” entre alliés",
+    "summary": "À peine quelques heures après avoir étrillé les Européens au sommet de l’Otan, Donald Trump a brusquement changé de ton et assuré mercredi que les États-Unis restaient farouchement attachés à l’Alliance atlantique. Il a également promis à l’Ukraine de lui délivrer une licence pour fabriquer des missiles Patriot.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/adaptation-pourquoi-l-europe-se-laisse-t-elle-encore-surprendre-par-les-canicules_246151",
+    "link": "https://www.courrierinternational.com/article/geopolitique-sommet-de-l-otan-apres-le-vitriol-trump-change-brusquement-de-ton-et-decouvre-l-amour-entre-allies_247767",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
-    "summary": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
+    "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
+    "summary": "While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
     "date": "2026-07-09"
   },
   {
@@ -253,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "Your family’s $300 stake in OpenAI",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week.",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving the US government a 5% stake in OpenAI.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "date": "2026-07-06"
+    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "date": "2026-07-07"
   },
   {
     "type": "news",
-    "title": "Transforming Investing With AI at Franklin Templeton",
-    "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be an early proponent of AI-first in your industry, or a fast follower? Those are some of the questions fac…",
+    "title": "The Hidden Cost of AI-Assisted Creativity",
+    "summary": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption contests, and collaborative storytelling.",
     "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
-    "date": "2026-06-29"
+    "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -317,18 +317,18 @@
   },
   {
     "type": "news",
-    "title": "L'Europe rebondit à l'ouverture, inquiétude autour de l'escalade au Moyen-Orient",
-    "summary": "L'Europe rebondit à l'ouverture, inquiétude autour de l'escalade au Moyen-Orient Les Echos",
+    "title": "Étude : une inondation majeure coûterait 108 milliards d'euros à l'économie allemande",
+    "summary": "Étude : une inondation majeure coûterait 108 milliards d'euros à l'économie allemande Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRk1fQ0dySW9JLU4tOTZYd19MMG10RDl0R2NxRTlrMFl5dzc4V1kxR2xrRnhra3lfY2tIcWdURFZfYnRoS0U1OThnMUJBYjlyV0pnTnJqaWJuWXZvTkpHeDFzN0liTk9ndTJyZGItNW1ZeUdXQnMwcW1pa3Rfel9pX0EwbF92TTAyV3RmYVFQS3FpLWRDWll5THJtYWhFWm1pUVNiQUV5VmI3SlRLX3YtNXZKa2dLM01CYW9hQzZINzRkOVZtaGU0TDk4YlhVbThIT1BoUWdKMXVsT0U2X3JzUV9mcw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGhEVDBfZVpNeHZFLU9rVm1fbUhMdmM3RE1FNV9RRVp4LTF0QTltZjd6ei1URk5kMGVwWm4wU3VPb0dKeUpwODBLYlNLUEVkeHk0al84dkhXQUJJN1ZGcWMzdVJnMFk2S3ktY3RNOFd3YTYzM3RJREFOek5fUzY3UHduclpvTVRvMGZuZWhlRmJxSXVaNHdEc1hYSHd2R2hQZEU1YXcwdXhJYWpKSlZDZ1lucHZWTXRabnAxQzVNM09VV3NIZFdxMW11akFsZWpLakNfbElMSEdGdW8?oc=5",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : 14 personnes sont mortes en Iran sous les bombardements américains mercredi et jeudi, selon le ministère de la santé",
-    "summary": "Parmi les 78 blessés comptabilisés, « 47 personnes sont toujours hospitalisées », a fait savoir un responsable du ministère de la santé iranien. Donald Trump avait menacé mercredi l’Iran de représailles « bien pires » en cas de nouvelles attaques contre des navires dans le détroit d’Ormuz.",
+    "title": "EN DIRECT, guerre en Ukraine : les attaques ukrainiennes ne font que « prolonger » le conflit, estime Dmitri Peskov ; Kiev affirme avoir bombardé 12 pétroliers russes",
+    "summary": "Un cargo et un remorqueur russes ont aussi été atteints par des frappes, tout comme un terminal pétrolier dans la région de Rostov et un dépôt de munitions dans la république autoproclamée de Louhansk. Ces revendications ukrainiennes confirment les déclarations des autorités locales russes jeudi matin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-au-moyen-orient-des-bases-americaines-au-koweit-et-a-bahrein-frappees-apres-des-bombardements-en-iran-affirment-les-gardiens-de-la-revolution_6721826_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-les-attaques-ukrainiennes-ne-font-que-prolonger-le-conflit-estime-dmitri-peskov-kiev-affirme-avoir-bombarde-12-petroliers-russes_6720832_3210.html",
     "date": "2026-07-09"
   },
   {
@@ -341,34 +341,34 @@
   },
   {
     "type": "news",
-    "title": "Europe’s AI Dolce Vita?",
-    "summary": "Glacial growth, aging welfare states, and a shortage of centrist leaders suggest Europe faces a major debt crisis in the years ahead. But its emphasis on leisure over work could become a decisive advantage, positioning the continent as the leading model for thriving in an age of AI-driven abundance.",
+    "title": "Should the Bank of Japan Raise Interest Rates?",
+    "summary": "At the beginning of 2013, when \"Abenomics\" was rolled out in Japan, the yen was significantly overvalued, and looser monetary policy was badly needed. Today, the opposite is true, indicating that interest-rate hikes may well be the right prescription for Japan.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-could-give-europe-unexpected-competitive-edge-by-kenneth-rogoff-2026-07",
-    "date": "2026-07-03"
-  },
-  {
-    "type": "news",
-    "title": "Meurtre d’un militant sikh au Canada : 24 membres présumés de la mafia indienne arrêtés",
-    "summary": "Un coup de filet international, mené par les États-Unis, le Canada et des pays européens, a permis d’arrêter 24 personnes liées à la mafia indienne, ont annoncé mardi 7 juillet les autorités américaines.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/justice-meurtre-d-un-militant-sikh-au-canada-24-membres-presumes-de-la-mafia-indienne-arretes_247714",
-    "date": "2026-07-08"
-  },
-  {
-    "type": "news",
-    "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Qatar after deadly US raids",
-    "summary": "Iranian official says US strikes over the past two days have killed at least 14 people and wounded 78.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
+    "link": "https://www.project-syndicate.org/commentary/bessent-is-right-to-recommend-higher-interest-rates-in-japan-by-koichi-hamada-2026-07",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "The great France-Morocco reconciliation faces a World Cup test",
-    "summary": "PARIS — The newfound harmony between France and Morocco will be tested Thursday night when the two nations clash in the World Cup quarterfinals in Boston. Relations between Paris and Rabat have rarely been warmer, after President Emmanuel Macron recognized Morocco’s disputed sovereignty plan for Western Sahara in 2024.",
+    "title": "Pourquoi l’Europe se laisse-t-elle encore surprendre par les canicules ?",
+    "summary": "La vague de chaleur de 2003 a permis d’améliorer les systèmes d’alerte : ils ont bien fonctionné lors des deux canicules de mai et de juin, concède le quotidien de gauche “The Guardian”. Mais pour le reste, rien ne change : les responsables politiques semblent comme frappés d’amnésie à la fin de chaque été.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/adaptation-pourquoi-l-europe-se-laisse-t-elle-encore-surprendre-par-les-canicules_246151",
+    "date": "2026-07-09"
+  },
+  {
+    "type": "news",
+    "title": "India floods sweep away thousands of gas cylinders",
+    "summary": "India floods sweep away thousands of gas cylinders",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
+    "date": "2026-07-09"
+  },
+  {
+    "type": "news",
+    "title": "EU considers tariffs on imports from illegal Israeli settlements",
+    "summary": "BRUSSELS — The European Commission is proposing tough measures to reduce imports from illegal Israeli settlements in the West Bank, as part of options presented to national capitals this week.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/the-great-france-morocco-reconciliation-faces-world-cup-test/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-considering-import-licenses-tariffs-trade-israeli-settlements/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-09"
   },
   {
@@ -381,18 +381,18 @@
   },
   {
     "type": "news",
-    "title": "En Hongrie, le nouveau gouvernement reprend en main les médias publics forgés par Viktor Orban",
-    "summary": "Le nouveau premier ministre conservateur et pro-européen Péter Magyar, arrivé au pouvoir le 12 avril, a promis de démanteler l’appareil de propagande qui avait auparavant permis au Fidesz, le parti de son prédécesseur Viktor Orban, de rester au pouvoir pendant seize ans.",
+    "title": "Pour les start-up françaises, un rebond des levées de fonds en trompe-l’œil",
+    "summary": "Selon le baromètre du cabinet EY, après trois années difficiles, les montants levés par les start-up tricolores ont augmenté de 65 % au premier semestre 2026. Mais cette croissance impressionnante cache une concentration des capitaux vers les gros projets.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/08/en-hongrie-le-nouveau-gouvernement-reprend-en-main-les-medias-publics-forges-par-viktor-orban_6721830_3234.html",
-    "date": "2026-07-08"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/09/pour-les-start-up-francaises-un-rebond-des-levees-de-fonds-en-trompe-l-il_6722067_3234.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "The Download: worms fight pollution, and geoengineering faces reality",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to reveal a half-dozen squirming red ea…",
+    "title": "Your family’s $300 stake in OpenAI",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-    "date": "2026-07-08"
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "date": "2026-07-06"
   }
 ]
