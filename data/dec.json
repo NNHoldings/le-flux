@@ -1,6 +1,26 @@
 [
   {
     "type": "dec",
+    "question": "Quelle est la norme NEP 100 relative à l'indépendance du commissaire aux comptes ?",
+    "answer": "La NEP 100 impose au commissaire aux comptes de maintenir son indépendance tant en apparence qu'en réalité, en évitant toute relation ou situation pouvant nuire à son impartialité."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les conséquences d'une violation des règles déontologiques par un commissaire aux comptes ?",
+    "answer": "Les conséquences peuvent inclure des sanctions disciplinaires, la perte du mandat, et des poursuites judiciaires pour faute professionnelle."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le commissaire aux comptes doit-il gérer les conflits d'intérêts selon le Code de commerce ?",
+    "answer": "Il doit éviter toute situation de conflit d'intérêts et, si cela est inévitable, il doit en informer les parties concernées et se retirer de la mission si nécessaire."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles obligations de confidentialité a le commissaire aux comptes selon la NEP 305 ?",
+    "answer": "La NEP 305 stipule que le commissaire aux comptes doit garder confidentielles toutes les informations obtenues dans le cadre de sa mission et ne les divulguer qu'avec l'accord explicite du client ou si la loi l'exige."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 200?",
     "answer": "L'évaluation des risques d'audit selon la NEP 200 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, tant au niveau des assertions que des comptes."
   },
