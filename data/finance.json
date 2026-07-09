@@ -1,6 +1,36 @@
 [
   {
     "type": "finance",
+    "term": "Marché primaire",
+    "explanation": "Le marché primaire est l'endroit où les titres financiers, comme les actions et les obligations, sont émis pour la première fois. Les entreprises et les gouvernements vendent des titres pour lever des fonds, et les investisseurs achètent directement auprès de l'émetteur."
+  },
+  {
+    "type": "finance",
+    "term": "Marché secondaire",
+    "explanation": "Le marché secondaire est le lieu où les titres financiers déjà émis sont échangés entre investisseurs. Cela permet aux détenteurs de titres de vendre leurs actifs à d'autres investisseurs, augmentant ainsi la liquidité et la valorisation des titres."
+  },
+  {
+    "type": "finance",
+    "term": "Bourse",
+    "explanation": "Une bourse est une plateforme organisée où les titres financiers sont achetés et vendus. Les bourses facilitent la rencontre entre acheteurs et vendeurs, assurant la transparence et la régulation des transactions."
+  },
+  {
+    "type": "finance",
+    "term": "Obligation",
+    "explanation": "Une obligation est un instrument de dette émis par des entreprises ou des gouvernements pour lever des fonds. L'acheteur d'une obligation prête de l'argent à l'émetteur en échange de paiements d'intérêts réguliers et du remboursement du principal à l'échéance."
+  },
+  {
+    "type": "finance",
+    "term": "Action",
+    "explanation": "Une action représente une part de propriété dans une entreprise. Les actionnaires peuvent bénéficier de dividendes et de l'appréciation du capital, mais ils assument aussi le risque de perte en cas de déclin de l'entreprise."
+  },
+  {
+    "type": "finance",
+    "term": "Indice boursier",
+    "explanation": "Un indice boursier est une mesure statistique qui reflète la performance d'un groupe d'actions. Il sert d'indicateur de la santé générale d'un marché ou d'un secteur, facilitant l'analyse des tendances économiques."
+  },
+  {
+    "type": "finance",
     "term": "Coût de capital",
     "explanation": "Le coût de capital représente le coût des fonds utilisés pour financer une entreprise, incluant les coûts d'emprunt et le coût des capitaux propres. Il est essentiel pour évaluer la rentabilité des projets d'investissement."
   },
