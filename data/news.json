@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "L'OTAN fait face à des défis stratégiques, notamment en raison des actions de la Russie et du soutien à l'Ukraine.",
+      "Le FMI ajuste ses prévisions de croissance mondiale en raison des conséquences de la guerre en Iran."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-09"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -25,27 +37,27 @@
   },
   {
     "type": "news",
-    "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
-    "summary": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
+    "title": "Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest",
+    "summary": "Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
-    "date": "2026-07-08"
+    "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue en repli, l'Europe également en baisse, reprise des hostilités au Moyen-Orient",
-    "summary": "Point marchés-Wall Street vue en repli, l'Europe également en baisse, reprise des hostilités au Moyen-Orient Zonebourse",
+    "title": "Point marchés-L'Europe devrait rebondir après son repli de la veille, la tension persiste au Moyen-Orient",
+    "summary": "Point marchés-L'Europe devrait rebondir après son repli de la veille, la tension persiste au Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTWp0VkFFYkRpNDNWZEtvb1k2Vk55bHpWSVBWcWx2Qk5CcGcycmlQdGx1TDF5SlhFemRXenBYOTVhdVVHa3I2LUJ1ZzBpckZkR3ktU2dwZ0lwUk1TUWxjSjFSN2V6Ti14MURfVi1XWlI0RE02RFZEU2FmZGIxNE9SQ25TYlVQSVFhUmRIdWd0R3hyLVIwSUxMR0VvdjVsYzdBN1BVV3lBY2hrWTZQT0dSby1QVXhKSVRWbkJvM2daSDVVTFlZcUhLZHBzVV9xRThUTmMzWW1iMUNHNzVmQy0zWVZocDJjMF9CVFJGOFlSeW8?oc=5",
-    "date": "2026-07-08"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU0FXaENjRkM2NzFQdXI3bjJxRzRzWFA2MmVtTS0xR1JNdHB6V3hZd2l4RFp4NU0wWXVnck5sWGJJTGZKOHdOc1dJRUl5eFk0M2E4dm9fMk9CMXVVYUNhRnNnaTJwUG1qUW9OWHd2WFZFQUJaenVPSUdNdTBEZTc0c3J6cFc5cUtsUi1UZ1FTelRqZGpkblpETmVGaERRbDQ3UkRUdTlVUjU1eVhPcUZUUHZuU0pzaHUwcHQteUJ3ekNnTVJuT2ZVdlU5YmlWaHlPVnphNnJ0RDJ0eW52bVVDdUFHYTdVdXBvSHI2cDZXdkx0UQ?oc=5",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : le gouvernement russe interdit les exportations de gazole en raison des pénuries provoquées par les frappes ukrainiennes",
-    "summary": "Cette interdiction « est entrée en vigueur aujourd’hui [mercredi], ce qui permettra d’augmenter les approvisionnements sur le marché intérieur », a déclaré le vice-premier ministre russe, Alexandre Novak, lors d’une réunion avec Vladimir Poutine.",
+    "title": "Au sommet de l’OTAN, Donald Trump alterne menaces et effusions, rassure ses alliés et apporte un nouveau soutien à l’Ukraine",
+    "summary": "En Turquie, le président américain, après avoir critiqué l’Espagne et rappelé ses visées sur le Groenland, a assuré de son engagement en faveur de la clause d’assistance mutuelle de l’Alliance et autorisé Kiev à produire sous licence des missiles Patriot.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-en-ukraine-le-gouvernement-russe-interdit-les-exportations-de-gazole-en-raison-des-penuries-provoquees-par-les-frappes-ukrainiennes_6720832_3210.html",
-    "date": "2026-07-08"
+    "link": "https://www.lemonde.fr/international/article/2026/07/09/au-sommet-de-l-otan-donald-trump-alterne-menaces-et-effusions-rassure-ses-allies-et-apporte-un-nouveau-soutien-a-l-ukraine_6722015_3210.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -65,27 +77,27 @@
   },
   {
     "type": "news",
-    "title": "En Indonésie, la culture LGBTQI qualifiée de “menace non militaire” pour la nation",
-    "summary": "Un décret présidentiel range la “diffusion de la culture LGBTQI” parmi les menaces à la défense nationale, au même titre que le terrorisme. Rendu public en juillet, le texte attise une vague homophobe déjà encouragée par les autorités, s’alarme la presse indonésienne.",
+    "title": "Sommet de l’Otan : après le vitriol, Trump change brusquement de ton et découvre “l’amour” entre alliés",
+    "summary": "À peine quelques heures après avoir étrillé les Européens au sommet de l’Otan, Donald Trump a brusquement changé de ton et assuré mercredi que les États-Unis restaient farouchement attachés à l’Alliance atlantique. Il a également promis à l’Ukraine de lui délivrer une licence pour fabriquer des missiles Patriot.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-en-indonesie-la-culture-lgbtqi-qualifiee-de-menace-non-militaire-pour-la-nation_247622",
-    "date": "2026-07-08"
+    "link": "https://www.courrierinternational.com/article/geopolitique-sommet-de-l-otan-apres-le-vitriol-trump-change-brusquement-de-ton-et-decouvre-l-amour-entre-allies_247767",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "Zelenskyy seeks NATO support as Russia continues attacks",
-    "summary": "At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.",
+    "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+    "summary": "Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
-    "date": "2026-07-08"
+    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "Trump floats Ukraine Patriot production license ahead of Zelenskyy meeting",
-    "summary": "ANKARA — President Donald Trump said Wednesday he would discuss with Ukrainian President Volodymyr Zelenskyy giving Kyiv a license to produce Patriot air defense systems, floating the idea ahead of a bilateral meeting between the two leaders on the sidelines of the NATO summit in Ankara.",
+    "title": "Europe’s AI moment: Four imperatives for business leaders",
+    "summary": "Business in the age of artificial intelligence (AI) moves with dizzying speed. More powerful models launch regularly, bringing new opportunities and risks. Fresh use cases emerge daily, increasingly leaning on the orchestration power of agentic AI. Innovation boundaries recede as the cost of inference declines and robotics accelerates.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/08/trump-floats-ukraine-patriot-production-license-ahead-of-zelenskyy-meeting-00989849?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-08"
+    "link": "https://www.politico.eu/sponsored-content/europes-ai-moment-four-imperatives-for-business-leaders/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -97,10 +109,10 @@
   },
   {
     "type": "news",
-    "title": "Dans le solaire et l’éolien, l’inquiétude monte face aux suppressions de postes",
-    "summary": "Alors que le gouvernement défend l’électrification et la souveraineté énergétique, plusieurs acteurs des énergies renouvelables réduisent leurs effectifs. Les salariés redoutent une perte de compétences dans une filière pourtant appelée à se développer.",
+    "title": "L’économie mondiale résiste mieux que prévu à la crise au Moyen-Orient, selon le FMI, notamment grâce à la croissance de l’IA",
+    "summary": "L’économie mondiale devrait croître de 3 % cette année, après 3,5 % en 2025, estime le Fonds monétaire international. La croissance est notamment tirée par la production de puces destinées à l’intelligence artificielle à Taïwan, en Corée du Sud, en Thaïlande et en Malaisie.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/08/dans-le-solaire-et-l-eolien-l-inquietude-monte-face-aux-suppressions-de-postes_6721832_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/08/l-economie-mondiale-resiste-mieux-que-prevu-a-la-crise-au-moyen-orient-selon-le-fmi-notamment-grace-a-la-croissance-de-l-ia_6721845_3234.html",
     "date": "2026-07-08"
   },
   {
@@ -121,11 +133,11 @@
   },
   {
     "type": "news",
-    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-    "summary": "DeepSeek, the Chinese startup developing large language models that are competitive with those from US companies like OpenAI and Anthropic, is planning to enter the silicon business, according to Reuters. Citing three people familiar with the matter, Reuters writes that DeepSeek has been working on a move into silicon for about a year.",
+    "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
+    "summary": "The proliferation of nuclear power in space got a little more real Tuesday with the launch of a small satellite developed by a Florida-based company specializing in nuclear micro-power technology.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "date": "2026-07-07"
+    "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -161,27 +173,27 @@
   },
   {
     "type": "news",
-    "title": "Ukraine has already won the war against Russia, Finnish president tells CNBC",
-    "summary": "Ukraine needs NATO, but NATO needs Ukraine just as much, the Finnish president told CNBC on Tuesday.",
+    "title": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
+    "summary": "Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/07/ukraine-won-war-russia-nato-alexander-stubb-finnish-president.html",
-    "date": "2026-07-07"
+    "link": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "La Banque centrale européenne presse le secteur financier de s'armer contre les cyberattaques pour faire face à \"une transformation durable du paysage des menaces\"",
-    "summary": "La Banque centrale européenne presse le secteur financier de s'armer contre les cyberattaques pour faire face à \"une transformation durable du paysage des menaces\" BFM",
+    "title": "La banque centrale de Malaisie maintient son taux directeur pour la sixième réunion consécutive sur fond de croissance stable",
+    "summary": "La banque centrale de Malaisie maintient son taux directeur pour la sixième réunion consécutive sur fond de croissance stable Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPeFJ1TVdrQnBJdVozbjV5WHVsdkVCVVhrVUZqNFFOYmdYSDdUcW5sUDlhdWFmZUdlQkRyczgyTDBoREh6TVlkYXM1UjFCRlF5cWtMSGpxb1loOFdjYXdrYzQwMlhIaERnMFFUZ2cwQmd4cDdVWmo1ZUNzeUlaeGVrRWJ6T0x5UVRUVGFfMlAwNnota1c0aVdXc3pib3dsaFA1YlpMV291RFZSZ2R0R3VGM1F1VmtsZEQzejA5SnRCZFZLclRfM19COFhGMWl5NUJONnhFdkZnYVpZRE5IanFvRnRfM205aDJiRGFuNkc4bmxUOXViYkRTalM3R0g1M2hFbjRkU2RKLVpSY21RdHphMzlOTC1hQmxuS0VzSzJDTHdLQ2dhSkxLRmU2OTNlMFBnWHpBVkJlODZuZlRIWlRmUWh3WllVU1ZhN0JXRXlpQzNUMUZGTWc?oc=5",
-    "date": "2026-07-08"
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMXNoV2tFeURtSHI0ME4zNHRQSVlVWEhDdG44UHpQTlRBOGV2VnhuZmF5c284V0dJLUJvazF5MVlFSmlqRV9VT0pqVTRVc2U5YXUzbDB6TEh1eWhnZ2JuMDltS1VRS2NYM2JWaUtJWUpXNTdmR29PYjF4VmM2aGpES210bUdUd21JQkNNSFY5QlEwWTBIbDhmMU1Eb3lZR09VVXM1U1pfVk1HQTB2ZkN6Snd0dEVYTmZvTmZzdmRsZWNodF9wXzNqeFJZNUkwTW1UZWhULXJha1l0MTdWRzZLcVV0MFM0aHZGR21LY0VCYWM?oc=5",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis pourraient frapper l’Iran « plus en profondeur » dans la nuit, selon Pete Hegseth, le secrétaire d’Etat à la défense",
-    "summary": "Donald Trump avait menacé un peu plus tôt, mercredi, de détruire des infrastructures civiles iraniennes et de « prendre le contrôle de l’île de Kharg ». Les bombardements ont repris durant la nuit de mardi à mercredi dans le Golfe, alors que se tient un sommet de l’OTAN en Turquie.",
+    "title": "EN DIRECT, guerre en Ukraine : deux navires attaqués en mer d’Azov dans la nuit et un dépôt pétrolier russe en feu dans la région de Tver",
+    "summary": "L’Ukraine a poursuivi dans la nuit de mercredi à jeudi sa campagne de bombardements contre des navires pétroliers russes en mer d’Azov et des infrastructures énergétiques en Russie. Selon les autorités locales, aucune victime n’est à déplorer.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/08/en-direct-guerre-au-moyen-orient-les-etats-unis-pourraient-frapper-l-iran-plus-en-profondeur-dans-la-nuit-selon-pete-hegseth-le-secretaire-d-etat-a-la-defense_6721826_3210.html",
-    "date": "2026-07-08"
+    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-en-ukraine-deux-navires-attaques-en-mer-d-azov-dans-la-nuit-et-un-depot-petrolier-russe-en-feu-dans-la-region-de-tver_6720832_3210.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -201,27 +213,27 @@
   },
   {
     "type": "news",
-    "title": "Meurtre d’un militant sikh au Canada : 24 membres présumés de la mafia indienne arrêtés",
-    "summary": "Un coup de filet international, mené par les États-Unis, le Canada et des pays européens, a permis d’arrêter 24 personnes liées à la mafia indienne, ont annoncé mardi 7 juillet les autorités américaines.",
+    "title": "Pourquoi l’Europe se laisse-t-elle encore surprendre par les canicules ?",
+    "summary": "La vague de chaleur de 2003 a permis d’améliorer les systèmes d’alerte : ils ont bien fonctionné lors des deux canicules de mai et de juin, concède le quotidien de gauche “The Guardian”. Mais pour le reste, rien ne change : les responsables politiques semblent comme frappés d’amnésie à la fin de chaque été.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/justice-meurtre-d-un-militant-sikh-au-canada-24-membres-presumes-de-la-mafia-indienne-arretes_247714",
-    "date": "2026-07-08"
+    "link": "https://www.courrierinternational.com/article/adaptation-pourquoi-l-europe-se-laisse-t-elle-encore-surprendre-par-les-canicules_246151",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-    "summary": "Trump says US will 'show' Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
+    "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
+    "summary": "The prime minister was presented with an award during a visit to the Seychelles, adding to his large trophy collection.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-    "date": "2026-07-08"
+    "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "US officials compiling ‘menu’ of Spanish goods, as Trump weighs embargo",
-    "summary": "The Trump administration is preparing a list of Spanish goods to potentially embargo, after President Donald Trump ordered officials to cut off trade with the European nation Thursday morning. The Treasury Department will be working with the U.S.",
+    "title": "Trumps Irrsinn bei der Nato und die Krise der GIZ",
+    "summary": "Listen on Spotify Apple Music Amazon Music US-Präsident Donald Trump beendet von der Türkei aus die Waffenruhe mit dem Iran und verhängt einen Handelsstopp gegen Spanien. Gleichzeitig sichern EU und NATO der Ukraine 140 Milliarden Euro an neuen Hilfen zu. Der so wichtige Tomahawk-Deal zwischen Deutschland und den USA findet hingegen noch keinen Abschluss.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/08/trump-spanish-exports-trade-embargo-00990123?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-08"
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/trumps-irrsinn-bei-der-nato-und-die-krise-der-giz/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -233,10 +245,10 @@
   },
   {
     "type": "news",
-    "title": "Sommet de l’OTAN : Donald Trump annonce que les Etats-Unis vont « cesser tout échange commercial » avec l’Espagne",
-    "summary": "Le premier ministre espagnol, Pedro Sanchez, a pour sa part loué les relations entre son pays et les Etats-Unis, « très positives ». Il a par ailleurs déclaré à l’issue du sommet avoir eu un échange informel « courtois » avec le président américain.",
+    "title": "Dans le solaire et l’éolien, l’inquiétude monte face aux suppressions de postes",
+    "summary": "Alors que le gouvernement défend l’électrification et la souveraineté énergétique, plusieurs acteurs des énergies renouvelables réduisent leurs effectifs. Les salariés redoutent une perte de compétences dans une filière pourtant appelée à se développer.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/07/08/sommet-de-l-otan-donald-trump-annonce-que-les-etats-unis-vont-cesser-tout-echange-commercial-avec-l-espagne_6721813_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/08/dans-le-solaire-et-l-eolien-l-inquietude-monte-face-aux-suppressions-de-postes_6721832_3234.html",
     "date": "2026-07-08"
   },
   {
@@ -297,27 +309,27 @@
   },
   {
     "type": "news",
-    "title": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland",
-    "summary": "Geopolitics are back in focus, with the U.S. retaliating against Iran after several ships were struck in the Strait of Hormuz, and Ukraine hitting Russia.",
+    "title": "Inside India newsletter: India's $50 billion worth of IPOs at risk as Trump ends Iran ceasefire",
+    "summary": "After a slow start this year, IPOs worth $50 billion were ready to hit Indian markets. These plans are at risk after the U.S. ended the ceasefire with Iran.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html",
-    "date": "2026-07-08"
+    "link": "https://www.cnbc.com/2026/07/09/india-ipo-50-billion-jio-phonepe-nse.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "L'économie mondiale écartelée entre le boom de l'IA et la guerre au Moyen-Orient",
-    "summary": "L'économie mondiale écartelée entre le boom de l'IA et la guerre au Moyen-Orient Les Echos",
+    "title": "L'Europe rebondit à l'ouverture, inquiétude autour de l'escalade au Moyen-Orient",
+    "summary": "L'Europe rebondit à l'ouverture, inquiétude autour de l'escalade au Moyen-Orient Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmFnN0hVcXBXY09nX1BIZ1hoOWNEZEwwM3hjS1hYenF3dE5ZV1dpUVRfeElLalQ0WmhLcGYtWDV2XzQ2dmVWdjVWZldYT2dhS1BTbUdLRjlWOGlhNml3WndYd2Y5LVkzSElGM0lHcW96UGpmakVYb3lQc3VUNzdTYnhFWVZvZ2RmOHhQbngxRnJqNkUwMkxEYzFDZXUtcUxEOWwwQzVPV05kNExrNGhyOUM1Qkt1WThYa3BXUnJ1cmlsNFdFWVl0WnAtMVNWeWNVRHNzSw?oc=5",
-    "date": "2026-07-08"
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRk1fQ0dySW9JLU4tOTZYd19MMG10RDl0R2NxRTlrMFl5dzc4V1kxR2xrRnhra3lfY2tIcWdURFZfYnRoS0U1OThnMUJBYjlyV0pnTnJqaWJuWXZvTkpHeDFzN0liTk9ndTJyZGItNW1ZeUdXQnMwcW1pa3Rfel9pX0EwbF92TTAyV3RmYVFQS3FpLWRDWll5THJtYWhFWm1pUVNiQUV5VmI3SlRLX3YtNXZKa2dLM01CYW9hQzZINzRkOVZtaGU0TDk4YlhVbThIT1BoUWdKMXVsT0U2X3JzUV9mcw?oc=5",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "« Sa prothèse lui fait mal, mais il supporte pour ne pas montrer qu’il est différent » : à Gaza, le traumatisme des enfants mutilés de guerre",
-    "summary": "En raison des bombardements menés par Israël depuis le 7 octobre 2023, la bande de Gaza détient le triste record du plus grand nombre d’enfants amputés par habitant au monde, selon l’Organisation mondiale de la santé. Ces derniers tentent de se reconstruire malgré les déplacements forcés et la pénurie de soins dans un territoire en ruines.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : 14 personnes sont mortes en Iran sous les bombardements américains mercredi et jeudi, selon le ministère de la santé",
+    "summary": "Parmi les 78 blessés comptabilisés, « 47 personnes sont toujours hospitalisées », a fait savoir un responsable du ministère de la santé iranien. Donald Trump avait menacé mercredi l’Iran de représailles « bien pires » en cas de nouvelles attaques contre des navires dans le détroit d’Ormuz.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/08/sa-prothese-lui-fait-mal-mais-il-supporte-pour-ne-pas-montrer-qu-il-est-different-a-gaza-le-traumatisme-des-enfants-mutiles-de-guerre_6721856_3210.html",
-    "date": "2026-07-08"
+    "link": "https://www.lemonde.fr/international/live/2026/07/09/en-direct-guerre-au-moyen-orient-des-bases-americaines-au-koweit-et-a-bahrein-frappees-apres-des-bombardements-en-iran-affirment-les-gardiens-de-la-revolution_6721826_3210.html",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -337,27 +349,27 @@
   },
   {
     "type": "news",
-    "title": "La Chine démontre sa capacité à frapper le territoire américain",
-    "summary": "Lundi 6 juillet, dans l’océan Pacifique, la Chine a procédé à un tir d’essai d’un missile balistique à longue portée, 12 000 kilomètres, équipé d’une ogive, le premier de ce type depuis deux ans. Les médias sinophones décortiquent cette nouvelle.",
+    "title": "Meurtre d’un militant sikh au Canada : 24 membres présumés de la mafia indienne arrêtés",
+    "summary": "Un coup de filet international, mené par les États-Unis, le Canada et des pays européens, a permis d’arrêter 24 personnes liées à la mafia indienne, ont annoncé mardi 7 juillet les autorités américaines.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/armement-la-chine-demontre-sa-capacite-a-frapper-le-territoire-americain_247711",
+    "link": "https://www.courrierinternational.com/article/justice-meurtre-d-un-militant-sikh-au-canada-24-membres-presumes-de-la-mafia-indienne-arretes_247714",
     "date": "2026-07-08"
   },
   {
     "type": "news",
-    "title": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-    "summary": "The US president described Spain as a 'terrible partner' over its actions during the US-Israel war on Iran.",
+    "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Qatar after deadly US raids",
+    "summary": "Iranian official says US strikes over the past two days have killed at least 14 people and wounded 78.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit?traffic_source=rss",
-    "date": "2026-07-08"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "Trump warns fresh attacks on Iran could come Wednesday night",
-    "summary": "ANKARA, Turkey — The U.S. plans to bomb Iran again as soon as Wednesday night and could attempt to take Kharg Island, President Donald Trump earlier in the day at the close of the annual NATO leaders’ summit. Iranian leaders “are behaving very badly, as they have for 47 years, and we hit them hard last night,” Trump said. “I’ll give him a little warning.",
+    "title": "The great France-Morocco reconciliation faces a World Cup test",
+    "summary": "PARIS — The newfound harmony between France and Morocco will be tested Thursday night when the two nations clash in the World Cup quarterfinals in Boston. Relations between Paris and Rabat have rarely been warmer, after President Emmanuel Macron recognized Morocco’s disputed sovereignty plan for Western Sahara in 2024.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/08/trump-iran-new-attacks-nato-00990034?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-08"
+    "link": "https://www.politico.eu/article/the-great-france-morocco-reconciliation-faces-world-cup-test/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -369,10 +381,10 @@
   },
   {
     "type": "news",
-    "title": "Sécurité sociale : la crainte d’un tour de vis pendant l’été",
-    "summary": "Lors du comité d’alerte des finances publiques, le gouvernement a exprimé, mardi, l’intention de « refroidir » les dépenses de notre système de solidarité à hauteur de 1 milliard d’euros en 2026, sans préciser comment et à quel moment il comptait procéder.",
+    "title": "En Hongrie, le nouveau gouvernement reprend en main les médias publics forgés par Viktor Orban",
+    "summary": "Le nouveau premier ministre conservateur et pro-européen Péter Magyar, arrivé au pouvoir le 12 avril, a promis de démanteler l’appareil de propagande qui avait auparavant permis au Fidesz, le parti de son prédécesseur Viktor Orban, de rester au pouvoir pendant seize ans.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/politique/article/2026/07/08/securite-sociale-la-crainte-d-un-tour-de-vis-pendant-l-ete_6721811_823448.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/08/en-hongrie-le-nouveau-gouvernement-reprend-en-main-les-medias-publics-forges-par-viktor-orban_6721830_3234.html",
     "date": "2026-07-08"
   },
   {
