@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "Deep Learning",
+    "explanation": "Le deep learning est une sous-catégorie de l'apprentissage automatique qui utilise des réseaux de neurones profonds, c'est-à-dire avec de nombreuses couches. Cette approche a révolutionné le domaine de l'IA en permettant des performances sans précédent dans des domaines variés, tels que la vision par ordinateur et le traitement automatique du langage."
+  },
+  {
+    "type": "ia",
+    "term": "Sur-apprentissage",
+    "explanation": "Le sur-apprentissage se produit lorsque un modèle est trop complexe et s'adapte trop étroitement aux données d'entraînement, perdant ainsi sa capacité à généraliser sur de nouvelles données. Cela peut conduire à de mauvaises performances en situation réelle, soulignant l'importance de la validation croisée."
+  },
+  {
+    "type": "ia",
     "term": "Alan Turing",
     "explanation": "Alan Turing était un mathématicien britannique et l'un des pionniers de l'informatique. Il a proposé le concept de la machine de Turing, un modèle théorique qui définit ce que signifie calculer, et a introduit le test de Turing, une méthode pour évaluer l'intelligence d'une machine."
   },
