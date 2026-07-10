@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires oscillent entre inquiétudes d'inflation et de récession.",
+      "Les entreprises françaises peinent à s'adapter aux défis du réchauffement climatique.",
+      "La guerre en Ukraine modifie les stratégies militaires et économiques de l'OTAN et de la Russie."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-10"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -36,7 +48,7 @@
     "title": "Économie : les entreprises françaises ne sont pas prêtes à faire face au réchauffement climatique, selon une étude du cabinet Sia",
     "summary": "Économie : les entreprises françaises ne sont pas prêtes à faire face au réchauffement climatique, selon une étude du cabinet Sia Europe 1",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaUdsVEZDd3k5TGdSR3FubnoxQTFETHF4SXJSV2JDUFFQMDNZV3lmUDJvcGhaWGdLSWh3dk1WVkczaFQzQUFDalFFdDA5STdPU2NIUDdydUFLRUpVUUNnV2RyZm16TnNxWFlOZnpMZmN4SFNrYUROZFRqUWRUOUFUR1JFeHhPa0RYT2h6ZE9mSS01dWw1WUJpbWZfS2o4UXczc2k2bWFrNF96bVktUngwVThUYnk3NVFwcXVZLU5LNW5qdHVyZ3BxQk5XRnBEMl9kcXB5MDA4b0pkWE1tTEN6Q2tudHhmamxobkNzdGJIME1wOERsYWt1NNIB_gFBVV95cUxQQzdCaWZ4VTBTTTYtWUFPV3pCV1ZUaHU5ZGhQWDZoWGN0dmQ1ZmtrYVhERlA4VjFMSEcyQWpHMm1pWEswenBLblg2bGhhX3dvVmtiSVVHYTdRUjBfM25HT3RoX2NKUkJyTGE2dEFCd3BvTlExSm5vYUZpREJ3Q3pXc0pnbU9IWWM0ZEg0SkxRZWZCOHAzc2lrRlU0Wjdrakh1eVdacmRXUVQ5T3NxSUdlc190N2tZNzUzclpkaTFmUzM4Qno3YUZvNUotczVzU3g4MU96Y1Rjdy1nZTBiRWV3ZWRDdW43OGprcGtGNnJoZHZYNm9nQ2doWV9ueDV0QQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQzdCaWZ4VTBTTTYtWUFPV3pCV1ZUaHU5ZGhQWDZoWGN0dmQ1ZmtrYVhERlA4VjFMSEcyQWpHMm1pWEswenBLblg2bGhhX3dvVmtiSVVHYTdRUjBfM25HT3RoX2NKUkJyTGE2dEFCd3BvTlExSm5vYUZpREJ3Q3pXc0pnbU9IWWM0ZEg0SkxRZWZCOHAzc2lrRlU0Wjdrakh1eVdacmRXUVQ5T3NxSUdlc190N2tZNzUzclpkaTFmUzM4Qno3YUZvNUotczVzU3g4MU96Y1Rjdy1nZTBiRWV3ZWRDdW43OGprcGtGNnJoZHZYNm9nQ2doWV9ueDV0QdIB_gFBVV95cUxQQzdCaWZ4VTBTTTYtWUFPV3pCV1ZUaHU5ZGhQWDZoWGN0dmQ1ZmtrYVhERlA4VjFMSEcyQWpHMm1pWEswenBLblg2bGhhX3dvVmtiSVVHYTdRUjBfM25HT3RoX2NKUkJyTGE2dEFCd3BvTlExSm5vYUZpREJ3Q3pXc0pnbU9IWWM0ZEg0SkxRZWZCOHAzc2lrRlU0Wjdrakh1eVdacmRXUVQ5T3NxSUdlc190N2tZNzUzclpkaTFmUzM4Qno3YUZvNUotczVzU3g4MU96Y1Rjdy1nZTBiRWV3ZWRDdW43OGprcGtGNnJoZHZYNm9nQ2doWV9ueDV0QQ?oc=5",
     "date": "2026-07-10"
   },
   {
@@ -65,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Aux États-Unis, les paris en ligne sur les départs de feu font craindre des actes criminels",
-    "summary": "Alors que les fortes chaleurs augmentent les risques de départ de feu, aux États-Unis, les paris en ligne sur l’apparition, l’étendue et la durée des incendies se multiplient sur des plateformes comme Polymarket, rapporte le mensuel américain “High Country News”. Une pratique qui soulève bien des questions éthiques.",
+    "title": "En Inde, ces femmes qui tuent leur fiancé pour éviter un mariage arrangé",
+    "summary": "Plusieurs affaires de meurtres de jeunes hommes, perpétrés ou commandités par leur fiancée, agitent la presse indienne ces dernières semaines. Il apparaît que les femmes impliquées avaient été forcées de consentir à ces unions. Les médias décrivent les mariages arrangés comme une pratique qui résiste à de nombreux changements sociétaux dans le pays.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-aux-etats-unis-les-paris-en-ligne-sur-les-departs-de-feu-font-craindre-des-actes-criminels_247350",
+    "link": "https://www.courrierinternational.com/article/societe-en-inde-ces-femmes-qui-tuent-leur-fiance-pour-eviter-un-mariage-arrange_248130",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Iran war live: Uneasy calm in the Middle East after deadly attacks",
-    "summary": "American official says technical talks with Tehran continue and the United States wants to pursue diplomacy.",
+    "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+    "summary": "Kyiv will rush to produce the systems domestically as Russia struggles to defend itself against some Ukrainian attacks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
     "date": "2026-07-10"
   },
   {
@@ -97,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "Les sénateurs souhaitent renforcer la régulation de l’espace informationnel « pour protéger la démocratie »",
-    "summary": "Les préconisations de la mission d’information « sur les zones grises de l’information », qui vient de s’achever au Sénat, devraient faire l’objet d’une proposition de loi à la rentrée.",
+    "title": "« La bataille du canard laqué avec la Chine illustre l’extrême lenteur de l’Europe »",
+    "summary": "La Commission européenne a ouvert une enquête sur le potentiel dumping des producteurs de canards de Pékin. Mais, face au deuxième choc chinois, la réponse de Bruxelles reste lente et timide, note Eric Albert, journaliste au service Economie du « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/09/les-senateurs-souhaitent-renforcer-la-regulation-de-l-espace-informationnel-pour-proteger-la-democratie_6722108_3234.html",
-    "date": "2026-07-09"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/10/la-bataille-du-canard-laque-avec-la-chine-illustre-l-extreme-lenteur-de-l-europe_6722414_3234.html",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
@@ -121,19 +133,19 @@
   },
   {
     "type": "news",
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "summary": "OpenAI is facing calls for \"serious sanctions\" after fighting to keep news organizations from snooping through millions of logs to find evidence of users skirting their paywalls by prompting ChatGPT to regurgitate their articles.",
+    "title": "Is an air-conditioning revolution coming to Europe?",
+    "summary": "If you're reading this while the blinds are drawn against yet another heat wave and wondering whether it’s finally time to buy an air conditioner, you're far from alone. At the end of June, as temperatures climbed well above 40° Celsius across Europe, shoppers in France literally forced their way into stores to snatch up portable fans and ACs before they sol…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "date": "2026-07-09"
+    "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombinator.com/item?id=48838876 Points: 1315 # Comments: 278",
+    "title": "GPT-5.6",
+    "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1377 # Comments: 952",
     "source": "Hacker News",
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "date": "2026-07-08"
+    "link": "https://openai.com/index/gpt-5-6/",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Les actions japonaises bondissent, portées par la technologie et l'inflation à la production",
-    "summary": "Les actions japonaises bondissent, portées par la technologie et l'inflation à la production Zonebourse Suisse",
+    "title": "Point marchés-Wall Street vue sans direction, l'Europe dans le rouge, avant l'IPO de SK Hynix",
+    "summary": "Point marchés-Wall Street vue sans direction, l'Europe dans le rouge, avant l'IPO de SK Hynix Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUklzVUZKazlrUkZlRVZpOGtjdXJfaGhVaDdhZ21VQUhRelA4TUdlUktfZkpVTnpOa1JKcC1pYnR2bVlYcXZjUDBaQmVhUVpLM1R3a3NFMFhWSDVfOEVSWDJfWmQzMi1MYmFDZXdaWEpOcjB1VV94ZnM2RFR2Q1YzSk8xa1M2a1YzVm9fR2tvSDF3YXdCY2JWM0owUnM4VG9rWm9PTVIwRkZaS05SVV9rSzVHZlNyeENIWlFLQm81U0gtZHFMdldGU3ljVF83VzkxdloweUVfVWJGbEFCUFgzUU5RWlpZQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXZzbFI4TUF3cWlfazNRajdFQUhZWDR5b0dualN1YTNQNVhiOHhjT0pzMkd2YWd4aVZBYjNPSjFmaDNoOTZHSHhNSWxmWWM5ZDVwbG9VSEtxYWVsQVlNd3pmVWtMb0QxR29zX016ei00d3NjYzZueVJTZFRxVkhBaW9ZNGE3X3dNZGtVenM0aS1SQ2VlcHMzQTB4ZGFCOGtpemotR2RjOHVlOUNlLWRNZU5STGE1U1ZLM3BzWl9veDV5Qi1pMDN6WUZGUk5RQ1l6a1pKN2xMOS1scTFldnlpeHEyQW84S0U?oc=5",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : des accords « techniques » encore nécessaires pour la production de missiles Patriot ; un système antibalistique « équivalent » aussi en développement",
-    "summary": "Le président américain, Donald Trump, avait annoncé mercredi, lors d’une rencontre avec son homologue ukrainien en marge du sommet de l’OTAN, qu’il allait autoriser Kiev à fabriquer des missiles pour ces systèmes indispensables à l’interception des missiles balistiques russes qui frappent l’Ukraine.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky à Paris lundi pour une réunion de la coalition des volontaires",
+    "summary": "Au moins 25 chefs d’Etat et de gouvernement, dont le président ukrainien, sont attendus lundi dans la capitale pour une réunion destinée à « amplifier le soutien à l’Ukraine et la pression sur la Russie », a fait savoir l’Elysée.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-des-accords-techniques-encore-necessaires-pour-la-production-de-missiles-patriot-un-systeme-antibalistique-equivalent-aussi-en-developpement_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-283-combats-enregistres-entre-les-armees-russe-et-ukrainienne-au-cours-des-dernieres-vingt-quatre-heures-selon-l-etat-major-ukrainien_6720832_3210.html",
     "date": "2026-07-10"
   },
   {
@@ -209,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "Le FBI serait en train d’enquêter sur la Fédération argentine de football",
-    "summary": "Selon des informations dévoilées par le média de Buenos Aires “La Nación”, la police fédérale américaine aurait lancé une enquête visant des opérations de la Fédération argentine de football aux États-Unis. L’objectif : déterminer si cette dernière a pu se rendre coupable de faits relevant du blanchiment d’argent ou de la fraude bancaire.",
+    "title": "C’est quoi le “deuil climatique” ?",
+    "summary": "Le journal spécialisé “Psychology Today” définit ainsi le deuil climatique : c’est “une réponse émotionnelle à la disparition – parfois anticipée – d’écosystèmes, d’espèces animales et végétales et d’espaces naturels à cause du dérèglement climatique”. Et on le retrouve très souvent chez la jeune génération, plus sensible aux enjeux climatiques.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-le-fbi-serait-en-train-d-enqueter-sur-la-federation-argentine-de-football_247978",
-    "date": "2026-07-09"
-  },
-  {
-    "type": "news",
-    "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
-    "summary": "South Korean chip giant makes largest-ever debut by a foreign firm in the US, eclipsing Alibaba's 2014 IPO.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/stories/video-c-est-quoi-le-deuil-climatique_246192",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Week Ender: Why Europe can’t avoid Erdogan",
-    "summary": "Listen on Spotify Apple Music Amazon Music This week, NATO leaders gathered in Ankara — giving President Recep Tayyip Erdoğan a powerful stage at a moment when Turkey’s strategic value to Europe is rising.",
+    "title": "Paramount-Warner merger: could it reshape the media?",
+    "summary": "The UK is considering intervening in the Paramount-Warner merger over concerns about media plurality.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss",
+    "date": "2026-07-10"
+  },
+  {
+    "type": "news",
+    "title": "Spain shrugs off Trump’s claim it caved on defense spending",
+    "summary": "Madrid is rejecting the notion that it has bowed to U.S. President Donald Trump’s demand to increase its military spending. During this week’s NATO summit in Ankara, Trump took aim at Spain for refusing to agree that all of the alliance’s members devote 5 percent of gross domestic product to defense over the next decade.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-why-europe-cant-avoid-erdogan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/spain-shrugs-off-donald-trump-claim-defense-spending/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-10"
   },
   {
@@ -241,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "Pour les start-up françaises, un rebond des levées de fonds en trompe-l’œil",
-    "summary": "Selon le baromètre du cabinet EY, après trois années difficiles, les montants levés par les start-up tricolores ont augmenté de 65 % au premier semestre 2026. Mais cette croissance impressionnante cache une concentration des capitaux vers les gros projets.",
+    "title": "Xavier Niel investit 5,1 milliards d’euros pour devenir premier actionnaire de Vodafone",
+    "summary": "Le propriétaire du groupe télécom Iliad (Free) renforce ainsi son influence dans les télécoms européennes.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/09/pour-les-start-up-francaises-un-rebond-des-levees-de-fonds-en-trompe-l-il_6722067_3234.html",
-    "date": "2026-07-09"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/10/xavier-niel-investit-5-1-milliards-d-euros-pour-devenir-premier-actionnaire-de-vodafone_6722419_3234.html",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
@@ -265,18 +277,18 @@
   },
   {
     "type": "news",
-    "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-    "summary": "Robotaxi companies have thrived in California, where the good weather, enthusiasm for technology, and sophisticated labor force have supported their growth for nearly two decades. But a delayed decision from a state regulatory agency is now slowing Alphabet’s subsidiary Waymo, the US leader in driverless robotaxi service.",
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "summary": "OpenAI is facing calls for \"serious sanctions\" after fighting to keep news organizations from snooping through millions of logs to find evidence of users skirting their paywalls by prompting ChatGPT to regurgitate their articles.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+    "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
     "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "GPT-5.6",
-    "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1225 # Comments: 879",
+    "title": "The glass backbone: Why the Army's logistics will break in the next war",
+    "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 399 # Comments: 526",
     "source": "Hacker News",
-    "link": "https://openai.com/index/gpt-5-6/",
+    "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
     "date": "2026-07-09"
   },
   {
@@ -313,26 +325,26 @@
   },
   {
     "type": "news",
-    "title": "India ramps up missile sales in Indo-Pacific as China’s assertiveness turns neighbors wary",
-    "summary": "India has signed a third pact for the supply of missiles in the Indo-Pacific region as countries in the region grow wary of China's growing assertion.",
+    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
+    "summary": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/10/india-missiles-brahmos-indonesia-china.html",
+    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "M. Warsh, de la Fed, fait appel à un large groupe de personnalités extérieures à la banque centrale pour super",
-    "summary": "M. Warsh, de la Fed, fait appel à un large groupe de personnalités extérieures à la banque centrale pour super Boursorama",
+    "title": "Les valeurs du secteur des semi-conducteurs stimulent les marchés mondiaux à la veille de l'entrée en Bourse très attendue de SK Hynix aux États-Unis",
+    "summary": "Les valeurs du secteur des semi-conducteurs stimulent les marchés mondiaux à la veille de l'entrée en Bourse très attendue de SK Hynix aux États-Unis TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNG9kekdXNFFKZjl4a2lFQ2pKZ0l2VmcyQlI2WGljT0hJcE9KQ2c1ck01eXJtc0k3RXpfX213OFJVZXJvcjFXdWhIRmlDc0ZuN2c2SHZJTWJyYlYxSUg0OGlCeE8tbnJhUGFwTC1Qejc4STNUMkdXRHFxeUh2UUVwRkVfNFhGdTNCSExRcUhQSEo2V01uRmpuQVFaN2JpVG8wVUhsT2dWNUoxUG0zODZPdUhNWTh5STNMREV6d3YwN3o4cXBNQ2U1WGJJSW04QlVIODdDYkNHeEdRb2FCSGw4a3JHQ0hCaV9IS0N4N3JhSnlONFZKbGFfQXJtV2JXQ0R3VVVjYzM0OHMtWWxMemZUdTRSTFNLLXZxYkJ0UnU4YnNjWl9HUk5WMWNKZmRwQTRheDJFQ3FGZDJoakRVYXJDN9IBwAJBVV95cUxNNG9kekdXNFFKZjl4a2lFQ2pKZ0l2VmcyQlI2WGljT0hJcE9KQ2c1ck01eXJtc0k3RXpfX213OFJVZXJvcjFXdWhIRmlDc0ZuN2c2SHZJTWJyYlYxSUg0OGlCeE8tbnJhUGFwTC1Qejc4STNUMkdXRHFxeUh2UUVwRkVfNFhGdTNCSExRcUhQSEo2V01uRmpuQVFaN2JpVG8wVUhsT2dWNUoxUG0zODZPdUhNWTh5STNMREV6d3YwN3o4cXBNQ2U1WGJJSW04QlVIODdDYkNHeEdRb2FCSGw4a3JHQ0hCaV9IS0N4N3JhSnlONFZKbGFfQXJtV2JXQ0R3VVVjYzM0OHMtWWxMemZUdTRSTFNLLXZxYkJ0UnU4YnNjWl9HUk5WMWNKZmRwQTRheDJFQ3FGZDJoakRVYXJDNw?oc=5",
-    "date": "2026-07-09"
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tX2ZNMmhmNjh4ZGxvSldLV2VjdVR3b3Y0N1Q4S0l5MWVXMFNRQmVrb2VKY1lyRlR0QXNtd1I3Y2RtTXV6dXRwN3lzQnFKTkdqTWRCNnZFMGdJN3VrQ2pZRjNvZjVPeDdVWDZZT3NBSTJRa2hTQmZB?oc=5",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump et Benyamin Nétanyahou se sont entretenus ; Israël se dit prêt à attaquer l’Iran « une troisième fois si nécessaire »",
-    "summary": "Le président américain s’est entretenu, jeudi soir, avec le premier ministre israélien, pour l’informer des « derniers mouvements » américains dans le Golfe. Plus tôt, le chef d’état-major de l’armée israélienne a affirmé que d’« importantes opérations » étaient à prévoir en Iran.",
+    "title": "Le mouvement Stand Up for Science dénonce une réforme du financement de la recherche",
+    "summary": "Des représentants de l’association sont en Europe pour alerter l’opinion sur un nouveau péril qui entraînerait un contrôle encore plus idéologique sur les projets de recherche aux Etats-Unis, avec des critères rappelant les obsessions de Donald Trump.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-au-moyen-orient-donald-trump-et-benyamin-netanyahou-se-sont-entretenus-israel-se-dit-pret-a-attaquer-l-iran-une-troisieme-fois-si-necessaire_6721826_3210.html",
+    "link": "https://www.lemonde.fr/sciences/article/2026/07/10/le-mouvement-stand-up-for-science-denonce-une-reforme-du-financement-de-la-recherche_6722425_1650684.html",
     "date": "2026-07-10"
   },
   {
@@ -353,34 +365,34 @@
   },
   {
     "type": "news",
-    "title": "En Alberta, le mégacentre de données de Meta consommera autant qu’une ville entière",
-    "summary": "L’annonce de l’implantation prochaine d’un immense centre de données de Meta destiné à l’intelligence artificielle en Alberta provoque déjà la controverse au Canada. Citoyens et écologistes montent au créneau, alors que des projets similaires ont déjà été stoppés ou rejetés dans le pays.",
+    "title": "Aux États-Unis, les paris en ligne sur les départs de feu font craindre des actes criminels",
+    "summary": "Alors que les fortes chaleurs augmentent les risques de départ de feu, aux États-Unis, les paris en ligne sur l’apparition, l’étendue et la durée des incendies se multiplient sur des plateformes comme Polymarket, rapporte le mensuel américain “High Country News”. Une pratique qui soulève bien des questions éthiques.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/canada-en-alberta-le-megacentre-de-donnees-de-meta-consommera-autant-qu-une-ville-entiere_247983",
-    "date": "2026-07-09"
-  },
-  {
-    "type": "news",
-    "title": "How World Bank and IMF loans are reshaping policymaking in Africa",
-    "summary": "As debt pressures grow, African governments are reassessing the trade-offs of concessional financing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/10/how-world-bank-and-imf-loans-are-reshaping-policymaking-in-africa?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/societe-aux-etats-unis-les-paris-en-ligne-sur-les-departs-de-feu-font-craindre-des-actes-criminels_247350",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Europe’s conservatives revive zombie bill on child abuse scanning",
-    "summary": "STRASBOURG — A high-stakes face-off in Strasbourg on Thursday edges the European Union one step closer to resurrecting a once-dead child sexual abuse law. The European Parliament voted to send a bill giving tech companies the legal right to scan for child sexual abuse material to EU member countries for approval.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-09"
+    "title": "Degree but no job: The battle against unemployment in Gaza",
+    "summary": "Gaza's young graduates face sky-high unemployment as Israel's war devastates job market.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Qui s’intéresse encore à la Corée du Nord ?",
-    "summary": "Guerre en Ukraine, conflit au Moyen Orient… plus personne ou presque n’a les yeux sur Pyongyang et sa bombe atomique…. Alors qu’il y a encore quelques années l’arrêt du programme nucléaire Nord-Coréen semblait une priorité pour la communauté internationale. Un désintérêt qui n'est pas sans conséquences... Partenariat magazine Questions Internationales.",
+    "title": "Week Ender: Why Europe can’t avoid Erdogan",
+    "summary": "Listen on Spotify Apple Music Amazon Music This week, NATO leaders gathered in Ankara — giving President Recep Tayyip Erdoğan a powerful stage at a moment when Turkey’s strategic value to Europe is rising.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-why-europe-cant-avoid-erdogan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-10"
+  },
+  {
+    "type": "news",
+    "title": "2. En seconde ligne avec les Black Indians à la Nouvelle-Orléans",
+    "summary": "À la recherche du secret de ces mystérieuses enveloppes, Jack suit les rares indications que contient celle qui lui a été remise à Kinshasa. Il s'envole donc pour la Nouvelle-Orléans, et s'apprête à s'immerger dans la frénésie musicale de celle que l'on surnomme NOLA.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260705-qui-s-int%C3%A9resse-encore-%C3%A0-la-cor%C3%A9e-du-nord",
-    "date": "2026-07-05"
+    "link": "https://www.rfi.fr/fr/podcasts/jack-dans-les-rues-du-globe/20260708-2-en-seconde-ligne-avec-les-black-indians-%C3%A0-la-nouvelle-orl%C3%A9ans",
+    "date": "2026-07-08"
   }
 ]
