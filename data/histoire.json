@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les grandes étapes de l'économie chinoise depuis 1949 ?",
+    "answer": "Après la fondation de la République Populaire de Chine en 1949, l'économie était principalement collectivisée. Dans les années 1980, Deng Xiaoping a introduit des réformes économiques et une ouverture au marché, ce qui a conduit à une croissance rapide et à l'intégration de la Chine dans l'économie mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels événements ont marqué la géopolitique chinoise au XXe siècle ?",
+    "answer": "La guerre sino-japonaise (1937-1945) a profondément affecté la géopolitique chinoise, suivie de la guerre civile chinoise (1945-1949) qui a abouti à la victoire des communistes. L'établissement des relations diplomatiques avec les États-Unis en 1979 a également été un tournant majeur."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations majeures ont émergé en Chine depuis 2000 ?",
+    "answer": "La Chine a connu une explosion d'innovations technologiques, notamment dans le secteur des télécommunications avec des entreprises comme Huawei et ZTE. De plus, le développement rapide de l'intelligence artificielle et des technologies de paiement mobile, comme Alipay, a transformé le paysage économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la politique de l'enfant unique a-t-elle influencé la société chinoise ?",
+    "answer": "Introduite en 1979, la politique de l'enfant unique a eu des conséquences démographiques significatives, réduisant la croissance de la population. En 2015, cette politique a été assouplie face aux préoccupations liées au vieillissement de la population et à la pénurie de main-d'œuvre."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle la Chine a-t-elle joué dans la mondialisation au XXIe siècle ?",
+    "answer": "Au XXIe siècle, la Chine est devenue un acteur clé de la mondialisation, notamment en tant que premier exportateur mondial depuis 2009. L'initiative 'Belt and Road' lancée en 2013 vise à renforcer les infrastructures et les échanges commerciaux avec de nombreux pays."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle est l'importance de la Révolution culturelle dans l'histoire moderne de la Chine ?",
+    "answer": "La Révolution culturelle (1966-1976) a été un mouvement politique lancé par Mao Zedong pour renforcer le communisme. Elle a causé des bouleversements sociaux et économiques, entraînant la persécution de millions de personnes et un impact durable sur la société chinoise."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les idées économiques de Adam Smith ?",
     "answer": "Adam Smith, dans son ouvrage 'La richesse des nations' (1776), propose la théorie de la main invisible, affirmant que les actions individuelles dans un marché libre conduisent à une allocation efficace des ressources. Il plaide également pour la division du travail comme source de productivité."
   },
