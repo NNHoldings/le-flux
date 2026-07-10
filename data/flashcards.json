@@ -1,6 +1,12 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "文章",
+    "pinyin": "wénzhāng",
+    "fr": "article"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "评论",
     "pinyin": "pínglùn",
     "fr": "commentaire"
