@@ -5,11 +5,11 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Ukraine continue d'affecter la stratégie militaire de l'OTAN et les infrastructures russes.",
-      "La Fed signale une accélération de l'inflation liée aux droits de douane et aux conflits géopolitiques."
+      "L'industrie des drones ukrainienne perturbe les opérations militaires russes et les investissements de l'OTAN.",
+      "Un rapport de la Fed souligne une accélération de l'inflation liée aux droits de douane et à la guerre en Ukraine."
     ],
     "source": "Le Flux",
-    "date": "2026-07-10"
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -53,11 +53,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : des bombardements russes dans l’oblast de Donetsk et à Zaporijia ont fait cinq morts",
-    "summary": "Au moins 25 chefs d’Etat et de gouvernement, dont Volodymyr Zelensky, sont attendus lundi à Paris pour une réunion de la coalition des volontaires.",
+    "title": "Guerre en Ukraine : à Kiev, où la Russie multiplie les attaques meurtrières, des nuits en sous-sol et sur les chaînes Telegram",
+    "summary": "La capitale ukrainienne est endeuillée depuis le 24 mai par des frappes russes de missiles balistiques et de nouveaux drones à réaction ultrarapides, alors que la défense aérienne manque cruellement de systèmes antimissiles.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/10/en-direct-guerre-en-ukraine-des-bombardements-russes-dans-l-oblast-de-donetsk-et-a-zaporijia-ont-fait-cinq-morts_6720832_3210.html",
-    "date": "2026-07-10"
+    "link": "https://www.lemonde.fr/international/article/2026/07/11/guerre-en-ukraine-a-kiev-ou-la-russie-multiplie-les-attaques-meurtrieres-des-nuits-en-sous-sol-et-sur-les-chaines-telegram_6722657_3210.html",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -77,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Le géant des puces sud-coréen SK Hynix fait une entrée fracassante à Wall Street",
-    "summary": "Le fabricant de semi-conducteurs de Corée du Sud devrait lever 26,5 milliards de dollars sur le Nasdaq aux États-Unis à partir de ce vendredi 10 juillet. SK Hynix parie sur l’engouement des investisseurs américains pour les entreprises de l’intelligence artificielle.",
+    "title": "Apple contre OpenAI, Nigeria et Ukraine : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/bourse-le-geant-des-puces-sud-coreen-sk-hynix-fait-une-entree-fracassante-a-wall-street_248136",
-    "date": "2026-07-10"
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-apple-contre-openai-nigeria-et-ukraine-les-informations-de-la-nuit_248461",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-    "summary": "Ukrainian official says Russia's attack on Kramatorsk kills four, including a teenager, and injures nine.",
+    "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
+    "summary": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
     "date": "2026-07-10"
   },
   {
@@ -110,7 +110,7 @@
   {
     "type": "news",
     "title": "A Paris, au pied de l’Elysée, le commerce de luxe réaménage l’espace public",
-    "summary": "Le comité des commerçants de la rue du Faubourg-Saint-Honoré va financer la moitié des travaux de la rue connue pour ses boutiques Hermès et Cartier. Un exemple de partenariat public-privé dont pourrait inspirer d’autres artères chics de la capitale.",
+    "summary": "Le comité des commerçants de la rue du Faubourg-Saint-Honoré va financer la moitié des travaux de la rue connue pour ses boutiques Hermès et Cartier. Un exemple de partenariat public-privé qui pourrait inspirer d’autres artères chics de la capitale.",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/economie/article/2026/07/10/a-paris-au-pied-de-l-elysee-le-commerce-de-luxe-reamenage-l-espace-public_6722501_3234.html",
     "date": "2026-07-10"
@@ -133,18 +133,18 @@
   },
   {
     "type": "news",
-    "title": "Volkswagen Group tells its board how to fix it, unions disagree",
-    "summary": "Volkswagen Group is doing well with electric vehicle sales in its home region, but costly tariffs and eroding market share in China and North America have been hurting it badly. Europe's largest automaker, which also owns brands including Audi, Porsche, Skoda, and Lamborghini, has seen its profit margins evaporate, and yesterday the company's supervisory boa…",
+    "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+    "summary": "A former ransomware negotiator was sentenced to 70 months in prison yesterday after colluding with BlackCat scammers to extort the victims he was hired to protect. As a ransomware negotiator for the company DigitalMint, Florida resident Angelo Martino's job was \"to negotiate with cybercriminals to mitigate the ransoms paid by [DigitalMint's] clients,\" the US…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Write code like a human will maintain it",
-    "summary": "Article URL: https://unstack.io/write-code-like-a-human-will-maintain-it Comments URL: https://news.ycombinator.com/item?id=48859701 Points: 253 # Comments: 203",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 908 # Comments: 453",
     "source": "Hacker News",
-    "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
     "date": "2026-07-10"
   },
   {
@@ -189,19 +189,19 @@
   },
   {
     "type": "news",
-    "title": "Les valeurs du secteur des semi-conducteurs stimulent les marchés mondiaux à la veille de l'entrée en Bourse très attendue de SK Hynix aux États-Unis",
-    "summary": "Les valeurs du secteur des semi-conducteurs stimulent les marchés mondiaux à la veille de l'entrée en Bourse très attendue de SK Hynix aux États-Unis TradingView",
+    "title": "L'inflation dans les deux premières économies de la zone euro et Delta Air Lines pour amorcer la saison des résultats aux Etats-Unis",
+    "summary": "L'inflation dans les deux premières économies de la zone euro et Delta Air Lines pour amorcer la saison des résultats aux Etats-Unis Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tX2ZNMmhmNjh4ZGxvSldLV2VjdVR3b3Y0N1Q4S0l5MWVXMFNRQmVrb2VKY1lyRlR0QXNtd1I3Y2RtTXV6dXRwN3lzQnFKTkdqTWRCNnZFMGdJN3VrQ2pZRjNvZjVPeDdVWDZZT3NBSTJRa2hTQmZB?oc=5",
-    "date": "2026-07-10"
+    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQNXJ5R3lMbGNkWFUydzhxcnVmTU0tU2pCdHJvZWpGZFdOeHV1YjJJcmtjQzd3SnNsYjZzLVJfTWh3M2NFSkRQdHh3UW14eEFyNXc3SF9WdEUtMmZxeERJQmNvUmxtLXl3MDgzNVEyVy1CVHNYclJuZlpQWjlrSUl5OG1raXJ5US11d2d2UDNnUXJISGRJOUhGenBPYjd4N2pKZVFmLUNDcGcwNzg4R1BJck41ZGV4QWNxUmF5V1F4anBET2s1SUdmcFphemVPaXZXTkY4d2xYckplX3hTcGdsSWtKNGxWUU1VWDgweVdteDJJVVIyRGNwcTlxbmlKTjUwUVhaQy1LYnhPbExfS0NFNnhUVGMwYUhKWkdBRzdPZll5V0tJWXdZSXZn?oc=5",
+    "date": "2026-07-09"
   },
   {
     "type": "news",
-    "title": "Le mouvement Stand Up for Science dénonce une réforme du financement de la recherche",
-    "summary": "Des représentants de l’association sont en Europe pour alerter l’opinion sur un nouveau péril qui entraînerait un contrôle encore plus idéologique sur les projets de recherche aux Etats-Unis, avec des critères rappelant les obsessions de Donald Trump.",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev dit avoir abattu 111 drones et deux missiles russes pendant la nuit ; dix blessés signalés dans la capitale",
+    "summary": "Selon le maire de la capitale ukrainienne, quatre personnes ont dû être hospitalisées. Le chef de l’administration militaire locale avait appelé dans la nuit la population à se réfugier dans des « lieux sûrs ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/sciences/article/2026/07/10/le-mouvement-stand-up-for-science-denonce-une-reforme-du-financement-de-la-recherche_6722425_1650684.html",
-    "date": "2026-07-10"
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -221,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "Des dizaines de milliers d’étrangers quittent l’Afrique du Sud dans un climat de peur",
-    "summary": "Chaque jour, des milliers d’étrangers se pressent à la frontière avec le Zimbabwe pour quitter l’Afrique du Sud alors qu’un mouvement appelle au départ des migrants illégaux depuis plusieurs semaines.",
+    "title": "Salvador de Bahia, la “capitale afro” du Brésil",
+    "summary": "SÉRIE D’ÉTÉ “DE VILLE EN VILLE” (1/5). Ancien port négrier du Brésil, la ville du Nordeste ne mise plus seulement sur ses plages, son architecture coloniale et sa gastronomie pour attirer les touristes. La municipalité travaille à mettre en valeur l’héritage et la culture d’une population noire à 80 %.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/racisme-des-dizaines-de-milliers-d-etrangers-quittent-l-afrique-du-sud-dans-un-climat-de-peur_248263",
-    "date": "2026-07-10"
+    "link": "https://www.courrierinternational.com/long-format/serie-d-ete-salvador-de-bahia-la-capitale-afro-du-bresil_245353",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-    "summary": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
+    "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+    "summary": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
     "date": "2026-07-10"
   },
   {
@@ -253,10 +253,10 @@
   },
   {
     "type": "news",
-    "title": "« La bataille du canard laqué avec la Chine illustre l’extrême lenteur de l’Europe »",
-    "summary": "La Commission européenne a ouvert une enquête sur le potentiel dumping des producteurs de canards de Pékin. Mais, face au deuxième choc chinois, la réponse de Bruxelles reste lente et timide, note Eric Albert, journaliste au service Economie du « Monde ».",
+    "title": "La manifestation contre le canal Seine-Nord Europe finalement autorisée par les préfectures du Nord et du Pas-de-Calais",
+    "summary": "Ce projet vise à créer d’ici à 2032 une liaison fluviale à grand gabarit pour faciliter le transport de marchandises entre la région parisienne et la mer du Nord. Ses opposants dénoncent notamment la flambée des coûts et ses conséquences environnementales.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/10/la-bataille-du-canard-laque-avec-la-chine-illustre-l-extreme-lenteur-de-l-europe_6722414_3234.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html",
     "date": "2026-07-10"
   },
   {
@@ -277,19 +277,19 @@
   },
   {
     "type": "news",
-    "title": "Is an air-conditioning revolution coming to Europe?",
-    "summary": "If you're reading this while the blinds are drawn against yet another heat wave and wondering whether it’s finally time to buy an air conditioner, you're far from alone. At the end of June, as temperatures climbed well above 40° Celsius across Europe, shoppers in France literally forced their way into stores to snatch up portable fans and ACs before they sol…",
+    "title": "Volkswagen Group tells its board how to fix it, unions disagree",
+    "summary": "Volkswagen Group is doing well with electric vehicle sales in its home region, but costly tariffs and eroding market share in China and North America have been hurting it badly. Europe's largest automaker, which also owns brands including Audi, Porsche, Skoda, and Lamborghini, has seen its profit margins evaporate, and yesterday the company's supervisory boa…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+    "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "GPT-5.6",
-    "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1492 # Comments: 1050",
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 195 # Comments: 66",
     "source": "Hacker News",
-    "link": "https://openai.com/index/gpt-5-6/",
-    "date": "2026-07-09"
+    "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
@@ -333,19 +333,19 @@
   },
   {
     "type": "news",
-    "title": "Pétrole : l'AIE anticipe un rebond de la demande malgré la volatilité des marchés",
-    "summary": "Pétrole : l'AIE anticipe un rebond de la demande malgré la volatilité des marchés boursedirect.fr",
+    "title": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient",
+    "summary": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaXlVTXg0amtiS3RVeGdDdlgzY1h2d3luLTR5MDVPb05oMUppZXFPY0phakNBOUlmVnVUcndVOTNsdU8yZ1BPZmt5QTBXYmJzWlVnVmFvTG5qcDRWblZQLVhidGpQMWwzNld6SjgwX1pEdUxFUlNhWV9jQUVaNmJ6LVNuMWp4cjhUaVJYMjEteXRWSmhkLW1ubXRyWTBOZ2xrNVJILWxpb3ByWEtnSGhsNVdFeWpvMXZLeTFkODA5N0dJZnFiSEtCLXphVHVlOE1KNkxTQlZpMFh2YlBIbkxNSUZGWjBCcU5SdW5Ed3l6SjBucmV0S05JdEtseWRDRE50V1A1LU51aTVtMF8xRjVsWUZBNFBaTU5EYzE0Uk90VTdnRGJEdGRKU2dQMm94eThYcGd6Q0ZmdHFObUpvdWpTbw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0RUNW05ZXlKV3JHbUFvSWVMU2J6blFia2g5LUpCOW14SmU1M0d3RkU1OVE0Z09lU1h1TWM4NDJyODlCNWdTSzRkZUZYMndWMGxUcVZ1MEJNQlJEeHZxNHNZeXM4NDhKZlZTSWNObWVFeGduNUxpT3ZjSk9vR1llQW0yU3RnRHdYclNvVHVjNWJjOTZRdF9MMmo0N3g5eFZUWGFUMWRKdW5vTWMyN1dYWHQwWEJMQ3NBTEZNQjBJSHY0VmZSR3ZYVW1waTJzQ3c0WUt4a21WUQ?oc=5",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "« La recherche de la vérité sur le sort de Foniké Menguè et Billo Bah devrait être une priorité du dialogue entre la France et la Guinée »",
-    "summary": "Deux ans après l’enlèvement de deux personnalités de la société civile guinéenne, Clément Boursin, responsable Afrique de l’ACAT-France, s’interroge, dans une tribune au « Monde », au sujet de l’attitude de Paris, qui normalise ses relations avec la junte guinéenne au mépris de ses engagements en faveur des droits humains.",
+    "title": "Jean Pisani-Ferry : « Nous nous étions tellement habitués à notre dépendance que nous avions fini par y voir l’ordre naturel des choses »",
+    "summary": "Le commerce international se transforme en profondeur sous l’effet des tensions géopolitiques et de l’essor des services. L’Europe doit urgemment se libérer de sa double dépendance envers la Chine et les Etats-Unis, plaide l’économiste dans sa chronique.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/10/la-recherche-de-la-verite-sur-le-sort-de-fonike-mengue-et-billo-bah-devrait-etre-une-priorite-du-dialogue-entre-la-france-et-la-guinee_6722430_3232.html",
-    "date": "2026-07-10"
+    "link": "https://www.lemonde.fr/idees/article/2026/07/11/jean-pisani-ferry-nous-nous-etions-tellement-habitues-a-notre-dependance-que-nous-avions-fini-par-y-voir-l-ordre-naturel-des-choses_6722656_3232.html",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -365,19 +365,19 @@
   },
   {
     "type": "news",
-    "title": "En Inde, ces femmes qui tuent leur fiancé pour éviter un mariage arrangé",
-    "summary": "Plusieurs affaires de meurtres de jeunes hommes, perpétrés ou commandités par leur fiancée, agitent la presse indienne ces dernières semaines. Il apparaît que les femmes impliquées avaient été forcées de consentir à ces unions. Les médias décrivent les mariages arrangés comme une pratique qui résiste à de nombreux changements sociétaux dans le pays.",
+    "title": "“C’est mieux qu’un bar” : la génération Z remplit les églises de New York",
+    "summary": "Depuis quelque temps, les bancs des églises de New York ne désemplissent pas. Des jeunes s’y rendent toujours plus nombreux, en quête de spiritualité, mais aussi d’interactions sociales, raconte le quotidien américain “The Wall Street Journal”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-en-inde-ces-femmes-qui-tuent-leur-fiance-pour-eviter-un-mariage-arrange_248130",
-    "date": "2026-07-10"
+    "link": "https://www.courrierinternational.com/article/societe-c-est-mieux-qu-un-bar-la-generation-z-remplit-les-eglises-de-new-york_243626",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Paramount-Warner merger: could it reshape the media?",
-    "summary": "The UK is considering intervening in the Paramount-Warner merger over concerns about media plurality.",
+    "title": "Are the US and Iran at war again?",
+    "summary": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over'.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss",
-    "date": "2026-07-10"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -389,10 +389,10 @@
   },
   {
     "type": "news",
-    "title": "2. En seconde ligne avec les Black Indians à la Nouvelle-Orléans",
-    "summary": "À la recherche du secret de ces mystérieuses enveloppes, Jack suit les rares indications que contient celle qui lui a été remise à Kinshasa. Il s'envole donc pour la Nouvelle-Orléans, et s'apprête à s'immerger dans la frénésie musicale de celle que l'on surnomme NOLA.",
+    "title": "Coupe du Monde 2026 : le nouvel ordre mondial s'invite sur le terrain",
+    "summary": "La Coupe du Monde 2026 n’est même pas encore terminée, mais elle est déjà la plus géopolitique de toutes. Des pays organisateurs qui ne s’entendent pas, un carton rouge annulé directement par Donald Trump. Le meilleur arbitre africain renvoyé chez lui, faute de visa. Le nouvel ordre mondial s’est invité sur le terrain.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/jack-dans-les-rues-du-globe/20260708-2-en-seconde-ligne-avec-les-black-indians-%C3%A0-la-nouvelle-orl%C3%A9ans",
-    "date": "2026-07-08"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260711-coupe-du-monde-2026-le-nouvel-ordre-mondial-s-invite-sur-le-terrain",
+    "date": "2026-07-11"
   }
 ]
