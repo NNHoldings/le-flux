@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 300 ?",
+    "answer": "L'évaluation des risques d'audit selon la NEP 300 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, pour concevoir des procédures d'audit adaptées."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les types de risques identifiés dans l'évaluation des risques d'audit ?",
+    "answer": "Les types de risques identifiés sont les risques inhérents, les risques de contrôle et les risques de détection, comme précisé dans la NEP 315."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est le rôle de l'environnement de contrôle dans l'évaluation des risques d'audit ?",
+    "answer": "L'environnement de contrôle joue un rôle crucial en influençant l'efficacité des contrôles internes et, par conséquent, en modifiant les risques de contrôle selon la NEP 315."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le code de commerce français aborde-t-il l'évaluation des risques d'audit ?",
+    "answer": "Le code de commerce impose aux commissaires aux comptes de prendre en compte les risques d'audit dans leur mission, notamment pour formuler une opinion sur la sincérité et la régularité des comptes."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est l'importance de la documentation dans l'évaluation des risques d'audit ?",
+    "answer": "La documentation est essentielle pour justifier les jugements effectués par l'auditeur concernant les risques identifiés et pour assurer la traçabilité des décisions prises."
+  },
+  {
+    "type": "dec",
+    "question": "Comment l'auditeur doit-il adapter ses procédures d'audit en fonction des risques évalués ?",
+    "answer": "L'auditeur doit concevoir des procédures d'audit qui répondent spécifiquement aux risques évalués, en augmentant la nature, le calendrier et l'étendue des tests selon la NEP 330."
+  },
+  {
+    "type": "dec",
     "question": "Quelle est la norme NEP 100 relative à l'indépendance du commissaire aux comptes ?",
     "answer": "La NEP 100 impose au commissaire aux comptes de maintenir son indépendance tant en apparence qu'en réalité, en évitant toute relation ou situation pouvant nuire à son impartialité."
   },
