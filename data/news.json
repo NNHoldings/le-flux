@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'industrie des drones ukrainienne perturbe les opérations militaires russes et les investissements de l'OTAN.",
-      "Un rapport de la Fed souligne une accélération de l'inflation liée aux droits de douane et à la guerre en Ukraine."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-11"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -61,14 +49,6 @@
   },
   {
     "type": "news",
-    "title": "États-Unis, de la domination militaire à la défaite stratégique",
-    "summary": "La célébration du 250e anniversaire des États-Unis coïncide avec la mise en échec de leur projet visant à soumettre l'Iran. Le scénario de l'enlèvement du président Nicolás Maduro à Caracas n'a donc pas connu de répétition à Téhéran. Si l'empire le plus puissant de l'histoire a souvent trébuché, (…) / Géopolitique, États-Unis, Iran, Israël, Impérialisme",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/07/ZEVIN/69685",
-    "date": "2026-07-08"
-  },
-  {
-    "type": "news",
     "title": "Inside Ukraine’s Game-Changing Drone Industry",
     "summary": "In recent months, Ukrainian drones have successfully struck dozens of sites deep inside Russia, targeting the oil industry, weapons plants, and logistics hubs. But while Ukraine has developed a world-leading military technology to defend itself from a much larger aggressor, drones will not be enough to end the war.",
     "source": "Project Syndicate",
@@ -85,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-    "summary": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
+    "title": "Russian missile attacks wound 11 in Kyiv",
+    "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-    "date": "2026-07-10"
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Zelenskyy: China urged Putin not to use nuclear weapons in Ukraine",
-    "summary": "KYIV — China warned Russia against using nuclear weapons in response to Ukrainian strikes on its territory, President Volodymyr Zelenskyy told reporters Thursday. “I think you heard such voices in Russian media: ‘What if we respond to Ukrainian strikes with nuclear weapons?’ And it seems to me that this was the first time China … directly responded in an ult…",
+    "title": "Senior Democrat backs Trump’s call for more European defense spending",
+    "summary": "Rahm Emanuel, one of the Democratic Party’s 2028 presidential hopefuls, says Donald Trump is right to demand that Europe spend more on defense. In an interview with POLITICO’s Gordon Repinski in Berlin, the former Chicago mayor said Europe had become too reliant on America’s resources within the NATO military alliance.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-china-urged-vladimir-putin-not-use-nuclear-weapons-in-ukraine/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/senior-democrat-rahm-emanuel-backs-donald-trump-call-for-more-european-defense-spending/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-10"
   },
   {
@@ -142,7 +122,7 @@
   {
     "type": "news",
     "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 908 # Comments: 453",
+    "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 1153 # Comments: 599",
     "source": "Hacker News",
     "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
     "date": "2026-07-10"
@@ -189,27 +169,19 @@
   },
   {
     "type": "news",
-    "title": "L'inflation dans les deux premières économies de la zone euro et Delta Air Lines pour amorcer la saison des résultats aux Etats-Unis",
-    "summary": "L'inflation dans les deux premières économies de la zone euro et Delta Air Lines pour amorcer la saison des résultats aux Etats-Unis Les Echos",
+    "title": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient",
+    "summary": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQNXJ5R3lMbGNkWFUydzhxcnVmTU0tU2pCdHJvZWpGZFdOeHV1YjJJcmtjQzd3SnNsYjZzLVJfTWh3M2NFSkRQdHh3UW14eEFyNXc3SF9WdEUtMmZxeERJQmNvUmxtLXl3MDgzNVEyVy1CVHNYclJuZlpQWjlrSUl5OG1raXJ5US11d2d2UDNnUXJISGRJOUhGenBPYjd4N2pKZVFmLUNDcGcwNzg4R1BJck41ZGV4QWNxUmF5V1F4anBET2s1SUdmcFphemVPaXZXTkY4d2xYckplX3hTcGdsSWtKNGxWUU1VWDgweVdteDJJVVIyRGNwcTlxbmlKTjUwUVhaQy1LYnhPbExfS0NFNnhUVGMwYUhKWkdBRzdPZll5V0tJWXdZSXZn?oc=5",
-    "date": "2026-07-09"
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0RUNW05ZXlKV3JHbUFvSWVMU2J6blFia2g5LUpCOW14SmU1M0d3RkU1OVE0Z09lU1h1TWM4NDJyODlCNWdTSzRkZUZYMndWMGxUcVZ1MEJNQlJEeHZxNHNZeXM4NDhKZlZTSWNObWVFeGduNUxpT3ZjSk9vR1llQW0yU3RnRHdYclNvVHVjNWJjOTZRdF9MMmo0N3g5eFZUWGFUMWRKdW5vTWMyN1dYWHQwWEJMQ3NBTEZNQjBJSHY0VmZSR3ZYVW1waTJzQ3c0WUt4a21WUQ?oc=5",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Kiev dit avoir abattu 111 drones et deux missiles russes pendant la nuit ; dix blessés signalés dans la capitale",
-    "summary": "Selon le maire de la capitale ukrainienne, quatre personnes ont dû être hospitalisées. Le chef de l’administration militaire locale avait appelé dans la nuit la population à se réfugier dans des « lieux sûrs ».",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov",
+    "summary": "Le chef des forces de système sans pilote de l’armée ukrainienne, Robert Brovdi, a déclaré que 21 pétroliers, deux cargos, un navire spécial et quatre remorqueurs de la flotte fantôme russe avaient été atteints, samedi. « Au total, 76 navires ont été touchés en six jours », a-t-il affirmé sur Telegram.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-kiev-ciblee-pour-la-troisieme-fois-de-la-semaine-par-des-bombardements-russes-onze-blesses-signales-dans-la-capitale_6720832_3210.html",
     "date": "2026-07-11"
-  },
-  {
-    "type": "news",
-    "title": "Qui a peur du contrôle des prix ?",
-    "summary": "Depuis quelques années, l'inflation a fait son retour, alimentée par une succession de crises : pandémie, guerre en Ukraine, fermeture du détroit d'Ormuz. Face à la flambée des prix, la « science économique » explique que les embrasements répondent aux lois du marché — lequel ne se trompe (…) / Spéculation, Néolibéralisme, Crise économique, Économie",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/07/QUINTARD/69684",
-    "date": "2026-07-08"
   },
   {
     "type": "news",
@@ -229,19 +201,19 @@
   },
   {
     "type": "news",
-    "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-    "summary": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
+    "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+    "summary": "China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-    "date": "2026-07-10"
+    "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Senior Democrat backs Trump’s call for more European defense spending",
-    "summary": "Rahm Emanuel, one of the Democratic Party’s 2028 presidential hopefuls, says Donald Trump is right to demand that Europe spend more on defense. In an interview with POLITICO’s Gordon Repinski in Berlin, the former Chicago mayor said Europe had become too reliant on America’s resources within the NATO military alliance.",
+    "title": "Trump praises Allah, threatens to obliterate Iran",
+    "summary": "U.S. President Donald Trump said that the American military stood ready to “completely decimate and destroy all areas of Iran” in response to threats to his life. Trump made the post on Truth Social in the early hours of Saturday morning.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/senior-democrat-rahm-emanuel-backs-donald-trump-call-for-more-european-defense-spending/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-10"
+    "link": "https://www.politico.eu/article/donald-trump-praises-allah-threatens-obliterate-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -253,11 +225,11 @@
   },
   {
     "type": "news",
-    "title": "La manifestation contre le canal Seine-Nord Europe finalement autorisée par les préfectures du Nord et du Pas-de-Calais",
-    "summary": "Ce projet vise à créer d’ici à 2032 une liaison fluviale à grand gabarit pour faciliter le transport de marchandises entre la région parisienne et la mer du Nord. Ses opposants dénoncent notamment la flambée des coûts et ses conséquences environnementales.",
+    "title": "« Notre modèle de société fondée sur la hausse continue de l’abondance est en faillite, et les politiques regardent ailleurs »",
+    "summary": "A dix mois de l’élection présidentielle, les candidats, au lieu de promettre une augmentation intenable du pouvoir d’achat, doivent rompre avec l’imaginaire de la croissance hérité des « trente glorieuses », estime Benjamin Brice, chercheur en science politique, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html",
-    "date": "2026-07-10"
+    "link": "https://www.lemonde.fr/idees/article/2026/07/11/notre-modele-de-societe-fondee-sur-la-hausse-continue-de-l-abondance-est-en-faillite-et-les-politiques-regardent-ailleurs_6722700_3232.html",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -286,7 +258,7 @@
   {
     "type": "news",
     "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-    "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 195 # Comments: 66",
+    "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 272 # Comments: 101",
     "source": "Hacker News",
     "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
     "date": "2026-07-10"
@@ -333,27 +305,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient",
-    "summary": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient Zonebourse",
+    "title": "Brésil : l'inflation ralentit en juin mais reste supérieure à l'objectif de la banque centrale",
+    "summary": "Brésil : l'inflation ralentit en juin mais reste supérieure à l'objectif de la banque centrale Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0RUNW05ZXlKV3JHbUFvSWVMU2J6blFia2g5LUpCOW14SmU1M0d3RkU1OVE0Z09lU1h1TWM4NDJyODlCNWdTSzRkZUZYMndWMGxUcVZ1MEJNQlJEeHZxNHNZeXM4NDhKZlZTSWNObWVFeGduNUxpT3ZjSk9vR1llQW0yU3RnRHdYclNvVHVjNWJjOTZRdF9MMmo0N3g5eFZUWGFUMWRKdW5vTWMyN1dYWHQwWEJMQ3NBTEZNQjBJSHY0VmZSR3ZYVW1waTJzQ3c0WUt4a21WUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd1lwRjN4UVBHRzltc2tyWUVlZkYzNzJETURMQmw0bUN1ZFBZY0wtSzNIZkNMZmtBMlQ3STRad3NYQjB0Sk9mWm1vLVF2VWhtUkRCd0czd3liS0ZqanV1QVVpYVJCS1V5OEtXaVUtbmM3VDlDQlo4RlljdTVrdXVPdzNwaHZhR1AzT3hBNG9kY0RwLTJUUTVxTHQ1OW1EcEp1c29Sd2FldzJLSWt6TDlsOUVuczVuUVUtaTlJM1Y5MVJSZ0tJWlBlWVFXOGFEbUREWWczbmtSNUhtS19IMXZPMTNqaEVUUFk?oc=5",
     "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Jean Pisani-Ferry : « Nous nous étions tellement habitués à notre dépendance que nous avions fini par y voir l’ordre naturel des choses »",
-    "summary": "Le commerce international se transforme en profondeur sous l’effet des tensions géopolitiques et de l’essor des services. L’Europe doit urgemment se libérer de sa double dépendance envers la Chine et les Etats-Unis, plaide l’économiste dans sa chronique.",
+    "title": "Typhon Bavi : 900 000 personnes évacuées en Chine, des « pluies exceptionnellement abondantes » attendues dans l’est du pays",
+    "summary": "Bavi devrait provoquer des « pluies exceptionnellement abondantes » dans les provinces du Zhejiang et du Fujian. Samedi, c’est surtout sur Taïwan que le typhon a déversé de fortes pluies.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/11/jean-pisani-ferry-nous-nous-etions-tellement-habitues-a-notre-dependance-que-nous-avions-fini-par-y-voir-l-ordre-naturel-des-choses_6722656_3232.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/11/typhon-bavi-900-000-personnes-evacuees-en-chine-des-pluies-exceptionnellement-abondantes-attendues-dans-l-est-du-pays_6722699_3244.html",
     "date": "2026-07-11"
-  },
-  {
-    "type": "news",
-    "title": "Le contrôle des migrants sous-traité aux Balkans",
-    "summary": "La démission de l'Allemand Christian Schmidt, haut représentant international pour la Bosnie-Herzégovine, révèle les divergences croissantes entre l'Union européenne et les États-Unis dans les Balkans. Partagés entre deux allégeances, les responsables politiques de la région font les bonnes (…) / Balkans, Migrations, Droit d'asile",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/07/DERENS/69717",
-    "date": "2026-07-03"
   },
   {
     "type": "news",
@@ -365,10 +329,10 @@
   },
   {
     "type": "news",
-    "title": "“C’est mieux qu’un bar” : la génération Z remplit les églises de New York",
-    "summary": "Depuis quelque temps, les bancs des églises de New York ne désemplissent pas. Des jeunes s’y rendent toujours plus nombreux, en quête de spiritualité, mais aussi d’interactions sociales, raconte le quotidien américain “The Wall Street Journal”.",
+    "title": "En Inde, des réseaux exploitent des femmes précaires pour le don d’ovocytes",
+    "summary": "Appâtées par des paiements allant de 200 à 350 euros, des femmes indiennes financièrement vulnérables auraient subi des prélèvements d’ovocytes répétés. Elles sont ainsi exposées au risque d’apparition d’hémorragies, d’infections et de kystes, voire à des risques mortels.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-c-est-mieux-qu-un-bar-la-generation-z-remplit-les-eglises-de-new-york_243626",
+    "link": "https://www.courrierinternational.com/article/sante-en-inde-des-reseaux-exploitent-des-femmes-precaires-pour-le-don-d-ovocytes_247157",
     "date": "2026-07-11"
   },
   {
@@ -381,11 +345,11 @@
   },
   {
     "type": "news",
-    "title": "Spain shrugs off Trump’s claim it caved on defense spending",
-    "summary": "Madrid is rejecting the notion that it has bowed to U.S. President Donald Trump’s demand to increase its military spending. During this week’s NATO summit in Ankara, Trump took aim at Spain for refusing to agree that all of the alliance’s members devote 5 percent of gross domestic product to defense over the next decade.",
+    "title": "Wall Street’s new obsession: reading Washington",
+    "summary": "Wall Street isn’t just betting on company performance anymore. It’s betting on Washington. As investors hunt for the Trump administration’s next winner, they’re increasingly trying to anticipate which industries and companies will benefit from White House policy — from tariffs and export controls to procurement, subsidies and even presidential attention itse…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/spain-shrugs-off-donald-trump-claim-defense-spending/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-10"
+    "link": "https://www.politico.com/news/2026/07/10/wall-streets-new-obsession-reading-washington-00992403?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -394,5 +358,29 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260711-coupe-du-monde-2026-le-nouvel-ordre-mondial-s-invite-sur-le-terrain",
     "date": "2026-07-11"
+  },
+  {
+    "type": "news",
+    "title": "La manifestation contre le canal Seine-Nord Europe finalement autorisée par les préfectures du Nord et du Pas-de-Calais",
+    "summary": "Ce projet vise à créer d’ici à 2032 une liaison fluviale à grand gabarit pour faciliter le transport de marchandises entre la région parisienne et la mer du Nord. Ses opposants dénoncent notamment la flambée des coûts et ses conséquences environnementales.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html",
+    "date": "2026-07-10"
+  },
+  {
+    "type": "news",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "date": "2026-07-10"
+  },
+  {
+    "type": "news",
+    "title": "Transforming Investing With AI at Franklin Templeton",
+    "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be an early proponent of AI-first in your industry, or a fast follower? Those are some of the questions fac…",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
+    "date": "2026-06-29"
   }
 ]
