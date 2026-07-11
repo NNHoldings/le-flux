@@ -1,6 +1,31 @@
 [
   {
     "type": "ia",
+    "term": "1956 - Dartmouth Conference",
+    "explanation": "La conférence de Dartmouth est souvent considérée comme le point de départ de l'intelligence artificielle en tant que domaine académique. C'est lors de cet événement que le terme 'intelligence artificielle' a été formellement introduit et que des chercheurs ont commencé à collaborer sur des projets d'IA."
+  },
+  {
+    "type": "ia",
+    "term": "Perceptron",
+    "explanation": "Le Perceptron, développé par Frank Rosenblatt dans les années 1950, représente l'une des premières architectures de réseaux de neurones. Bien qu'il ait été limité dans ses capacités, il a ouvert la voie à des avancées ultérieures dans l'apprentissage automatique."
+  },
+  {
+    "type": "ia",
+    "term": "Deep Blue",
+    "explanation": "Deep Blue est un ordinateur développé par IBM qui a battu le champion du monde d'échecs Garry Kasparov en 1997. Cet événement a marqué une étape importante dans le développement de l'IA, démontrant la capacité des machines à surpasser les humains dans des tâches complexes."
+  },
+  {
+    "type": "ia",
+    "term": "Réseaux de neurones profonds",
+    "explanation": "Les réseaux de neurones profonds, ou deep learning, sont des structures d'IA qui imitent le fonctionnement du cerveau humain pour traiter des données complexes. Leur développement a été propulsé par l'augmentation de la puissance de calcul et la disponibilité de grandes quantités de données."
+  },
+  {
+    "type": "ia",
+    "term": "OpenAI",
+    "explanation": "OpenAI est une organisation de recherche en intelligence artificielle qui vise à promouvoir et développer des IA de manière sûre et bénéfique pour l'humanité. Fondée en 2015, elle est connue pour ses travaux dans le domaine des modèles de langage, comme GPT-3."
+  },
+  {
+    "type": "ia",
     "term": "Deep Learning",
     "explanation": "Le deep learning est une sous-catégorie de l'apprentissage automatique qui utilise des réseaux de neurones profonds, c'est-à-dire avec de nombreuses couches. Cette approche a révolutionné le domaine de l'IA en permettant des performances sans précédent dans des domaines variés, tels que la vision par ordinateur et le traitement automatique du langage."
   },
