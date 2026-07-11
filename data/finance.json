@@ -1,6 +1,16 @@
 [
   {
     "type": "finance",
+    "term": "Analyse de la rentabilité",
+    "explanation": "L'analyse de la rentabilité évalue la capacité d'une entreprise à générer des bénéfices par rapport à ses coûts. Cela se fait souvent à l'aide d'indicateurs tels que la marge bénéficiaire, le retour sur investissement (ROI) et le retour sur capitaux propres (ROE)."
+  },
+  {
+    "type": "finance",
+    "term": "Levier financier",
+    "explanation": "Le levier financier est l'utilisation de la dette pour augmenter la capacité d'investissement d'une entreprise. Bien qu'il puisse accroître les rendements, un levier excessif peut également augmenter le risque de faillite en cas de baisse des revenus."
+  },
+  {
+    "type": "finance",
     "term": "Obligations",
     "explanation": "Les obligations sont des titres de créance émis par des entreprises ou des gouvernements pour lever des fonds. En achetant une obligation, l'investisseur prête de l'argent à l'émetteur, qui s'engage à rembourser le montant principal avec des intérêts à une date future."
   },
