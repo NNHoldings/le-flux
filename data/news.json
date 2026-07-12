@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés mondiaux sont en proie à l'incertitude entre inflation et récession.",
-      "L'industrie des drones ukrainiens continue de perturber les opérations militaires russes.",
-      "Le commerce de luxe à Paris se transforme face aux enjeux économiques contemporains."
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "L'Ukraine intensifie ses attaques sur les tankers près de la Crimée en raison de pénuries de carburant en Russie.",
+      "La cybercriminalité est devenue une économie mondiale majeure, siphonnant des milliards à l'économie."
     ],
     "source": "Le Flux",
     "date": "2026-07-12"
@@ -37,19 +37,19 @@
   },
   {
     "type": "news",
-    "title": "Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest",
-    "summary": "Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.",
+    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
+    "summary": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html",
-    "date": "2026-07-09"
+    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue sans direction, l'Europe dans le rouge, avant l'IPO de SK Hynix",
-    "summary": "Point marchés-Wall Street vue sans direction, l'Europe dans le rouge, avant l'IPO de SK Hynix Zonebourse",
+    "title": "\"Si la cybercriminalité était un pays, elle serait la troisième économie mondiale\": comment le crime numérique s’est industrialisé au point de siphonner des centaines de milliards à l’économie mondiale",
+    "summary": "\"Si la cybercriminalité était un pays, elle serait la troisième économie mondiale\": comment le crime numérique s’est industrialisé au point de siphonner des centaines de milliards à l’économie mondiale BFM",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXZzbFI4TUF3cWlfazNRajdFQUhZWDR5b0dualN1YTNQNVhiOHhjT0pzMkd2YWd4aVZBYjNPSjFmaDNoOTZHSHhNSWxmWWM5ZDVwbG9VSEtxYWVsQVlNd3pmVWtMb0QxR29zX016ei00d3NjYzZueVJTZFRxVkhBaW9ZNGE3X3dNZGtVenM0aS1SQ2VlcHMzQTB4ZGFCOGtpemotR2RjOHVlOUNlLWRNZU5STGE1U1ZLM3BzWl9veDV5Qi1pMDN6WUZGUk5RQ1l6a1pKN2xMOS1scTFldnlpeHEyQW84S0U?oc=5",
-    "date": "2026-07-10"
+    "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQT1B3cHRGdlMyMmZHZ05DbFhzVFVOMEV2UUZWdGQxNFVWME1NWC1hNDFPc2FlZWExNmFSWkowS1pTR1Z3Ym5OdXlFQkRhX1hDOGx1LVFSRnJaa3dLenJpakZKUjdoZXRrcG9UQzNUWUYtSUJRbzN0c01VMms2bENnQ3lZWUhudlM2bDhEam96R0NvQWRSaF85dUNicXlhU2VReFA2YnlLVnp6dU8wWU9ZWnJMU3k2SnJ3UlRRNTlnT29UWUhnWXpuUXVERWpOU3ZyOU5UaUVhaXFkZUJQWDBxRlBxQVRlYnhub0pPalpYdVVkZ3JKUG1UamlGVFNsN2dzNkg3di1oNVJQWFg5cjZsSTRhbUJBTG5tam03U0lvOGxNN19mWnBfVlJEQW42NXFuWC1VYnJWS3MxTVRJajRzT1VOQjdHWnNGUXBWOTJtWGMtc21FSkotNFFWLTZveTJ2V0lWdF9zS09rVUNMU2Q5LUhQNXlaQQ?oc=5",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -77,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "Fusillade à Toronto, typhon en Chine, guerre en Ukraine, New York Times, Wimbledon : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "Le mont Blanc est-il vraiment le sommet le plus haut d’Europe ?",
+    "summary": "Si l’on considère que le Caucase fait partie de l’Europe, c’est l’Elbrouz qui détient ce record. Mais les points culminants des autres continents dépassent tous notre mont Blanc. Ce que nous invite à visualiser le site allemand “Katapult”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-typhon-en-chine-guerre-en-ukraine-new-york-times-wimbledon-les-informations-de-la-nuit_248559",
+    "link": "https://www.courrierinternational.com/grand-format/infographie-le-mont-blanc-est-il-vraiment-le-sommet-le-plus-haut-d-europe_245588",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-    "summary": "After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
+    "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
+    "summary": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Ukraine hits Russian tanker in Sea of Azov",
-    "summary": "Russia said a Ukrainian drone hit a tanker as it was entering the canal between the Sea of Azov and the Black Sea on Sunday, as Kyiv intensifies its attacks on Russian fuel supplies. The governor of Russia’s Rostov region, Yury Slyusar, said on Telegram that a drone strike caused a fire on the vessel but that it had since been contained.",
+    "title": "European leaders mourn US Senator Lindsey Graham",
+    "summary": "European leaders are mourning the death of Republican U.S. Senator Lindsey Graham, who died suddenly on Saturday at the age of 71. Graham, who strongly advocated for sanctions against Russia over its war against Ukraine, had just returned from a state visit to Kyiv. Graham was first elected to the U.S. House of Representatives in 1994 and to the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-hits-russian-tanker-azov-sea/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/european-leaders-mourn-us-senator-lindsey-graham/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-12"
   },
   {
@@ -142,7 +142,7 @@
   {
     "type": "news",
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 280 # Comments: 112",
+    "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 346 # Comments: 152",
     "source": "Hacker News",
     "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
     "date": "2026-07-11"
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
-    "summary": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
+    "title": "AI is entering a new phase — and these are the stocks investors should be watching",
+    "summary": "CNBC's Paulina Likos and Zev Fima discuss Wall Street's shift from AI euphoria toward rationalization and what it means for investors.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
-    "date": "2026-07-10"
+    "link": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Un rapport de la Fed fait état d'une « accélération » de l'inflation due aux droits de douane, à la guerre ave",
-    "summary": "Un rapport de la Fed fait état d'une « accélération » de l'inflation due aux droits de douane, à la guerre ave Boursorama",
+    "title": "Boostée par la reprise de l'activité spatiale, l'économie guyanaise renoue avec la croissance après deux années à la baisse. - Outre-mer La 1ère",
+    "summary": "Boostée par la reprise de l'activité spatiale, l'économie guyanaise renoue avec la croissance après deux années à la baisse. Outre-mer La 1ère",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNZllablMyN1VPeElhTlY1VW0zZ2xYb3lDQ0ZydTd1OWxpRTY0c0JDTHY3Y3RTMm8tbElZZWJ0M1R2Rl9nNWl5YWZ2UFBZaG1BRlh2STltcjJhWnF6S1c0SmZBVVk1cmdpNUxSVndkeWE4bExQdnR2RWNrOWoxUlo5N2psUGpaR2x6dVA0ZUl3dk5aODJxNlozZVFZVG1jZ050ZGJuNHpaWXd1OUpxY3dMeFZyZ0V2MzJ1dEtXUFBRRkMtSEtEdUFENEUtdjZib2FZZXpTelhSNnIxc18xQkdUTGhVSEwzR1VLWmpmeF9pV1dhVmRvaTh2MFB0aVc2eU9fZ0NDVy11M0RWSjlfdVRKNWg5XzF0QUEwWWRNempGdEZFa3dueWJJcDFaODBnUWJlek1vN3VydUViSDRRbENwRGN3NHcwcVJOQ2hYTGRJbWxVR2dRLWpGadIB2AJBVV95cUxNZllablMyN1VPeElhTlY1VW0zZ2xYb3lDQ0ZydTd1OWxpRTY0c0JDTHY3Y3RTMm8tbElZZWJ0M1R2Rl9nNWl5YWZ2UFBZaG1BRlh2STltcjJhWnF6S1c0SmZBVVk1cmdpNUxSVndkeWE4bExQdnR2RWNrOWoxUlo5N2psUGpaR2x6dVA0ZUl3dk5aODJxNlozZVFZVG1jZ050ZGJuNHpaWXd1OUpxY3dMeFZyZ0V2MzJ1dEtXUFBRRkMtSEtEdUFENEUtdjZib2FZZXpTelhSNnIxc18xQkdUTGhVSEwzR1VLWmpmeF9pV1dhVmRvaTh2MFB0aVc2eU9fZ0NDVy11M0RWSjlfdVRKNWg5XzF0QUEwWWRNempGdEZFa3dueWJJcDFaODBnUWJlek1vN3VydUViSDRRbENwRGN3NHcwcVJOQ2hYTGRJbWxVR2dRLWpGaQ?oc=5",
-    "date": "2026-07-10"
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWFBRQ282cTRnUmhhanRYenB5b3NNN3E3SzNYajRNcUE2MWxLSWQ1T19hWHNkQUZWZmttQkQzZE1YdmJ0WGhFSFFDR0cwWVVFcFRlX2otRnQ5X29Vc240VXlzQVFPeEJsLVlVcW1ycDRJMTZsTlBMQVB2UEp0dlRSSlJxQmQ2S0FFdmhoV29Zdm93RW04NUk2cG5wcUtKSm02emJQWnRPTlluTmtXaWthTjdLOWdBenBRMXhrUTR4a2RPSGVxN3NSNVBkaEtiNjN1dUpIZmNCYTY0a00tMTVXd2dDbFoxVUhFdDRwcTlEcV80UkFCUXQ3T1NfMk9LMmhU?oc=5",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les forces armées ukrainiennes annoncent avoir frappé la raffinerie de pétrole de Syzran, dans l’oblast russe de Samara",
-    "summary": "Le gouverneur régional de l’oblast de Samara, Viatcheslav Fedorichtchev, avait précédemment fait état d’une attaque de drones ukrainiens. « Un homme a été tué », avait-il précisé, et trois personnes blessées, parmi lesquelles un enfant.",
+    "title": "En Russie, la guerre sape le contrat social entre Poutine et sa population",
+    "summary": "L’irruption des attaques ukrainiennes sur l’ensemble du territoire accroît les inquiétudes des Russes sur la capacité du régime à protéger leurs besoins vitaux, alors que la situation économique se détériore.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-les-forces-armees-ukrainiennes-annoncent-avoir-frappe-la-raffinerie-de-petrole-de-syzran-dans-l-oblast-russe-de-samara_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/russie-la-guerre-sape-le-contrat-social-entre-poutine-et-sa-population_6722899_3210.html",
     "date": "2026-07-12"
   },
   {
@@ -221,27 +221,27 @@
   },
   {
     "type": "news",
-    "title": "Sous les drones, la Crimée vit une saison touristique sans estivants ni carburant",
-    "summary": "L’armée ukrainienne intensifie ses attaques de drones sur la péninsule annexée par la Russie en 2014. Le quotidien de ses habitants est désormais marqué par une pénurie d’essence, des coupures d’électricité, une multiplication des alertes aériennes et des touristes russes qui désertent la Crimée, comme en témoigne ce journaliste du média russe indépendant “T…",
+    "title": "Comment aider les agriculteurs chinois face au changement climatique ?",
+    "summary": "Le nord agricole de la Chine est confronté à une augmentation phénoménale des précipitations qui bouleversent le quotidien des agriculteurs et font moisir les récoltes. Dans le magazine en ligne shanghaïen “Sixth Tone”, une météorologue propose des pistes pour s’adapter à cette nouvelle donne.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
+    "link": "https://www.courrierinternational.com/article/climat-comment-aider-les-agriculteurs-chinois-face-au-changement-climatique_241436",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats",
-    "summary": "European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas.",
+    "title": "Iran war: US strategic success or diplomatic failure?",
+    "summary": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Launch of Trump AI promotion program underwhelms",
-    "summary": "A Trump administration program aimed at making American AI the world’s default technology is off to a rocky start. The Commerce Department received 78 applications in the first round of its American AI Exports Program, created last year as a way for the government to promote U.S. semiconductors, AI models and software to foreign buyers.",
+    "title": "Ukraine hits Russian tankers in Sea of Azov",
+    "summary": "Moscow said a Ukrainian drone hit a Russian tanker as it was entering the canal between the Sea of Azov and the Black Sea on Sunday, as Kyiv intensifies its attacks on Russian fuel supplies. The governor of Russia’s Rostov region, Yury Slyusar, said on Telegram that a drone strike caused a fire on the vessel but that it had since been contained.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/11/trump-administration-commerce-ai-program-00993532?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-11"
+    "link": "https://www.politico.eu/article/ukraine-hits-russian-tanker-azov-sea/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -285,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "UPI: Anatomy of a Payment Transaction",
-    "summary": "Article URL: https://timeseriesofindia.com/economy/reads/upi-architecture/ Comments URL: https://news.ycombinator.com/item?id=48873457 Points: 201 # Comments: 89",
+    "title": "Old and new apps, via modern coding agents by Terry Tao",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=48880170 Points: 301 # Comments: 77",
     "source": "Hacker News",
-    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "date": "2026-07-11"
+    "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -333,18 +333,18 @@
   },
   {
     "type": "news",
-    "title": "Le nucléaire profiterait à l’économie suisse, selon une étude",
-    "summary": "Le nucléaire profiterait à l’économie suisse, selon une étude Le Nouvelliste",
+    "title": "Économie martiniquaise : une croissance quasi nulle en 2025 malgré le rebond de la consommation - Outre-mer La 1ère",
+    "summary": "Économie martiniquaise : une croissance quasi nulle en 2025 malgré le rebond de la consommation Outre-mer La 1ère",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHRUalVvNlRBbWh2eDdjM2JFX2JtTnlwc0JORHpfYXZpNk1hT2ZIdklZeHU0ZzNJRXZ6djQxSlQxUmdrb2hRcDl4Vllyd3JOUnlKWURpb2lZVENtM3lHNGg0aF9WYng2MmZMYm9jamdFWXNWR2liQjFwcHMtTkw3RFRwbWo0azc4YlEzdXYzQllrb3E4THkyZ0xOTzNNb0FydXM2MWtR?oc=5",
-    "date": "2026-07-12"
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHZRRXl0ck13V2xHOWk4d3dmN2RIVTVoZkRxU1o4ZUVTQzgtU1Q4MWtYaXdKQV9FNXA3WWRaUVNTaXlybEpKeE4tNTZEY0JIaFIxNjJjS1dkaUtXcTJtMzF0cllyN05lVWxnRG9vTlFEN1dITFBQZDZMZFR4TDJKYnRQYkJqWi1ndUJDWE5BLXNzVmk1cDN2aWlvbmtRc1J6ekFkTkd2Rzlac2J4d2FOamNCMndNcG84MHhJNWQ2cjcxTV94VksyQ0FMZ1cyWUJPNWYyN2puNjBnLXdpV1V3?oc=5",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "A l’étroit sur l’île Maurice, Arnaud Lagesse, patron du conglomérat IBL, veut profiter de la consommation galopante en Afrique",
-    "summary": "« Fortunes africaines ». Héritier d’une des « grandes familles » mauriciennes d’origine française, le dirigeant a fait doubler de taille son conglomérat, aux 256 filiales, en trois ans. Son pari : sortir de la tranquille République de Maurice pour étendre son empire sur le continent africain.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a annoncé le départ de la première ministre, Ioulia Svyrydenko",
+    "summary": "Volodymyr Zelensky a annoncé dimanche le départ de la première ministre, Ioulia Svyrydenko, en poste depuis un an, et un remaniement du gouvernement, pour correspondre à une modification de la « stratégie politique » ukrainienne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-annonce-le-depart-de-la-premiere-ministre-ioulia-svyrydenko_6722853_3210.html",
     "date": "2026-07-12"
   },
   {
@@ -365,18 +365,18 @@
   },
   {
     "type": "news",
-    "title": "Comment Wikipedia tente de limiter les dégâts face à l’IA générative",
-    "summary": "Depuis l’avènement des chatbots comme ChatGPT ou Gemini, le trafic vers l’encyclopédie en ligne est en baisse, mettant en péril l’avenir du site. En visite au Japon, Bernadette Meehan, la directrice générale de la Wikimedia Foundation, a expliqué au quotidien “Asahi Shimbun” comment Wikipedia s’organise.",
+    "title": "Sous les drones, la Crimée vit une saison touristique sans estivants ni carburant",
+    "summary": "L’armée ukrainienne intensifie ses attaques de drones sur la péninsule annexée par la Russie en 2014. Le quotidien de ses habitants est désormais marqué par une pénurie d’essence, des coupures d’électricité, une multiplication des alertes aériennes et des touristes russes qui désertent la Crimée, comme en témoigne ce journaliste du média russe indépendant “T…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/technologie-comment-wikipedia-tente-de-limiter-les-degats-face-a-l-ia-generative_246204",
+    "link": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Why doesn’t Indian PM Modi hold unscripted press conferences?",
-    "summary": "Why doesn't Indian PM Modi hold unscripted press conferences?",
+    "title": "What made US Republican Senator Lindsey Graham a controversial figure",
+    "summary": "Graham was known for his hawkish views on US defence and foreign policies.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/why-doesnt-indian-pm-modi-hold-unscripted-press-conferences?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
     "date": "2026-07-12"
   },
   {
