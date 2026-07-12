@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les principales idées économiques de John Maynard Keynes ?",
+    "answer": "John Maynard Keynes, dans les années 1930, a proposé que l'intervention de l'État est nécessaire pour réguler l'économie, surtout en période de récession. Son ouvrage majeur, 'La Théorie générale de l'emploi, de l'intérêt et de la monnaie' publié en 1936, défendait l'idée que la demande globale influence l'activité économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment Adam Smith a-t-il influencé le capitalisme moderne ?",
+    "answer": "Adam Smith, dans son livre 'La Richesse des nations' publié en 1776, a posé les bases du capitalisme moderne en promouvant la libre entreprise et la main invisible du marché. Ses idées ont établi l'importance de la concurrence et du libre-échange dans la création de richesse."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles sont les contributions de Karl Marx à la pensée économique ?",
+    "answer": "Karl Marx, à travers ses œuvres comme 'Le Capital' publié en 1867, a analysé les contradictions du capitalisme et a introduit le concept de lutte des classes. Il a proposé que le capitalisme mènerait inévitablement à son propre effondrement, ouvrant la voie à une société sans classes."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel fut l'impact de la Révolution industrielle sur les idées économiques ?",
+    "answer": "La Révolution industrielle, qui a débuté à la fin du XVIIIe siècle, a entraîné une transformation des structures économiques avec l'émergence de l'industrialisation et du capitalisme. Cela a conduit à de nouvelles théories économiques, comme celles de l'économie politique, qui cherchaient à comprendre les impacts sociaux et économiques de ces changements."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment les idées économiques en Chine ont-elles évolué au XXe siècle ?",
+    "answer": "Au XXe siècle, la Chine a connu une transition majeure de l'économie planifiée sous Mao Zedong à une économie de marché socialiste sous Deng Xiaoping à partir des années 1980. Cette réforme a permis à la Chine de devenir l'une des plus grandes économies mondiales, intégrant des éléments de capitalisme tout en maintenant un contrôle étatique fort."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels sont les fondements de l'école économique autrichienne ?",
+    "answer": "L'école autrichienne, fondée au début du XXe siècle par des économistes comme Carl Menger et Ludwig von Mises, soutient que l'économie est un processus dynamique basé sur l'individu et les choix humains. Ses idées, promouvant le libre marché et critiquant l'intervention étatique, ont eu une influence significative dans les débats économiques contemporains."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les grandes étapes de l'économie chinoise depuis 1949 ?",
     "answer": "Après la fondation de la République Populaire de Chine en 1949, l'économie était principalement collectivisée. Dans les années 1980, Deng Xiaoping a introduit des réformes économiques et une ouverture au marché, ce qui a conduit à une croissance rapide et à l'intégration de la Chine dans l'économie mondiale."
   },
