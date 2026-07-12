@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "L'industrie des drones ukrainienne influence les investissements de l'OTAN et cause des perturbations en Russie.",
+      "Un rapport de la Fed souligne l'accélération de l'inflation liée aux droits de douane et à la guerre."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-12"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -41,11 +53,11 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : à Kiev, où la Russie multiplie les attaques meurtrières, des nuits en sous-sol et sur les chaînes Telegram",
-    "summary": "La capitale ukrainienne est endeuillée depuis le 24 mai par des frappes russes de missiles balistiques et de nouveaux drones à réaction ultrarapides, alors que la défense aérienne manque cruellement de systèmes antimissiles.",
+    "title": "En Finlande, en Suède et en Norvège, sur la route des bunkers de la guerre froide, dispositif-clé en cas de conflit avec la Russie",
+    "summary": "Face à la menace russe, les trois pays nordiques réhabilitent leurs abris antiatomiques des années 1950, civils comme militaires, parfois nichés dans des décors dignes de James Bond. A l’heure de la guerre des drones, cette culture et cette expertise communes suscitent l’intérêt de leurs alliés européens.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/11/guerre-en-ukraine-a-kiev-ou-la-russie-multiplie-les-attaques-meurtrieres-des-nuits-en-sous-sol-et-sur-les-chaines-telegram_6722657_3210.html",
-    "date": "2026-07-11"
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/en-finlande-en-suede-et-en-norvege-sur-la-route-des-bunkers-de-la-guerre-froide-dispositif-cle-en-cas-de-conflit-avec-la-russie_6722855_3210.html",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -65,19 +77,19 @@
   },
   {
     "type": "news",
-    "title": "Salvador de Bahia, la “capitale afro” du Brésil",
-    "summary": "SÉRIE D’ÉTÉ “DE VILLE EN VILLE” (1/5). Ancien port négrier du Brésil, la ville du Nordeste ne mise plus seulement sur ses plages, son architecture coloniale et sa gastronomie pour attirer les touristes. La municipalité travaille à mettre en valeur l’héritage et la culture d’une population noire à 80 %.",
+    "title": "Fusillade à Toronto, typhon en Chine, guerre en Ukraine, New York Times, Wimbledon : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/long-format/serie-d-ete-salvador-de-bahia-la-capitale-afro-du-bresil_245353",
-    "date": "2026-07-11"
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-typhon-en-chine-guerre-en-ukraine-new-york-times-wimbledon-les-informations-de-la-nuit_248559",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Russian missile and drone barrage kills six and wounds dozens in Ukraine",
-    "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+    "title": "Why doesn’t Indian PM Modi hold unscripted press conferences?",
+    "summary": "Why doesn't Indian PM Modi hold unscripted press conferences?",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-    "date": "2026-07-11"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/why-doesnt-indian-pm-modi-hold-unscripted-press-conferences?traffic_source=rss",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -89,11 +101,11 @@
   },
   {
     "type": "news",
-    "title": "Amiral Pierre Vandier: «Chaque jour, il faut convaincre les Russes que ce n’est pas le moment d’attaquer l’Otan»",
-    "summary": "Commandant suprême allié pour la transformation de l'Otan, l’Amiral Pierre Vandier est l’invité de RFI ce mardi 7 juillet. À l'occasion de l’ouverture du sommet de l’Otan à Ankara, celui-ci assure que l’Alliance continue d’avancer malgré les difficultés. Et appelle à « penser la guerre de demain » en tirant les leçons des conflits en Ukraine et en Iran.",
+    "title": "Sommet de l'Otan Ankara 2026, l'amour et la colère de Donald Trump",
+    "summary": "La réunion de famille ne s’est pas super bien passée mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260707-amiral-pierre-vandier-chaque-jour-il-faut-convaincre-les-russes-que-ce-n-est-pas-le-moment-d-attaquer-l-otan",
-    "date": "2026-07-07"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -129,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 1435 # Comments: 786",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 231 # Comments: 76",
     "source": "Hacker News",
-    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "date": "2026-07-10"
+    "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "La banque centrale turque revoit à la hausse ses prévisions d'inflation en raison du conflit avec l'Iran",
-    "summary": "La banque centrale turque revoit à la hausse ses prévisions d'inflation en raison du conflit avec l'Iran Business AM",
+    "title": "Thaïlande : l'inflation devrait être inférieure à 2,8 % cette année, la politique monétaire restera accommodante selon le gouverneur de la banque centrale",
+    "summary": "Thaïlande : l'inflation devrait être inférieure à 2,8 % cette année, la politique monétaire restera accommodante selon le gouverneur de la banque centrale Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWNuRnZudGJBM2RvQm1LcG51LXN2bGh1NHNva0VnaGQybWV2TDhLa285czh6aWhUUzFvNGg5SnFBT1ZzYnpab1lYaGRSVXFZRUVZdlU0VWRQZ05WZlFDYm0yWUVPYjlQekdsZHBlLXRBVTJWRE5DSEZWZUxhcGNQYS1TY1FkLVZ4a1ZsbTJPVjdOc2hybDcwZzRPWEdpbUZQVEZYaFpiMUtBeXNUc1NMaG9jQWpDMXM4aWg5bnNpaTlLNnE2LXVn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTVZTkdkZjlGNlJqR0E4ZXczM1Z6M3FubW9tRGYweEx4T29lS2s3VDFULUhrZmlIRTZ5RzZzejAxYzVlTWFQUHdEa19yZ055clRCcl9aNDhLMVFlaHdJNWFfeTBRbGt6dml5Q3MxSWNfVm1uRjEtQ1BUQVZ2SkRiTmhZMmh4UnF5M2s4cy13Z2wtdmVzZFgyU3pWdUpFUGlYUWlRdkl3SkhuX0hPbHRkUlRoSEpKY0pVSHpSN1RSZzR5a1BUU1pmTnhaVXNzZHNXYks0UllKcjE2c0pXNjhPSTA0Rmd2X3oySEE?oc=5",
     "date": "2026-07-11"
   },
   {
     "type": "news",
-    "title": "Canal Seine-Nord Europe : plus d’un millier de personnes mobilisées dans le Pas-de-Calais pour protester contre le chantier",
-    "summary": "Ce projet vise à créer d’ici à 2032 une liaison fluviale à grand gabarit pour faciliter le transport de marchandises entre la région parisienne et la mer du Nord. Ses opposants dénoncent notamment la flambée des coûts et ses conséquences environnementales.",
+    "title": "Guerre en Ukraine : la Russie revendique des « frappes réussies » avec des armes de haute précision en Ukraine. Retrouvez les informations du 5 au 12 juillet",
+    "summary": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/11/canal-seine-nord-europe-plusieurs-centaines-de-personnes-mobilisees-dans-le-pas-de-calais-pour-protester-contre-le-chantier_6722716_3244.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-les-dernieres-informations_6720832_3210.html",
     "date": "2026-07-11"
   },
   {
@@ -209,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "En Inde, des réseaux exploitent des femmes précaires pour le don d’ovocytes",
-    "summary": "Appâtées par des paiements allant de 200 à 350 euros, des femmes indiennes financièrement vulnérables auraient subi des prélèvements d’ovocytes répétés. Elles sont ainsi exposées au risque d’apparition d’hémorragies, d’infections et de kystes, voire à des risques mortels.",
+    "title": "Sous les drones, la Crimée vit une saison touristique sans estivants ni carburant",
+    "summary": "L’armée ukrainienne intensifie ses attaques de drones sur la péninsule annexée par la Russie en 2014. Le quotidien de ses habitants est désormais marqué par une pénurie d’essence, des coupures d’électricité, une multiplication des alertes aériennes et des touristes russes qui désertent la Crimée, comme en témoigne ce journaliste du média russe indépendant “T…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sante-en-inde-des-reseaux-exploitent-des-femmes-precaires-pour-le-don-d-ovocytes_247157",
-    "date": "2026-07-11"
+    "link": "https://www.courrierinternational.com/long-format/reportage-sous-les-drones-la-crimee-vit-une-saison-touristique-sans-estivants-ni-carburant_247167",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
-    "summary": "US decision to delist Syria as a 'state sponsor of terrorism' prompts cautious optimism among businesses and citizens.",
+    "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+    "summary": "Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
     "date": "2026-07-11"
   },
   {
@@ -273,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-    "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 349 # Comments: 156",
+    "title": "UPI: Anatomy of a Payment Transaction",
+    "summary": "Article URL: https://timeseriesofindia.com/economy/reads/upi-architecture/ Comments URL: https://news.ycombinator.com/item?id=48873457 Points: 160 # Comments: 63",
     "source": "Hacker News",
-    "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-    "date": "2026-07-10"
+    "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "date": "2026-07-11"
   },
   {
     "type": "news",
@@ -321,19 +333,19 @@
   },
   {
     "type": "news",
-    "title": "Thaïlande : l'inflation devrait être inférieure à 2,8 % cette année, la politique monétaire restera accommodante selon le gouverneur de la banque centrale",
-    "summary": "Thaïlande : l'inflation devrait être inférieure à 2,8 % cette année, la politique monétaire restera accommodante selon le gouverneur de la banque centrale Zonebourse Suisse",
+    "title": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient",
+    "summary": "Point marchés-L'Europe termine en ordre dispersé, en surveillant le Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTVZTkdkZjlGNlJqR0E4ZXczM1Z6M3FubW9tRGYweEx4T29lS2s3VDFULUhrZmlIRTZ5RzZzejAxYzVlTWFQUHdEa19yZ055clRCcl9aNDhLMVFlaHdJNWFfeTBRbGt6dml5Q3MxSWNfVm1uRjEtQ1BUQVZ2SkRiTmhZMmh4UnF5M2s4cy13Z2wtdmVzZFgyU3pWdUpFUGlYUWlRdkl3SkhuX0hPbHRkUlRoSEpKY0pVSHpSN1RSZzR5a1BUU1pmTnhaVXNzZHNXYks0UllKcjE2c0pXNjhPSTA0Rmd2X3oySEE?oc=5",
-    "date": "2026-07-11"
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0RUNW05ZXlKV3JHbUFvSWVMU2J6blFia2g5LUpCOW14SmU1M0d3RkU1OVE0Z09lU1h1TWM4NDJyODlCNWdTSzRkZUZYMndWMGxUcVZ1MEJNQlJEeHZxNHNZeXM4NDhKZlZTSWNObWVFeGduNUxpT3ZjSk9vR1llQW0yU3RnRHdYclNvVHVjNWJjOTZRdF9MMmo0N3g5eFZUWGFUMWRKdW5vTWMyN1dYWHQwWEJMQ3NBTEZNQjBJSHY0VmZSR3ZYVW1waTJzQ3c0WUt4a21WUQ?oc=5",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-    "summary": "Les autorités ukrainiennes ont revendiqué, samedi, l’attaque de 28 navires de la flotte fantôme russe en mer d’Azov. Pour la troisième fois cette semaine, la ville de Kiev a été la cible de bombardements russes nocturnes, qui ont fait 12 blessés.",
+    "title": "A l’étroit sur l’île Maurice, Arnaud Lagesse, patron du conglomérat IBL, veut profiter de la consommation galopante en Afrique",
+    "summary": "Héritier d’une des « grandes familles » mauriciennes d’origine française, le dirigeant a fait doubler de taille son conglomérat, aux 256 filiales, en trois ans. Son pari : sortir de la tranquille République de Maurice pour étendre son empire sur le continent africain.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-les-dernieres-informations_6720832_3210.html",
-    "date": "2026-07-11"
+    "link": "https://www.lemonde.fr/international/article/2026/07/12/a-l-etroit-sur-l-ile-maurice-arnaud-lagesse-patron-du-conglomerat-ibl-veut-profiter-de-la-consommation-galopante-en-afrique_6722866_3210.html",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
@@ -353,19 +365,19 @@
   },
   {
     "type": "news",
-    "title": "Quand Barcelone défiait Hitler : les Olympiades antifascistes de juillet 1936",
-    "summary": "1936 - Espagne. En réaction aux Jeux olympiques de Berlin, l’Espagne républicaine organise des Olympiades populaires dans la capitale catalane. Le coup d’État franquiste met brutalement fin à cette initiative.",
+    "title": "Je pensais que divorcer signifiait couper avec le passé",
+    "summary": "Chaque semaine, la chronique phénomène du “New York Times” sur l’amour vous est proposée en exclusivité, traduite en français par “Courrier international”. Ce dimanche, le récit d’une femme bouleversée par son divorce, qui remet en perspective son histoire d’amour.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/histoire-quand-barcelone-defiait-hitler-les-olympiades-antifascistes-de-juillet-1936_236443",
-    "date": "2026-07-11"
+    "link": "https://www.courrierinternational.com/article/modern-love-je-pensais-que-divorcer-signifiait-couper-avec-le-passe_245794",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
-    "summary": "A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate.",
+    "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
+    "summary": "Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss",
-    "date": "2026-07-11"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
