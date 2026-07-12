@@ -1,6 +1,42 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "洗澡",
+    "pinyin": "xǐ zǎo",
+    "fr": "prendre un bain"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "购物",
+    "pinyin": "gòu wù",
+    "fr": "faire des courses"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "午餐",
+    "pinyin": "wǔ cān",
+    "fr": "déjeuner"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "fr": "se lever"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "fr": "aller travailler"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "休息",
+    "pinyin": "xiū xī",
+    "fr": "se reposer"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "文章",
     "pinyin": "wénzhāng",
     "fr": "article"
