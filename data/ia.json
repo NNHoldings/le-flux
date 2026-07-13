@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "Sur-apprentissage (overfitting)",
+    "explanation": "Le sur-apprentissage est un phénomène où un modèle apprend trop bien les détails et le bruit des données d'entraînement, au détriment de sa capacité à généraliser sur de nouvelles données. Cela peut être évité par des techniques comme la régularisation ou l'utilisation de jeux de validation."
+  },
+  {
+    "type": "ia",
+    "term": "Acteurs clés",
+    "explanation": "Les acteurs clés dans le domaine de l'intelligence artificielle incluent des entreprises comme Google, Microsoft et IBM, qui investissent massivement dans la recherche et le développement. Ces entreprises, souvent en collaboration avec des universités, jouent un rôle crucial dans l'avancement des technologies d'apprentissage automatique et leur intégration dans des solutions commerciales."
+  },
+  {
+    "type": "ia",
     "term": "1956 - Dartmouth Conference",
     "explanation": "La conférence de Dartmouth est souvent considérée comme le point de départ de l'intelligence artificielle en tant que domaine académique. C'est lors de cet événement que le terme 'intelligence artificielle' a été formellement introduit et que des chercheurs ont commencé à collaborer sur des projets d'IA."
   },
