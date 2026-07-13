@@ -1,6 +1,31 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales normes déontologiques régissant le commissaire aux comptes ?",
+    "answer": "Les normes déontologiques pour le commissaire aux comptes sont principalement définies par les Normes d'Exercice Professionnel (NEP) et le Code de Commerce, notamment l'article L. 820-1."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les principes fondamentaux de la déontologie du commissaire aux comptes ?",
+    "answer": "Les principes fondamentaux sont l'intégrité, l'objectivité, la compétence professionnelle, la diligence, la confidentialité et le comportement professionnel."
+  },
+  {
+    "type": "dec",
+    "question": "Quels articles du Code de Commerce concernent les obligations déontologiques des commissaires aux comptes ?",
+    "answer": "Les articles L. 822-1 à L. 822-19 du Code de Commerce traitent des obligations déontologiques des commissaires aux comptes."
+  },
+  {
+    "type": "dec",
+    "question": "Qu'est-ce que la NEP 210 et quel est son objectif ?",
+    "answer": "La NEP 210 concerne l'acceptation de missions et le maintien des missions de commissariat aux comptes. Son objectif est de garantir que le commissaire aux comptes n'accepte que des missions qu'il est en mesure de réaliser avec compétence."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est l'importance de la confidentialité pour un commissaire aux comptes ?",
+    "answer": "La confidentialité est essentielle; le commissaire aux comptes est tenu de ne pas divulguer d'informations obtenues dans le cadre de sa mission, conformément à l'article L. 822-11 du Code de Commerce."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 300 ?",
     "answer": "L'évaluation des risques d'audit selon la NEP 300 consiste à identifier et évaluer les risques d'anomalies significatives dans les états financiers, pour concevoir des procédures d'audit adaptées."
   },
