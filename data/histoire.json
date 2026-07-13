@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les principales réformes économiques en Chine après 1978 ?",
+    "answer": "Les réformes économiques en Chine, initiées par Deng Xiaoping en 1978, ont introduit des éléments de marché dans l'économie planifiée. Ces réformes ont conduit à l'ouverture de la Chine aux investissements étrangers, à l'essor des zones économiques spéciales et à une croissance économique rapide, permettant à des millions de Chinois de sortir de la pauvreté."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été l'impact de la révolte des Boxers en 1900 sur la Chine ?",
+    "answer": "La révolte des Boxers en 1900 a été un soulèvement anti-étranger et anti-chrétien qui a conduit à une intervention militaire des puissances étrangères. Cet événement a affaibli la dynastie Qing et a accéléré le processus de modernisation et de réforme en Chine, contribuant à la chute de la dynastie en 1911."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la guerre civile chinoise a-t-elle influencé la géopolitique en Asie ?",
+    "answer": "La guerre civile chinoise (1945-1949) a abouti à la victoire du Parti communiste chinois sur le Kuomintang, établissant la République populaire de Chine en 1949. Cette victoire a profondément influencé la géopolitique en Asie, en alignant la Chine sur l'Union soviétique et en modifiant les relations avec les États-Unis, qui ont vu la montée du communisme comme une menace."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle a été la grande famine en Chine et ses conséquences ?",
+    "answer": "La grande famine en Chine, qui a duré de 1959 à 1961, a été causée par des politiques agricoles désastreuses sous le Grand Bond en avant. Elle a entraîné la mort de millions de personnes et a provoqué une remise en question des politiques de Mao Zedong, contribuant à un changement dans la direction économique du pays."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations technologiques ont émergé en Chine au XXIe siècle ?",
+    "answer": "Au XXIe siècle, la Chine est devenue un leader dans plusieurs domaines technologiques, notamment les télécommunications avec des entreprises comme Huawei et la technologie des paiements mobiles avec Alipay et WeChat Pay. Ces innovations ont transformé les habitudes de consommation et renforcé l'économie numérique en Chine."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels ont été les effets de l'ouverture de la Chine au monde en 2001 ?",
+    "answer": "L'entrée de la Chine dans l'Organisation mondiale du commerce (OMC) en 2001 a marqué un tournant dans son intégration économique mondiale. Cela a boosté ses exportations, attiré des investissements étrangers et a permis à la Chine de devenir l'une des principales puissances économiques mondiales."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les principales idées économiques de John Maynard Keynes ?",
     "answer": "John Maynard Keynes, dans les années 1930, a proposé que l'intervention de l'État est nécessaire pour réguler l'économie, surtout en période de récession. Son ouvrage majeur, 'La Théorie générale de l'emploi, de l'intérêt et de la monnaie' publié en 1936, défendait l'idée que la demande globale influence l'activité économique."
   },
