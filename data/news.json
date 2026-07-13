@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'Europe fait face à des défis géopolitiques majeurs, notamment en Ukraine.",
-      "L'industrie des drones en Afrique pourrait renforcer la souveraineté de défense du continent."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-13"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -21,11 +9,11 @@
   },
   {
     "type": "news",
-    "title": "Piero Cipollone: Central bank money for the digital era",
+    "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
-    "date": "2026-06-25"
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -37,26 +25,26 @@
   },
   {
     "type": "news",
-    "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
-    "summary": "Sharp declines for South Korea's SK Hynix spook markets in Asia and weigh on futures for Europe and the U.S.",
+    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+    "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html",
+    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "OBLIGATIONS INDE-Le marché obligataire indien pourrait ouvrir en baisse ; l'inflation et l'inclusion dans les indices en ligne de mire",
-    "summary": "OBLIGATIONS INDE-Le marché obligataire indien pourrait ouvrir en baisse ; l'inflation et l'inclusion dans les indices en ligne de mire Zonebourse",
+    "title": "La colombe devient faucon: face à une inflation record aux États-Unis, le gouverneur de la banque centrale américaine prépare les esprits à une remontée des taux d'intérêts",
+    "summary": "La colombe devient faucon: face à une inflation record aux États-Unis, le gouverneur de la banque centrale américaine prépare les esprits à une remontée des taux d'intérêts BFM",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSmVsTTBXM3FxMmxxdG1oUVZvNkxiLWY2Ui1xQXJGcllzVEN6TktUWGF0aE1oVEszUjNhWlRNNkVrTVZsc3F3ejB5emNERWY0SW5tQ2FsZnpyTXNmUHFJUldVOHFWQUpEbE53TVd5U2RvSUNKMlEzTFZZWnFGLWNxYzVSTEw3SkFMVF9hWTJ1LUxiYUVFajFsSjNTQmtxY084Y0JidmJLT0hVNnFtdGRSOTZOTlNLMnhQSlUzSl9MTkZiRFpJSXR4bGZGUjZlMnF3OVN2bGtJeDlYU3RUNC1QUGo5d053UWZtOGJPV3VKWEU?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOV2RUWFNCRkptTlVfNnJBeWxDckQyZU1jeElzVFdyMTdNS1RwYUpNNU1XajBnbWFaX2lLeGYyOUVVZzdoWGpfd185d3hrbmx6MG1WandDMzhaUkUtV0p4UFNtcXZrenZqLUVJZFEtQTFYNlNZcU9BRmcwUXJVTDNUaEE5d0tNTG8xYTZDbTBKWDVEVU5DbTJZNDFMS3RYYTEzalh5VTlXNE1pem9fRnpZNDJ4bmZaVmxfd0xJM1BneXU2eUxZNUpNVEFyeHhfbFpTaUJHbFhCWUFQNUhfZllSbjFLUzREcWg3UnRZbURibGRfZ1dHRTJEQ183NlNhMnVRczN4YWlGaXRnTHR6UmdJYUZlaXNsUjl4cFd1UUV5cVBYYmZFTlkxMDllZU9WcUgyWmRtMVowT1FRcGs3aTBGUFNFdjM?oc=5",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Géopolitique : l’Europe et la fin de l’Alliance atlantique (1/4)",
-    "summary": "Dans ce premier épisode de podcast de la série « Géopolitique » consacrée à la nouvelle donne internationale en perte de repères, Alain Frachon et Delphine Papin, respectivement éditorialiste et chargée de l’innovation cartographique au « Monde », analysent comment l’Europe doit repenser ses alliances stratégiques.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue la création de la « coalition antibalistique »",
+    "summary": "Emmanuel Macron a réuni, lundi à Paris, les 37 Etats membres de la coalition des volontaires afin d’accroître le soutien militaire à l’Ukraine, notamment dans la défense antiaérienne. Neuf pays européens et l’Ukraine ont annoncé créer une coalition pour développer des « capacités antibalistiques » en Europe.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/podcasts/article/2026/07/13/geopolitique-l-europe-et-la-fin-de-l-alliance-atlantique-1-4_6723030_5463015.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-la-creation-de-la-coalition-antibalistique_6722853_3210.html",
     "date": "2026-07-13"
   },
   {
@@ -69,51 +57,51 @@
   },
   {
     "type": "news",
-    "title": "Inside Ukraine’s Game-Changing Drone Industry",
-    "summary": "In recent months, Ukrainian drones have successfully struck dozens of sites deep inside Russia, targeting the oil industry, weapons plants, and logistics hubs. But while Ukraine has developed a world-leading military technology to defend itself from a much larger aggressor, drones will not be enough to end the war.",
+    "title": "Letting Russia Burn",
+    "summary": "From relentless Ukrainian drone strikes to soaring inflation and fuel shortages, Russia is paying an ever-higher price for Vladimir Putin's war of choice. But the war has become the organizing principle of Putin’s regime, leaving no path to lasting peace without a fundamental political transformation.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/how-ukraine-developed-world-leading-drone-technology-by-yuriy-gorodnichenko-et-al-2026-07",
-    "date": "2026-07-07"
+    "link": "https://www.project-syndicate.org/commentary/why-putin-cannot-afford-to-walk-away-from-ukraine-by-nina-l-khrushcheva-2026-07",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Une Russie exclue mais les yeux rivés sur la Coupe du monde 2026",
-    "summary": "Alors que leur sélection est suspendue de toutes compétitions par la Fifa et l’UEFA depuis l’invasion de l’Ukraine, les Russes n’ont pas pour autant tourné le dos à la Coupe du monde de football. Entre nostalgie de 2018, colère contre les matchs payants et espoir d’un prochain retour, la presse du pays refuse de rester hors jeu.",
+    "title": "Entre la Chine et la Russie, la coopération militaire s’opère “en secret”",
+    "summary": "Dans son numéro du 10 juillet, “Der Spiegel” révèle à ses lecteurs l’ampleur de la coopération militaire sino-russe, qui s’opère en secret depuis des années. Un constat mis au jour par des recherches menées avec le média d’investigation russe “The Insider” et le quotidien “Le Monde”, qui n’est pas sans inquiéter les pays membres de l’Otan.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-moscou-une-russie-exclue-mais-les-yeux-rives-sur-la-coupe-du-monde-2026_248097",
+    "link": "https://www.courrierinternational.com/une/une-du-jour-entre-la-chine-et-la-russie-la-cooperation-militaire-s-opere-en-secret_248142",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
-    "summary": "Military manufacturing may be growing, but defence sovereignty depends on far more than production.",
+    "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
+    "summary": "EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Captured African recruits say they want to go home — to Russia",
-    "summary": "KYIV — Avatar says he does not want to go back to the country of his birth. The prisoner of war from the Democratic Republic of the Congo, captured while fighting for Russia in Ukraine, says his future is in Russia and his hope is to be included in a prisoner exchange that sends him back to the country whose army he joined.",
+    "title": "Kremlin accuses EU of canceling Russian culture after budget cuts to Venice Biennale",
+    "summary": "The Kremlin accused the European Commission of attempting to “cancel” Russian culture after the EU announced plans to cut funding for one of the continent’s most prestigious cultural platforms.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-russia-africa-war-recruits-return/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-12"
+    "link": "https://www.politico.eu/article/kremlin-accuse-eu-cancel-russia-culture-budget-cut-venice-biennale/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
     "title": "Sommet de l'Otan Ankara 2026, l'amour et la colère de Donald Trump",
-    "summary": "La réunion de famille ne s’est pas super bien passée mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
+    "summary": "La réunion de famille ne s’est pas super bien passée, mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
     "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Eric Lombard, ancien ministre de l’économie : « Le déficit nuit gravement à la jeunesse. Nous versons plus d’argent en intérêts à nos créanciers que pour former nos enfants »",
-    "summary": "L’ancien locataire de Bercy propose, dans une tribune au « Monde », quelques règles qui permettraient de retrouver la maîtrise de nos comptes publics en cinq ans. La campagne présidentielle est, selon lui, le bon moment pour orchestrer le retour à un rapport dette-PIB stable.",
+    "title": "Le canal de Panama, artère vitale du commerce mondial et « victime collatérale » de la guerre froide entre les Etats-Unis et la Chine",
+    "summary": "« La ruée sur les ports » (2/16). D’un côté, Donald Trump exige – et obtient – le retrait des entreprises chinoises présentes dans les ports du canal de Panama. De l’autre, la Chine réplique en inspectant les navires arborant pavillon panaméen. Entre les deux, un petit pays de 4,5 millions d’habitants qui s’accroche à la « neutralité » du canal.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/11/eric-lombard-ancien-ministre-de-l-economie-le-deficit-nuit-gravement-a-la-jeunesse-nous-versons-plus-d-argent-en-interets-a-nos-creanciers-que-pour-former-nos-enfants_6722721_3232.html",
-    "date": "2026-07-11"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/le-canal-de-panama-artere-vitale-du-commerce-mondial-et-victime-collaterale-de-la-guerre-froide-entre-les-etats-unis-et-la-chine_6723047_3235.html",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -141,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels",
-    "summary": "Article URL: https://shellzine.net/cyberpunk-comics/ Comments URL: https://news.ycombinator.com/item?id=48885643 Points: 173 # Comments: 48",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "summary": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html Comments URL: https://news.ycombinator.com/item?id=48894752 Points: 174 # Comments: 81",
     "source": "Hacker News",
-    "link": "https://shellzine.net/cyberpunk-comics/",
-    "date": "2026-07-12"
+    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -165,10 +153,10 @@
   },
   {
     "type": "news",
-    "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+    "title": "Piero Cipollone: Central bank money for the digital era",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
     "date": "2026-06-25"
   },
   {
@@ -181,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
-    "summary": "Helsing said \"investor demand significantly exceeded the available allocation\" for its $1.8 billion funding round.",
+    "title": "CNBC Daily Open: Chips ahoy, no Strait answer and earnings on deck",
+    "summary": "Sharp declines for South Korea's SK Hynix spook markets in Asia and weigh on futures for Europe and the U.S.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+    "link": "https://www.cnbc.com/2026/07/13/cnbc-daily-open-chips-ahoy-no-strait-answer-and-earnings-on-deck.html",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Elon Musk déclare que l'économie sera mesurée en énergie, et non en argent, alors que SpaceX envisage l'énergie solaire orbitale",
-    "summary": "Elon Musk déclare que l'économie sera mesurée en énergie, et non en argent, alors que SpaceX envisage l'énergie solaire orbitale Benzinga France",
+    "title": "Feu d'artifice sur les marchés : inflation américaine, Fed et banques au programme de ce 14-Juillet",
+    "summary": "Feu d'artifice sur les marchés : inflation américaine, Fed et banques au programme de ce 14-Juillet Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbExqYTVYdXZ5d3ljcWVJV3kyWTExX2R0UENWSklCZnBGamc3dDJ1bUZONlFnTEVQYldrRjR0UTItazh6Yk5LN3pIT2gyUHgxZ3d6R1dfV2kxM0xNcU9idnRxQWg1bENPUWpYcUtZNWhrTVVkZGVuTmljU1VtckcwMFlra0Z0bUtQUWd2c284a0lrVHBkUE9vdlAxdUFCZjBrMUhoUTZqY2o3U0lPaUZIMGVFQWZibFJEQzVKbnZRZzNYbWpBS25qUkFHQ29IOGV0QzJQMnRNT3FtcWpFejdadmdfejRYRm1oaDJ4TmwzeV95RWM?oc=5",
-    "date": "2026-07-12"
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeUlUU2lUbEp6dWY0ZjYxN2l2RjZzQnh5OUFBNFpFcklxc1lxWjRsM0hwampRQnVrRmNIRWF2ZjRCYW5IYmtiaFF0cGF1alU5SmhVTzAtazUxUHhxRE04aC1ZZVB2cHkxUjdka0p4S3NVdXVTOFN2Qmg1cnBHWVJPRzFXLVNUV0lqaXV6T19WNXdHalh6UnpWLTB3OHZSS1pWVXlVT1hLdXlueVVERGhEZG9PWWg5eTZlOFlVbkQtbWdGLUFWOWhRZDkyT2YxWFJFVUR2SnhOWi1XNjBhZXF4Y1p5dmpHa2paRnRlVUYwQmxxOGZWRVl1c09R?oc=5",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Le canal de Panama, artère vitale du commerce mondial et « victime collatérale » de la guerre froide entre les Etats-Unis et la Chine",
-    "summary": "« La ruée sur les ports » (2/16). D’un côté, Donald Trump exige – et obtient – le retrait des entreprises chinoises présentes dans les ports du canal de Panama. De l’autre, la Chine réplique en inspectant les navires arborant pavillon panaméen. Entre les deux, un petit pays de 4,5 millions d’habitants qui s’accroche à la « neutralité » du canal.",
+    "title": "Mégalevée de fonds pour Helsing, start-up européenne d’IA de défense, valorisée 18 milliards de dollars désormais",
+    "summary": "L’entreprise a annoncé, lundi, avoir récolté 1,8 milliard de dollars lors de son sixième tour de table.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/13/le-canal-de-panama-artere-vitale-du-commerce-mondial-et-victime-collaterale-de-la-guerre-froide-entre-les-etats-unis-et-la-chine_6723047_3235.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/megalevee-de-fonds-pour-helsing-start-up-europeenne-d-ia-de-defense-valorisee-18-milliards-de-dollars-desormais_6723095_3234.html",
     "date": "2026-07-13"
   },
   {
@@ -221,27 +209,27 @@
   },
   {
     "type": "news",
-    "title": "Le mont Blanc est-il vraiment le sommet le plus haut d’Europe ?",
-    "summary": "Si l’on considère que le Caucase fait partie de l’Europe, c’est l’Elbrouz qui détient ce record. Mais les points culminants des autres continents dépassent tous notre mont Blanc. Ce que nous invite à visualiser le site allemand “Katapult”.",
+    "title": "L’Europe a augmenté ses importations de gaz russe avant l’interdiction totale",
+    "summary": "Au premier semestre 2026, l’Union européenne a importé la quasi-totalité du gaz naturel liquéfié de l’usine de Yamal, en Sibérie, le plus gros producteur de gaz en Russie, avant l’entrée en vigueur en 2027 du nouveau régime, plus sévère, de sanctions.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/grand-format/infographie-le-mont-blanc-est-il-vraiment-le-sommet-le-plus-haut-d-europe_245588",
-    "date": "2026-07-12"
-  },
-  {
-    "type": "news",
-    "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-    "summary": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/energie-l-europe-a-augmente-ses-importations-de-gaz-russe-avant-l-interdiction-totale_248990",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Ukraine sees opportune moment to pressure Putin before winter",
-    "summary": "BRUSSELS — Kyiv is racing to inflict maximum damage on Russia ahead of what it anticipates will be another winter of devastating attacks on Ukrainian energy infrastructure. Ukraine has been making major gains in the war, thanks in large part to its use of long-range drones, which have been able to strike deep into Russia, cutting supply lines and stretching…",
+    "title": "EU unveils $1bn fund for Gaza war recovery",
+    "summary": "The scheme falls critically short of the $71bn reportedly needed for Gaza's recovery over the next 10 years.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "Russia sanctions package pushed to Wednesday deadline",
+    "summary": "BRUSSELS — The EU’s foreign ministers failed to sign off on the bloc’s 21st package of sanctions against Russia on Monday, and ambassadors will now convene to discuss freezing a price cap on Russian crude exports by Wednesday — the last day before it resets.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-pressure-russia-vladimir-putin-winter/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-12"
+    "link": "https://www.politico.eu/article/russia-sanctions-package-wednesday-deadline/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -253,19 +241,19 @@
   },
   {
     "type": "news",
-    "title": "Canal Seine-Nord Europe : quelques milliers de personnes de personnes mobilisées dans le Pas-de-Calais pour protester contre le chantier",
-    "summary": "Ce projet vise à créer d’ici à 2032 une liaison fluviale à grand gabarit pour faciliter le transport de marchandises entre la région parisienne et la mer du Nord. Ses opposants dénoncent notamment la flambée des coûts et ses conséquences environnementales.",
+    "title": "Sans action, la dette des pays européens va doubler d’ici à 2040, avertit le FMI",
+    "summary": "Selon le Fonds monétaire international, le vieillissement de la population, la hausse des budgets de la défense et la transition climatique imposent des dépenses qui vont faire exploser les dettes publiques des pays européens",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/11/canal-seine-nord-europe-plusieurs-centaines-de-personnes-mobilisees-dans-le-pas-de-calais-pour-protester-contre-le-chantier_6722716_3244.html",
-    "date": "2026-07-11"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/sans-action-la-dette-des-pays-europeens-va-doubler-d-ici-a-2040-avertit-le-fmi_6723113_3234.html",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving the US government a 5% stake in OpenAI.",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "date": "2026-07-07"
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -277,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "Volkswagen Group tells its board how to fix it, unions disagree",
-    "summary": "Volkswagen Group is doing well with electric vehicle sales in its home region, but costly tariffs and eroding market share in China and North America have been hurting it badly. Europe's largest automaker, which also owns brands including Audi, Porsche, Skoda, and Lamborghini, has seen its profit margins evaporate, and yesterday the company's supervisory boa…",
+    "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+    "summary": "NASA breathed a deep sigh of relief six years ago when SpaceX launched two astronauts, Doug Hurley and Bob Behnken, on a successful mission to the International Space Station. With the safe landing of Crew Dragon, the US space agency broke a nearly decade-long gap in its ability to put humans into orbit.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
-    "date": "2026-07-10"
+    "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:We added logging between the a…",
+    "title": "LAPD lets contract with surveillance giant Flock expire",
+    "summary": "Article URL: https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/ Comments URL: https://news.ycombinator.com/item?id=48893947 Points: 231 # Comments: 150",
     "source": "Hacker News",
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "date": "2026-07-12"
+    "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -309,11 +297,11 @@
   },
   {
     "type": "news",
-    "title": "ECB reports on progress towards euro adoption",
+    "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
-    "date": "2026-06-24"
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "date": "2026-06-25"
   },
   {
     "type": "news",
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
-    "summary": "For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.",
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
-    "date": "2026-07-11"
-  },
-  {
-    "type": "news",
-    "title": "Les actions chutent alors que le conflit dans le Golfe fait flamber les cours du pétrole",
-    "summary": "Les actions chutent alors que le conflit dans le Golfe fait flamber les cours du pétrole Boursorama",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1NZbllLVmsyN1hyRTJUVTZ4YXVrSGRhel82T2tTZzMzM0JEUDBON1M0MkhOQWRTY29yY180ODhKRDZEXzI3clRLeW9VbE5EcXZ2NHFJSzY1dXpTd0FOcjZRckIySFp5TWtQZVRkYkRSeUtFbWlNbTZiT3BhRk9kSkJxNm1MQlR3aWJLQ01CSEp5OVVIUUJmOG5vTGxQRF9wQnRjUDl3UjdPalI4VnhFZW5UREc3dXRjN1BITlNBeE1VTF84SUM1Z01oUGdzcHVqTm5BRFpTRENJLWRWVEFHTlhPSnliOXRNX285bkxNZThIcEJVcHh1OWdaMUJRRXfSAf8BQVVfeXFMT19TWW5ZS1ZrMjdYckUyVFU2eGF1a0hkYXpfNk9rU2czMzNCRFAwTjdTNDJITkFkU2NvcmNfNDg4SkQ2RF8yN3JUS3lvVWxORHF2djRxSUs2NXV6U3dBTnI2UXJCMkhaeU1rUGVUZGJEUnlLRW1pTW02Yk9wYUZPZEpCcTZtTEJUd2liS0NNQkhKeTlVSFFCZjhub0xsUERfcEJ0Y1A5d1I3T2pSOFZ4RWVuVERHN3V0YzdQSE5TQXhNVUxfOElDNWdNaFBnc3B1ak5uQURaU0RDSS1kVlRBR05YT0p5Yjl0TV9vOW5MTWU4SHBCVXB4dTlnWjFCUUV3?oc=5",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "Le Panama se rêve en nouveau Singapour, avec 10 milliards de dollars d’investissements à venir",
-    "summary": "« La ruée sur les ports » (3/16). Avec trois nouveaux ports, un pipeline et un nouveau lac de rétention d’ici sept ans, le pays d’Amérique centrale se lance dans des projets pharaoniques. La compagnie française CMA CGM est sur les rangs.",
+    "title": "Inflation: la banque centrale américaine \"doit se tenir prête\" à relever ses taux d'intérêt, prévient un responsable",
+    "summary": "Inflation: la banque centrale américaine \"doit se tenir prête\" à relever ses taux d'intérêt, prévient un responsable TradingView",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0WHFhMWl0WlVVRVdxVElTRUw2cExVUHBRSGE4QVdOVmczOVRjZkxBbDlMOG9RVVJCM2NqS0UxTmEtd0syN2ZFUkFhVEpDT0RWa0pzaVQ0V2p4Si03TnlGWTRn?oc=5",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "Emmanuel Macron : le président plaide pour plus d’investissements dans la défense, notamment au niveau européen, pendant son dernier discours aux armées",
+    "summary": "« C’est ma plus grande fierté » d’avoir été le chef des armées depuis 2017, a aussi dit le chef de l’Etat, qui ne sera plus à l’Elysée lors de la prochaine fête nationale.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/13/le-panama-se-reve-en-nouveau-singapour-avec-10-milliards-de-dollars-d-investissements-a-venir_6723065_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/13/en-direct-emmanuel-macron-suivez-le-dernier-discours-aux-armees-du-chef-de-l-etat_6723070_3210.html",
     "date": "2026-07-13"
   },
   {
@@ -357,42 +345,42 @@
   },
   {
     "type": "news",
-    "title": "The Missing Ingredient for European Tech Sovereignty",
-    "summary": "Europe’s dependence on US technology companies is both an economic challenge and a strategic vulnerability. The European Union’s new Tech Sovereignty Package is a step in the right direction, but without equally ambitious efforts to curb market concentration, it is bound to fall short.",
+    "title": "The Mother of All Economic Shocks Is Chinese Mercantilism",
+    "summary": "Because analysts tend to put the United States at the center of the global economic story, they have overlooked the single most important force of the past 50 years. But it will be obvious to later generations that Chinese mercantilism has been more globally consequential than any other economic shock or policy choice.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/eu-tech-sovereignty-package-must-be-accompanied-by-robust-antitrust-enforcement-by-giorgos-verdi-2026-07",
-    "date": "2026-07-07"
-  },
-  {
-    "type": "news",
-    "title": "Comment aider les agriculteurs chinois face au changement climatique ?",
-    "summary": "Le nord agricole de la Chine est confronté à une augmentation phénoménale des précipitations qui bouleversent le quotidien des agriculteurs et font moisir les récoltes. Dans le magazine en ligne shanghaïen “Sixth Tone”, une météorologue propose des pistes pour s’adapter à cette nouvelle donne.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/climat-comment-aider-les-agriculteurs-chinois-face-au-changement-climatique_241436",
-    "date": "2026-07-12"
-  },
-  {
-    "type": "news",
-    "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-    "summary": "Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
+    "link": "https://www.project-syndicate.org/commentary/chinese-mercantilism-mother-of-all-global-shocks-by-arvind-subramanian-2026-07",
     "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "France’s edge in the AI race is cheap energy — if American big tech doesn’t plug in first",
-    "summary": "PARIS — When the CEO of Europe’s only real challenger to the top U.S.-based frontier labs arrived at last month’s exclusive G7 meeting on AI, he didn’t have algorithms or IPOs on his mind. He came to talk electricity.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/article/frances-edge-in-the-ai-race-is-cheap-energy-if-american-big-tech-doesnt-plug-in-first/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-12"
+    "title": "Sanctions contre la Russie : l’UE peine à trouver un consensus, Kiev craint une “version allégée”",
+    "summary": "La Bulgarie a confirmé, lundi 13 juillet, avoir obtenu gain de cause sur la question du retrait du patriarche Kirill et du patron de Loukoil de la liste des personnes visées dans le 21e paquet de sanctions contre la Russie. Mais les désaccords entre les 27 ne s’arrêtent pas là.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-sanctions-contre-la-russie-l-ue-peine-a-trouver-un-consensus-kiev-craint-une-version-allegee_249186",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "2. En seconde ligne avec les Black Indians à la Nouvelle-Orléans",
-    "summary": "À la recherche du secret de ces mystérieuses enveloppes, Jack suit les rares indications que contient celle qui lui a été remise à Kinshasa. Il s'envole donc pour la Nouvelle-Orléans, et s'apprête à s'immerger dans la frénésie musicale de celle que l'on surnomme NOLA.",
+    "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
+    "summary": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "EU Commission weighs seconding officials to work in other countries",
+    "summary": "BRUSSELS — The European Commission is considering stationing its officials in EU capitals, speeding up recruitment and getting the institution “AI-ready,” according to a sweeping set of proposals unveiled in an internal meeting Monday. “There is an appetite for change,” said Piotr Serafin, the commissioner responsible for human resources.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/eu-commission-weighs-seconding-officials-to-work-in-other-countries/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "Maroc : une vocation africaine et un pari stratégique",
+    "summary": "Le Maroc entretient des liens anciens avec l'ouest de l'Afrique. Des liens spirituels du Maroc vers le Sahel, et du Sahel vers le Maroc, qu'il s'agisse de l'islamisation ou de la propagation de l'islam religieux. Mais également des liens politiques, hérités des mouvements pour l'indépendance.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/jack-dans-les-rues-du-globe/20260708-2-en-seconde-ligne-avec-les-black-indians-%C3%A0-la-nouvelle-orl%C3%A9ans",
-    "date": "2026-07-08"
+    "link": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20260711-maroc-une-vocation-africaine-et-un-pari-strat%C3%A9gique",
+    "date": "2026-07-11"
   }
 ]
