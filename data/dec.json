@@ -1,6 +1,31 @@
 [
   {
     "type": "dec",
+    "question": "Quel est le rôle du risque inhérent dans l'évaluation des risques d'audit ?",
+    "answer": "Le risque inhérent représente le risque d'anomalies significatives dans les états financiers, avant la prise en compte des contrôles internes, et il doit être évalué par l'auditeur pour orienter ses procédures."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le code de commerce influence-t-il l'évaluation des risques d'audit ?",
+    "answer": "Le code de commerce impose aux commissaires aux comptes de mener leur mission conformément aux normes professionnelles, ce qui inclut l'évaluation des risques d'audit pour garantir la fiabilité des états financiers."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les trois types de risques d'audit identifiés dans la NEP 300 ?",
+    "answer": "Les trois types de risques d'audit identifiés dans la NEP 300 sont le risque inhérent, le risque de contrôle et le risque de détection."
+  },
+  {
+    "type": "dec",
+    "question": "Pourquoi est-il important d'évaluer le risque de contrôle dans un audit ?",
+    "answer": "L'évaluation du risque de contrôle est importante car elle permet à l'auditeur de déterminer si les contrôles internes de l'entité sont efficaces pour prévenir ou détecter des anomalies significatives."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est l'impact de l'évaluation des risques d'audit sur la planification de l'audit ?",
+    "answer": "L'évaluation des risques d'audit guide la planification de l'audit, permettant à l'auditeur de déterminer la nature, le moment et l'étendue des procédures d'audit à mettre en œuvre pour répondre aux risques identifiés."
+  },
+  {
+    "type": "dec",
     "question": "Quelles sont les principales normes déontologiques régissant le commissaire aux comptes ?",
     "answer": "Les normes déontologiques pour le commissaire aux comptes sont principalement définies par les Normes d'Exercice Professionnel (NEP) et le Code de Commerce, notamment l'article L. 820-1."
   },
