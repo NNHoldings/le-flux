@@ -1,6 +1,16 @@
 [
   {
     "type": "finance",
+    "term": "Trésorerie",
+    "explanation": "La trésorerie fait référence aux liquidités disponibles pour une entreprise à un moment donné. Une gestion efficace de la trésorerie est essentielle pour garantir la solvabilité et la capacité à faire face aux obligations financières."
+  },
+  {
+    "type": "finance",
+    "term": "Fonds de roulement",
+    "explanation": "Le fonds de roulement est la différence entre les actifs circulants et les passifs circulants d'une entreprise. Il mesure la capacité d'une entreprise à financer ses opérations à court terme et à faire face à ses engagements."
+  },
+  {
+    "type": "finance",
     "term": "Analyse de la rentabilité",
     "explanation": "L'analyse de la rentabilité évalue la capacité d'une entreprise à générer des bénéfices par rapport à ses coûts. Cela se fait souvent à l'aide d'indicateurs tels que la marge bénéficiaire, le retour sur investissement (ROI) et le retour sur capitaux propres (ROE)."
   },
