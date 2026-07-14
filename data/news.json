@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "Les grandes banques s'attendent à des revenus en forte hausse grâce à l'IPO de SpaceX et l'instabilité en Iran.",
-      "L'Europe cherche à renforcer sa résilience économique tout en projetant ses normes au-delà de ses frontières."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,11 +25,11 @@
   },
   {
     "type": "news",
-    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-    "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-    "date": "2026-07-13"
+    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -85,11 +73,11 @@
   },
   {
     "type": "news",
-    "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
-    "summary": "More than 200 economists and AI researchers call on leaders to immediately prepare for sweeping economic disruption.",
+    "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+    "summary": "Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
-    "date": "2026-07-13"
+    "link": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -101,11 +89,11 @@
   },
   {
     "type": "news",
-    "title": "Sommet de l'Otan Ankara 2026, l'amour et la colère de Donald Trump",
-    "summary": "La réunion de famille ne s’est pas super bien passée, mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
+    "title": "Malgré des succès diplomatiques et tactiques, la guerre n'est pas gagnée pour l'Ukraine",
+    "summary": "Les soldats ukrainiens en vedette lors du traditionnel défilé militaire du 14 juillet sur les Champs-Élysées à Paris. Ils fermeront la marche des pays de la coalition des volontaires venus apporter leur soutien dans le défilé, mais surtout lors d’une réunion hier lundi à Paris.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
-    "date": "2026-07-12"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260714-malgr%C3%A9-des-succ%C3%A8s-diplomatiques-et-tactiques-la-guerre-n-est-pas-gagn%C3%A9e-pour-l-ukraine",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -141,19 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "summary": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html Comments URL: https://news.ycombinator.com/item?id=48894752 Points: 515 # Comments: 207",
-    "source": "Hacker News",
-    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "date": "2026-07-13"
-  },
-  {
-    "type": "news",
-    "title": "NSF plans cuts to core science programmes to fund White House initiative",
-    "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-xA proposed clawback of already distributed research funds comes as the US agency struggles with a squeezed budget and a backlog of grant applications.",
+    "title": "Daily briefing: The rise of evidence-based medicine",
+    "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02206-zHow rigorous research has transformed health and social policy. Plus, a breakthrough for lab-grown sperm and the NSF plans to cut core science programmes to fund a White House initiative.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02135-x",
-    "date": "2026-07-10"
+    "link": "https://www.nature.com/articles/d41586-026-02206-z",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -181,18 +161,18 @@
   },
   {
     "type": "news",
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+    "title": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
+    "summary": "China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "link": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Indian shares set to open lower as Middle East tensions raise inflation worries",
-    "summary": "Indian shares set to open lower as Middle East tensions raise inflation worries Zonebourse",
+    "title": "L'or rebondit après un plus bas de deux semaines, les marchés attendent les données sur l'inflation américaine",
+    "summary": "L'or rebondit après un plus bas de deux semaines, les marchés attendent les données sur l'inflation américaine Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdG9vcHZHX0swd3pieVRnQVlXcFh1dFgzVjJkWEF0MnBGYlFLdTgwV0xjUFFXc1hGQTNOSVVqOE9BT0xVZkR1TjlaWFRMa0NVRFdyTE9iaEhZTXZsUFNtdmNLYjdpNkZfRXhoVVZqTjJQa3BObU9XakNnT2dkdHlxWjZCYWFKNzhYVXVESE11cE9aMDFkT3hvM3BMOW1fMDd0RkF2MnQ4VUlZcFpidDNJM3ZMOEoxS1RudHAtb2hSR3Awdmk2cGpkQ3BFNVM3RlFCUjBLRjk0bVdtMXk0dGx5WGV5UEJGNDEyZUozZFJCeXNtSkJB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdEtPdDJBYmY1UUZJRTJQM3JReXRCUEJlZG5aRVRla0loc0NxNUtwZGdQSkhZTEtTaExRbVhSREU5WkIybVA0LWdXQ2dzRXVUcGFhLVlsR19GVWJKbGtlQmt6Vk1FMEZMQ2pXbzZXMDhxZW9WTlFXOWtKMjByaGxhNHRNWFU1V1Z3SXNzaUZ4cVlucWY5bHN1cGJtZTI4SU41VHk2dTY1XzhhZzVQSGxFbjZTazdzX1g0X0ZHb2ZJVExROU9oSXNUcVRGa2NMYklqS09pdnhubnNNT2tfVzltSGlEaW9GRHAzbzdxSXYtMA?oc=5",
     "date": "2026-07-14"
   },
   {
@@ -221,43 +201,43 @@
   },
   {
     "type": "news",
-    "title": "L’Europe a augmenté ses importations de gaz russe avant l’interdiction totale",
-    "summary": "Au premier semestre 2026, l’Union européenne a importé la quasi-totalité du gaz naturel liquéfié de l’usine de Yamal, en Sibérie, le plus gros producteur de gaz en Russie, avant l’entrée en vigueur en 2027 du nouveau régime, plus sévère, de sanctions.",
+    "title": "“Ils ne veulent pas de nous” : deux amies ghanéennes racontent leur vie dans l’Afrique du Sud xénophobe",
+    "summary": "Elles se font appeler Esther et Shalom. Installées en Afrique du Sud, ces deux Ghanéennes ont vécu la lente montée de la vague antimigrants qui a plongé le pays dans une psychose xénophobe. Elles reviennent pour “The Christian Science Monitor” sur leur rêve sud-africain qui a tourné au cauchemar éveillé.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/energie-l-europe-a-augmente-ses-importations-de-gaz-russe-avant-l-interdiction-totale_248990",
-    "date": "2026-07-13"
-  },
-  {
-    "type": "news",
-    "title": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
-    "summary": "French coach Deschamps says his team will be fully prepared for a midfield battle against the European champions.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/temoignages-ils-ne-veulent-pas-de-nous-deux-amies-ghaneennes-racontent-leur-vie-dans-l-afrique-du-sud-xenophobe_247344",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Russia sanctions package pushed toward midweek deadline",
-    "summary": "BRUSSELS — The EU’s foreign ministers failed to sign off on the bloc’s 21st package of sanctions against Russia on Monday, and ambassadors will now convene to discuss freezing a price cap on Russian crude exports by Wednesday — the last day before it resets.",
+    "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
+    "summary": "Expensive interceptor missiles are facing mounting pressure from Iran's cheaply produced drones.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss",
+    "date": "2026-07-14"
+  },
+  {
+    "type": "news",
+    "title": "Bulgaria has no place in Coalition of the Willing backing Ukraine, says PM",
+    "summary": "Prime Minister Rumen Radev announced Tuesday that Bulgaria doesn’t belong in the Coalition of the Willing, as his country’s guards marched alongside other European armed forces during Bastille Day celebrations hosted by French President Emmanuel Macron.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-sanctions-package-wednesday-deadline/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-13"
+    "link": "https://www.politico.eu/article/bulgaria-no-place-coalition-of-the-willing-ukraine-rumen-radev/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Coupe du Monde 2026 : le nouvel ordre mondial s'invite sur le terrain",
-    "summary": "La Coupe du Monde 2026 n’est même pas encore terminée, mais elle est déjà la plus géopolitique de toutes. Des pays organisateurs qui ne s’entendent pas, un carton rouge annulé directement par Donald Trump. Le meilleur arbitre africain renvoyé chez lui, faute de visa. Le nouvel ordre mondial s’est invité sur le terrain.",
+    "title": "Sommet de l'Otan Ankara 2026, l'amour et la colère de Donald Trump",
+    "summary": "La réunion de famille ne s’est pas super bien passée, mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260711-coupe-du-monde-2026-le-nouvel-ordre-mondial-s-invite-sur-le-terrain",
-    "date": "2026-07-11"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
+    "date": "2026-07-12"
   },
   {
     "type": "news",
-    "title": "Le canal de Panama, artère vitale du commerce mondial et « victime collatérale » de la guerre froide entre les Etats-Unis et la Chine",
-    "summary": "« La ruée sur les ports » (2/16). D’un côté, Donald Trump exige – et obtient – le retrait des entreprises chinoises présentes dans les ports du canal de Panama. De l’autre, la Chine réplique en inspectant les navires arborant pavillon panaméen. Entre les deux, un petit pays de 4,5 millions d’habitants qui s’accroche à la « neutralité » du canal.",
+    "title": "Le Slip français s’aventure en Bourse",
+    "summary": "La marque de sous-vêtements masculins créée en 2011 lève 3,7 millions d’euros sur le segment Euronext Growth Paris, consacré aux PME. Ces fonds doivent lui permettre de poursuivre ses investissements industriels.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/13/le-canal-de-panama-artere-vitale-du-commerce-mondial-et-victime-collaterale-de-la-guerre-froide-entre-les-etats-unis-et-la-chine_6723047_3235.html",
-    "date": "2026-07-13"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/14/le-slip-francais-s-aventure-en-bourse_6723297_3234.html",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -269,11 +249,11 @@
   },
   {
     "type": "news",
-    "title": "The Hidden Cost of AI-Assisted Creativity",
-    "summary": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption contests, and collaborative storytelling.",
+    "title": "The Global Scaling Gap: Why Strategic Clarity Is Crucial in the Age of AI",
+    "summary": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for companies everywhere while making it possible to reach customers across languages and cultures.",
     "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
-    "date": "2026-07-09"
+    "link": "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -285,19 +265,11 @@
   },
   {
     "type": "news",
-    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-    "summary": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ Comments URL: https://news.ycombinator.com/item?id=48901569 Points: 312 # Comments: 75",
-    "source": "Hacker News",
-    "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "Verification of the Outer Space Treaty with cosmic protons",
-    "summary": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10783-2By observing the neutrons induced by spallation from protons in the inner Van Allen radiation belts using widely available sensor technologies, the detection of a thermonuclear weapon carried by a space satellite is possible.",
+    "title": "NSF plans cuts to core science programmes to fund White House initiative",
+    "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-xA proposed clawback of already distributed research funds comes as the US agency struggles with a squeezed budget and a backlog of grant applications.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10783-2",
-    "date": "2026-07-08"
+    "link": "https://www.nature.com/articles/d41586-026-02135-x",
+    "date": "2026-07-10"
   },
   {
     "type": "news",
@@ -318,31 +290,31 @@
   {
     "type": "news",
     "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
-    "summary": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
+    "summary": "The state, where both studios have headquarters, has joined 11 others to halt the deal.",
     "source": "BBC Business",
     "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-13"
-  },
-  {
-    "type": "news",
-    "title": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
-    "summary": "China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Feu d'artifice sur les marchés : inflation américaine, Fed et banques au programme de ce 14-Juillet",
-    "summary": "Feu d'artifice sur les marchés : inflation américaine, Fed et banques au programme de ce 14-Juillet Les Echos",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeUlUU2lUbEp6dWY0ZjYxN2l2RjZzQnh5OUFBNFpFcklxc1lxWjRsM0hwampRQnVrRmNIRWF2ZjRCYW5IYmtiaFF0cGF1alU5SmhVTzAtazUxUHhxRE04aC1ZZVB2cHkxUjdka0p4S3NVdXVTOFN2Qmg1cnBHWVJPRzFXLVNUV0lqaXV6T19WNXdHalh6UnpWLTB3OHZSS1pWVXlVT1hLdXlueVVERGhEZG9PWWg5eTZlOFlVbkQtbWdGLUFWOWhRZDkyT2YxWFJFVUR2SnhOWi1XNjBhZXF4Y1p5dmpHa2paRnRlVUYwQmxxOGZWRVl1c09R?oc=5",
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
     "date": "2026-07-13"
   },
   {
     "type": "news",
+    "title": "Wall Street vue en ordre dispersé avant l'inflation, l'Europe souffre de la flambée du pétrole",
+    "summary": "Wall Street vue en ordre dispersé avant l'inflation, l'Europe souffre de la flambée du pétrole TradingView",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BWkVJZWFEeUVVQk9mYmY2THBRV09sWGVXQm91NWc0dzUtVUkzYVNuT2I1VnNEQnhIUTlqUmFmRjhFTWd3alBsV21FWlZXVUhsdTBQaGZrWUNrVm8zUk9Kb1pPeHNEWXJqSXF3UU0wc05HaHl6czE4?oc=5",
+    "date": "2026-07-14"
+  },
+  {
+    "type": "news",
     "title": "L’Ukraine étend ses attaques à la mer d’Azov, un axe maritime crucial pour la Russie",
-    "summary": "Après l’asphyxie de la Crimée occupée, les drones ukrainiens mènent une impitoyable bataille navale contre la flotte russe et ses fameux « bateaux fantômes » accusés de contourner les sanctions. Leur circulation en mer d’Azov a quasiment cessé.",
+    "summary": "Après l’asphyxie de la Crimée, occupée par Moscou depuis 2014, les drones ukrainiens mènent une impitoyable bataille navale contre la flotte fantôme russe, accusée de contourner les sanctions. La circulation de ces navires en mer d’Azov a quasi cessé.",
     "source": "Le Monde International",
     "link": "https://www.lemonde.fr/international/article/2026/07/14/l-ukraine-etend-ses-attaques-a-la-mer-d-azov-un-axe-maritime-crucial-pour-la-russie_6723272_3210.html",
     "date": "2026-07-14"
@@ -365,18 +337,18 @@
   },
   {
     "type": "news",
-    "title": "Avec la mort du sénateur Lindsey Graham, l’Ukraine perd son “plus influent défenseur” à Washington",
-    "summary": "La mort subite, à 71 ans, du sénateur républicain de Caroline du Sud Lindsey Graham va laisser une place béante au Congrès de Washington, soulignent les médias américains de tous bords.",
+    "title": "Aux États-Unis, le football est et restera une affaire de femmes",
+    "summary": "Dans les colonnes du quotidien allemand “Tagesspiegel”, Helena Wittlich et David Kirchner soulignent à quel point aux États-Unis, à la différence de l’Allemagne, l’équipe de football masculine est “en retard” par rapport à la sélection féminine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-avec-la-mort-du-senateur-lindsey-graham-l-ukraine-perd-son-plus-influent-defenseur-a-washington_249022",
-    "date": "2026-07-13"
+    "link": "https://www.courrierinternational.com/article/vu-d-allemagne-aux-etats-unis-le-football-est-et-restera-une-affaire-de-femmes_246194",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-    "summary": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.",
+    "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
+    "summary": "Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
     "date": "2026-07-14"
   },
   {
@@ -389,10 +361,26 @@
   },
   {
     "type": "news",
-    "title": "Maroc : une vocation africaine et un pari stratégique",
-    "summary": "Le Maroc entretient des liens anciens avec l'ouest de l'Afrique. Des liens spirituels du Maroc vers le Sahel, et du Sahel vers le Maroc, qu'il s'agisse de l'islamisation ou de la propagation de l'islam religieux. Mais également des liens politiques, hérités des mouvements pour l'indépendance.",
+    "title": "Coupe du Monde 2026 : le nouvel ordre mondial s'invite sur le terrain",
+    "summary": "La Coupe du Monde 2026 n’est même pas encore terminée, mais elle est déjà la plus géopolitique de toutes. Des pays organisateurs qui ne s’entendent pas, un carton rouge annulé directement par Donald Trump. Le meilleur arbitre africain renvoyé chez lui, faute de visa. Le nouvel ordre mondial s’est invité sur le terrain.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20260711-maroc-une-vocation-africaine-et-un-pari-strat%C3%A9gique",
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260711-coupe-du-monde-2026-le-nouvel-ordre-mondial-s-invite-sur-le-terrain",
     "date": "2026-07-11"
+  },
+  {
+    "type": "news",
+    "title": "Le canal de Panama, artère vitale du commerce mondial et « victime collatérale » de la guerre froide entre les Etats-Unis et la Chine",
+    "summary": "« La ruée sur les ports » (2/16). D’un côté, Donald Trump exige – et obtient – le retrait des entreprises chinoises présentes dans les ports du canal de Panama. De l’autre, la Chine réplique en inspectant les navires arborant pavillon panaméen. Entre les deux, un petit pays de 4,5 millions d’habitants qui s’accroche à la « neutralité » du canal.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/13/le-canal-de-panama-artere-vitale-du-commerce-mondial-et-victime-collaterale-de-la-guerre-froide-entre-les-etats-unis-et-la-chine_6723047_3235.html",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "date": "2026-07-10"
   }
 ]
