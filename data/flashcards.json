@@ -1,6 +1,12 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "节目",
+    "pinyin": "jiémù",
+    "fr": "programme"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "洗澡",
     "pinyin": "xǐ zǎo",
     "fr": "prendre un bain"
