@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La fusion Warner-Paramount est contestée par plusieurs États américains.",
-      "Les tensions au Moyen-Orient impactent le marché du pétrole et du gaz."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-15"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -45,18 +33,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats d'entreprises",
-    "summary": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats d'entreprises Zonebourse",
+    "title": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats (actualisé)",
+    "summary": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats (actualisé) Zonebourse",
     "source": "Google Actualités — Éco",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPREVqU1NUaUdQVzhXSkJfNWRVVFBJcGluZlhZd0RIR3o0RENGQjRsUWJLWEtWaE5naVA5dlJoLVJPdEhyTWY2bG5NcnhOR0t0TFpmZjktdzJmd21jelpHMEI1ZUZaYUlpVGhERm5RMURBc01xNTZ3djdQWk55Q00xWUl3a1Z0NnNpRURYRkRLS3JhMHIyS3JiQ3p5MW9lNlBGRTJMZGNBT1VpNExmMHJ3Zld2UDZ6UU5iOVdBZTkzUUR1ZVNJS00tZ3ZtWnRJTFFoRVFUXzM2ZDRxVjhOeE54T2hSb24zN3dQcTBNT0VYT0NQUQ?oc=5",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "La « mégafusion » entre Warner et Paramount attaquée en justice par 12 Etats américains et le syndicat des scénaristes",
-    "summary": "Le projet de fusion à 110 milliards de dollars des deux studios « menace la santé économique et créative de l’industrie américaine du divertissement », selon le syndicat professionnel, qui a entamé une procédure judiciaire.",
+    "title": "EN DIRECT, guerre en Ukraine : Ursula von der Leyen annonce un accord entre l’UE et Kiev pour la production conjointe de drones",
+    "summary": "« Nous devons unir nos forces », a déclaré, mercredi dans la capitale ukrainienne, la présidente de ‌la Commission européenne à l’occasion d’une cérémonie commémorant le Jour ⁠de l’Etat ukrainien. « Cet accord permettra de conjuguer l’ingéniosité ukrainienne et la puissance industrielle de l’Europe », a-t-elle ajouté.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-nocturne-d-envergure-contre-20-navires-russes-en-mer-noire_6722853_3210.html",
     "date": "2026-07-15"
   },
   {
@@ -77,26 +65,26 @@
   },
   {
     "type": "news",
-    "title": "L’Afrique pourra-t-elle développer une IA africaine ?",
-    "summary": "Quelles sont la place et la partition propres au continent africain dans l’architecture mondiale de l’intelligence artificielle (IA) ? Alors que se déroule, du 7 au 10 juillet à Genève, l’IA for Good Global Summit, coprésidé par le Rwandais Paul Kagame, la question d’une IA africaine occupe la presse du continent.",
+    "title": "Remaniement ministériel en Ukraine : “Le gouvernement part, la crise de gouvernance reste”",
+    "summary": "Le 12 juillet, la Première ministre Iouliya Svyrydenko a présenté la démission de son gouvernement. Un changement subit, qui masque de graves dissensions au sommet de l’État.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/tech-l-afrique-pourra-t-elle-developper-une-ia-africaine_247340",
-    "date": "2026-07-14"
+    "link": "https://www.courrierinternational.com/article/politique-remaniement-ministeriel-en-ukraine-le-gouvernement-part-la-crise-de-gouvernance-reste_249813",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "US-Russian crew launches on mission to space station",
-    "summary": "A US-Russian crew blasted off onboard a Soyuz spacecraft for an eight-month mission to the International Space Station.",
+    "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
+    "summary": "At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
-    "date": "2026-07-14"
+    "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Putin’s next move will be Baltic incursion, warns top Russian dissident",
-    "summary": "Vladimir Putin has no intention of striking a peace deal with Ukraine and is more likely to instead escalate his war after Moscow’s parliamentary election in September, according to Russian opposition activist Garry Kasparov.",
+    "title": "Russia attacks Odesa as von der Leyen arrives in Kyiv",
+    "summary": "Russian strikes killed at least three people in Odesa on Wednesday, Ukrainian authorities said, as European Commission President Ursula von der Leyen arrived in Kyiv to discuss defense cooperation with Ukraine.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/putins-next-move-baltic-incursion-warns-top-russian-dissident/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/russia-attacks-odesa-ursula-von-der-leyen-ukraine-trip/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-15"
   },
   {
@@ -142,7 +130,7 @@
   {
     "type": "news",
     "title": "Jurassic Park computers in excruciating detail",
-    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 275 # Comments: 62",
+    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 558 # Comments: 131",
     "source": "Hacker News",
     "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
     "date": "2026-07-15"
@@ -189,18 +177,18 @@
   },
   {
     "type": "news",
-    "title": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO]",
-    "summary": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO] tourmag.com",
+    "title": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis",
+    "summary": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGFyYVF5SXVQNDF1S3gwOURrRkZlUzk4QVhXc3dKYUVrWW42RWJkRW40OVg2SU9XZEhxb2VLWTI3UjhzZGpodkpTV3Y1UWtxVjE0MVo1SXJvekpoazZHX3h1dkt3WmZwNVBUaUZzMkc3ajdqR29uNDREZ2lUTi0tTE9aZ0JxVXI1czcxcVhGT2hSS2lHemdrdEhuUnpnOUZOcFFuZkZDczlabUEtWnNLQkJscUo2dkFxWlFQWFlUbVJCNldud0tHaWZ6UDZjVmc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVERSQmlyS2FLVEVPODNuZUwxdkctczhhQXlfQWtuVEcyY0Y0WHFBc3Z5MER0VlcxS1FNLVFzaGpweTBJTzQyblJCdHFHeGlYeVdHZXFhRVVjOHNwREpIUUJKUmNFcFVlQ3VGQXp3eEd1QkhtNlJQUkpLaTRid3Fhd1NLdDJ3R19VbEhUenVTTGFsOHB3YTFiLUJnMmItX0NtVi1FQ1JodlVtbThuQnk1OGJmRUQ4SV9WNjdsVlB3UDZTSS1vSXh0MlVIZHVWY0RSX0hkVm1OVVhWSzBhRHc4WjZJQ2FGWEozN1FjdjlIcGl5cnBlQ2hVY2pKcExVM2FFYXdoZkVpdFdiM2_SAYsCQVVfeXFMTlREUkJpckthS1RFTzgzbmVMMXZHLXM4YUF5X0FrblRHMmNGNFhxQXN2eTBEdFZXMUtRTS1Rc2hqcHkwSU80Mm5SQnRxR3hpWHlXR2VxYUVVYzhzcERKSFFCSlJjRXBVZUN1RkF6d3hHdUJIbTZSUFJKS2k0YndxYXdTS3Qyd0dfVWxIVHp1U0xhbDhwd2ExYi1CZzJiLV9DbVYtRUNSaHZVbW04bkJ5NThiZkVEOElfVjY3bFZQd1A2U0ktb0l4dDJVSGR1VmNEUl9IZFZtTlVYVkswYUR3OFo2SUNhRlhKMzdRY3Y5SHBpeXJwZUNoVWNqSnBMVTNhRWF3aGZFaXRXYjNv?oc=5",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations au 15 juillet 2026",
-    "summary": "La Russie a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent avoir lancé une nouvelle série de frappes sur l’Iran pour « affaiblir davantage ses capacités militaires »",
+    "summary": "« Aujourd’hui, à 6 heures du matin [midi, heure de Paris], les forces du commandement central américain ont lancé une série de frappes contre l’Iran », a fait savoir le CentCom sur X.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-les-dernieres-informations-au-15-juillet-2026_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-de-nouvelles-frappes-americaines-signalees-contre-bouchehr-en-iran-bahrein-dit-avoir-contre-plusieurs-attaques-iraniennes_6722873_3210.html",
     "date": "2026-07-15"
   },
   {
@@ -221,26 +209,26 @@
   },
   {
     "type": "news",
-    "title": "Le mont Athos, cheval de troie de la Russie en Europe ?",
-    "summary": "La péninsule monastique, située dans le nord de la Grèce, constitue le foyer spirituel de la religion orthodoxe. Mais la Sainte Montagne s’apparente à un territoire convoité, en proie aux influences politiques et aux fantasmes.",
+    "title": "“Quinze jours en enfer” : une journaliste afghane réfugiée au Pakistan raconte l’arbitraire",
+    "summary": "Arrêtée alors qu’elle vivait avec un visa parfaitement en règle au Pakistan, une journaliste afghane a failli être expulsée avec ses enfants sans autre forme de procès. Elle témoigne de l’arbitraire qui, de l’Europe à l’Asie, frappe les réfugiés ayant, comme elle, fui le régime des talibans.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/grece-le-mont-athos-cheval-de-troie-de-la-russie-en-europe_249714",
+    "link": "https://www.courrierinternational.com/article/temoignage-quinze-jours-en-enfer-une-journaliste-afghane-refugiee-au-pakistan-raconte-l-arbitraire_245315",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
-    "summary": "Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.",
+    "title": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
+    "summary": "The deal cuts tariffs on thousands of goods and widens access for services firms and ​professionals in both markets.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "The border that vanished overnight",
-    "summary": "Listen on Spotify Apple Music Amazon Music European allies are moving to help strengthen Ukraine as Kyiv ups the pressure in its war against Russia. As a part of that push, Commission President Ursula von der Leyen and a group of EU leaders are making a surprise trip to Kyiv to push through a string of new defense initiatives.",
+    "title": "Putin’s next move will be Baltic incursion, warns top Russian dissident",
+    "summary": "Vladimir Putin has no intention of striking a peace deal with Ukraine and is more likely to instead escalate his war after Moscow’s parliamentary election in September, according to Russian opposition activist Garry Kasparov.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-border-that-vanished-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/putins-next-move-baltic-incursion-warns-top-russian-dissident/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-15"
   },
   {
@@ -285,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "Data centers have hiked electricity prices on the public by $23B",
-    "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/ Comments URL: https://news.ycombinator.com/item?id=48914683 Points: 167 # Comments: 99",
+    "title": "Microsoft has released software updates to plug at least 570 security holes",
+    "summary": "Article URL: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/ Comments URL: https://news.ycombinator.com/item?id=48913190 Points: 150 # Comments: 96",
     "source": "Hacker News",
-    "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-    "date": "2026-07-15"
+    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -333,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis",
-    "summary": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis Boursorama",
+    "title": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO]",
+    "summary": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO] tourmag.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVERSQmlyS2FLVEVPODNuZUwxdkctczhhQXlfQWtuVEcyY0Y0WHFBc3Z5MER0VlcxS1FNLVFzaGpweTBJTzQyblJCdHFHeGlYeVdHZXFhRVVjOHNwREpIUUJKUmNFcFVlQ3VGQXp3eEd1QkhtNlJQUkpLaTRid3Fhd1NLdDJ3R19VbEhUenVTTGFsOHB3YTFiLUJnMmItX0NtVi1FQ1JodlVtbThuQnk1OGJmRUQ4SV9WNjdsVlB3UDZTSS1vSXh0MlVIZHVWY0RSX0hkVm1OVVhWSzBhRHc4WjZJQ2FGWEozN1FjdjlIcGl5cnBlQ2hVY2pKcExVM2FFYXdoZkVpdFdiM2_SAYsCQVVfeXFMTlREUkJpckthS1RFTzgzbmVMMXZHLXM4YUF5X0FrblRHMmNGNFhxQXN2eTBEdFZXMUtRTS1Rc2hqcHkwSU80Mm5SQnRxR3hpWHlXR2VxYUVVYzhzcERKSFFCSlJjRXBVZUN1RkF6d3hHdUJIbTZSUFJKS2k0YndxYXdTS3Qyd0dfVWxIVHp1U0xhbDhwd2ExYi1CZzJiLV9DbVYtRUNSaHZVbW04bkJ5NThiZkVEOElfVjY3bFZQd1A2U0ktb0l4dDJVSGR1VmNEUl9IZFZtTlVYVkswYUR3OFo2SUNhRlhKMzdRY3Y5SHBpeXJwZUNoVWNqSnBMVTNhRWF3aGZFaXRXYjNv?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGFyYVF5SXVQNDF1S3gwOURrRkZlUzk4QVhXc3dKYUVrWW42RWJkRW40OVg2SU9XZEhxb2VLWTI3UjhzZGpodkpTV3Y1UWtxVjE0MVo1SXJvekpoazZHX3h1dkt3WmZwNVBUaUZzMkc3ajdqR29uNDREZ2lUTi0tTE9aZ0JxVXI1czcxcVhGT2hSS2lHemdrdEhuUnpnOUZOcFFuZkZDczlabUEtWnNLQkJscUo2dkFxWlFQWFlUbVJCNldud0tHaWZ6UDZjVmc?oc=5",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Géopolitique : le retour de la guerre et ses paradoxes (2/4)",
-    "summary": "Dans ce deuxième épisode de podcast de la série « Géopolitique » consacrée à la nouvelle donne internationale en perte de repères, Gilles Paris et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », analysent comment les terrains de guerre sont profondément modifiés.",
+    "title": "La « mégafusion » entre Warner et Paramount attaquée en justice par 12 Etats américains et le syndicat des scénaristes",
+    "summary": "Le projet de fusion à 110 milliards de dollars des deux studios « menace la santé économique et créative de l’industrie américaine du divertissement », selon le syndicat professionnel, qui a entamé une procédure judiciaire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/podcasts/article/2026/07/15/geopolitique-le-retour-de-la-guerre-et-ses-paradoxes-2-4_6723450_5463015.html",
+    "link": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html",
     "date": "2026-07-15"
   },
   {
@@ -365,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "En juin, la vague de chaleur aurait causé la mort de 14 000 Européens",
-    "summary": "Selon une étude statistique menée par “Politico” qui concerne les six pays européens les plus touchés par la canicule du mois de juin, la surmortalité aurait été d’au moins 14 000 cas le mois dernier. Des chiffres encore provisoires, mais déjà très inquiétants.",
+    "title": "Marine Le Pen, candidate à la présidentielle : un défi moral pour la presse étrangère",
+    "summary": "Chaque semaine, “Courrier international” explique ses choix éditoriaux. Dans le magazine en kiosque le 16 juillet, nous revenons sur l’annonce de la candidature à l’Élysée de la députée RN malgré sa lourde condamnation. Un pari risqué mais surtout un défi moral pour la presse étrangère, qui dénonce une méthode digne de Donald Trump.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/canicule-en-juin-la-vague-de-chaleur-aurait-cause-la-mort-de-14-000-europeens_249747",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
-    "summary": "Iran's bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/a-la-une-du-magazine-marine-le-pen-candidate-a-la-presidentielle-un-defi-moral-pour-la-presse-etrangere_248956",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Defund the Olympics over Russian re-entry, say 9 EU countries",
-    "summary": "Sports ministers from nine countries are urging EU Sports Commissioner Glenn Micallef to cut EU funding to the International Olympic Committee over its decision last week to lift the ban on the Russian Olympic Committee. The IOC imposed broad restrictions on Russian athletes after Russia’s full-scale invasion of Ukraine in 2022.",
+    "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+    "summary": "Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
+    "title": "The border that vanished overnight",
+    "summary": "Listen on Spotify Apple Music Amazon Music European allies are moving to help strengthen Ukraine as Kyiv ups the pressure in its war against Russia. As a part of that push, Commission President Ursula von der Leyen and a group of EU leaders are making a surprise trip to Kyiv to push through a string of new defense initiatives.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/9-eu-countries-push-defund-olympics-russian-re-entry/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-14"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-border-that-vanished-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
