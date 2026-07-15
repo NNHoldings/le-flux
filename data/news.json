@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La fusion Warner-Paramount est contestée par plusieurs États américains.",
+      "Les tensions au Moyen-Orient impactent le marché du pétrole et du gaz."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,19 +45,19 @@
   },
   {
     "type": "news",
-    "title": "Marchés : une saison de résultats capitale en Europe ?",
-    "summary": "Marchés : une saison de résultats capitale en Europe ? Boursier.com",
+    "title": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats d'entreprises",
+    "summary": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats d'entreprises Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGNIbUsxcU84NGdWbllFLVdtdGVyTTFQMTd2TDQzOE55Q0pMR0l1Uks5TGI4c3V1T3g4SXFsT1Z5RU1FMGFFMUFYWXZXS2pOUVVIWExyUXUwVzhZNVFjLVNtd0JQbUs5X1ZvZmtZTEo0by0zcXRQUGN6MkphV1RQaGYzdTZTclkyMHAxdTh5VGExRk1wZ05wcEZ1Z2dFVDE5c2hBT0tB?oc=5",
-    "date": "2026-07-14"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPREVqU1NUaUdQVzhXSkJfNWRVVFBJcGluZlhZd0RIR3o0RENGQjRsUWJLWEtWaE5naVA5dlJoLVJPdEhyTWY2bG5NcnhOR0t0TFpmZjktdzJmd21jelpHMEI1ZUZaYUlpVGhERm5RMURBc01xNTZ3djdQWk55Q00xWUl3a1Z0NnNpRURYRkRLS3JhMHIyS3JiQ3p5MW9lNlBGRTJMZGNBT1VpNExmMHJ3Zld2UDZ6UU5iOVdBZTkzUUR1ZVNJS00tZ3ZtWnRJTFFoRVFUXzM2ZDRxVjhOeE54T2hSb24zN3dQcTBNT0VYT0NQUQ?oc=5",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Le détroit d’Ormuz fermé, regain de tension sur les marchés du pétrole et du gaz",
-    "summary": "Le pétrole a fait un bond de 15 % en deux jours, mais demeure à 86 dollars le baril, un niveau historiquement modéré. La tension est plus forte sur le gaz.",
+    "title": "La « mégafusion » entre Warner et Paramount attaquée en justice par 12 Etats américains et le syndicat des scénaristes",
+    "summary": "Le projet de fusion à 110 milliards de dollars des deux studios « menace la santé économique et créative de l’industrie américaine du divertissement », selon le syndicat professionnel, qui a entamé une procédure judiciaire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/14/le-detroit-d-ormuz-ferme-regain-de-tension-sur-les-marches-du-petrole-et-du-gaz_6723324_3234.html",
-    "date": "2026-07-14"
+    "link": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -73,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
-    "summary": "Nine European countries and Ukraine have launched a coalition to build Europe's own defence against ballistic missiles.",
+    "title": "US-Russian crew launches on mission to space station",
+    "summary": "A US-Russian crew blasted off onboard a Soyuz spacecraft for an eight-month mission to the International Space Station.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Bulgaria has no place in Coalition of the Willing backing Ukraine, says PM",
-    "summary": "Prime Minister Rumen Radev announced Tuesday that Bulgaria doesn’t belong in the Coalition of the Willing, as his country’s guards marched alongside other European armed forces during Bastille Day celebrations hosted by French President Emmanuel Macron.",
+    "title": "Putin’s next move will be Baltic incursion, warns top Russian dissident",
+    "summary": "Vladimir Putin has no intention of striking a peace deal with Ukraine and is more likely to instead escalate his war after Moscow’s parliamentary election in September, according to Russian opposition activist Garry Kasparov.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/bulgaria-no-place-coalition-of-the-willing-ukraine-rumen-radev/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-14"
+    "link": "https://www.politico.eu/article/putins-next-move-baltic-incursion-warns-top-russian-dissident/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -97,10 +109,10 @@
   },
   {
     "type": "news",
-    "title": "« L’Europe, par la taille de son marché et son influence réglementaire, projette ses normes au-delà de ses frontières »",
-    "summary": "Comme le montre l’exemple des viandes brésiliennes, les normes sanitaires et la traçabilité deviennent des variables centrales du commerce international et du risque économique pour les pays émergents, constate l’économiste brésilien Gustavo Pessoa, dans une tribune au « Monde ».",
+    "title": "Le détroit d’Ormuz fermé, regain de tension sur les marchés du pétrole et du gaz",
+    "summary": "Le pétrole a fait un bond de 15 % en deux jours, mais demeure à 86 dollars le baril, un niveau historiquement modéré. La tension est plus forte sur le gaz.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/14/l-europe-par-la-taille-de-son-marche-et-son-influence-reglementaire-projette-ses-normes-au-dela-de-ses-frontieres_6723259_3232.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/14/le-detroit-d-ormuz-ferme-regain-de-tension-sur-les-marches-du-petrole-et-du-gaz_6723324_3234.html",
     "date": "2026-07-14"
   },
   {
@@ -129,6 +141,14 @@
   },
   {
     "type": "news",
+    "title": "Jurassic Park computers in excruciating detail",
+    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 275 # Comments: 62",
+    "source": "Hacker News",
+    "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
     "title": "Daily briefing: The rise of evidence-based medicine",
     "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02206-zHow rigorous research has transformed health and social policy. Plus, a breakthrough for lab-grown sperm and the NSF plans to cut core science programmes to fund a White House initiative.",
     "source": "Nature",
@@ -153,11 +173,11 @@
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "China economic growth falls sharply, missing target",
+    "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -169,19 +189,19 @@
   },
   {
     "type": "news",
-    "title": "L'inflation à la consommation aux États-Unis s'est modérée en juin, grâce à la baisse des prix de l'énergie",
-    "summary": "L'inflation à la consommation aux États-Unis s'est modérée en juin, grâce à la baisse des prix de l'énergie Boursorama",
+    "title": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO]",
+    "summary": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO] tourmag.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVzVxdWxrLU96YVlUVG0wLXFMVHo1WGxTdU42ZDhIa0VXVm00X2Q1ZzhGZlNSakhvUGptdURzUUMxZm1IVDNnc1BxaEJTanZTYXVCRXFkTzcxdW9lUWdWNC0zNWowWGQ4U0l3Nk9YSG5KVl9NRzZWeFByc0tuY3AyZW9nSFRVLTR4dFUwOHlyRDVLbWp6a3h4ZkMxUXllc1RWYUtDY2FTMEExR1dzQnhfSDRfZHVKc2ZXVnJwZ3JXaGZmelB2YWZmS3VZQldsSF81N0UyRUliTmFqTkJ4ZmpxQW1DWURObmxwbTFEOFZfVUN6TFlfMms1X0FvMjVhRURXcGUtckdEbHVQMzM2cF8yS0dTMlpQa3fSAZcCQVVfeXFMUFc1cXVsay1PemFZVFRtMC1xTFR6NVhsU3VONmQ4SGtFV1ZtNF9kNWc4RmZTUmpIb1BqbXVEc1FDMWZtSFQzZ3NQcWhCU2p2U2F1QkVxZE83MXVvZVFnVjQtMzVqMFhkOFNJdzZPWEhuSlZfTUc2VnhQcnNLbmNwMmVvZ0hUVS00eHRVMDh5ckQ1S21qemt4eGZDMVF5ZXNUVmFLQ2NhUzBBMUdXc0J4X0g0X2R1SnNmV1ZycGdyV2hmZnpQdmFmZkt1WUJXbEhfNTdFMkVJYk5hak5CeGZqcUFtQ1lETm5scG0xRDhWX1VDekxZXzJrNV9BbzI1YUVEV3BlLXJHRGx1UDMzNnBfMktHUzJaUGt3?oc=5",
-    "date": "2026-07-14"
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGFyYVF5SXVQNDF1S3gwOURrRkZlUzk4QVhXc3dKYUVrWW42RWJkRW40OVg2SU9XZEhxb2VLWTI3UjhzZGpodkpTV3Y1UWtxVjE0MVo1SXJvekpoazZHX3h1dkt3WmZwNVBUaUZzMkc3ajdqR29uNDREZ2lUTi0tTE9aZ0JxVXI1czcxcVhGT2hSS2lHemdrdEhuUnpnOUZOcFFuZkZDczlabUEtWnNLQkJscUo2dkFxWlFQWFlUbVJCNldud0tHaWZ6UDZjVmc?oc=5",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky déclare avoir conclu « un accord important » avec la France en matière de défense",
-    "summary": "Le président ukrainien, qui décrit cet accord comme un élément de « coopération de défense avec l’Ukraine », a affirmé avoir obtenu des licences pour la production d’armes. Il a également confirmé les propos d’Emmanuel Macron concernant l’acquisition par Kiev de 16 avions de combat Rafale.",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations au 15 juillet 2026",
+    "summary": "La Russie a revendiqué des frappes contre trois cargos situés près de la ville portuaire d’Odessa et contre des installations navales et pétrolières de cet oblast ukrainien bordé par la mer Noire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-declare-avoir-conclu-un-accord-important-avec-la-france-en-matiere-de-defense_6722853_3210.html",
-    "date": "2026-07-14"
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-les-dernieres-informations-au-15-juillet-2026_6722853_3210.html",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -209,19 +229,19 @@
   },
   {
     "type": "news",
-    "title": "Olympic funding questioned by nine EU nations over Russia readmission",
-    "summary": "Nine EU nations urge funding cuts for sports bodies including International Olympic Committee over readmitting Russians.",
+    "title": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+    "summary": "Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/14/olympic-funding-questioned-by-nine-eu-nations-over-russia-readmission?traffic_source=rss",
-    "date": "2026-07-14"
+    "link": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EU prosecutor asks for police probe into subsidies for Babiš-linked Agrofert",
-    "summary": "The European Public Prosecutor’s Office has tasked Czech police with investigating the payment of EU subsidies to companies within Agrofert, an agro-chemical giant tied to Czech Prime Minister Andrej Babiš.In a letter dated June 19, European Delegated Prosecutor Daniela Bártíková said she “decided to initiate criminal proceedings … concerning funds provided…",
+    "title": "The border that vanished overnight",
+    "summary": "Listen on Spotify Apple Music Amazon Music European allies are moving to help strengthen Ukraine as Kyiv ups the pressure in its war against Russia. As a part of that push, Commission President Ursula von der Leyen and a group of EU leaders are making a surprise trip to Kyiv to push through a string of new defense initiatives.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-prosecutor-asks-police-probe-subsidies-babis-linked-agrofert/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-14"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-border-that-vanished-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -233,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "Mégalevée de fonds pour Helsing, start-up européenne d’IA de défense, valorisée 18 milliards de dollars désormais",
-    "summary": "L’entreprise a annoncé, lundi, avoir récolté 1,8 milliard de dollars lors de son sixième tour de table.",
+    "title": "« L’Europe, par la taille de son marché et son influence réglementaire, projette ses normes au-delà de ses frontières »",
+    "summary": "Comme le montre l’exemple des viandes brésiliennes, les normes sanitaires et la traçabilité deviennent des variables centrales du commerce international et du risque économique pour les pays émergents, constate l’économiste brésilien Gustavo Pessoa, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/13/megalevee-de-fonds-pour-helsing-start-up-europeenne-d-ia-de-defense-valorisee-18-milliards-de-dollars-desormais_6723095_3234.html",
-    "date": "2026-07-13"
+    "link": "https://www.lemonde.fr/idees/article/2026/07/14/l-europe-par-la-taille-de-son-marche-et-son-influence-reglementaire-projette-ses-normes-au-dela-de-ses-frontieres_6723259_3232.html",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -265,6 +285,14 @@
   },
   {
     "type": "news",
+    "title": "Data centers have hiked electricity prices on the public by $23B",
+    "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/ Comments URL: https://news.ycombinator.com/item?id=48914683 Points: 167 # Comments: 99",
+    "source": "Hacker News",
+    "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
     "title": "NSF plans cuts to core science programmes to fund White House initiative",
     "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-xA proposed clawback of already distributed research funds comes as the US agency struggles with a squeezed budget and a backlog of grant applications.",
     "source": "Nature",
@@ -281,43 +309,43 @@
   },
   {
     "type": "news",
-    "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+    "title": "ECB selects 36 payment service providers to join digital euro pilot",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
-    "date": "2026-06-25"
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Gas prices drive down US inflation",
-    "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-14"
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
-    "summary": "China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data.",
+    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
+    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Warsh (Fed) : la banque centrale ne tolérera pas une inflation élevée",
-    "summary": "Warsh (Fed) : la banque centrale ne tolérera pas une inflation élevée Investing.com France",
+    "title": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis",
+    "summary": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3J0WnJvbVlxUk9FZHRBQndXOEFnRVBrQVNhZnBoRVhUaUtTa09ya2lIVnBNS2lTdW1kMDlBSlRfZDZNRTJjbkNmeXZoTWI3YTZDT2hicmw2eU1KODVhNW5OYldjMW12YkdmbkxGUk1ycms4Y1Q2MzJtSkVOSmpmNXdBU29HY0wtM1pSM1RzQURxVE81dzRvN3hIWldKQnZmSlRfSFF0OUpzWTN1N19uSHpjajhUVk9yYVE1bEtfQW9jRjdSd1lCbGFzT2VQM3M?oc=5",
-    "date": "2026-07-14"
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVERSQmlyS2FLVEVPODNuZUwxdkctczhhQXlfQWtuVEcyY0Y0WHFBc3Z5MER0VlcxS1FNLVFzaGpweTBJTzQyblJCdHFHeGlYeVdHZXFhRVVjOHNwREpIUUJKUmNFcFVlQ3VGQXp3eEd1QkhtNlJQUkpLaTRid3Fhd1NLdDJ3R19VbEhUenVTTGFsOHB3YTFiLUJnMmItX0NtVi1FQ1JodlVtbThuQnk1OGJmRUQ4SV9WNjdsVlB3UDZTSS1vSXh0MlVIZHVWY0RSX0hkVm1OVVhWSzBhRHc4WjZJQ2FGWEozN1FjdjlIcGl5cnBlQ2hVY2pKcExVM2FFYXdoZkVpdFdiM2_SAYsCQVVfeXFMTlREUkJpckthS1RFTzgzbmVMMXZHLXM4YUF5X0FrblRHMmNGNFhxQXN2eTBEdFZXMUtRTS1Rc2hqcHkwSU80Mm5SQnRxR3hpWHlXR2VxYUVVYzhzcERKSFFCSlJjRXBVZUN1RkF6d3hHdUJIbTZSUFJKS2k0YndxYXdTS3Qyd0dfVWxIVHp1U0xhbDhwd2ExYi1CZzJiLV9DbVYtRUNSaHZVbW04bkJ5NThiZkVEOElfVjY3bFZQd1A2U0ktb0l4dDJVSGR1VmNEUl9IZFZtTlVYVkswYUR3OFo2SUNhRlhKMzdRY3Y5SHBpeXJwZUNoVWNqSnBMVTNhRWF3aGZFaXRXYjNv?oc=5",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Le commerce extérieur de la Chine toujours plus fort, dopé par l’IA et les voitures électriques",
-    "summary": "Les exportations de la Chine ont progressé de 27 % en juin par rapport au même mois de l’année précédente. Malgré une hausse des importations, le pays engrange un excédent commercial de 576 milliards de dollars sur la première moitié de l’année.",
+    "title": "Géopolitique : le retour de la guerre et ses paradoxes (2/4)",
+    "summary": "Dans ce deuxième épisode de podcast de la série « Géopolitique » consacrée à la nouvelle donne internationale en perte de repères, Gilles Paris et Delphine Papin, respectivement éditorialiste et responsable de l’innovation cartographique au « Monde », analysent comment les terrains de guerre sont profondément modifiés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/14/le-commerce-exterieur-de-la-chine-toujours-plus-fort-dope-par-l-ia-et-les-voitures-electriques_6723302_3234.html",
-    "date": "2026-07-14"
+    "link": "https://www.lemonde.fr/podcasts/article/2026/07/15/geopolitique-le-retour-de-la-guerre-et-ses-paradoxes-2-4_6723450_5463015.html",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -345,18 +373,18 @@
   },
   {
     "type": "news",
-    "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
-    "summary": "Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.",
+    "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
+    "summary": "Iran's bridges, power plants possible targets, Trump says, adding that strikes on Iran will continue until he says.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
-    "date": "2026-07-14"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EU relaxes rules for smart glasses after US pressure",
-    "summary": "The European Commission on Tuesday exempted wearable tech from rules requiring removable batteries, clearing a major hurdle for Meta’s smart glasses to take on the EU market following pressure from the United States. Smart glasses are in European regulators’ and lawmakers’ crosshairs over privacy and surveillance concerns.",
+    "title": "Defund the Olympics over Russian re-entry, say 9 EU countries",
+    "summary": "Sports ministers from nine countries are urging EU Sports Commissioner Glenn Micallef to cut EU funding to the International Olympic Committee over its decision last week to lift the ban on the Russian Olympic Committee. The IOC imposed broad restrictions on Russian athletes after Russia’s full-scale invasion of Ukraine in 2022.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-relaxes-rules-meta-glasses-us-pressure/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/9-eu-countries-push-defund-olympics-russian-re-entry/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-14"
   },
   {
@@ -366,21 +394,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
     "date": "2026-07-12"
-  },
-  {
-    "type": "news",
-    "title": "Le Slip français s’aventure en Bourse",
-    "summary": "La marque de sous-vêtements masculins créée en 2011 lève 3,7 millions d’euros sur le segment Euronext Growth Paris, consacré aux PME. Ces fonds doivent lui permettre de poursuivre ses investissements industriels.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/14/le-slip-francais-s-aventure-en-bourse_6723297_3234.html",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "date": "2026-07-10"
   }
 ]
