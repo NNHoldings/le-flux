@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "Volodymyr Zelensky appelle l'UE à de nouvelles sanctions contre la Russie.",
+      "La fermeture du détroit d'Ormuz entraîne des tensions sur les marchés pétroliers."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -25,26 +37,26 @@
   },
   {
     "type": "news",
-    "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
-    "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
+    "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+    "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats (actualisé)",
-    "summary": "Point marchés-L'Europe vue en légère baisse, focus sur le Moyen-Orient et les résultats (actualisé) Zonebourse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPREVqU1NUaUdQVzhXSkJfNWRVVFBJcGluZlhZd0RIR3o0RENGQjRsUWJLWEtWaE5naVA5dlJoLVJPdEhyTWY2bG5NcnhOR0t0TFpmZjktdzJmd21jelpHMEI1ZUZaYUlpVGhERm5RMURBc01xNTZ3djdQWk55Q00xWUl3a1Z0NnNpRURYRkRLS3JhMHIyS3JiQ3p5MW9lNlBGRTJMZGNBT1VpNExmMHJ3Zld2UDZ6UU5iOVdBZTkzUUR1ZVNJS00tZ3ZtWnRJTFFoRVFUXzM2ZDRxVjhOeE54T2hSb24zN3dQcTBNT0VYT0NQUQ?oc=5",
+    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Ursula von der Leyen annonce un accord entre l’UE et Kiev pour la production conjointe de drones",
-    "summary": "« Nous devons unir nos forces », a déclaré, mercredi dans la capitale ukrainienne, la présidente de ‌la Commission européenne à l’occasion d’une cérémonie commémorant le Jour ⁠de l’Etat ukrainien. « Cet accord permettra de conjuguer l’ingéniosité ukrainienne et la puissance industrielle de l’Europe », a-t-elle ajouté.",
+    "title": "Bourses mondiales: Wall Street salue le net ralentissement de l'inflation américaine, l'Europe prudente",
+    "summary": "Bourses mondiales: Wall Street salue le net ralentissement de l'inflation américaine, l'Europe prudente TradingView",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iTnJrcHByVUlHWThfZ2xSV0s2MHVLOU1HVVlmUVpFaW9mNnNYZncwUVQ0VkRHa1FCRDl4QmNORjY4NVVGNmxOVlVWQ204WXg1VzJ6Wk9EdUJWN2Y5WlY2azd3?oc=5",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky encourage l’UE à adopter un nouveau paquet de sanctions contre la Russie",
+    "summary": "L’Union européenne a décidé de renvoyer au 23 juillet un éventuel accord sur de nouvelles sanctions contre Moscou et a maintenu jusqu’à cette date le plafonnement du prix du pétrole exporté par ce pays, qui venait à échéance mercredi.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-nocturne-d-envergure-contre-20-navires-russes-en-mer-noire_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-encourage-l-ue-a-adopter-un-nouveau-paquet-de-sanctions-contre-la-russie_6722853_3210.html",
     "date": "2026-07-15"
   },
   {
@@ -57,34 +69,34 @@
   },
   {
     "type": "news",
-    "title": "Letting Russia Burn",
-    "summary": "From relentless Ukrainian drone strikes to soaring inflation and fuel shortages, Russia is paying an ever-higher price for Vladimir Putin's war of choice. But the war has become the organizing principle of Putin’s regime, leaving no path to lasting peace without a fundamental political transformation.",
+    "title": "The Iran War Exposes the Global Economy’s Fault Lines",
+    "summary": "Buoyed by AI stocks, global financial markets have largely shrugged off the war with Iran. Yet the conflict’s long-term economic costs are only beginning to emerge, as depleted strategic oil reserves, damaged refining capacity, and rising fuel and fertilizer costs increasingly weigh on lower-income economies.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/why-putin-cannot-afford-to-walk-away-from-ukraine-by-nina-l-khrushcheva-2026-07",
-    "date": "2026-07-13"
+    "link": "https://www.project-syndicate.org/commentary/iran-war-uneven-economic-fallout-by-jayati-ghosh-2026-07",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Remaniement ministériel en Ukraine : “Le gouvernement part, la crise de gouvernance reste”",
-    "summary": "Le 12 juillet, la Première ministre Iouliya Svyrydenko a présenté la démission de son gouvernement. Un changement subit, qui masque de graves dissensions au sommet de l’État.",
+    "title": "Après la mort de migrants mexicains aux États-Unis, Claudia Sheinbaum annonce des poursuites judiciaires",
+    "summary": "Les protestations diplomatiques ne suffisent plus. Après que plusieurs migrants mexicains arrêtés par la police de l’immigration américaine sont morts derrière des barreaux, Mexico engage des poursuites pénales et civiles contre les responsables des centres de détention.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-remaniement-ministeriel-en-ukraine-le-gouvernement-part-la-crise-de-gouvernance-reste_249813",
+    "link": "https://www.courrierinternational.com/article/mexique-apres-la-mort-de-migrants-mexicains-aux-etats-unis-claudia-sheinbaum-annonce-des-poursuites-judiciaires_249982",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
-    "summary": "At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.",
+    "title": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
+    "summary": "Ukraine's parliament is expected to vote for the next prime minister on Thursday.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Russia attacks Odesa as von der Leyen arrives in Kyiv",
-    "summary": "Russian strikes killed at least three people in Odesa on Wednesday, Ukrainian authorities said, as European Commission President Ursula von der Leyen arrived in Kyiv to discuss defense cooperation with Ukraine.",
+    "title": "Merz to MAGA: Butt out of Europe’s elections",
+    "summary": "BERLIN — German Chancellor Friedrich Merz on Wednesday pushed back against a new, million-dollar funding scheme from U.S. President Donald Trump’s administration to support “free speech and religious liberty” in Europe.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-attacks-odesa-ursula-von-der-leyen-ukraine-trip/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/friedrich-merz-maga-stay-out-europe-elections/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-15"
   },
   {
@@ -130,18 +142,18 @@
   {
     "type": "news",
     "title": "Jurassic Park computers in excruciating detail",
-    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 558 # Comments: 131",
+    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 802 # Comments: 205",
     "source": "Hacker News",
     "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Daily briefing: The rise of evidence-based medicine",
-    "summary": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02206-zHow rigorous research has transformed health and social policy. Plus, a breakthrough for lab-grown sperm and the NSF plans to cut core science programmes to fund a White House initiative.",
+    "title": "Rising dust pollution across Europe in a changing climate",
+    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10743-wA database of daily dust metals in Europe is established and a machine learning model shows that transported dust intrusion events over the past decade are linked to changes in atmospheric circulation, while an ice core shows that the increase in dust since pre-industrial times is governed…",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02206-z",
-    "date": "2026-07-13"
+    "link": "https://www.nature.com/articles/s41586-026-10743-w",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -169,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+    "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
+    "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
     "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis",
-    "summary": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis Boursorama",
+    "title": "Marchés: Wall Street mise sur l'IA, l'Europe regarde vers le Moyen-Orient",
+    "summary": "Marchés: Wall Street mise sur l'IA, l'Europe regarde vers le Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVERSQmlyS2FLVEVPODNuZUwxdkctczhhQXlfQWtuVEcyY0Y0WHFBc3Z5MER0VlcxS1FNLVFzaGpweTBJTzQyblJCdHFHeGlYeVdHZXFhRVVjOHNwREpIUUJKUmNFcFVlQ3VGQXp3eEd1QkhtNlJQUkpLaTRid3Fhd1NLdDJ3R19VbEhUenVTTGFsOHB3YTFiLUJnMmItX0NtVi1FQ1JodlVtbThuQnk1OGJmRUQ4SV9WNjdsVlB3UDZTSS1vSXh0MlVIZHVWY0RSX0hkVm1OVVhWSzBhRHc4WjZJQ2FGWEozN1FjdjlIcGl5cnBlQ2hVY2pKcExVM2FFYXdoZkVpdFdiM2_SAYsCQVVfeXFMTlREUkJpckthS1RFTzgzbmVMMXZHLXM4YUF5X0FrblRHMmNGNFhxQXN2eTBEdFZXMUtRTS1Rc2hqcHkwSU80Mm5SQnRxR3hpWHlXR2VxYUVVYzhzcERKSFFCSlJjRXBVZUN1RkF6d3hHdUJIbTZSUFJKS2k0YndxYXdTS3Qyd0dfVWxIVHp1U0xhbDhwd2ExYi1CZzJiLV9DbVYtRUNSaHZVbW04bkJ5NThiZkVEOElfVjY3bFZQd1A2U0ktb0l4dDJVSGR1VmNEUl9IZFZtTlVYVkswYUR3OFo2SUNhRlhKMzdRY3Y5SHBpeXJwZUNoVWNqSnBMVTNhRWF3aGZFaXRXYjNv?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb1JuT0JPb2JLdDVVSlF3LVRpSXNra0x3MU9LaE9KelE5LS0wMXluX1E4SXJWN3lCTUl3V1YxbDdQSE9uUjdaOVFnT1VUZjU1bDI4cEFnc3ZucmRJUUJqTERqNXdYc1h2TDV2aGxZUktPbUhjYUxVNHJjbFIyUndaQ3RCai1UaEJiUkNQQjdRN1VrcmxWcXR5OGlva1BpbkdzN2x5NE5mRTNPRlp4RlVhYy1IUGxiRW1pU1daTEc4UUFBSVRXNU1Gbjk3TXo?oc=5",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent avoir lancé une nouvelle série de frappes sur l’Iran pour « affaiblir davantage ses capacités militaires »",
-    "summary": "« Aujourd’hui, à 6 heures du matin [midi, heure de Paris], les forces du commandement central américain ont lancé une série de frappes contre l’Iran », a fait savoir le CentCom sur X.",
+    "title": "Les banques américaines engrangent des profits exceptionnels grâce à la Bourse",
+    "summary": "La volatilité des marchés profite pleinement aux géants de Wall Street, qui voient leurs profits trimestriels exploser collectivement de 40 %.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-de-nouvelles-frappes-americaines-signalees-contre-bouchehr-en-iran-bahrein-dit-avoir-contre-plusieurs-attaques-iraniennes_6722873_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/15/les-banques-americaines-engrangent-des-profits-exceptionnels-grace-a-la-bourse_6723579_3234.html",
     "date": "2026-07-15"
   },
   {
@@ -201,34 +213,34 @@
   },
   {
     "type": "news",
-    "title": "Asia’s Real Energy Test",
-    "summary": "The Iran war has underscored the fragility of global energy markets, exposing which economies can withstand repeated shocks and which cannot. For ASEAN+3 countries, resilience will depend on stronger electricity systems, regional cooperation, and institutions that can manage persistent uncertainty.",
+    "title": "Letting Russia Burn",
+    "summary": "From relentless Ukrainian drone strikes to soaring inflation and fuel shortages, Russia is paying an ever-higher price for Vladimir Putin's war of choice. But the war has become the organizing principle of Putin’s regime, leaving no path to lasting peace without a fundamental political transformation.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/asian-economies-are-preparing-for-the-wrong-energy-crisis-by-yasuto-watanabe-2026-07",
-    "date": "2026-07-14"
+    "link": "https://www.project-syndicate.org/commentary/why-putin-cannot-afford-to-walk-away-from-ukraine-by-nina-l-khrushcheva-2026-07",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
-    "title": "“Quinze jours en enfer” : une journaliste afghane réfugiée au Pakistan raconte l’arbitraire",
-    "summary": "Arrêtée alors qu’elle vivait avec un visa parfaitement en règle au Pakistan, une journaliste afghane a failli être expulsée avec ses enfants sans autre forme de procès. Elle témoigne de l’arbitraire qui, de l’Europe à l’Asie, frappe les réfugiés ayant, comme elle, fui le régime des talibans.",
+    "title": "Tokyo, refuge discret des Occidentaux aisés",
+    "summary": "Yen faible, sécurité, qualité de vie : de plus en plus d’Européens et d’Américains choisissent de vivre au Japon. Un mouvement qui se heurte pourtant à un durcissement réglementaire inattendu. Explications.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/temoignage-quinze-jours-en-enfer-une-journaliste-afghane-refugiee-au-pakistan-raconte-l-arbitraire_245315",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "India-UK trade deal comes into effect: What’s cheaper in each country now?",
-    "summary": "The deal cuts tariffs on thousands of goods and widens access for services firms and ​professionals in both markets.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/15/india-uk-trade-deal-comes-into-effect-whats-cheaper-in-each-country-now?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/japon-tokyo-refuge-discret-des-occidentaux-aises_245881",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "Putin’s next move will be Baltic incursion, warns top Russian dissident",
-    "summary": "Vladimir Putin has no intention of striking a peace deal with Ukraine and is more likely to instead escalate his war after Moscow’s parliamentary election in September, according to Russian opposition activist Garry Kasparov.",
+    "title": "Revamped Cricket World Cup format could see an additional India-Pakistan match",
+    "summary": "The 14-team 2027 ODI tournament in Africa will have a Super Seven stage but no quarterfinals.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/15/revamped-cricket-world-cup-format-could-see-an-additional-india-pakistan-match?traffic_source=rss",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
+    "title": "Top Orbán ally joins Chinese car giant BYD",
+    "summary": "Former Hungarian Foreign Minister Péter Szijjártó announced Wednesday he had resigned from parliament to take a senior executive role at Chinese electric vehicle giant BYD. Szijjártó said on Facebook he had accepted “a highly prestigious offer” from the company, and will become “the executive responsible for the group’s external relations and the development…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/putins-next-move-baltic-incursion-warns-top-russian-dissident/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/hungary-viktor-orban-former-foreign-minister-joins-chinese-car-giant-byd-peter-szijjarto/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-15"
   },
   {
@@ -241,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "« L’Europe, par la taille de son marché et son influence réglementaire, projette ses normes au-delà de ses frontières »",
-    "summary": "Comme le montre l’exemple des viandes brésiliennes, les normes sanitaires et la traçabilité deviennent des variables centrales du commerce international et du risque économique pour les pays émergents, constate l’économiste brésilien Gustavo Pessoa, dans une tribune au « Monde ».",
+    "title": "La « mégafusion » entre Warner et Paramount attaquée en justice par 12 Etats américains et le syndicat des scénaristes",
+    "summary": "Le projet de fusion à 110 milliards de dollars des deux studios « menace la santé économique et créative de l’industrie américaine du divertissement », selon le syndicat professionnel, qui a entamé une procédure judiciaire.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/14/l-europe-par-la-taille-de-son-marche-et-son-influence-reglementaire-projette-ses-normes-au-dela-de-ses-frontieres_6723259_3232.html",
-    "date": "2026-07-14"
+    "link": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research.",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "date": "2026-07-13"
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -273,19 +285,19 @@
   },
   {
     "type": "news",
-    "title": "Microsoft has released software updates to plug at least 570 security holes",
-    "summary": "Article URL: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/ Comments URL: https://news.ycombinator.com/item?id=48913190 Points: 150 # Comments: 96",
+    "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+    "summary": "Article URL: https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541 Comments URL: https://news.ycombinator.com/item?id=48920181 Points: 450 # Comments: 378",
     "source": "Hacker News",
-    "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "date": "2026-07-14"
+    "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "NSF plans cuts to core science programmes to fund White House initiative",
-    "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-xA proposed clawback of already distributed research funds comes as the US agency struggles with a squeezed budget and a backlog of grant applications.",
+    "title": "Universal gates from braiding and fusing anyons on quantum hardware",
+    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10709-yA 54-qubit realization of non-Abelian S3 topological order demonstrates that combining anyon braiding with fusion enables universal topological quantum computation.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02135-x",
-    "date": "2026-07-10"
+    "link": "https://www.nature.com/articles/s41586-026-10709-y",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -313,26 +325,26 @@
   },
   {
     "type": "news",
-    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO]",
-    "summary": "Marchés : le conflit au Moyen-Orient renforce le dollar et relance les craintes inflationnistes [ABO] tourmag.com",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGFyYVF5SXVQNDF1S3gwOURrRkZlUzk4QVhXc3dKYUVrWW42RWJkRW40OVg2SU9XZEhxb2VLWTI3UjhzZGpodkpTV3Y1UWtxVjE0MVo1SXJvekpoazZHX3h1dkt3WmZwNVBUaUZzMkc3ajdqR29uNDREZ2lUTi0tTE9aZ0JxVXI1czcxcVhGT2hSS2lHemdrdEhuUnpnOUZOcFFuZkZDczlabUEtWnNLQkJscUo2dkFxWlFQWFlUbVJCNldud0tHaWZ6UDZjVmc?oc=5",
+    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "La « mégafusion » entre Warner et Paramount attaquée en justice par 12 Etats américains et le syndicat des scénaristes",
-    "summary": "Le projet de fusion à 110 milliards de dollars des deux studios « menace la santé économique et créative de l’industrie américaine du divertissement », selon le syndicat professionnel, qui a entamé une procédure judiciaire.",
+    "title": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis",
+    "summary": "Les marchés boursiers asiatiques progressent grâce à la baisse du taux d'inflation aux États-Unis Boursorama",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVERSQmlyS2FLVEVPODNuZUwxdkctczhhQXlfQWtuVEcyY0Y0WHFBc3Z5MER0VlcxS1FNLVFzaGpweTBJTzQyblJCdHFHeGlYeVdHZXFhRVVjOHNwREpIUUJKUmNFcFVlQ3VGQXp3eEd1QkhtNlJQUkpLaTRid3Fhd1NLdDJ3R19VbEhUenVTTGFsOHB3YTFiLUJnMmItX0NtVi1FQ1JodlVtbThuQnk1OGJmRUQ4SV9WNjdsVlB3UDZTSS1vSXh0MlVIZHVWY0RSX0hkVm1OVVhWSzBhRHc4WjZJQ2FGWEozN1FjdjlIcGl5cnBlQ2hVY2pKcExVM2FFYXdoZkVpdFdiM2_SAYsCQVVfeXFMTlREUkJpckthS1RFTzgzbmVMMXZHLXM4YUF5X0FrblRHMmNGNFhxQXN2eTBEdFZXMUtRTS1Rc2hqcHkwSU80Mm5SQnRxR3hpWHlXR2VxYUVVYzhzcERKSFFCSlJjRXBVZUN1RkF6d3hHdUJIbTZSUFJKS2k0YndxYXdTS3Qyd0dfVWxIVHp1U0xhbDhwd2ExYi1CZzJiLV9DbVYtRUNSaHZVbW04bkJ5NThiZkVEOElfVjY3bFZQd1A2U0ktb0l4dDJVSGR1VmNEUl9IZFZtTlVYVkswYUR3OFo2SUNhRlhKMzdRY3Y5SHBpeXJwZUNoVWNqSnBMVTNhRWF3aGZFaXRXYjNv?oc=5",
+    "date": "2026-07-15"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis affirment avoir « réduit la capacité de l’Iran à attaquer les navires commerciaux dans le détroit d’Ormuz » après une série de frappes",
+    "summary": "L’armée américaine a annoncé mercredi dans un communiqué avoir mené une « vague de quatre-vingt-dix minutes » de bombardements contre des cibles militaires dans l’île iranienne de Grande Tunb.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/cinema/article/2026/07/15/rachat-de-warner-par-paramount-le-syndicat-des-scenaristes-americains-s-y-oppose-au-meme-titre-que-douze-etats-americains_6723488_3476.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/15/en-direct-guerre-au-moyen-orient-les-etats-unis-affirment-avoir-reduit-la-capacite-de-l-iran-a-attaquer-les-navires-commerciaux-dans-le-detroit-d-ormuz-apres-une-serie-de-frappes_6722873_3210.html",
     "date": "2026-07-15"
   },
   {
@@ -345,34 +357,34 @@
   },
   {
     "type": "news",
-    "title": "Should the Bank of Japan Raise Interest Rates?",
-    "summary": "At the beginning of 2013, when \"Abenomics\" was rolled out in Japan, the yen was significantly overvalued, and looser monetary policy was badly needed. Today, the opposite is true, indicating that interest-rate hikes may well be the right prescription for Japan.",
+    "title": "Asia’s Real Energy Test",
+    "summary": "The Iran war has underscored the fragility of global energy markets, exposing which economies can withstand repeated shocks and which cannot. For ASEAN+3 countries, resilience will depend on stronger electricity systems, regional cooperation, and institutions that can manage persistent uncertainty.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/bessent-is-right-to-recommend-higher-interest-rates-in-japan-by-koichi-hamada-2026-07",
-    "date": "2026-07-09"
+    "link": "https://www.project-syndicate.org/commentary/asian-economies-are-preparing-for-the-wrong-energy-crisis-by-yasuto-watanabe-2026-07",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Marine Le Pen, candidate à la présidentielle : un défi moral pour la presse étrangère",
-    "summary": "Chaque semaine, “Courrier international” explique ses choix éditoriaux. Dans le magazine en kiosque le 16 juillet, nous revenons sur l’annonce de la candidature à l’Élysée de la députée RN malgré sa lourde condamnation. Un pari risqué mais surtout un défi moral pour la presse étrangère, qui dénonce une méthode digne de Donald Trump.",
+    "title": "À la suite de l’affaire Epstein, Warren Buffett suspend ses dons à la Fondation Gates",
+    "summary": "Pour la première fois depuis vingt ans, le milliardaire américain nonagénaire ne soutient pas la fondation philanthropique créée par Bill et Melinda Gates. Le nom du cofondateur de Microsoft est apparu dans le dossier Jeffrey Epstein, condamné pour délits sexuels et mort en prison.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/a-la-une-du-magazine-marine-le-pen-candidate-a-la-presidentielle-un-defi-moral-pour-la-presse-etrangere_248956",
+    "link": "https://www.courrierinternational.com/article/philanthropie-a-la-suite-de-l-affaire-epstein-warren-buffett-suspend-ses-dons-a-la-fondation-gates_249894",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
-    "summary": "Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.",
+    "title": "Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen",
+    "summary": "A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss",
     "date": "2026-07-15"
   },
   {
     "type": "news",
-    "title": "The border that vanished overnight",
-    "summary": "Listen on Spotify Apple Music Amazon Music European allies are moving to help strengthen Ukraine as Kyiv ups the pressure in its war against Russia. As a part of that push, Commission President Ursula von der Leyen and a group of EU leaders are making a surprise trip to Kyiv to push through a string of new defense initiatives.",
+    "title": "Right-wing bloc in EU Parliament shields Slovenian lawmaker from prosecutors",
+    "summary": "BRUSSELS — The legal affairs committee in the European Parliament voted to shield Slovenian lawmaker Matej Tonin from prosecution in Ljubljana, according to three people familiar with the proceedings.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-border-that-vanished-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-parliament-right-wing-bloc-shields-slovenian-lawmaker-from-prosecutors/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-15"
   },
   {
