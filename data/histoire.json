@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les idées principales d'Adam Smith dans 'La richesse des nations'?",
+    "answer": "Adam Smith, dans son ouvrage de 1776, propose que la richesse d'une nation provient de la division du travail et de la libre concurrence. Il introduit le concept de la 'main invisible' qui régule les marchés à travers les intérêts individuels."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment Karl Marx a-t-il critiqué le capitalisme?",
+    "answer": "Dans 'Le Capital', publié en 1867, Karl Marx critique le capitalisme en affirmant qu'il repose sur l'exploitation de la classe ouvrière. Marx propose une analyse des relations de classe et prédit la révolution prolétarienne comme moyen de renverser ce système."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle a été l'impact des idées de John Maynard Keynes sur l'économie mondiale?",
+    "answer": "John Maynard Keynes, dans 'La théorie générale de l'emploi, de l'intérêt et de la monnaie' publié en 1936, a introduit l'idée que l'intervention de l'État est essentielle pour réguler l'économie pendant les périodes de crise. Ses théories ont conduit à des politiques économiques keynésiennes, particulièrement après la Grande Dépression."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles sont les caractéristiques du néolibéralisme dans la pensée économique contemporaine?",
+    "answer": "Le néolibéralisme, qui a émergé dans les années 1970 et a gagné en popularité dans les années 1980 avec des figures comme Margaret Thatcher et Ronald Reagan, prône la déréglementation des marchés et la réduction du rôle de l'État. Cela vise à stimuler la croissance économique par la concurrence et l'initiative individuelle."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la pensée économique chinoise a-t-elle évolué depuis les réformes de Deng Xiaoping?",
+    "answer": "À partir de 1978, Deng Xiaoping introduit des réformes économiques qui mélangent socialisme et marché, transformant la Chine en une économie de marché socialiste. Ces réformes ont permis une croissance rapide, plaçant la Chine comme la deuxième économie mondiale à partir des années 2000."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations économiques ont été apportées par la théorie des jeux?",
+    "answer": "La théorie des jeux, développée par John von Neumann et Oskar Morgenstern dans les années 1940, a révolutionné la compréhension des interactions stratégiques entre agents économiques. Elle a été appliquée à divers domaines, y compris l'économie, la politique et la biologie, influençant la prise de décision dans un contexte d'incertitude."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les principales réformes économiques en Chine après 1978 ?",
     "answer": "Les réformes économiques en Chine, initiées par Deng Xiaoping en 1978, ont introduit des éléments de marché dans l'économie planifiée. Ces réformes ont conduit à l'ouverture de la Chine aux investissements étrangers, à l'essor des zones économiques spéciales et à une croissance économique rapide, permettant à des millions de Chinois de sortir de la pauvreté."
   },
