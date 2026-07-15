@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "Turing Test",
+    "explanation": "Le Turing Test, proposé par Alan Turing en 1950, est un critère d'évaluation de l'intelligence d'une machine. Si une machine peut converser avec un humain sans que ce dernier ne puisse déterminer qu'il s'agit d'une machine, elle réussit le test. Ce concept soulève des questions sur la nature de l'intelligence et de la conscience."
+  },
+  {
+    "type": "ia",
+    "term": "IA et économie",
+    "explanation": "L'IA a un impact significatif sur l'économie mondiale, en transformant des secteurs tels que la finance, la santé et la logistique. Elle permet d'automatiser des tâches, d'améliorer l'efficacité et de créer de nouveaux produits et services. Cependant, son adoption soulève également des défis, notamment en matière d'emploi et d'éthique."
+  },
+  {
+    "type": "ia",
     "term": "Sur-apprentissage (overfitting)",
     "explanation": "Le sur-apprentissage est un phénomène où un modèle apprend trop bien les détails et le bruit des données d'entraînement, au détriment de sa capacité à généraliser sur de nouvelles données. Cela peut être évité par des techniques comme la régularisation ou l'utilisation de jeux de validation."
   },
