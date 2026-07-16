@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "Le départ de Mykhaïlo Fedorov en Ukraine suscite colère et incompréhension.",
-      "Les banques américaines réalisent des profits exceptionnels grâce à la Bourse."
+      "Les marchés obligataires oscillent entre inflation et récession.",
+      "La guerre en Ukraine entraîne des changements politiques et des tensions en Europe.",
+      "Les banques américaines profitent d'une hausse des marchés boursiers."
     ],
     "source": "Le Flux",
     "date": "2026-07-16"
@@ -53,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "En Ukraine, le départ de Mykhaïlo Fedorov, le très populaire ministre de la défense, provoque colère et incompréhension",
-    "summary": "Volodymyr Zelensky a annoncé ce remaniement surprise, mercredi, bouleversant, en pleine offensive en Crimée, l’actuel gouvernement. Des manifestations de soutien au ministre débarqué doivent se tenir jeudi dans tout le pays, notamment à Kiev.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a choisi un nouveau premier ministre, des citoyens dénoncent le limogeage du ministre de la défense Mykhaïlo Fedorov",
+    "summary": "La nomination de Serhi Koretsky, directeur général du groupe énergétique public Naftogaz, a été approuvée par le Parlement ukrainien, jeudi, avec 289 voix pour sur 318, dans le cadre d’un remaniement ministériel surprise décidé par le président ukrainien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/16/en-ukraine-le-depart-du-tres-populaire-ministre-de-la-defense-en-pleine-offensive-en-crimee-seme-l-incomprehension_6723724_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-kiev-affirme-avoir-frappe-deux-petroliers-russes-en-mer-noire-des-manifestations-dans-le-pays-en-soutien-au-ministre-de-la-defense-limoge_6722853_3210.html",
     "date": "2026-07-16"
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
-    "summary": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+    "title": "Climate funding: Who pays for the transition?",
+    "summary": "Developed nations are cutting climate funding, but developing countries still need billions to adapt.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Zelenskyy ousts reformer Fedorov as defense minister amid Ukraine government reshuffle",
-    "summary": "KYIV — Mykhailo Fedorov, credited with bringing a technology overhaul to Ukraine’s military but also clashing with top generals, is out as the country’s defense minister in a government reshuffle launched by Ukrainian President Volodymyr Zelenskyy.",
+    "title": "German military to join French nuclear exercise for first time",
+    "summary": "BERLIN — German military personnel are set to take part in France’s flagship nuclear drill Poker for the first time this fall, according to a German government official. The move would be a significant step toward closer Franco-German cooperation on nuclear deterrence.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/zelenskyy-ousts-reformer-fedorov-from-defense-ministry-amid-government-reshuffle/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-15"
+    "link": "https://www.politico.eu/article/german-military-to-join-french-nuclear-exercise-for-first-time/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -117,11 +117,11 @@
   },
   {
     "type": "news",
-    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue.",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-    "date": "2026-07-09"
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -142,7 +142,7 @@
   {
     "type": "news",
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 158 # Comments: 55",
+    "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 223 # Comments: 79",
     "source": "Hacker News",
     "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "date": "2026-07-15"
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+    "summary": "A major overhaul of Europe's banking rules could provide a boost to the continent's banking sector.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-    "date": "2026-07-15"
+    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers asiatiques reculent sous l'effet de la baisse des fabricants de puces, tandis que les obligations se réjouissent du ralentissement de l'inflation",
-    "summary": "Les marchés boursiers asiatiques reculent sous l'effet de la baisse des fabricants de puces, tandis que les obligations se réjouissent du ralentissement de l'inflation TradingView",
+    "title": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient",
+    "summary": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NTHV6S29XOWYzOUJCRkhNaG13VFZsOWsxS0xiUGxtRGhqMDJPMXJ3U0NXdTZ6cDBOa3NMQzBQR2RuSUtzR3NieGkzOUtZMzJyVXNwVEplOVhkZXZ5a0RTSzFRRkhaaWFyTTJCSUh3UGVzQlA0NHRR?oc=5",
-    "date": "2026-07-15"
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQckc1U3lCOVdkcWgwTjdqNEdQcjNQXy1uYm1nWVktTFgzejZmX0xMS2RDc09YWFZDUUlkQXYzVHdlREpfQ2dDa2c1VVZIV2xBRUhjU21lbDNyRHV2c0Rzdm0xR2NENlQ3THR6bkhYa182Z1Nfa0Y5alFxUldhTFBLSWFvdVZ1WndDUks0ODBnemxKNkFNLVNUY1QxQjdhUjlaaXduNVdBVGFwQ2I2RTE2YnJRcGhmV1AxY0JoWnl3NzJTNW4zenN4X2h5eWQ5X3FyWGNB?oc=5",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-    "summary": "Une série d’explosions a retenti peu après minuit à Kiev, après une alerte signalant l’approche de plusieurs missiles balistiques. Cette attaque russe survient quelques heures après la visite à Kiev de la présidente de la Commission européenne, Ursula von der Leyen.",
+    "title": "En Ukraine, le départ de Mykhaïlo Fedorov, le très populaire ministre de la défense, provoque des manifestations",
+    "summary": "En annonçant un remaniement surprise de son gouvernement, mercredi 15 juillet, Volodymyr Zelensky a mis politiques, militaires et citoyens ukrainiens en colère. Des manifestations de soutien au ministre limogé se sont tenues jeudi dans tout le pays, en particulier à Kiev.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-l-aiea-deplore-la-mort-de-l-ingenieur-en-chef-de-la-centrale-nucleaire-de-zaporijia_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/16/en-ukraine-le-depart-du-tres-populaire-ministre-de-la-defense-en-pleine-offensive-en-crimee-seme-l-incomprehension_6723724_3210.html",
     "date": "2026-07-16"
   },
   {
@@ -229,18 +229,18 @@
   },
   {
     "type": "news",
-    "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-    "summary": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
+    "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
+    "summary": "A slowing economy and rising prices are making it harder for young Chinese to thrive in the city.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "China’s EV pirate ship is coming for Western carmakers",
-    "summary": "Peter Navarro is the White House senior counselor for trade and manufacturing. WASHINGTON — The Chinese auto company BYD is plundering global car markets. In response, Europe is dithering, Canada is opening America’s northern gate, and Mexico is becoming the southern staging ground for China’s assault on the U.S. auto market.",
+    "title": "Parliament takes a break. The plotting begins.",
+    "summary": "Listen on Spotify Apple Music Amazon Music The European Parliament’s 719 lawmakers are about to head off on their six-week summer break. But that doesn’t mean an end to the political headaches. That’s because as soon as they return on Aug. 31, lawmakers will dive straight back into backroom negotiations ahead of Parliament’s big midterm reshuffle.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/china-ev-pirate-ship-is-coming-for-western-carmakers-byd/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/parliament-takes-a-break-the-plotting-begins/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-16"
   },
   {
@@ -261,11 +261,11 @@
   },
   {
     "type": "news",
-    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-    "date": "2026-07-15"
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "date": "2026-07-13"
   },
   {
     "type": "news",
@@ -286,7 +286,7 @@
   {
     "type": "news",
     "title": "Inkling: Our Open-Weights Model",
-    "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 895 # Comments: 220",
+    "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 1044 # Comments: 259",
     "source": "Hacker News",
     "link": "https://thinkingmachines.ai/news/introducing-inkling/",
     "date": "2026-07-15"
@@ -325,10 +325,10 @@
   },
   {
     "type": "news",
-    "title": "Treasury yields fall as traders react to encouraging inflation data",
-    "summary": "Treasury yields fell on Wednesday as traders weighed another tamer-than-expected inflation report.",
+    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/15/treasury-yields-investors-producer-price-inflation-data.html",
+    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
     "date": "2026-07-15"
   },
   {
@@ -341,10 +341,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : nouvelles attaques entre les Etats-Unis et l’Iran, qui dit avoir visé des sites américains en Jordanie, au Koweït et à Bahreïn",
-    "summary": "L’armée iranienne a annoncé, jeudi matin, avoir ciblé des installations militaires américaines en Jordanie avec des drones, selon la télévision d’Etat, après que les Etats-Unis ont mené de nouvelles frappes sur le territoire iranien.",
+    "title": "Antoine Rajerison, le député des paysans qui brave la junte militaire au pouvoir à Madagascar",
+    "summary": "L’ingénieur agronome engagé dans la défense des populations rurales est l’une des seules voix à oser critiquer ouvertement le régime de transition dirigé par le colonel Michaël Randrianirina.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-lance-de-nouvelles-frappes-contre-l-iran-teheran-cible-des-installations-americaines-en-jordanie_6722873_3210.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/antoine-rajerison-le-depute-des-paysans-qui-brave-la-junte-militaire-au-pouvoir-a-madagascar_6723748_3212.html",
     "date": "2026-07-16"
   },
   {
@@ -373,18 +373,18 @@
   },
   {
     "type": "news",
-    "title": "Toronto engulfed by wildfire smoke as US cities threatened",
-    "summary": "Monitor ranks Toronto as having the worst air quality on earth, surpassing Kinshasa, DR Congo, and New Delhi, India.",
+    "title": "Venezuela’s recovery clouded by uncertainty three weeks after earthquake",
+    "summary": "In Venezuela, the focus has shifted from rescue to rebuilding three weeks after devastating earthquakes.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/venezuelas-recovery-clouded-by-uncertainty-three-weeks-after-earthquake?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Ukraine and its allies hope Graham isn’t their last friend with Trump’s ear",
-    "summary": "Ukraine and its allies are hoping they can retain their momentum and support in Washington in the coming months despite the untimely death of stalwart ally Sen. Lindsey Graham. Graham had served as an essential go-between from MAGA world to Kyiv.",
+    "title": "Big win for Sánchez and Puigdemont as top EU court backs Catalan amnesty law",
+    "summary": "LUXEMBOURG — The EU’s top court ruled that the controversial amnesty of Catalan separatists does not violate key provisions of the bloc’s law, bringing pro-independence leader Carles Puigdemont a step closer to returning to Spain after years on the run.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/15/ukraine-allies-graham-trump-00998902?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/european-court-justice-spain-catalonia-pedro-sanchez-carles-puigdemont-amnesty-separatist/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-16"
   },
   {
