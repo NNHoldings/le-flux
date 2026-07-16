@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires oscillent entre inflation et récession.",
-      "La guerre en Ukraine entraîne des changements politiques et des tensions en Europe.",
-      "Les banques américaines profitent d'une hausse des marchés boursiers."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-16"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -45,18 +33,18 @@
   },
   {
     "type": "news",
-    "title": "Bourses: Wall Street soulagée par l'inflation américaine, l'Europe prudente",
-    "summary": "Bourses: Wall Street soulagée par l'inflation américaine, l'Europe prudente Zonebourse",
+    "title": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient",
+    "summary": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFNYRE4xMy1nOHJUTWw1UUV5WXRxd3B1V1dyVFJqc2x4S3lwLVhkVFd5VThqS2JHeHpndTNRdEp6WVBoNVlTbzZjNTY4WXcwUU5BR2N1RjhXU0szT2pZbHlFRFpESWhQd3d4RFlrYkNibkowU2E5UHU4Z3I2QVlYMDV3d1BEQWJQUjFaX2M5NXFxdl9CNU1uSTRvTFYwY2twV1VhenVRQ0lmZHpGTDB3UkpONmJtRGNCVlJhdDR5UjNhelEyMmstOVgzN0NmVTg?oc=5",
-    "date": "2026-07-15"
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2cxUVBvcXhBX1lOem00aEtfc2RrYzR3Y3ZDMHFRNXFBUndHUHRYYTB2Zl85ZTFrQnFRVVlvcmhxOWxmNENKQWFGekM1cWhjT0prOUNQM0NlbWE2VGRfTWMyYzN0YlBQdERBVVYwckI5aVdMNGZrN2Z4ekJSQzUzUGFfdG5WeVgtQ2I5VmFwVlN0RFJTbkVjOTNCcThIejgwWnkwN3dSWHdUN0Z0Y3M0SjA0TEMtOE9JNTJtWWFUaXRtVkhkOXM0dDVBMmh2blhUT1BWTw?oc=5",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a choisi un nouveau premier ministre, des citoyens dénoncent le limogeage du ministre de la défense Mykhaïlo Fedorov",
-    "summary": "La nomination de Serhi Koretsky, directeur général du groupe énergétique public Naftogaz, a été approuvée par le Parlement ukrainien, jeudi, avec 289 voix pour sur 318, dans le cadre d’un remaniement ministériel surprise décidé par le président ukrainien.",
+    "title": "EN DIRECT, guerre en Ukraine : Ievheni Khmara, chef du SBU, remplace Mykhaïlo Fedorov au poste de ministre de la défense",
+    "summary": "Volodymyr Zelensky avait limogé son ministre de la défense. Le chef de l’Etat a notamment souligné l’« expérience concrète de la gestion des effectifs » acquise par M. Khmara au sein du service de sécurité d’Ukraine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-kiev-affirme-avoir-frappe-deux-petroliers-russes-en-mer-noire-des-manifestations-dans-le-pays-en-soutien-au-ministre-de-la-defense-limoge_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-yevhen-khmara-chef-du-sbu-remplace-mykhailo-fedorov-au-poste-de-ministre-de-la-defense_6722853_3210.html",
     "date": "2026-07-16"
   },
   {
@@ -77,26 +65,18 @@
   },
   {
     "type": "news",
-    "title": "Notre maison brûle, et les pétroliers forent ailleurs",
-    "summary": "Les canicules s’enchaînent. La science a établi la responsabilité des émissions liées aux énergies fossiles dans la crise climatique. Pourtant, les plus grandes compagnies pétrolières produisent toujours plus. C’est que leurs dirigeants vivent dans une réalité parallèle, fustige “The Guardian”.",
+    "title": "SpaceX perd plus de 1 000 milliards de dollars de capitalisation",
+    "summary": "Le 15 juin, le cours de l’action de SpaceX est passé pour la première fois sous la barre des 135 dollars, le prix de sa spectaculaire introduction en Bourse il y a un mois. L’enthousiasme des investisseurs pour la société qui regroupe à la fois les activités spatiales d’Elon Musk, le réseau de satellites Starlink et le laboratoire d’intelligence artificielle…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/climat-notre-maison-brule-et-les-petroliers-forent-ailleurs_247296",
+    "link": "https://www.courrierinternational.com/article/bourse-spacex-perd-plus-de-1-000-milliards-de-dollars-de-capitalisation_250368",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Climate funding: Who pays for the transition?",
-    "summary": "Developed nations are cutting climate funding, but developing countries still need billions to adapt.",
+    "title": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
+    "summary": "Purported blueprints of parts of India's largest plant exposed by World Leaks ransomware group, Reuters reports.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-    "date": "2026-07-16"
-  },
-  {
-    "type": "news",
-    "title": "German military to join French nuclear exercise for first time",
-    "summary": "BERLIN — German military personnel are set to take part in France’s flagship nuclear drill Poker for the first time this fall, according to a German government official. The move would be a significant step toward closer Franco-German cooperation on nuclear deterrence.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/article/german-military-to-join-french-nuclear-exercise-for-first-time/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
@@ -109,19 +89,19 @@
   },
   {
     "type": "news",
-    "title": "Les banques américaines engrangent des profits exceptionnels grâce à la Bourse",
-    "summary": "La volatilité des marchés profite pleinement aux géants de Wall Street, qui voient leurs profits trimestriels exploser collectivement de 40 %.",
+    "title": "L’UE exige que Google partage ses données de recherche et ouvre Android aux IA rivales",
+    "summary": "Les utilisateurs d’Android pourront bientôt choisir librement leur assistant d’IA, tandis que Google devra partager certaines données avec ses concurrents, bouleversant l’équilibre du marché numérique européen.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/15/les-banques-americaines-engrangent-des-profits-exceptionnels-grace-a-la-bourse_6723579_3234.html",
-    "date": "2026-07-15"
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberatta…",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-    "date": "2026-07-15"
+    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -133,19 +113,19 @@
   },
   {
     "type": "news",
-    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-    "summary": "As rumors continue to swirl about OpenAI's work on a personalized smart speaker and other hardware, the company is today rolling out its first branded device. The $230 Codex Micro is a specialized, RGB-lit mini-keyboard designed to let users monitor and quickly interact with multiple Codex agents with a glance and a few clicks.",
+    "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
+    "summary": "One week ago, three widely respected European news outlets published the results of an investigation into what they described as a \"joint plan\" by China and Russia to \"defeat Elon Musk's Starlink.\" The story was the product of a long-running inquiry by The Insider, Der Spiegel, and Le Monde.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-    "date": "2026-07-15"
+    "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 223 # Comments: 79",
+    "title": "OnePlus halts operations in USA and Europe",
+    "summary": "Article URL: https://community.oneplus.com/thread/2170715118587871237 Comments URL: https://news.ycombinator.com/item?id=48932539 Points: 414 # Comments: 229",
     "source": "Hacker News",
-    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "date": "2026-07-15"
+    "link": "https://community.oneplus.com/thread/2170715118587871237",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -181,26 +161,26 @@
   },
   {
     "type": "news",
-    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-    "summary": "A major overhaul of Europe's banking rules could provide a boost to the continent's banking sector.",
+    "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+    "summary": "Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+    "link": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient",
-    "summary": "Les marchés mondiaux tiraillés entre inflation, IA et tensions au Moyen-Orient Zonebourse Suisse",
+    "title": "Le gouverneur de la banque centrale du Nigeria prône la prudence avant la réunion de la semaine prochaine",
+    "summary": "Le gouverneur de la banque centrale du Nigeria prône la prudence avant la réunion de la semaine prochaine Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQckc1U3lCOVdkcWgwTjdqNEdQcjNQXy1uYm1nWVktTFgzejZmX0xMS2RDc09YWFZDUUlkQXYzVHdlREpfQ2dDa2c1VVZIV2xBRUhjU21lbDNyRHV2c0Rzdm0xR2NENlQ3THR6bkhYa182Z1Nfa0Y5alFxUldhTFBLSWFvdVZ1WndDUks0ODBnemxKNkFNLVNUY1QxQjdhUjlaaXduNVdBVGFwQ2I2RTE2YnJRcGhmV1AxY0JoWnl3NzJTNW4zenN4X2h5eWQ5X3FyWGNB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUkRoUnpfQUY5SFlzQXNIVERvd2EtUnhpTXRWTjlBVVZFUjZsMUw3MUJkZE9DdUFHM1RyTzA5cVpDNFNSTkJFVTY5Y2p4V0dmbURHbi1jOXhic3hUNzJWRUM1YW1pZ3RnUXNUOHBQZk5oOHp4clZOdzBNV0YyVGhLUHE4MGEzbGVkYlg4OHV0UE1nS0tEazdWazdoSFpQYlIwUU0yT1NkS0pDRk81UnlxM2NWWnN6RTA3b2cxU1BSN1F5c1NpR2gtRUtyTXZyLWN5ald6NEFUV3pBTG9Zd3hjeXQ0Yng1SUsyOFIzT2tYY1cyQQ?oc=5",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "En Ukraine, le départ de Mykhaïlo Fedorov, le très populaire ministre de la défense, provoque des manifestations",
-    "summary": "En annonçant un remaniement surprise de son gouvernement, mercredi 15 juillet, Volodymyr Zelensky a mis politiques, militaires et citoyens ukrainiens en colère. Des manifestations de soutien au ministre limogé se sont tenues jeudi dans tout le pays, en particulier à Kiev.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’île iranienne de Qechm et la province du Hormozgan touchées par des missiles américains, dans un contexte de reprise des hostilités entre l’Iran et les Etats-Unis",
+    "summary": "L’île a été visée vers 18 heures (16 h 30, à Paris), selon le gouvernorat de la province du Hormozgan, cité par l’agence de presse Fars. Des zones proches de la ville de Bandar-e Abbas, en Iran, ont aussi été touchées. Bandar-e Abbas est la capitale de la province du Hormozgan et occupe une position stratégique dans le détroit d’Ormuz.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/16/en-ukraine-le-depart-du-tres-populaire-ministre-de-la-defense-en-pleine-offensive-en-crimee-seme-l-incomprehension_6723724_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-au-moyen-orient-l-ile-iranienne-de-qechm-et-la-province-de-hormozgan-touchees-par-des-missiles-americains-dans-un-contexte-de-reprise-des-hostilites-entre-l-iran-et-les-etats-unis_6722873_3210.html",
     "date": "2026-07-16"
   },
   {
@@ -221,26 +201,18 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Iran, loi sur la fin de vie, incendies au Canada, Ukraine : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "Le ministre de la Défense américain veut tester le taux de testostérone des militaires, femmes comprises",
+    "summary": "Le chef du Pentagone, Pete Hegseth, a annoncé que tous les membres des forces armées américaines âgés de 30 ans et plus allaient désormais subir un test annuel pour mesurer leur taux de testostérone. En cas de déficit, les militaires se verront proposer un traitement hormonal substitutif, rapportent les médias outre-Atlantique.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-iran-loi-sur-la-fin-de-vie-incendies-au-canada-ukraine-les-informations-de-la-nuit_250077",
+    "link": "https://www.courrierinternational.com/article/hormones-le-ministre-de-la-defense-americain-veut-tester-le-taux-de-testosterone-des-militaires-femmes-comprises_250349",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "‘Escaping Beijing’: Why some young Chinese are quitting the capital",
-    "summary": "A slowing economy and rising prices are making it harder for young Chinese to thrive in the city.",
+    "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
+    "summary": "The sale intends to bolster Saudi air defence systems as the kingdom risks escalation with the Iran-backed Houthis.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/16/escaping-beijing-why-some-young-chinese-are-quitting-the-capital?traffic_source=rss",
-    "date": "2026-07-16"
-  },
-  {
-    "type": "news",
-    "title": "Parliament takes a break. The plotting begins.",
-    "summary": "Listen on Spotify Apple Music Amazon Music The European Parliament’s 719 lawmakers are about to head off on their six-week summer break. But that doesn’t mean an end to the political headaches. That’s because as soon as they return on Aug. 31, lawmakers will dive straight back into backroom negotiations ahead of Parliament’s big midterm reshuffle.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/parliament-takes-a-break-the-plotting-begins/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
@@ -261,11 +233,11 @@
   },
   {
     "type": "news",
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research.",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "date": "2026-07-13"
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "date": "2026-07-15"
   },
   {
     "type": "news",
@@ -277,27 +249,27 @@
   },
   {
     "type": "news",
-    "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-    "summary": "Sheetz, a US convenience store chain, is moving its 838 locations off VMware. Sheetz has used VMware virtualization across two Dell R440/R450-series servers at each of its locations since 2019.",
+    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+    "summary": "Energy companies are raising money at IPO at their fastest pace this century, taking advantage of investors’ hunt for new ways to bet on the boom in power-intensive AI data centers. Initial public offerings for energy firms raised $12.6 billion in the first half of this year, according to data firm Dealogic.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-    "date": "2026-07-15"
+    "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Inkling: Our Open-Weights Model",
-    "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 1044 # Comments: 259",
+    "title": "The lost joy of music piracy",
+    "summary": "Article URL: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming Comments URL: https://news.ycombinator.com/item?id=48930454 Points: 654 # Comments: 439",
     "source": "Hacker News",
-    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "date": "2026-07-15"
+    "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Universal gates from braiding and fusing anyons on quantum hardware",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10709-yA 54-qubit realization of non-Abelian S3 topological order demonstrates that combining anyon braiding with fusion enables universal topological quantum computation.",
+    "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-zAs automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10709-y",
-    "date": "2026-07-15"
+    "link": "https://www.nature.com/articles/d41586-026-02214-z",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -317,34 +289,34 @@
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "Gas prices drive down US inflation",
+    "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
-    "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-    "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+    "summary": "A major overhaul of Europe's banking rules could provide a boost to the continent's banking sector.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-    "date": "2026-07-15"
+    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street en hausse, optimisme avec les résultats et données sur l'inflation",
-    "summary": "Point marchés-Wall Street en hausse, optimisme avec les résultats et données sur l'inflation Zonebourse",
+    "title": "Le point sur l'inflation en zone euro et le moral des Américains ce vendredi en Bourse",
+    "summary": "Le point sur l'inflation en zone euro et le moral des Américains ce vendredi en Bourse Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDM4Qm4wSkRnbExhRWNielhaMjFLUkxYSnF3NlRuZXB5TEFkdWdFdmdfQzFTQ1R2LVVtZnoyMHVPQUNyZm8wOE1rLTd2OHBmamswOVctSE13Wm55YjlBekNoZjYtdERfaDlPWVZQQTcyZjFyNTBseXRKVV9JLWw2eks4dERvc0lWMmR3anN6YjY5VVByVUkxLXBHaXNwX2RSdE9FWV9jUGhmUzdJaGpkbUl5NzZWRE93RGhSX201Tlc3MjhWTFNWbmc5bjUtVnl6NWg3WS1qS1d4UVByS2V3MHZvbUhuekU?oc=5",
-    "date": "2026-07-15"
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNWtaUTZJdS13RFduSXdNOWJQaXVYYzhKSmNrU0duOXluM1BxNGhQT2dzUmhzZ2NHZzVrVjVhdk45SUdiY05FTGxMRGYwcUVCTENEV0RZZWU3LUVqZU5WQnBHZ2MyTWRWelJFbzVwS1Z2UjdwTFpyZWRyUHZ0b3RRNl9VWTNyNXdZNmVSdUtWQVdaVlB5eklKRXRmNnJ1SUN4ZWo0WnlLRlhfMGdfZHI3M0VHbXBBM012QjZXRE1VeGFsNWRUUV81QS1lSGRueEc0YkJ0cDhmRWl0ZmNCQUNkM1pPQ2o2SmloVTN1ZQ?oc=5",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Antoine Rajerison, le député des paysans qui brave la junte militaire au pouvoir à Madagascar",
-    "summary": "L’ingénieur agronome engagé dans la défense des populations rurales est l’une des seules voix à oser critiquer ouvertement le régime de transition dirigé par le colonel Michaël Randrianirina.",
+    "title": "Guerre au Soudan : l’UE réticente à désigner les paramilitaires des FSR comme une organisation terroriste",
+    "summary": "Malgré une résolution du Parlement européen invitant le Conseil à inscrire les Forces de soutien rapide sur la liste des groupes terroristes, l’instance refuse pour l’heure de franchir le pas. L’unanimité des 27 chefs d’Etat requise ne serait pas réunie.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/antoine-rajerison-le-depute-des-paysans-qui-brave-la-junte-militaire-au-pouvoir-a-madagascar_6723748_3212.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/16/guerre-au-soudan-l-ue-reticente-a-designer-les-paramilitaires-des-fsr-comme-une-organisation-terroriste_6723834_3212.html",
     "date": "2026-07-16"
   },
   {
@@ -365,26 +337,18 @@
   },
   {
     "type": "news",
-    "title": "Après la mort de migrants mexicains aux États-Unis, Claudia Sheinbaum annonce des poursuites judiciaires",
-    "summary": "Les protestations diplomatiques ne suffisent plus. Après que plusieurs migrants mexicains arrêtés par la police de l’immigration américaine sont morts derrière des barreaux, Mexico engage des poursuites pénales et civiles contre les responsables des centres de détention.",
+    "title": "La vague anti-IA se retourne contre les patrons de la tech, qui craignent pour leur sécurité",
+    "summary": "Dans la Silicon Valley, les fleurons de l’intelligence artificielle font face à des menaces grandissantes, numériques, mais aussi physiques dans les bureaux ou au domicile des dirigeants. “The Wall Street Journal” l’explique par la montée en puissance du mouvement s’opposant aux centres de données et à l’IA.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/mexique-apres-la-mort-de-migrants-mexicains-aux-etats-unis-claudia-sheinbaum-annonce-des-poursuites-judiciaires_249982",
-    "date": "2026-07-15"
-  },
-  {
-    "type": "news",
-    "title": "Venezuela’s recovery clouded by uncertainty three weeks after earthquake",
-    "summary": "In Venezuela, the focus has shifted from rescue to rebuilding three weeks after devastating earthquakes.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/venezuelas-recovery-clouded-by-uncertainty-three-weeks-after-earthquake?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/etats-unis-la-vague-anti-ia-se-retourne-contre-les-patrons-de-la-tech-qui-craignent-pour-leur-securite_250357",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Big win for Sánchez and Puigdemont as top EU court backs Catalan amnesty law",
-    "summary": "LUXEMBOURG — The EU’s top court ruled that the controversial amnesty of Catalan separatists does not violate key provisions of the bloc’s law, bringing pro-independence leader Carles Puigdemont a step closer to returning to Spain after years on the run.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/article/european-court-justice-spain-catalonia-pedro-sanchez-carles-puigdemont-amnesty-separatist/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "title": "US to impose new 25 percent tariffs on some Brazilian imports",
+    "summary": "Beef, coffee, and rare-earth materials escaped US tariffs amid trade tensions with Brazil over alleged unfair practices.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
     "date": "2026-07-16"
   },
   {
@@ -394,5 +358,29 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
     "date": "2026-07-12"
+  },
+  {
+    "type": "news",
+    "title": "Electricité : le régulateur de l’énergie propose une hausse de 2,5 % des tarifs réglementés au 1ᵉʳ août",
+    "summary": "Cela correspondrait à une possible augmentation nette de la facture d’environ 26 euros TTC par an en moyenne pour les foyers concernés.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/16/electricite-le-regulateur-de-l-energie-propose-une-hausse-de-2-5-des-tarifs-reglementes-au-1-aout_6723817_3234.html",
+    "date": "2026-07-16"
+  },
+  {
+    "type": "news",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "date": "2026-07-13"
+  },
+  {
+    "type": "news",
+    "title": "The Hidden Cost of AI-Assisted Creativity",
+    "summary": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption contests, and collaborative storytelling.",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
+    "date": "2026-07-09"
   }
 ]
