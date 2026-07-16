@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales obligations déontologiques d'un commissaire aux comptes selon le Code de commerce ?",
+    "answer": "Les principales obligations incluent l'indépendance, l'intégrité, la compétence, la diligence, et le respect du secret professionnel."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme encadre la déontologie des commissaires aux comptes en France ?",
+    "answer": "La norme encadrant la déontologie est la NEP (Normes d'Exercice Professionnel) qui précise les obligations déontologiques."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les risques de non-respect des obligations déontologiques pour un commissaire aux comptes ?",
+    "answer": "Les risques incluent des sanctions disciplinaires, la perte de la confiance des clients, et des poursuites judiciaires."
+  },
+  {
+    "type": "dec",
+    "question": "Comment garantir l'indépendance d'un commissaire aux comptes selon la NEP ?",
+    "answer": "L'indépendance est garantie par l'absence de liens financiers ou personnels avec l'entité auditée, et par la rotation des mandats."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les conséquences d'un manquement au secret professionnel pour un commissaire aux comptes ?",
+    "answer": "Le manquement au secret professionnel peut entraîner des sanctions disciplinaires et des poursuites pénales."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la différence entre l'indépendance et la neutralité selon le Code de commerce ?",
+    "answer": "L'indépendance fait référence à l'absence de liens d'intérêt, tandis que la neutralité concerne l'objectivité dans l'exercice de l'audit."
+  },
+  {
+    "type": "dec",
     "question": "Quel est le rôle du risque inhérent dans l'évaluation des risques d'audit ?",
     "answer": "Le risque inhérent représente le risque d'anomalies significatives dans les états financiers, avant la prise en compte des contrôles internes, et il doit être évalué par l'auditeur pour orienter ses procédures."
   },
