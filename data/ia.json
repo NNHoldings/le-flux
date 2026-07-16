@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "Overfitting",
+    "explanation": "L'overfitting est un phénomène où un modèle d'apprentissage automatique apprend trop bien les détails et le bruit de l'ensemble de données d'entraînement, ce qui nuit à sa capacité à généraliser sur de nouvelles données. Pour éviter cela, des techniques comme la régularisation ou la validation croisée sont souvent utilisées."
+  },
+  {
+    "type": "ia",
+    "term": "Algorithmes de recommandation",
+    "explanation": "Les algorithmes de recommandation sont des systèmes qui suggèrent des produits ou des contenus aux utilisateurs en fonction de leurs préférences, comportements passés ou des données similaires d'autres utilisateurs. Ils sont largement utilisés dans des plateformes telles que Netflix et Amazon pour personnaliser l'expérience utilisateur et augmenter l'engagement."
+  },
+  {
+    "type": "ia",
     "term": "Turing Test",
     "explanation": "Le Turing Test, proposé par Alan Turing en 1950, est un critère d'évaluation de l'intelligence d'une machine. Si une machine peut converser avec un humain sans que ce dernier ne puisse déterminer qu'il s'agit d'une machine, elle réussit le test. Ce concept soulève des questions sur la nature de l'intelligence et de la conscience."
   },
