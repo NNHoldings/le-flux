@@ -1,6 +1,21 @@
 [
   {
     "type": "finance",
+    "term": "Instruments financiers",
+    "explanation": "Les instruments financiers sont des contrats qui représentent une valeur économique. Ils incluent des actions, des obligations, des dérivés et d'autres produits structurés, chacun ayant des caractéristiques et des risques spécifiques."
+  },
+  {
+    "type": "finance",
+    "term": "Rendement",
+    "explanation": "Le rendement est le revenu généré par un investissement sur une période donnée, exprimé en pourcentage du montant investi. Il peut provenir de dividendes, d'intérêts ou de gains en capital."
+  },
+  {
+    "type": "finance",
+    "term": "Analyse technique",
+    "explanation": "L'analyse technique est une méthode d'évaluation des titres basée sur l'étude des tendances passées des prix et des volumes de transactions. Elle utilise des graphiques et des indicateurs pour prédire les mouvements futurs du marché."
+  },
+  {
+    "type": "finance",
     "term": "Trésorerie",
     "explanation": "La trésorerie fait référence aux liquidités disponibles pour une entreprise à un moment donné. Une gestion efficace de la trésorerie est essentielle pour garantir la solvabilité et la capacité à faire face aux obligations financières."
   },
