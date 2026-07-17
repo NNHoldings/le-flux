@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les conséquences de la guerre de l'Opium (1839-1842) sur la Chine ?",
+    "answer": "La guerre de l'Opium a conduit à la signature du traité de Nankin en 1842, qui a imposé des indemnités lourdes à la Chine et ouvert plusieurs ports au commerce britannique. Cela a marqué le début d'une période de domination étrangère et de déclin de l'Empire Qing."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été l'impact de la Révolution de 1911 sur la Chine ?",
+    "answer": "La Révolution de 1911 a mis fin à plus de deux mille ans de règne impérial en Chine, entraînant l'établissement de la République de Chine le 1er janvier 1912. Cela a également ouvert la voie à des décennies de troubles politiques et de conflits internes."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment le Parti communiste chinois (PCC) a-t-il pris le pouvoir en 1949 ?",
+    "answer": "Le PCC, dirigé par Mao Zedong, a remporté la guerre civile contre le Kuomintang et a proclamé la République populaire de Chine le 1er octobre 1949. Cela a marqué le début d'un régime communiste qui a profondément transformé la société chinoise."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels changements économiques ont été initiés par les réformes de Deng Xiaoping dans les années 1980 ?",
+    "answer": "Les réformes de Deng Xiaoping, lancées en 1978, ont introduit des éléments de marché dans l'économie chinoise, permettant aux entreprises privées et étrangères de prospérer. Ces changements ont propulsé la Chine vers une croissance économique rapide, transformant le pays en une puissance mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été l'effet des événements de Tiananmen en 1989 sur la politique chinoise ?",
+    "answer": "Les manifestations de Tiananmen en 1989, qui ont réclamé des réformes politiques et des libertés civiles, ont été réprimées violemment par le gouvernement chinois, entraînant des milliers de morts. Cet événement a renforcé la répression politique en Chine et a conduit à un contrôle plus strict des libertés d'expression."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine est-elle devenue un acteur majeur sur la scène internationale au 21e siècle ?",
+    "answer": "Au 21e siècle, la Chine a connu une croissance économique exponentielle, devenant la deuxième économie mondiale en 2010. Son initiative 'Belt and Road', lancée en 2013, a renforcé ses liens économiques et géopolitiques à travers l'Asie, l'Europe et au-delà."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les idées principales d'Adam Smith dans 'La richesse des nations'?",
     "answer": "Adam Smith, dans son ouvrage de 1776, propose que la richesse d'une nation provient de la division du travail et de la libre concurrence. Il introduit le concept de la 'main invisible' qui régule les marchés à travers les intérêts individuels."
   },
