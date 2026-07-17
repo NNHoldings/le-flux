@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre au Moyen-Orient exacerbe les vulnérabilités de l'économie mondiale.",
-      "L'UE intensifie ses efforts contre le changement climatique tout en régulant les géants technologiques."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-17"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -38,7 +26,7 @@
   {
     "type": "news",
     "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
-    "summary": "Japanese AI-linked stocks tumbled as a fresh rout in U.S. semiconductor shares spread across Asia after Taiwan Semiconductor Manufacturing's outlook failed to reassure investors.",
+    "summary": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
     "date": "2026-07-17"
@@ -46,17 +34,17 @@
   {
     "type": "news",
     "title": "Point marchés-Nette baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur",
-    "summary": "Point marchés-Nette baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur Zonebourse Suisse",
+    "summary": "Point marchés-Nette baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2lFWFRNbllaZ2RTQnFETHVnTldSNUdCTmxMYWIzOEY0SVk1N1NUX1ZHQlU2TlNYY3RQd1JJQnFSb3NUdDJtS0ZqRjZnaHFmZ01odk1wVTJIMWQzMGlCZkUxZ0FaU2xvNnpuM0FQWHJaLVgzbXQ4WnRRTTBzSmV6eFBXXzFFXzZONnlHTWVfOEJDeDVmOVI4YmROXzRRRGJvalpFempyaVpVQXhMZFNhRDFUZjNnNVRjNUVhVjB4V2pZRzhfM19COUx5X3ZGUDlUblhFSVdlWlEwQk54VEhTLXkwaHppdWh4bHFLNVduX2M?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZWkzY2xmRElVbGdvNWFUNDJ3RVg2cDkyUUMzMlNZUmk5UTRqa1h3V082dW5pbFhFVzNuZmhkUWxWRnRlNURodU5HdW9GRUhDRHpfc21hZWtIaWZlcU1DSG5TOHhxbGFrX3RHRVZTTjVuekZ4dTlTOWU5cTJvNXZfZFFqZ3ZnbHc3WjdyWjJ2WGp2cVBzbkx2WjZxSGxqYzVZYWRwY2VRbkIyWnB5bm9rU1BuYmlTLVRVU0hoWlNfOTVLckpXbTdZcGI1cXBybU5PdGlqeWlidGFDSmJkVkpONjVva0lQRnJaejQxc25EbVRrUQ?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran riposte aux frappes américaines en attaquant le Koweït, Bahreïn et le Qatar",
-    "summary": "Les trois pays du Golfe disent avoir intercepté des drones et des missiles lancés par Téhéran en réponse aux bombardements américains sur des infrastructures de transports iraniennes.",
+    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
+    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-iran-riposte-aux-frappes-americaines-en-attaquant-le-koweit-bahrein-et-le-qatar_6722873_3210.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
     "date": "2026-07-17"
   },
   {
@@ -77,27 +65,27 @@
   },
   {
     "type": "news",
-    "title": "Le ministre de la Défense américain veut tester le taux de testostérone des militaires, femmes comprises",
-    "summary": "Le chef du Pentagone, Pete Hegseth, a annoncé que tous les membres des forces armées américaines âgés de 30 ans et plus allaient désormais subir un test annuel pour mesurer leur taux de testostérone. En cas de déficit, les militaires se verront proposer un traitement hormonal substitutif, rapportent les médias outre-Atlantique.",
+    "title": "Trump sème le doute sur la fiabilité du système électoral américain à trois mois des “midterms”",
+    "summary": "Dans un discours à la nation jeudi soir, le républicain a dénoncé des “vulnérabilités choquantes” dans le système électoral. Il a notamment pointé la Chine du doigt et laissé planer son intention de contester les résultats des élections de mi-mandat, en novembre.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/hormones-le-ministre-de-la-defense-americain-veut-tester-le-taux-de-testosterone-des-militaires-femmes-comprises_250349",
-    "date": "2026-07-16"
-  },
-  {
-    "type": "news",
-    "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-    "summary": "Fatih Birol says 'oil security is still a critical issue' and world should be 'worried' if situation does not improve.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/etats-unis-trump-seme-le-doute-sur-la-fiabilite-du-systeme-electoral-americain-a-trois-mois-des-midterms_250572",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "EU sets up biggest climate fight of 2026 by slamming brakes on carbon market",
-    "summary": "BRUSSELS — The European Commission will ring the opening bell for the biggest climate bust-up of the year on Friday when it unveils an overhaul of the EU’s carbon market. The long-awaited revision will propose weakening the Emissions Trading System, the bloc’s most powerful tool for tackling climate change, to allow heavy industry to emit more planet-warming…",
+    "title": "India debuts hydrogen-powered train as part of sustainability drive",
+    "summary": "India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss",
+    "date": "2026-07-17"
+  },
+  {
+    "type": "news",
+    "title": "Ukraine steps up attacks on Russia’s Black Sea fuel network",
+    "summary": "Ukraine struck 12 vessels belonging to Russia’s shadow fleet in the Black Sea on Thursday night, the commander of the Unmanned Systems Forces, Robert Brovdi, announced on Telegram. The attacks aim to prevent Russia from supplying fuel to the occupied regions of Eastern Ukraine and Crimea and curb its effort to circumvent sanctions, Brovdi explained.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-climate-change-fight-carbon-market-emissions-trading-system/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-16"
+    "link": "https://www.politico.eu/article/ukraine-steps-up-attacks-on-russias-black-sea-fuel-network/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -141,10 +129,10 @@
   },
   {
     "type": "news",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-    "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 186 # Comments: 129",
+    "title": "Mathematics of Data Science",
+    "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 173 # Comments: 11",
     "source": "Hacker News",
-    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "link": "https://arxiv.org/abs/2607.11938",
     "date": "2026-07-16"
   },
   {
@@ -165,43 +153,43 @@
   },
   {
     "type": "news",
-    "title": "Piero Cipollone: Central bank money for the digital era",
+    "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
-    "date": "2026-06-25"
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "Trump Media to sell instant access to 'market-moving' social posts",
+    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
-    "summary": "Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.",
+    "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
+    "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
-    "date": "2026-07-16"
+    "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit dans le désordre, partagée entre résultats et Moyen-Orient",
-    "summary": "Point marchés-L'Europe finit dans le désordre, partagée entre résultats et Moyen-Orient Zonebourse",
+    "title": "Point marchés-Baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur (actualisé)",
+    "summary": "Point marchés-Baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur (actualisé) Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTUFLQWlUTHMwaTRwbmR6UjBWVlJDbGkxVndvSzVNbTgzMldWT0stR3J0SjRlWGxBNTNDcTlfZzR4d0N2eHhETnRDX2w0bE1VbzdxcFhzZ0FNeWVTaFZmT3dWeFNFc01JY2EtT0UzcWZEaUg4Z0IxSXJ3cV91R192UHpmRUlXYWlZODVqYVV3WGZ5WHFPYXlfNEFLeUVpb2d3VXhQWE5BWDRYbWxCaHlkb3h3aXI1dUpKWDRhVW5qSVRYSTlIVUlrM2k5bzFfaTBpalcweXg2emdWdm5rZnpRNQ?oc=5",
-    "date": "2026-07-16"
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2lFWFRNbllaZ2RTQnFETHVnTldSNUdCTmxMYWIzOEY0SVk1N1NUX1ZHQlU2TlNYY3RQd1JJQnFSb3NUdDJtS0ZqRjZnaHFmZ01odk1wVTJIMWQzMGlCZkUxZ0FaU2xvNnpuM0FQWHJaLVgzbXQ4WnRRTTBzSmV6eFBXXzFFXzZONnlHTWVfOEJDeDVmOVI4YmROXzRRRGJvalpFempyaVpVQXhMZFNhRDFUZjNnNVRjNUVhVjB4V2pZRzhfM19COUx5X3ZGUDlUblhFSVdlWlEwQk54VEhTLXkwaHppdWh4bHFLNVduX2M?oc=5",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky justifie le choix de son nouveau premier ministre par sa volonté de préparer au mieux l’hiver",
-    "summary": "Serhi Koretsky dirigeait jusqu’à sa nomination le groupe énergétique public Naftogaz, ce qui constitue précisément « son point fort » selon le président ukrainien. Ce dernier craint de nouvelles attaques russes sur les infrastructures critiques du pays en fin d’année.",
+    "title": "Oleksandra Paskal, la jeune gymnaste amputée qui danse pour l’Ukraine et les enfants victimes de la guerre",
+    "summary": "Blessée dans un bombardement russe, en mai 2022, la fillette de 10 ans se produit, vendredi, à Paris, puis dans quatre autres villes du monde. Elevée en symbole de résilience du peuple ukrainien, elle veut délivrer un message de courage et de liberté.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-justifie-le-choix-de-son-nouveau-premier-ministre-par-sa-volonte-de-preparer-au-mieux-l-hiver_6722853_3210.html",
-    "date": "2026-07-16"
+    "link": "https://www.lemonde.fr/sport/article/2026/07/17/oleksandra-paskal-la-jeune-gymnaste-amputee-qui-danse-pour-l-ukraine-et-les-enfants-victimes-de-la-guerre_6724162_3242.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -221,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "La vague anti-IA se retourne contre les patrons de la tech, qui craignent pour leur sécurité",
-    "summary": "Dans la Silicon Valley, les fleurons de l’intelligence artificielle font face à des menaces grandissantes, numériques, mais aussi physiques dans les bureaux ou au domicile des dirigeants. “The Wall Street Journal” l’explique par la montée en puissance du mouvement s’opposant aux centres de données et à l’IA.",
+    "title": "En République centrafricaine, le nouvel élan du Groupe Wagner grâce au trafic de tramadol",
+    "summary": "Supplanté par Africa Corps sur le continent depuis la mort de son fondateur, Evgueni Prigojine, le groupe de mercenaires russes Wagner poursuit et diversifie ses opérations en République centrafricaine, où il est présent depuis 2018. Notamment en écoulant du tramadol, utilisé comme “cocaïne du pauvre”, décrit “The Wall Street Journal”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-la-vague-anti-ia-se-retourne-contre-les-patrons-de-la-tech-qui-craignent-pour-leur-securite_250357",
-    "date": "2026-07-16"
+    "link": "https://www.courrierinternational.com/article/drogue-en-republique-centrafricaine-le-nouvel-elan-du-groupe-wagner-grace-au-trafic-de-tramadol_250456",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-    "summary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
+    "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
+    "summary": "Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
     "date": "2026-07-17"
   },
   {
@@ -285,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 225 # Comments: 74",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+    "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 208 # Comments: 150",
     "source": "Hacker News",
-    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
     "date": "2026-07-16"
   },
   {
@@ -317,34 +305,34 @@
   },
   {
     "type": "news",
-    "title": "Trump Media to sell early access to key social posts",
-    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-17"
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "Wall Street's profit boom has Europe ripping up its banking rulebook",
-    "summary": "A major overhaul of Europe's banking rules could provide a boost to the continent's banking sector.",
+    "title": "Catching up in the AI race? India gets its second AI unicorn in a month",
+    "summary": "Two Indian AI startups have become unicorns in a month, which has raised hopes that the country could shed its reputation as an AI laggard.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+    "link": "https://www.cnbc.com/2026/07/16/catching-up-in-the-ai-race-india-gets-its-second-ai-unicorn-in-a-month.html",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs",
-    "summary": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs XTB.com",
+    "title": "Le rand sud-africain recule, l'inflation et la réunion de la banque centrale en ligne de mire",
+    "summary": "Le rand sud-africain recule, l'inflation et la réunion de la banque centrale en ligne de mire Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOemZhLU5fSEVOVWZvZHh2c05YM2FoSnc4VDB4SFlJNGVNREJzYVhrQnBlYU10M3FQUkZmVWdjWGFydDd1X3hqV1lTWUdyOFZSeWRSNms1THMxRFY5cG1ObXhfQ2Z6NlJzRG5HZnM3UTRVVWZpNW9tM3o4M1EtZjFickhNLUNsWTQtZFM2OFZtbXJrcXIwRDRIdDBUbVA2UkVDT0RvTVY5SXh1d1VFeUdKaUJ4SjhTX201WVJBNGduTzQwTHIzQWp6TFNSb1I5STJySTUyMw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRUlOdlF0U1Y0dGJnaVVZbVVpQmZTWXlUbVB0U01Kd3VUT3NwOE1fQ3JTNXRPNElVNmZJMHlPcjlQVWwyeHREMWplRmlVTnQ5Rlp5MlBKdVBlSF9BdUxwTGd0dGEtQUdwUWVGYVQxVkFOZjJLdXUtZEM1V0JTaUVjdjZERVA3MXRQUUw2WHRkb2RJV2h0N0xKVzZFZkNJVmo0b0x5dU9CSGFNYXhNdlEyWmJ6SjBuOEhSaElFaVNfZFR1eHlZSGlpd1gyLXZUblFVUjBpenNZWkxGV1VpU194N0Fvb1Rya1k?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Donald Trump relance les accusations de fraude électorale et vise la Chine avant les élections de mi-mandat",
-    "summary": "Dans un discours de vingt-cinq minutes, le républicain a répété, une nouvelle fois sans preuve, que l’élection de 2020 lui avait été « volée » et a annoncé déclassifier des documents qui, selon lui, montrent que la Chine a « piraté des données électorales ».",
+    "title": "EN DIRECT, guerre en Ukraine : 12 navires russes touchés cette nuit par des drones en mer Noire, selon les forces ukrainiennes",
+    "summary": "Cent quinze drones et cinq missiles russes ont par ailleurs été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/17/donald-trump-relance-les-accusations-de-fraude-electorale-et-vise-la-chine-avant-les-elections-de-mi-mandat_6724119_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-douze-navires-russes-touches-cette-nuit-par-des-drones-en-mer-noire-selon-les-forces-ukrainiennes_6722853_3210.html",
     "date": "2026-07-17"
   },
   {
@@ -365,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "Trump sème le doute sur la fiabilité du système électoral américain à trois mois des “midterms”",
-    "summary": "Dans un discours à la nation jeudi soir, le républicain a dénoncé des “vulnérabilités choquantes” dans le système électoral. Il a notamment pointé la Chine du doigt et laissé planer son intention de contester les résultats des élections de mi-mandat en novembre.",
+    "title": "En Afrique du Sud, un tournoi sportif réservé aux jeunes Afrikaners fait polémique",
+    "summary": "La Bokkieweek, une compétition sportive réservée aux élèves issus de la minorité afrikaner blanche, fait polémique en Afrique du Sud alors que ses organisateurs mettent en avant de nombreux symboles nationalistes liés à la période de l’apartheid.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-trump-seme-le-doute-sur-la-fiabilite-du-systeme-electoral-americain-a-trois-mois-des-midterms_250572",
+    "link": "https://www.courrierinternational.com/article/societe-en-afrique-du-sud-un-tournoi-sportif-reserve-aux-jeunes-afrikaners-fait-polemique_250446",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Key takeaways from Donald Trump’s controversial speech on election security",
-    "summary": "The president claimed China and 'deep state' actors had deceived US voters, but critics say his claims were misleading.",
+    "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
+    "summary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Kyiv reels after Zelenskyy ousts popular defense minister over clash with top general",
-    "summary": "KYIV — There couldn’t be a worse moment for an internal brawl in Ukraine. Instead of discussing how to maintain the wartime initiative it has enjoyed over Russia this year, Kyiv is fuming over President Volodymyr Zelenskyy’s decision to oust 35-year-old tech prodigy and reformer Mykhailo Fedorov, who is admired by Ukraine’s partners and people, as defense mi…",
+    "title": "Week Ender: Did Europe dodge a summer travel crisis?",
+    "summary": "Listen on Spotify Apple Music Amazon Music Europeans are traveling in huge numbers this summer — but the conflict in the Middle East, volatile fuel prices linked to disruption in the Strait of Hormuz, and a troubled new border system are making journeys more complicated.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyy-oust-defense-minister-mykhailo-fedorov-yevhenii-khmara/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-16"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-did-europe-dodge-a-summer-travel-crisis/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
