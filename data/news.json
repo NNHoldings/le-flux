@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La guerre en Ukraine continue d'affecter la dynamique énergétique et géopolitique en Europe.",
+      "Eli Lilly investit dans les psychédéliques, soulignant une tendance croissante vers des traitements alternatifs."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-17"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Nette baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur",
-    "summary": "Point marchés-Nette baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur Zonebourse",
+    "title": "Bourse : Nvidia et les géants des puces dévissent sur les marchés, Apple devient la première capitalisation mondiale",
+    "summary": "Bourse : Nvidia et les géants des puces dévissent sur les marchés, Apple devient la première capitalisation mondiale La Tribune",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZWkzY2xmRElVbGdvNWFUNDJ3RVg2cDkyUUMzMlNZUmk5UTRqa1h3V082dW5pbFhFVzNuZmhkUWxWRnRlNURodU5HdW9GRUhDRHpfc21hZWtIaWZlcU1DSG5TOHhxbGFrX3RHRVZTTjVuekZ4dTlTOWU5cTJvNXZfZFFqZ3ZnbHc3WjdyWjJ2WGp2cVBzbkx2WjZxSGxqYzVZYWRwY2VRbkIyWnB5bm9rU1BuYmlTLVRVU0hoWlNfOTVLckpXbTdZcGI1cXBybU5PdGlqeWlidGFDSmJkVkpONjVva0lQRnJaejQxc25EbVRrUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcF85YjZ2VU5PaTc0RlFyUUhXSDYtT0tlbmdZdjFOX3MyazAtem9MbXNGbTM0MVhNc0t5aXU1VGVpaG52U3BRM01vZ1V0Qlp2emlKTEZlQVZveUx1clNEZ1dzSzBTWGRDMTBoWUlfTlo3SGVqWUFKRnV3MEk5dnlFV0JxMTY1NnJvUEdhbTF2ZjNLQmdyeEhmLUhRU2RKUkNMeUhYYW1MbC0zU0hhWXNtTTNZdW81WGRmQnZncmNqNWNGYmFhZk5PSXpPcFNNWXM1X0dDeGVmYlN5SGN0UVhob08zX2M1NWV4eHFYVlNNTFc5TVdIeFF0d20wZWxNQXVBZW9xRk16NWdwMEJ2d3J2bmp2U2J3M1VURUJR?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
-    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
+    "title": "EN DIRECT, guerre en Ukraine : un bombardier stratégique russe a été détruit par les forces spéciales ukrainiennes, selon Volodymyr Zelensky",
+    "summary": "De son côté, le nouveau premier ministre, Serhi Koretsky, a fait savoir qu’Ievheni Khmara, qui était jusqu’ici à la tête du service de sécurité d’Ukraine, avait été officiellement nommé ministre de la défense d’Ukraine par intérim.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-un-bombardier-strategique-russe-a-ete-detruit-par-les-forces-speciales-ukrainiennes-selon-volodymyr-zelensky_6722853_3210.html",
     "date": "2026-07-17"
   },
   {
@@ -65,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Trump sème le doute sur la fiabilité du système électoral américain à trois mois des “midterms”",
-    "summary": "Dans un discours à la nation jeudi soir, le républicain a dénoncé des “vulnérabilités choquantes” dans le système électoral. Il a notamment pointé la Chine du doigt et laissé planer son intention de contester les résultats des élections de mi-mandat, en novembre.",
+    "title": "Le géant américain Eli Lilly investit dans les psychédéliques",
+    "summary": "Le laboratoire américain qui avait lancé le Prozac est prêt à débourser l’équivalent de 3,3 milliards d’euros pour acquérir AtaiBeckley, une start-up new-yorkaise spécialisée dans le traitement des troubles mentaux grâce à des médicaments à base de psychotropes. Un marché naguère marginal auquel les géants pharmaceutiques s’intéressent de plus en plus.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-trump-seme-le-doute-sur-la-fiabilite-du-systeme-electoral-americain-a-trois-mois-des-midterms_250572",
+    "link": "https://www.courrierinternational.com/article/industrie-pharmaceutique-le-geant-americain-eli-lilly-investit-dans-les-psychedeliques_250803",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "India debuts hydrogen-powered train as part of sustainability drive",
-    "summary": "India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.",
+    "title": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
+    "summary": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
     "date": "2026-07-17"
   },
   {
@@ -97,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "L’UE exige que Google partage ses données de recherche et ouvre Android aux IA rivales",
-    "summary": "Les utilisateurs d’Android pourront bientôt choisir librement leur assistant d’IA, tandis que Google devra partager certaines données avec ses concurrents, bouleversant l’équilibre du marché numérique européen.",
+    "title": "Les canicules à répétition épuisent les infrastructures d’énergie, de transport et de télécoms",
+    "summary": "La nouvelle vague de chaleur a obligé EDF à arrêter trois centrales nucléaires, la SNCF à annuler des trains craignant que leur climatisation ne tienne pas, et les opérateurs télécoms à mettre en place un dispositif de vigilance renforcée.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/16/bruxelles-exige-que-google-partage-ses-donnees-de-recherche-et-ouvre-android-aux-ia-rivales_6723808_4408996.html",
-    "date": "2026-07-16"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/17/transports-energie-telecoms-les-canicules-a-repetition-mettent-les-infrastructures-sous-tension_6724127_3234.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -121,19 +133,19 @@
   },
   {
     "type": "news",
-    "title": "It's official: EU will force Google to share search data and open up AI on Android",
-    "summary": "Europe wasted no time using its landmark Digital Markets Act (DMA) to try and rein in Big Tech. Companies like Apple, Meta, and Google have faced steep fines and orders to modify their business practices since the law came into force in 2024. And the hits keep on coming for Big Tech in Europe.",
+    "title": "The report oil companies are worried about: Climate attribution science",
+    "summary": "Climate change is being driven largely by the greenhouse gases we've pumped into the atmosphere, which trap more of the Sun's energy there. That added energy increases the odds of extreme events: longer, more intense heat waves and droughts, interspersed with excessive precipitation.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-    "date": "2026-07-16"
+    "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Mathematics of Data Science",
-    "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 173 # Comments: 11",
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166 Comments URL: https://news.ycombinator.com/item?id=48946303 Points: 262 # Comments: 210",
     "source": "Hacker News",
-    "link": "https://arxiv.org/abs/2607.11938",
-    "date": "2026-07-16"
+    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -161,10 +173,10 @@
   },
   {
     "type": "news",
-    "title": "Trump Media to sell instant access to 'market-moving' social posts",
-    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+    "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+    "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-17"
   },
   {
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur (actualisé)",
-    "summary": "Point marchés-Baisse vue en Europe, face au déclin des puces et avec le Moyen-Orient dans le viseur (actualisé) Zonebourse Suisse",
+    "title": "Point marchés-L'Europe finit en baisse, les semi-conducteurs à nouveau pénalisés",
+    "summary": "Point marchés-L'Europe finit en baisse, les semi-conducteurs à nouveau pénalisés Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2lFWFRNbllaZ2RTQnFETHVnTldSNUdCTmxMYWIzOEY0SVk1N1NUX1ZHQlU2TlNYY3RQd1JJQnFSb3NUdDJtS0ZqRjZnaHFmZ01odk1wVTJIMWQzMGlCZkUxZ0FaU2xvNnpuM0FQWHJaLVgzbXQ4WnRRTTBzSmV6eFBXXzFFXzZONnlHTWVfOEJDeDVmOVI4YmROXzRRRGJvalpFempyaVpVQXhMZFNhRDFUZjNnNVRjNUVhVjB4V2pZRzhfM19COUx5X3ZGUDlUblhFSVdlWlEwQk54VEhTLXkwaHppdWh4bHFLNVduX2M?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMlV1NEVzMTZLNUhuRS1QdDlYVW93QTVDeTBrMnNIZ1B0dW1kejdLZWhJNTMwWExkdDlWWkUwQkx5ekFkQy1uOEstamMwZ09BaVJ5VDRwbGFERVdINGlBd3RfRGxRVy0wWC1WeVJlWllFUlVFTnlpOUt4UEJoeUlyTWJpQWpGUFdzVVBUS2FtV0hCaGtYSnpmb1M0MTBhOHYwZUJFYkFKbFh2TFgzYVBRSUp4UmFhMnVtdWZBTFh1VUhXOWxBdlVPYURWMExWcWtJNTZCZnJMVQ?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Oleksandra Paskal, la jeune gymnaste amputée qui danse pour l’Ukraine et les enfants victimes de la guerre",
-    "summary": "Blessée dans un bombardement russe, en mai 2022, la fillette de 10 ans se produit, vendredi, à Paris, puis dans quatre autres villes du monde. Elevée en symbole de résilience du peuple ukrainien, elle veut délivrer un message de courage et de liberté.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Antonio Guterres, le secrétaire général de l’ONU, condamne les attaques contre des infrastructures civiles",
+    "summary": "« Le secrétaire général demeure profondément préoccupé par l’escalade militaire continue entre l’Iran et les Etats-Unis », a déclaré son porte-parole Farhan Haq lors d’un point presse. « Il est particulièrement préoccupé par les attaques contre les infrastructures civiles en Iran et dans l’ensemble de la région. »",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/sport/article/2026/07/17/oleksandra-paskal-la-jeune-gymnaste-amputee-qui-danse-pour-l-ukraine-et-les-enfants-victimes-de-la-guerre_6724162_3242.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-detruit-une-tour-de-controle-utilisee-par-l-iran-pour-cibler-des-navires-a-l-est-du-detroit-d-ormuz_6722873_3210.html",
     "date": "2026-07-17"
   },
   {
@@ -201,34 +213,34 @@
   },
   {
     "type": "news",
-    "title": "Letting Russia Burn",
-    "summary": "From relentless Ukrainian drone strikes to soaring inflation and fuel shortages, Russia is paying an ever-higher price for Vladimir Putin's war of choice. But the war has become the organizing principle of Putin’s regime, leaving no path to lasting peace without a fundamental political transformation.",
+    "title": "Subsidies Do Not Explain China’s Competitiveness",
+    "summary": "Like every major economy, China uses industrial policy, and its subsidies have mattered. But subsidies are no longer the most convincing explanation for Chinese firms’ emergence as global leaders in industries that used to be the exclusive domain of advanced economies.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/why-putin-cannot-afford-to-walk-away-from-ukraine-by-nina-l-khrushcheva-2026-07",
-    "date": "2026-07-13"
+    "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "En République centrafricaine, le nouvel élan du Groupe Wagner grâce au trafic de tramadol",
-    "summary": "Supplanté par Africa Corps sur le continent depuis la mort de son fondateur, Evgueni Prigojine, le groupe de mercenaires russes Wagner poursuit et diversifie ses opérations en République centrafricaine, où il est présent depuis 2018. Notamment en écoulant du tramadol, utilisé comme “cocaïne du pauvre”, décrit “The Wall Street Journal”.",
+    "title": "“Jadis, Xi Jinping admirait Vladimir Poutine, désormais il lui dicte sa conduite”",
+    "summary": "Au-delà des déclarations officielles célébrant le “partenariat stratégique” entre Pékin et Moscou, l’enlisement de la guerre en Ukraine et l’isolement économique de la Russie ont placé Vladimir Poutine en position de subalterne dans une relation bilatérale de plus en plus déséquilibrée, observe “The Wall Street Journal”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/drogue-en-republique-centrafricaine-le-nouvel-elan-du-groupe-wagner-grace-au-trafic-de-tramadol_250456",
+    "link": "https://www.courrierinternational.com/article/geopolitique-jadis-xi-jinping-admirait-vladimir-poutine-desormais-il-lui-dicte-sa-conduite_250275",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
-    "summary": "Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.",
+    "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
+    "summary": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Trump rails against election systems — and familiar enemies",
-    "summary": "President Donald Trump on Thursday announced his administration is declassifying documents that he says outline vulnerabilities in U.S. election systems. In his 25-minute speech from the White House, Trump described efforts by China to access U.S. voter rolls and offered details about long-studied vulnerabilities in electronic voting machines.",
+    "title": "Taras Kachka named Ukraine’s new ambassador to the EU",
+    "summary": "BRUSSELS — Taras Kachka, Ukraine’s former deputy prime minister in charge of European integration, has been named as Kyiv’s new ambassador to the European Union, President Volodymyr Zelenskyy announced on Friday.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/16/trump-declassifies-election-documents-investigations-01002581?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/taras-kachka-named-ukraines-new-ambassador-to-the-eu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-17"
   },
   {
@@ -241,10 +253,10 @@
   },
   {
     "type": "news",
-    "title": "Transports, énergie, télécoms… Les canicules à répétition épuisent les infrastructures",
-    "summary": "La nouvelle vague de chaleur a obligé EDF à arrêter trois centrales nucléaires, la SNCF à annuler des trains craignant que leur climatisation ne tienne pas, et les opérateurs télécoms à mettre en place un dispositif de vigilance renforcée.",
+    "title": "IA : Xi Jinping vante un contre-modèle chinois ouvert et accessible pour concurrencer les Etats-Unis",
+    "summary": "La Chine a organisé, vendredi 17 juillet, à Shanghaï, une conférence mondiale sur l’intelligence artificielle. Alors que certaines de ses entreprises talonnent les leaders américains du secteur, ce rattrapage s’inscrit au cœur des rivalités avec les Américains.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/17/transports-energie-telecoms-les-canicules-a-repetition-mettent-les-infrastructures-sous-tension_6724127_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/17/ia-xi-jinping-vante-un-contre-modele-chinois-ouvert-et-accessible-face-aux-etats-unis_6724192_3234.html",
     "date": "2026-07-17"
   },
   {
@@ -265,19 +277,19 @@
   },
   {
     "type": "news",
-    "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
-    "summary": "One week ago, three widely respected European news outlets published the results of an investigation into what they described as a \"joint plan\" by China and Russia to \"defeat Elon Musk's Starlink.\" The story was the product of a long-running inquiry by The Insider, Der Spiegel, and Le Monde.",
+    "title": "It's official: EU will force Google to share search data and open up AI on Android",
+    "summary": "Europe wasted no time using its landmark Digital Markets Act (DMA) to try to rein in Big Tech. Companies like Apple, Meta, and Google have faced steep fines and orders to modify their business practices since the law came into force in 2024. And the hits keep on coming for Big Tech in Europe.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
     "date": "2026-07-16"
   },
   {
     "type": "news",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-    "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 208 # Comments: 150",
+    "title": "EEG shows brain can simultaneous encode two speech streams",
+    "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 216 # Comments: 141",
     "source": "Hacker News",
-    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "date": "2026-07-16"
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -305,34 +317,34 @@
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "Trump Media to sell instant access to 'market-moving' social posts",
+    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Catching up in the AI race? India gets its second AI unicorn in a month",
-    "summary": "Two Indian AI startups have become unicorns in a month, which has raised hopes that the country could shed its reputation as an AI laggard.",
+    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/catching-up-in-the-ai-race-india-gets-its-second-ai-unicorn-in-a-month.html",
-    "date": "2026-07-16"
+    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Le rand sud-africain recule, l'inflation et la réunion de la banque centrale en ligne de mire",
-    "summary": "Le rand sud-africain recule, l'inflation et la réunion de la banque centrale en ligne de mire Zonebourse Suisse",
+    "title": "Le rand sud-africain s'affaiblit avant les chiffres de l'inflation et la réunion de la banque centrale",
+    "summary": "Le rand sud-africain s'affaiblit avant les chiffres de l'inflation et la réunion de la banque centrale Zonebourse Suisse",
     "source": "Google Actualités — Éco",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRUlOdlF0U1Y0dGJnaVVZbVVpQmZTWXlUbVB0U01Kd3VUT3NwOE1fQ3JTNXRPNElVNmZJMHlPcjlQVWwyeHREMWplRmlVTnQ5Rlp5MlBKdVBlSF9BdUxwTGd0dGEtQUdwUWVGYVQxVkFOZjJLdXUtZEM1V0JTaUVjdjZERVA3MXRQUUw2WHRkb2RJV2h0N0xKVzZFZkNJVmo0b0x5dU9CSGFNYXhNdlEyWmJ6SjBuOEhSaElFaVNfZFR1eHlZSGlpd1gyLXZUblFVUjBpenNZWkxGV1VpU194N0Fvb1Rya1k?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : 12 navires russes touchés cette nuit par des drones en mer Noire, selon les forces ukrainiennes",
-    "summary": "Cent quinze drones et cinq missiles russes ont par ailleurs été interceptés dans la nuit, mais sept sites ont été touchés, selon l’armée de l’air ukrainienne.",
+    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
+    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-douze-navires-russes-touches-cette-nuit-par-des-drones-en-mer-noire-selon-les-forces-ukrainiennes_6722853_3210.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
     "date": "2026-07-17"
   },
   {
@@ -353,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "En Afrique du Sud, un tournoi sportif réservé aux jeunes Afrikaners fait polémique",
-    "summary": "La Bokkieweek, une compétition sportive réservée aux élèves issus de la minorité afrikaner blanche, fait polémique en Afrique du Sud alors que ses organisateurs mettent en avant de nombreux symboles nationalistes liés à la période de l’apartheid.",
+    "title": "Une vidéo chinoise dépeint les Philippins en singes aux ordres de Washington : “Une honte”",
+    "summary": "Les autorités philippines ont fermement condamné, le vendredi 17 juillet, une vidéo générée par IA mise en ligne par le “China Daily” qui dépeint les Philippins comme des singes chanteurs de karaoké soumis aux États-Unis et au Japon. Le tout sur fond de recrudescence des tensions en mer de Chine méridionale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-en-afrique-du-sud-un-tournoi-sportif-reserve-aux-jeunes-afrikaners-fait-polemique_250446",
+    "link": "https://www.courrierinternational.com/article/tensions-une-video-chinoise-depeint-les-philippins-en-singes-aux-ordres-de-washington-une-honte_250871",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-    "summary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
+    "title": "China slams Trump’s claims over 2020 US election interference",
+    "summary": "China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Week Ender: Did Europe dodge a summer travel crisis?",
-    "summary": "Listen on Spotify Apple Music Amazon Music Europeans are traveling in huge numbers this summer — but the conflict in the Middle East, volatile fuel prices linked to disruption in the Strait of Hormuz, and a troubled new border system are making journeys more complicated.",
+    "title": "EU loosens carbon market rules to let industry pollute for longer",
+    "summary": "BRUSSELS — The European Commission has confirmed it will allow EU industry to continue emitting planet-warming gases well into the 2040s and offer more free pollution permits for longer, as part of an overhaul of the bloc’s Emissions Trading System.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-did-europe-dodge-a-summer-travel-crisis/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-loosens-carbon-market-rules-to-allow-industry-to-pollute-for-longer/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-17"
   },
   {
