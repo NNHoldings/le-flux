@@ -1,6 +1,16 @@
 [
   {
     "type": "finance",
+    "term": "Analyse des coûts",
+    "explanation": "L'analyse des coûts consiste à identifier, évaluer et contrôler les coûts associés à la production de biens ou de services. Elle permet aux entreprises de déterminer les marges bénéficiaires et d'optimiser leurs processus pour améliorer la rentabilité."
+  },
+  {
+    "type": "finance",
+    "term": "Financement par actions",
+    "explanation": "Le financement par actions implique la levée de fonds en émettant des actions de l'entreprise. Ce type de financement permet d'obtenir des ressources sans augmenter l'endettement, mais dilue la participation des actionnaires existants."
+  },
+  {
+    "type": "finance",
     "term": "Instruments financiers",
     "explanation": "Les instruments financiers sont des contrats qui représentent une valeur économique. Ils incluent des actions, des obligations, des dérivés et d'autres produits structurés, chacun ayant des caractéristiques et des risques spécifiques."
   },
