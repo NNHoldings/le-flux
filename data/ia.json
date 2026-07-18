@@ -1,6 +1,21 @@
 [
   {
     "type": "ia",
+    "term": "Réseaux de neurones convolutifs (CNN)",
+    "explanation": "Les réseaux de neurones convolutifs, introduits dans les années 1980 et popularisés dans les années 2010, sont des architectures conçues pour traiter des données structurées en grille, comme les images. Ils ont révolutionné la vision par ordinateur en permettant des avancées majeures dans la reconnaissance d'objets et la classification d'images. Leur succès est dû à leur capacité à apprendre automatiquement des caractéristiques à différents niveaux d'abstraction."
+  },
+  {
+    "type": "ia",
+    "term": "Apprentissage profond (Deep Learning)",
+    "explanation": "L'apprentissage profond est une sous-catégorie de l'apprentissage automatique qui utilise des réseaux de neurones profonds pour modéliser des données complexes. Il a été propulsé par l'augmentation des données disponibles et la puissance de calcul, permettant des avancées significatives dans des domaines tels que la reconnaissance vocale et le traitement du langage naturel. Cette approche a redéfini les limites de ce que l'IA peut accomplir."
+  },
+  {
+    "type": "ia",
+    "term": "IA explicable",
+    "explanation": "L'IA explicable désigne des méthodes et des techniques qui rendent les décisions des systèmes d'IA compréhensibles pour les humains. Face aux préoccupations croissantes concernant la transparence et l'éthique des algorithmes, l'IA explicable vise à construire des modèles qui permettent aux utilisateurs de comprendre les raisons derrière les décisions prises par l'IA. Cela est crucial pour établir la confiance et garantir une utilisation responsable de la technologie."
+  },
+  {
+    "type": "ia",
     "term": "Overfitting",
     "explanation": "L'overfitting est un phénomène où un modèle d'apprentissage automatique apprend trop bien les détails et le bruit de l'ensemble de données d'entraînement, ce qui nuit à sa capacité à généraliser sur de nouvelles données. Pour éviter cela, des techniques comme la régularisation ou la validation croisée sont souvent utilisées."
   },
