@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Ukraine et les tensions au Moyen-Orient exacerbent les enjeux économiques mondiaux.",
-      "L'Union européenne envisage des ajustements sur la tarification du carbone pour soutenir les industriels."
+      "Les marchés obligataires font face à un dilemme entre inflation et récession.",
+      "La guerre en Ukraine continue d'intensifier avec de nombreux affrontements et des attaques de drones.",
+      "L'Union européenne envisage d'assouplir la tarification du carbone pour soutenir les industriels."
     ],
     "source": "Le Flux",
     "date": "2026-07-18"
@@ -37,11 +37,11 @@
   },
   {
     "type": "news",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
-    "date": "2026-07-17"
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -53,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des frappes contre des sites logistiques en Russie",
-    "summary": "Le président ukrainien a affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation.",
+    "title": "EN DIRECT, guerre en Ukraine : soixante-neuf affrontements sur le front depuis le début de la journée, selon l’état-major ukrainien",
+    "summary": "Volodymyr Zelensky a par ailleurs affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-frappes-contre-des-sites-logistiques-en-russie_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -77,10 +77,10 @@
   },
   {
     "type": "news",
-    "title": "Septième nuit de bombardements américains en Iran, Téhéran menace Washington de guerre “totale”",
-    "summary": "Les États-Unis ont lancé dans la nuit de vendredi à samedi une nouvelle vague de bombardements contre l’Iran, visant des infrastructures civiles et militaires. Téhéran a répliqué par des attaques contre des positions américaines dans la région, et menacé Washington de guerre “totale” en cas de poursuite des bombardements sur son sol.",
+    "title": "Un système européen de collecte de données biométriques confond des sœurs jumelles",
+    "summary": "Entrée en vigueur en avril, une version numérique du système d’entrée/de sortie de l’Union européenne “a du mal à faire la différence entre des jumelles identiques”, révèle “Politico Europe”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-iran-septieme-nuit-de-bombardements-americains-en-iran-teheran-menace-washington-de-guerre-totale_250935",
+    "link": "https://www.courrierinternational.com/article/controle-vous-me-semblez-familiere-un-systeme-europeen-de-collecte-de-donnees-biometriques-confond-des-jumelles_251034",
     "date": "2026-07-18"
   },
   {
@@ -141,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "The Zilog Z80 has turned 50",
-    "summary": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 235 # Comments: 95",
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "summary": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent Comments URL: https://news.ycombinator.com/item?id=48956688 Points: 721 # Comments: 358",
     "source": "Hacker News",
-    "link": "https://goliath32.com/blog/z80.html",
-    "date": "2026-07-17"
+    "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -181,10 +181,10 @@
   },
   {
     "type": "news",
-    "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
-    "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
     "date": "2026-07-17"
   },
   {
@@ -197,10 +197,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran affirme avoir détruit plusieurs appareils américains en Jordanie ; le président libanais, Joseph Aoun, en route vers Washington",
-    "summary": "Le président libanais doit rencontrer Donald Trump mardi, à la suite de négociations entre le Liban et Israël qui se sont achevées mercredi à Rome.",
+    "title": "En Inde, tollé après le coup de force du gouvernement contre Sonam Wangchuk, militant en grève illimitée de la faim",
+    "summary": "L’activiste avait rejoint le mouvement des « cafards », la protestation des étudiants pour exiger la démission du ministre de l’éducation. Samedi 18 juillet, après vingt et un jours de grève de la faim, il a été placé de force dans un hôpital de Delhi.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-detruit-plusieurs-appareils-americains-en-jordanie-le-president-libanais-joseph-aoun-en-route-vers-washington_6722873_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/18/en-inde-tolle-apres-le-coup-de-force-du-gouvernement-contre-sonam-wangchuk-militant-en-greve-illimitee-de-la-faim_6724761_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -221,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "Erin Brockovich repart en croisade, cette fois-ci contre les data centers",
-    "summary": "La lanceuse d’alerte américaine, célèbre pour avoir fait plier la compagnie Pacific Gas and Electric Company dans une affaire de pollution industrielle de l’eau potable en Californie dans les années 1990, reprend du service. Elle s’est lancée dans la lutte collective contre les mégacentres de données qui s’implantent un peu partout aux États-Unis.",
+    "title": "Septième nuit de bombardements américains en Iran, Téhéran menace Washington de guerre “totale”",
+    "summary": "Les États-Unis ont lancé dans la nuit de vendredi à samedi une nouvelle vague de bombardements contre l’Iran, visant des infrastructures civiles et militaires. Téhéran a répliqué par des attaques contre des positions américaines dans la région, et menacé Washington de guerre “totale” en cas de poursuite des bombardements sur son sol.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-erin-brockovich-repart-en-croisade-cette-fois-ci-contre-les-data-centers_245893",
+    "link": "https://www.courrierinternational.com/article/guerre-en-iran-septieme-nuit-de-bombardements-americains-en-iran-teheran-menace-washington-de-guerre-totale_250935",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-    "summary": "Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a 'slight commotion'.",
+    "title": "China warns UK over British Steel nationalisation, demands fair resolution",
+    "summary": "Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
@@ -285,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "Thanks HN for 15 years of support and helping me find my life's work",
-    "summary": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (https://www.recurse.com/)My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building \"OkCupid for jobs.\" That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.Finally, we made something th…",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md Comments URL: https://news.ycombinator.com/item?id=48952565 Points: 192 # Comments: 76",
     "source": "Hacker News",
-    "link": "https://news.ycombinator.com/item?id=48949551",
+    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
     "date": "2026-07-17"
   },
   {
@@ -341,10 +341,10 @@
   },
   {
     "type": "news",
-    "title": "Entre la Chine et les Etats-Unis, une nouvelle diplomatie des détenus",
-    "summary": "En parallèle des sujets de fond discutés entre les deux premières puissances mondiales, le cas de ressortissants américains emprisonnés pour espionnage en Chine constitue également un outil de négociation.",
+    "title": "EN DIRECT, guerre en Iran : Mojtaba Khamenei, le Guide suprême iranien, menace d’infliger aux Etats-Unis des « leçons inoubliables » et critique la signature « sans valeur » de Donald Trump",
+    "summary": "Pour Mojtaba Khamenei, « la violation répétée » du protocole d’accord « a une fois de plus démontré à tous que la signature du président américain est sans valeur », a-t-il déclaré dans un message lu à la télévision.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/18/entre-la-chine-et-les-etats-unis-une-nouvelle-diplomatie-des-detenus_6724313_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-iran-n-a-pas-d-autre-choix-que-de-donner-une-lecon-aux-agresseurs-previent-le-vice-ministre-des-affaires-etrangeres-iranien-kazem-gharibabadi_6722873_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -365,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "À vélo sur le Shimanami Kaido, à la recherche de ce Japon qui nous fascine",
-    "summary": "LE MONDE À VÉLO (2/6) – Tout au long du Shimanami Kaido, un itinéraire cyclable de 70 kilomètres qui relie un chapelet d’îles de la mer intérieure de Seto, la vie japonaise suit son cours. Près de trente ans après l’avoir parcouru une première fois, ce journaliste australien y est retourné.",
+    "title": "En Iran, Trump prend le risque d’une nouvelle “guerre sans fin” pour les États-Unis",
+    "summary": "Cessez-le-feu rompu et détroit d’Ormuz de nouveau bloqué : l’accord entre Téhéran et Washington semble dans l’impasse, comme si les deux belligérants y avaient vu “le prolongement de la guerre par d’autres moyens et non un tremplin vers la paix”, relève un expert dans “The New York Times”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/serie-d-ete-a-velo-sur-le-shimanami-kaido-a-la-recherche-de-ce-japon-qui-nous-fascine_245577",
+    "link": "https://www.courrierinternational.com/article/analyse-en-iran-trump-prend-le-risque-d-une-nouvelle-guerre-sans-fin-pour-les-etats-unis_250342",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-    "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
+    "title": "Ukrainian strikes hit Russian logistics center",
+    "summary": "Ukrainian strikes hit Russian logistics center",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "How food delivery works in Ukraine’s ‘killing zone’",
-    "summary": "Ukraine’s farms grew some 60 million metric tons of grain this year, enough to help feed hundreds of millions of people abroad. Yet along the country’s own front line, 700,000 Ukrainians depend for their next meal on U.N. convoys that barely stop moving.",
+    "title": "Trump’s rhetoric is more dangerous than voting machine flaws, experts say",
+    "summary": "Election officials in the U.S. are warning that President Donald Trump’s assertion that America’s voting machines aren’t safe is far more dangerous than the vulnerabilities he highlighted in his Thursday night address.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-front-line-food-crisis-un-convoys-russian-drones/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/trumps-rhetoric-is-more-dangerous-than-voting-machine-flaws-experts-say/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-18"
   },
   {
