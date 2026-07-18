@@ -1,6 +1,31 @@
 [
   {
     "type": "histoire",
+    "question": "Qui est considéré comme le père de l'économie moderne ?",
+    "answer": "Adam Smith est souvent considéré comme le père de l'économie moderne grâce à son ouvrage 'La richesse des nations' publié en 1776. Il y introduit le concept de la main invisible et défend le libre marché comme moteur de la prospérité."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment les idées de John Maynard Keynes ont-elles influencé l'économie mondiale ?",
+    "answer": "John Maynard Keynes a révolutionné la pensée économique avec son ouvrage 'Théorie générale de l'emploi, de l'intérêt et de la monnaie' publié en 1936. Il a introduit l'idée que l'intervention gouvernementale est nécessaire pour stabiliser l'économie durant les périodes de récession."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels étaient les principaux postulats de l'école classique en économie ?",
+    "answer": "L'école classique, active du XVIIIe au début du XIXe siècle, soutenait que les marchés se régulent d'eux-mêmes par le biais de l'offre et de la demande. Des économistes comme David Ricardo et Thomas Malthus ont apporté des contributions significatives à cette école de pensée."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations ont marqué l'économie en Chine depuis les réformes de 1978 ?",
+    "answer": "Depuis les réformes économiques de 1978, initiées par Deng Xiaoping, la Chine a connu une transformation majeure vers une économie de marché. Ces réformes ont permis une croissance rapide et ont intégré le pays dans l'économie mondiale, faisant de la Chine la deuxième puissance économique mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle a joué le mercantilisme dans l'histoire économique européenne ?",
+    "answer": "Le mercantilisme, dominant du XVIe au XVIIIe siècle, a promu l'idée que la richesse d'une nation réside dans ses réserves d'or et d'argent. Les États-nations cherchaient à maximiser leurs exportations tout en limitant les importations, influençant ainsi les politiques économiques et coloniales européennes."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les conséquences de la guerre de l'Opium (1839-1842) sur la Chine ?",
     "answer": "La guerre de l'Opium a conduit à la signature du traité de Nankin en 1842, qui a imposé des indemnités lourdes à la Chine et ouvert plusieurs ports au commerce britannique. Cela a marqué le début d'une période de domination étrangère et de déclin de l'Empire Qing."
   },
