@@ -5,8 +5,8 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'Europe cherche à renforcer sa résilience économique face aux défis actuels.",
-      "La guerre en Iran et les tensions au Moyen-Orient perturbent l'économie mondiale."
+      "La guerre en Ukraine et les tensions au Moyen-Orient exacerbent les enjeux économiques mondiaux.",
+      "L'Union européenne envisage des ajustements sur la tarification du carbone pour soutenir les industriels."
     ],
     "source": "Le Flux",
     "date": "2026-07-18"
@@ -37,10 +37,10 @@
   },
   {
     "type": "news",
-    "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
-    "summary": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
+    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
     "date": "2026-07-17"
   },
   {
@@ -53,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : des centaines de drones ukrainiens ont frappé la Russie dans la nuit ; nouvel appel à manifester à Kiev pour soutenir Mykhaïlo Fedorov",
-    "summary": "Les drones ukrainiens ont notamment attaqué des entrepôts de Wildberries, le géant russe du commerce en ligne. L’une des attaques a fait au moins sept morts, selon les autorités locales.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des frappes contre des sites logistiques en Russie",
+    "summary": "Le président ukrainien a affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-sept-morts-et-vingt-quatre-blesses-apres-une-attaque-de-drone-en-russie-selon-les-autorites-locales_6722853_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-frappes-contre-des-sites-logistiques-en-russie_6722853_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-    "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
+    "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+    "summary": "Russian officials say strikes on retailer's warehouses caused civilian casualties; Kyiv says sites used to make drones.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "France, Germany vow to develop Palantir rival",
-    "summary": "BERLIN — France and Germany pledged Friday to look at developing an alternative to military software provided by U.S. company Palantir, as European countries seek to lessen reliance on America. France’s domestic intelligence service announced in June it was ending its contract with the U.S.",
+    "title": "Water infrastructure hit in Iran, Kuwait amid latest Gulf war flare-up",
+    "summary": "Iran launched a fresh spate of strikes on Washington’s Gulf allies on Saturday morning after the United States bombed the country for a seventh consecutive night following the collapse of a ceasefire deal. Both Iran and Kuwait said the latest attacks hit desalination plants, a crucial source of water in the dry Middle East region.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/france-germany-want-to-develop-a-palantir-rival/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-17"
+    "link": "https://www.politico.eu/article/water-infrastructure-hit-in-iran-kuwait-amid-latest-gulf-war-flare-up/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -141,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 463 # Comments: 298",
+    "title": "The Zilog Z80 has turned 50",
+    "summary": "Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 235 # Comments: 95",
     "source": "Hacker News",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "link": "https://goliath32.com/blog/z80.html",
     "date": "2026-07-17"
   },
   {
@@ -181,10 +181,10 @@
   },
   {
     "type": "news",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+    "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+    "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
     "date": "2026-07-17"
   },
   {
@@ -197,10 +197,10 @@
   },
   {
     "type": "news",
-    "title": "Entre la Chine et les Etats-Unis, une nouvelle diplomatie des détenus",
-    "summary": "En parallèle des sujets de fond discutés entre les deux premières puissances mondiales, le cas de ressortissants américains emprisonnés pour espionnage en Chine constitue également un outil de négociation.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran affirme avoir détruit plusieurs appareils américains en Jordanie ; le président libanais, Joseph Aoun, en route vers Washington",
+    "summary": "Le président libanais doit rencontrer Donald Trump mardi, à la suite de négociations entre le Liban et Israël qui se sont achevées mercredi à Rome.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/18/entre-la-chine-et-les-etats-unis-une-nouvelle-diplomatie-des-detenus_6724313_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-iran-affirme-avoir-detruit-plusieurs-appareils-americains-en-jordanie-le-president-libanais-joseph-aoun-en-route-vers-washington_6722873_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -229,19 +229,19 @@
   },
   {
     "type": "news",
-    "title": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
-    "summary": "The Philippines protests China Daily videos depicting Filipinos as monkeys amid South China Sea tensions.",
+    "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+    "summary": "Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a 'slight commotion'.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Taras Kachka named Ukraine’s new ambassador to the EU",
-    "summary": "BRUSSELS — Taras Kachka, Ukraine’s former deputy prime minister in charge of European integration, has been named as Kyiv’s new ambassador to the European Union, President Volodymyr Zelenskyy announced on Friday.",
+    "title": "Trump spares Beijing in probe of alleged Chinese election plot",
+    "summary": "The White House appears to be shielding China from scrutiny in President Donald Trump’s push to get to the bottom of what he has declared an official cover-up of Chinese interference in the 2020 presidential election.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/taras-kachka-named-ukraines-new-ambassador-to-the-eu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-17"
+    "link": "https://www.politico.com/news/2026/07/17/trump-spares-beijing-in-probe-of-alleged-chinese-election-plot-01004011?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -285,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 164 # Comments: 90",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "summary": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (https://www.recurse.com/)My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building \"OkCupid for jobs.\" That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.Finally, we made something th…",
     "source": "Hacker News",
-    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "link": "https://news.ycombinator.com/item?id=48949551",
     "date": "2026-07-17"
   },
   {
@@ -325,27 +325,27 @@
   },
   {
     "type": "news",
-    "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
-    "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+    "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+    "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Retranscription d’appel de résultats : La Banque Centrale d’Inde affiche une forte croissance au T1 2026",
-    "summary": "Retranscription d’appel de résultats : La Banque Centrale d’Inde affiche une forte croissance au T1 2026 Investing.com France",
+    "title": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs",
+    "summary": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs XTB.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORUFBNHJ3amRTY2FrbXJVTDhOZlJDaG5CSVl4cTVwNl9uMEJucThQeDVvT3VQeWNwT25oSEVlU1dfVGhFTGRkTTNvVkd6YXFrRXpSdkNHa0dsR0dsSlcxRm03Vk9TVXBiVWR4SG1RNGlfUzVyelNaNDJnVFpwNUJlWHl1UDE4WmZLLTlVVjQ1R25yUjNLaEgyeXR3NV96clpEWHFHMFhOZlgwbjNWREduQ1BTLWY4R2tyQnpFOEdtMkllbFBoV3JaTjRYQ1Q3Ukhsd3RnY1JmZ0xtWDZaMVAtck5TUGJPMmhIZlNVUA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOemZhLU5fSEVOVWZvZHh2c05YM2FoSnc4VDB4SFlJNGVNREJzYVhrQnBlYU10M3FQUkZmVWdjWGFydDd1X3hqV1lTWUdyOFZSeWRSNms1THMxRFY5cG1ObXhfQ2Z6NlJzRG5HZnM3UTRVVWZpNW9tM3o4M1EtZjFickhNLUNsWTQtZFM2OFZtbXJrcXIwRDRIdDBUbVA2UkVDT0RvTVY5SXh1d1VFeUdKaUJ4SjhTX201WVJBNGduTzQwTHIzQWp6TFNSb1I5STJySTUyMw?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
-    "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
+    "title": "Entre la Chine et les Etats-Unis, une nouvelle diplomatie des détenus",
+    "summary": "En parallèle des sujets de fond discutés entre les deux premières puissances mondiales, le cas de ressortissants américains emprisonnés pour espionnage en Chine constitue également un outil de négociation.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
-    "date": "2026-07-17"
+    "link": "https://www.lemonde.fr/international/article/2026/07/18/entre-la-chine-et-les-etats-unis-une-nouvelle-diplomatie-des-detenus_6724313_3210.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -373,10 +373,10 @@
   },
   {
     "type": "news",
-    "title": "Iranian official says the policy of negotiating during war is over",
-    "summary": "Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.",
+    "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+    "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
