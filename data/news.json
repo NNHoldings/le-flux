@@ -5,11 +5,11 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Ukraine continue d'affecter la dynamique énergétique et géopolitique en Europe.",
-      "Eli Lilly investit dans les psychédéliques, soulignant une tendance croissante vers des traitements alternatifs."
+      "L'Europe cherche à renforcer sa résilience économique face aux défis actuels.",
+      "La guerre en Iran et les tensions au Moyen-Orient perturbent l'économie mondiale."
     ],
     "source": "Le Flux",
-    "date": "2026-07-17"
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -53,11 +53,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : un bombardier stratégique russe a été détruit par les forces spéciales ukrainiennes, selon Volodymyr Zelensky",
-    "summary": "De son côté, le nouveau premier ministre, Serhi Koretsky, a fait savoir qu’Ievheni Khmara, qui était jusqu’ici à la tête du service de sécurité d’Ukraine, avait été officiellement nommé ministre de la défense d’Ukraine par intérim.",
+    "title": "EN DIRECT, guerre en Ukraine : des centaines de drones ukrainiens ont frappé la Russie dans la nuit ; nouvel appel à manifester à Kiev pour soutenir Mykhaïlo Fedorov",
+    "summary": "Les drones ukrainiens ont notamment attaqué des entrepôts de Wildberries, le géant russe du commerce en ligne. L’une des attaques a fait au moins sept morts, selon les autorités locales.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-en-ukraine-un-bombardier-strategique-russe-a-ete-detruit-par-les-forces-speciales-ukrainiennes-selon-volodymyr-zelensky_6722853_3210.html",
-    "date": "2026-07-17"
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-sept-morts-et-vingt-quatre-blesses-apres-une-attaque-de-drone-en-russie-selon-les-autorites-locales_6722853_3210.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -77,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "Le géant américain Eli Lilly investit dans les psychédéliques",
-    "summary": "Le laboratoire américain qui avait lancé le Prozac est prêt à débourser l’équivalent de 3,3 milliards d’euros pour acquérir AtaiBeckley, une start-up new-yorkaise spécialisée dans le traitement des troubles mentaux grâce à des médicaments à base de psychotropes. Un marché naguère marginal auquel les géants pharmaceutiques s’intéressent de plus en plus.",
+    "title": "Septième nuit de bombardements américains en Iran, Téhéran menace Washington de guerre “totale”",
+    "summary": "Les États-Unis ont lancé dans la nuit de vendredi à samedi une nouvelle vague de bombardements contre l’Iran, visant des infrastructures civiles et militaires. Téhéran a répliqué par des attaques contre des positions américaines dans la région, et menacé Washington de guerre “totale” en cas de poursuite des bombardements sur son sol.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/industrie-pharmaceutique-le-geant-americain-eli-lilly-investit-dans-les-psychedeliques_250803",
-    "date": "2026-07-17"
+    "link": "https://www.courrierinternational.com/article/guerre-en-iran-septieme-nuit-de-bombardements-americains-en-iran-teheran-menace-washington-de-guerre-totale_250935",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
-    "summary": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
+    "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+    "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-    "date": "2026-07-17"
+    "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Ukraine steps up attacks on Russia’s Black Sea fuel network",
-    "summary": "Ukraine struck 12 vessels belonging to Russia’s shadow fleet in the Black Sea on Thursday night, the commander of the Unmanned Systems Forces, Robert Brovdi, announced on Telegram. The attacks aim to prevent Russia from supplying fuel to the occupied regions of Eastern Ukraine and Crimea and curb its effort to circumvent sanctions, Brovdi explained.",
+    "title": "France, Germany vow to develop Palantir rival",
+    "summary": "BERLIN — France and Germany pledged Friday to look at developing an alternative to military software provided by U.S. company Palantir, as European countries seek to lessen reliance on America. France’s domestic intelligence service announced in June it was ending its contract with the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-steps-up-attacks-on-russias-black-sea-fuel-network/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/france-germany-want-to-develop-a-palantir-rival/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-17"
   },
   {
@@ -109,10 +109,10 @@
   },
   {
     "type": "news",
-    "title": "Les canicules à répétition épuisent les infrastructures d’énergie, de transport et de télécoms",
-    "summary": "La nouvelle vague de chaleur a obligé EDF à arrêter trois centrales nucléaires, la SNCF à annuler des trains craignant que leur climatisation ne tienne pas, et les opérateurs télécoms à mettre en place un dispositif de vigilance renforcée.",
+    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
+    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/17/transports-energie-telecoms-les-canicules-a-repetition-mettent-les-infrastructures-sous-tension_6724127_3234.html",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
     "date": "2026-07-17"
   },
   {
@@ -141,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "Apple targets dozens of OpenAI employees with legal letters",
-    "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166 Comments URL: https://news.ycombinator.com/item?id=48946303 Points: 262 # Comments: 210",
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 463 # Comments: 298",
     "source": "Hacker News",
-    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
     "date": "2026-07-17"
   },
   {
@@ -181,10 +181,10 @@
   },
   {
     "type": "news",
-    "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
-    "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
+    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
     "date": "2026-07-17"
   },
   {
@@ -197,11 +197,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Antonio Guterres, le secrétaire général de l’ONU, condamne les attaques contre des infrastructures civiles",
-    "summary": "« Le secrétaire général demeure profondément préoccupé par l’escalade militaire continue entre l’Iran et les Etats-Unis », a déclaré son porte-parole Farhan Haq lors d’un point presse. « Il est particulièrement préoccupé par les attaques contre les infrastructures civiles en Iran et dans l’ensemble de la région. »",
+    "title": "Entre la Chine et les Etats-Unis, une nouvelle diplomatie des détenus",
+    "summary": "En parallèle des sujets de fond discutés entre les deux premières puissances mondiales, le cas de ressortissants américains emprisonnés pour espionnage en Chine constitue également un outil de négociation.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/17/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-detruit-une-tour-de-controle-utilisee-par-l-iran-pour-cibler-des-navires-a-l-est-du-detroit-d-ormuz_6722873_3210.html",
-    "date": "2026-07-17"
+    "link": "https://www.lemonde.fr/international/article/2026/07/18/entre-la-chine-et-les-etats-unis-une-nouvelle-diplomatie-des-detenus_6724313_3210.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -221,19 +221,19 @@
   },
   {
     "type": "news",
-    "title": "“Jadis, Xi Jinping admirait Vladimir Poutine, désormais il lui dicte sa conduite”",
-    "summary": "Au-delà des déclarations officielles célébrant le “partenariat stratégique” entre Pékin et Moscou, l’enlisement de la guerre en Ukraine et l’isolement économique de la Russie ont placé Vladimir Poutine en position de subalterne dans une relation bilatérale de plus en plus déséquilibrée, observe “The Wall Street Journal”.",
+    "title": "Erin Brockovich repart en croisade, cette fois-ci contre les data centers",
+    "summary": "La lanceuse d’alerte américaine, célèbre pour avoir fait plier la compagnie Pacific Gas and Electric Company dans une affaire de pollution industrielle de l’eau potable en Californie dans les années 1990, reprend du service. Elle s’est lancée dans la lutte collective contre les mégacentres de données qui s’implantent un peu partout aux États-Unis.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-jadis-xi-jinping-admirait-vladimir-poutine-desormais-il-lui-dicte-sa-conduite_250275",
-    "date": "2026-07-17"
+    "link": "https://www.courrierinternational.com/article/etats-unis-erin-brockovich-repart-en-croisade-cette-fois-ci-contre-les-data-centers_245893",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
-    "summary": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
+    "title": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
+    "summary": "The Philippines protests China Daily videos depicting Filipinos as monkeys amid South China Sea tensions.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-    "date": "2026-07-17"
+    "link": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -253,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "IA : Xi Jinping vante un contre-modèle chinois ouvert et accessible pour concurrencer les Etats-Unis",
-    "summary": "La Chine a organisé, vendredi 17 juillet, à Shanghaï, une conférence mondiale sur l’intelligence artificielle. Alors que certaines de ses entreprises talonnent les leaders américains du secteur, ce rattrapage s’inscrit au cœur des rivalités avec les Américains.",
+    "title": "Le port du Havre, concurrencé par Rotterdam et Anvers, œuvre pour se moderniser et enrayer son déclin",
+    "summary": "« La ruée sur les ports » (10/16). Situé aux portes de l’Europe du Nord, le port normand souffre des faiblesses de l’industrie française et est pénalisé par les retards du transport fluvial comme ferroviaire au sortir de ses terminaux. D’importants investissements pourraient toutefois changer la donne.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/17/ia-xi-jinping-vante-un-contre-modele-chinois-ouvert-et-accessible-face-aux-etats-unis_6724192_3234.html",
-    "date": "2026-07-17"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/18/le-port-du-havre-concurrence-par-rotterdam-et-anvers-uvre-pour-se-moderniser-et-enrayer-son-declin_6724349_3234.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -285,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "EEG shows brain can simultaneous encode two speech streams",
-    "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 216 # Comments: 141",
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 164 # Comments: 90",
     "source": "Hacker News",
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
     "date": "2026-07-17"
   },
   {
@@ -325,26 +325,26 @@
   },
   {
     "type": "news",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+    "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+    "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+    "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Le rand sud-africain s'affaiblit avant les chiffres de l'inflation et la réunion de la banque centrale",
-    "summary": "Le rand sud-africain s'affaiblit avant les chiffres de l'inflation et la réunion de la banque centrale Zonebourse Suisse",
+    "title": "Retranscription d’appel de résultats : La Banque Centrale d’Inde affiche une forte croissance au T1 2026",
+    "summary": "Retranscription d’appel de résultats : La Banque Centrale d’Inde affiche une forte croissance au T1 2026 Investing.com France",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRUlOdlF0U1Y0dGJnaVVZbVVpQmZTWXlUbVB0U01Kd3VUT3NwOE1fQ3JTNXRPNElVNmZJMHlPcjlQVWwyeHREMWplRmlVTnQ5Rlp5MlBKdVBlSF9BdUxwTGd0dGEtQUdwUWVGYVQxVkFOZjJLdXUtZEM1V0JTaUVjdjZERVA3MXRQUUw2WHRkb2RJV2h0N0xKVzZFZkNJVmo0b0x5dU9CSGFNYXhNdlEyWmJ6SjBuOEhSaElFaVNfZFR1eHlZSGlpd1gyLXZUblFVUjBpenNZWkxGV1VpU194N0Fvb1Rya1k?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORUFBNHJ3amRTY2FrbXJVTDhOZlJDaG5CSVl4cTVwNl9uMEJucThQeDVvT3VQeWNwT25oSEVlU1dfVGhFTGRkTTNvVkd6YXFrRXpSdkNHa0dsR0dsSlcxRm03Vk9TVXBiVWR4SG1RNGlfUzVyelNaNDJnVFpwNUJlWHl1UDE4WmZLLTlVVjQ1R25yUjNLaEgyeXR3NV96clpEWHFHMFhOZlgwbjNWREduQ1BTLWY4R2tyQnpFOEdtMkllbFBoV3JaTjRYQ1Q3Ukhsd3RnY1JmZ0xtWDZaMVAtck5TUGJPMmhIZlNVUA?oc=5",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
-    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
+    "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
+    "summary": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
     "date": "2026-07-17"
   },
   {
@@ -365,34 +365,34 @@
   },
   {
     "type": "news",
-    "title": "Une vidéo chinoise dépeint les Philippins en singes aux ordres de Washington : “Une honte”",
-    "summary": "Les autorités philippines ont fermement condamné, le vendredi 17 juillet, une vidéo générée par IA mise en ligne par le “China Daily” qui dépeint les Philippins comme des singes chanteurs de karaoké soumis aux États-Unis et au Japon. Le tout sur fond de recrudescence des tensions en mer de Chine méridionale.",
+    "title": "À vélo sur le Shimanami Kaido, à la recherche de ce Japon qui nous fascine",
+    "summary": "LE MONDE À VÉLO (2/6) – Tout au long du Shimanami Kaido, un itinéraire cyclable de 70 kilomètres qui relie un chapelet d’îles de la mer intérieure de Seto, la vie japonaise suit son cours. Près de trente ans après l’avoir parcouru une première fois, ce journaliste australien y est retourné.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/tensions-une-video-chinoise-depeint-les-philippins-en-singes-aux-ordres-de-washington-une-honte_250871",
-    "date": "2026-07-17"
+    "link": "https://www.courrierinternational.com/article/serie-d-ete-a-velo-sur-le-shimanami-kaido-a-la-recherche-de-ce-japon-qui-nous-fascine_245577",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "China slams Trump’s claims over 2020 US election interference",
-    "summary": "China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.",
+    "title": "Iranian official says the policy of negotiating during war is over",
+    "summary": "Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
-    "date": "2026-07-17"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "EU loosens carbon market rules to let industry pollute for longer",
-    "summary": "BRUSSELS — The European Commission has confirmed it will allow EU industry to continue emitting planet-warming gases well into the 2040s and offer more free pollution permits for longer, as part of an overhaul of the bloc’s Emissions Trading System.",
+    "title": "How food delivery works in Ukraine’s ‘killing zone’",
+    "summary": "Ukraine’s farms grew some 60 million metric tons of grain this year, enough to help feed hundreds of millions of people abroad. Yet along the country’s own front line, 700,000 Ukrainians depend for their next meal on U.N. convoys that barely stop moving.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-loosens-carbon-market-rules-to-allow-industry-to-pollute-for-longer/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-17"
+    "link": "https://www.politico.eu/article/ukraine-front-line-food-crisis-un-convoys-russian-drones/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Sommet de l'Otan Ankara 2026, l'amour et la colère de Donald Trump",
-    "summary": "La réunion de famille ne s’est pas super bien passée, mais au moins, personne n’a claqué la porte ! Voilà comment résumer le sommet de l’OTAN qui s’est tenu à Ankara mardi 7 et mercredi 8 juillet 2026. Entre grosse colère de Donald Trump à l’arrivée, aide à l’Ukraine, investissement dans l’armement européen et rappel de l’article.",
+    "title": "L'intelligence artificielle, un enjeu géopolitique majeur",
+    "summary": "La conférence mondiale sur l’intelligence artificielle, devenue un rendez-vous traditionnel et qui rassemble des milliers de participants du secteur, a ouvert ses portes vendredi 17 juillet à Shanghai en Chine. Le numéro 1 chinois Xi Jinping s’y est exprimé à l'ouverture.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260712-sommet-de-l-otan-ankara-2026-l-amour-et-la-col%C3%A8re-de-donald-trump",
-    "date": "2026-07-12"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260717-l-intelligence-artificielle-un-enjeu-g%C3%A9opolitique-majeur",
+    "date": "2026-07-17"
   }
 ]
