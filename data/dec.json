@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP?",
+    "answer": "L'évaluation des risques d'audit est le processus par lequel l'auditeur identifie et évalue les risques d'anomalies significatives dans les états financiers, en prenant en compte la compréhension de l'entité et de son environnement."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme encadre spécifiquement l'évaluation des risques d'audit?",
+    "answer": "La norme d'exercice professionnel (NEP) 210, qui traite de la planification de la mission d'audit."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les principaux types de risques identifiés lors de l'évaluation des risques d'audit?",
+    "answer": "Les risques inhérents, les risques de contrôle et les risques de détection."
+  },
+  {
+    "type": "dec",
+    "question": "Comment la connaissance de l'entité influence l'évaluation des risques?",
+    "answer": "Une bonne compréhension de l'entité permet de mieux identifier les risques spécifiques, d'évaluer les contrôles internes et d'adapter les procédures d'audit."
+  },
+  {
+    "type": "dec",
+    "question": "Quel article du Code de commerce traite de l'audit et des obligations des commissaires aux comptes?",
+    "answer": "L'article L823-1 du Code de commerce, qui définit le rôle et les responsabilités des commissaires aux comptes dans le cadre de l'audit."
+  },
+  {
+    "type": "dec",
+    "question": "Comment l'auditeur doit-il documenter son évaluation des risques d'audit selon la NEP?",
+    "answer": "L'auditeur doit documenter les résultats de son évaluation des risques, y compris les jugements effectués et les raisons qui ont conduit à ces jugements."
+  },
+  {
+    "type": "dec",
     "question": "Quelles sont les principales obligations déontologiques d'un commissaire aux comptes selon le Code de commerce ?",
     "answer": "Les principales obligations incluent l'indépendance, l'intégrité, la compétence, la diligence, et le respect du secret professionnel."
   },
