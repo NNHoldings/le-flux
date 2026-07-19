@@ -1,6 +1,18 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "做饭",
+    "pinyin": "zuò fàn",
+    "fr": "cuisiner"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "打扫",
+    "pinyin": "dǎ sǎo",
+    "fr": "faire le ménage"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "节目",
     "pinyin": "jiémù",
     "fr": "programme"
