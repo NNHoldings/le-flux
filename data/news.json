@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La dette des États-Unis dépasse 100 % du PIB, soulevant des préoccupations économiques.",
+      "La guerre en Ukraine et les tensions au Moyen-Orient exacerbent les enjeux géopolitiques."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-19"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "Bourse : Nvidia et les géants des puces dévissent sur les marchés, Apple devient la première capitalisation mondiale",
-    "summary": "Bourse : Nvidia et les géants des puces dévissent sur les marchés, Apple devient la première capitalisation mondiale La Tribune",
+    "title": "La dette des États-Unis dépasse 100 % du PIB, l'impact de l'IA sur l'inégalité des richesses et plus encore : Cette semaine dans l'économie",
+    "summary": "La dette des États-Unis dépasse 100 % du PIB, l'impact de l'IA sur l'inégalité des richesses et plus encore : Cette semaine dans l'économie Benzinga France",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcF85YjZ2VU5PaTc0RlFyUUhXSDYtT0tlbmdZdjFOX3MyazAtem9MbXNGbTM0MVhNc0t5aXU1VGVpaG52U3BRM01vZ1V0Qlp2emlKTEZlQVZveUx1clNEZ1dzSzBTWGRDMTBoWUlfTlo3SGVqWUFKRnV3MEk5dnlFV0JxMTY1NnJvUEdhbTF2ZjNLQmdyeEhmLUhRU2RKUkNMeUhYYW1MbC0zU0hhWXNtTTNZdW81WGRmQnZncmNqNWNGYmFhZk5PSXpPcFNNWXM1X0dDeGVmYlN5SGN0UVhob08zX2M1NWV4eHFYVlNNTFc5TVdIeFF0d20wZWxNQXVBZW9xRk16NWdwMEJ2d3J2bmp2U2J3M1VURUJR?oc=5",
-    "date": "2026-07-17"
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd2YwblV3R1FkVjc1V0NmRG1BdGM1RUtrMFFxdjhGNHlSbC04Sk9TS2x1eFRVYTZLODhJNHFIWWRBZk1fZkxudk5QQ2Jfc2hqQlcyeUdyWElRS1MtbDVROEdMMG9sUERpUzlhcU01akd4Q1VKcDFQQWkxbk1KYW9YWGdKTUp1aVIzZGpTc3FLRWg0THkzN0NKRUFGSlFWWF9TZnZTcF84TG5GX0J2VU4tQk11SXlOS2pObDBldm9rRUQ2ZTJ2clRpWlQtNm0weG9maFluVERaZkd0N0pYMVl6ZmxkUlpfRXdBZkduZlZIY3JoSkhad0R5Y1hoSQ?oc=5",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie a mené au cours de la nuit l’une de ses plus massives attaques de missiles balistiques contre Kiev, selon Volodymyr Zelensky",
-    "summary": "Le président ukrainien a fait état d’un mort et de 16 blessés dans la capitale ukrainienne et sa région. Les forces russes ont tiré plus de 40 missiles de divers types ainsi que 120 drones d’attaque, a-t-il rapporté.",
+    "title": "EN DIRECT, guerre en Ukraine : après des entretiens avec des commandants militaires, Volodymyr Zelensky annonce des « conversations cruciales » pour lundi",
+    "summary": "Ces réunions, qui en sont à leur troisième jour, se déroulent dans un contexte de manifestations dans les grandes villes, exigeant la destitution du commandant en chef, Oleksandr Syrsky, et la réintégration de l’ancien ministre de la défense, Mykhaïlo Fedorov.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-apres-des-entretiens-avec-des-commandants-militaires-volodymyr-zelensky-annonce-des-conversations-cruciales-pour-lundi_6725306_3210.html",
     "date": "2026-07-19"
   },
   {
@@ -65,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "“La nuit la plus terrifiante de ma vie” : Kiev bombardée par des dizaines de missiles russes",
-    "summary": "La Russie a mené l’une de ses plus importantes attaques de missiles balistiques jamais enregistrées sur la capitale ukrainienne dans la nuit du 18 au 19 juillet. Les bombardements ont touché plusieurs quartiers de la ville, faisant au moins un mort et seize blessés.",
+    "title": "À Gaza, enseigner la musique sous les tentes",
+    "summary": "Avec les moyens du bord, un petit groupe d’anciens employés du Conservatoire national, détruit par la guerre, a décidé de dispenser des cours dans un camp de déplacés. Un acte de résistance pacifique visant à ressusciter l’institution et à apaiser, un tant soit peu, des jeunes traumatisés par le conflit, relate “The Guardian” sur place.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-nuit-la-plus-terrifiante-de-ma-vie-kiev-bombardee-par-des-dizaines-de-missiles-russes_251166",
+    "link": "https://www.courrierinternational.com/article/reportage-a-gaza-enseigner-la-musique-sous-les-tentes_248133",
     "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-    "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+    "title": "Iranians suffer from power blackouts during war and heatwave",
+    "summary": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
     "date": "2026-07-19"
   },
   {
@@ -129,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 243 # Comments: 88",
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "summary": "Article URL: https://github.com/openai/codex/pull/33972/files Comments URL: https://news.ycombinator.com/item?id=48965850 Points: 196 # Comments: 90",
     "source": "Hacker News",
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "link": "https://github.com/openai/codex/pull/33972/files",
     "date": "2026-07-19"
   },
   {
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit en baisse, les semi-conducteurs à nouveau pénalisés",
-    "summary": "Point marchés-L'Europe finit en baisse, les semi-conducteurs à nouveau pénalisés Zonebourse",
+    "title": "L’équipementier automobile chinois Zhejiang Asia-Pacific fait progresser sa base de production tangéroise pour gagner les marchés africains et européens",
+    "summary": "L’équipementier automobile chinois Zhejiang Asia-Pacific fait progresser sa base de production tangéroise pour gagner les marchés africains et européens برلمان.كوم",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMlV1NEVzMTZLNUhuRS1QdDlYVW93QTVDeTBrMnNIZ1B0dW1kejdLZWhJNTMwWExkdDlWWkUwQkx5ekFkQy1uOEstamMwZ09BaVJ5VDRwbGFERVdINGlBd3RfRGxRVy0wWC1WeVJlWllFUlVFTnlpOUt4UEJoeUlyTWJpQWpGUFdzVVBUS2FtV0hCaGtYSnpmb1M0MTBhOHYwZUJFYkFKbFh2TFgzYVBRSUp4UmFhMnVtdWZBTFh1VUhXOWxBdlVPYURWMExWcWtJNTZCZnJMVQ?oc=5",
-    "date": "2026-07-17"
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcmROczJBWjFuZVNuY1laYnZYX3hkdEJiUHlmdHBxendsZzJJd216TGkxd0dpTkktQ1RrYmtHZUZBMDBFM21takF0SndjcFlmQVdyMTM3bS1UQjJ1NWlNRVNTMTlCS0t0bXlhcHVseXk5emFpc0xselFSbWNEZ052dm9iZEsyNHVqN2o4T1J1M0l4bUQxVmlyRzN4Z3JPbm50bTJ6MWNUOGUycF82Vm5kUG4xTHdVVmZXQ0FreXc2Mjl1TFVLRGs2T1lMYm5WOFdheFY1ZUFrbTNXNlg5VjZCdzk3NzJYZUJmWndfYUtDVERPU3lUV1NJYUFkSm1JWDB1MExjdTBZMk4?oc=5",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "En Norvège, l’amertume des survivants de l’attentat d’Utoya : « Les idées du néonazi Breivik se sont banalisées dans l’espace public »",
-    "summary": "Il y a quinze ans, le terroriste Anders Behring Breivik assassinait 77 personnes à Oslo et sur l’île d’Utoya. Le 22 juillet, la Norvège commémore ces attentats, les plus meurtriers de son histoire depuis la seconde guerre mondiale, en inaugurant un mémorial et un centre d’exposition.",
+    "title": "En Russie, le discours antiguerre ne passe toujours pas à deux mois des élections législatives",
+    "summary": "Le Kremlin s’acharne à museler les rares candidats à la députation opposés à la guerre en Ukraine, alors que la population et quelques industriels se prennent à imaginer la paix.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/19/en-norvege-l-amertume-des-survivants-de-l-attentat-d-utoya-les-idees-du-neonazi-breivik-se-sont-banalisees-dans-l-espace-public_6725347_4500055.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/19/en-russie-le-discours-antiguerre-ne-passe-toujours-pas_6725998_3210.html",
     "date": "2026-07-19"
   },
   {
@@ -209,27 +221,27 @@
   },
   {
     "type": "news",
-    "title": "Une frappe iranienne tue deux soldats et montre que le pays s’est “adapté aux défenses américaines”",
-    "summary": "Côté américain, le bilan de la guerre s’élève désormais à 16 morts. L’attaque a ciblé une base en Jordanie. En réaction, les États-Unis ont bombardé l’Iran pour le huitième jour consécutif.",
+    "title": "La Fifa a “ouvert la porte à la fraude”, accuse le Conseil de l’Europe",
+    "summary": "Dans une lettre ouverte, Alain Berset, le secrétaire général du Conseil de l’Europe, appelle la Fédération internationale de football à œuvrer d’urgence pour “renforcer l’intégrité du sport”. En cause : les pressions politiques et financières qui ont, selon lui, marqué le Mondial 2026.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflit-une-frappe-de-l-iran-tue-deux-soldats-et-montre-que-le-pays-s-est-adapte-aux-defenses-americaines_251067",
+    "link": "https://www.courrierinternational.com/article/football-la-fifa-a-ouvert-la-porte-a-la-fraude-accuse-le-conseil-de-l-europe_251199",
     "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Iranians suffer from power blackouts during war and heatwave",
-    "summary": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
+    "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
+    "summary": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
     "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Wie sich Europa für den Ernstfall vorbereitet. Mit NATO-General Laubenthal",
-    "summary": "Listen on Spotify Apple Music Amazon Music Der NATO-Gipfel in Ankara hat der Allianz wichtige Entscheidungen für neue Aufklärungssysteme gebracht. Im Interview mit Gordon Repinski blickt Bundeswehr-General Markus Laubenthal, Chief of Staff im Supreme Headquarters Allied Powers Europe, gelassen auf Trumps Grönland-Äußerungen und betont die verstärkte NATO-Prä…",
+    "title": "Ships continue to move through Strait of Hormuz, US Energy chief says",
+    "summary": "U.S. Energy Secretary Chris Wright said Sunday that despite renewed fighting with Iran, oil tankers continue to make it through the Strait of Hormuz. Speaking to host Jonathan Karl on ABC’s “This Week,” Wright said: “We’re at a little under 14 million barrels a day from the Arabian Gulf region.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-sich-europa-fur-den-ernstfall-vorbereitet-mit-nato-general-laubenthal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-18"
+    "link": "https://www.politico.com/news/2026/07/19/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -242,7 +254,7 @@
   {
     "type": "news",
     "title": "Au Festival d’Avignon, les programmateurs confrontés aux restrictions budgétaires : « Notre difficulté n’est pas de trouver des spectacles de qualité, mais de survivre »",
-    "summary": "Quelque 1 150 potentiels acheteurs de spectacles étaient accrédités au Festival et davantage dans le « off ». S’ils trouvent leur bonheur, Français comme internationaux doivent faire face à des budgets en baisse.",
+    "summary": "Quelque 1 150 potentiels acheteurs de spectacles étaient accrédités au festival et davantage dans le « off ». S’ils trouvent leur bonheur, Français comme internationaux doivent composer avec des budgets en baisse.",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/economie/article/2026/07/19/au-festival-d-avignon-les-programmateurs-confrontes-aux-restrictions-budgetaires-notre-difficulte-n-est-pas-de-trouver-des-spectacles-de-qualite-mais-de-survivre_6725650_3234.html",
     "date": "2026-07-19"
@@ -273,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 488 # Comments: 212",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 283 # Comments: 122",
     "source": "Hacker News",
-    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "date": "2026-07-18"
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -329,10 +341,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Iran : l’armée américaine affirme avoir ciblé les auteurs de l’attaque qui a coûté la vie à deux de ses soldats",
-    "summary": "Au cours d’une huitième nuit d’affilée de frappes contre l’Iran, les Etats-Unis ont visé des sites militaires ainsi que « les forces du corps des gardiens de la révolution islamique qui ont lancé des attaques contre des membres des forces américaines en Jordanie le 17 juillet », selon un communiqué du commandement militaire américain pour le Moyen-Orient (Ce…",
+    "title": "« La dépendance de l’Irlande à l’égard de grandes entreprises non européennes crée des conflits d’intérêts insurmontables »",
+    "summary": "Le pays, qui a pris la présidence tournante du Conseil de l’UE au 1ᵉʳ juillet, doit se retirer des négociations sur la régulation numérique et les règles de fiscalité des entreprises, estime dans une tribune au « Monde » un collectif d’universitaires, dont les économistes Mariana Mazzucato, Joseph Stiglitz et Shoshana Zuboff.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-iran-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-en-jordanie_6725301_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/19/la-dependance-de-l-irlande-a-l-egard-de-grandes-entreprises-non-europeennes-cree-des-conflits-d-interets-insurmontables_6726231_3232.html",
     "date": "2026-07-19"
   },
   {
@@ -353,27 +365,27 @@
   },
   {
     "type": "news",
-    "title": "Un système européen de collecte de données biométriques confond des sœurs jumelles",
-    "summary": "Entrée en vigueur en avril, une version numérique du système d’entrée/de sortie de l’Union européenne “a du mal à faire la différence entre des jumelles identiques”, révèle “Politico Europe”.",
+    "title": "“La nuit la plus terrifiante de ma vie” : Kiev bombardée par des dizaines de missiles russes",
+    "summary": "La Russie a mené l’une de ses plus importantes attaques de missiles balistiques jamais enregistrées sur la capitale ukrainienne dans la nuit du 18 au 19 juillet. Les bombardements ont touché plusieurs quartiers de la ville, faisant au moins un mort et seize blessés.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/controle-vous-me-semblez-familiere-un-systeme-europeen-de-collecte-de-donnees-biometriques-confond-des-jumelles_251034",
-    "date": "2026-07-18"
-  },
-  {
-    "type": "news",
-    "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
-    "summary": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-nuit-la-plus-terrifiante-de-ma-vie-kiev-bombardee-par-des-dizaines-de-missiles-russes_251166",
     "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Trump’s rhetoric is more dangerous than voting machine flaws, experts say",
-    "summary": "Election officials in the U.S. are warning that President Donald Trump’s assertion that America’s voting machines aren’t safe is far more dangerous than the vulnerabilities he highlighted in his Thursday night address.",
+    "title": "Why have India’s Gen Z protesters called for a march to parliament?",
+    "summary": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
+    "date": "2026-07-19"
+  },
+  {
+    "type": "news",
+    "title": "US and Iran trade strikes again as Washington avenges American deaths",
+    "summary": "Tehran struck U.S. allies across the Persian Gulf region on Sunday and American forces bombed Iran for an eighth straight night, with the interim peace deal dead and neither side backing down.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/18/trumps-rhetoric-voting-machine-flaws-01004123?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-18"
+    "link": "https://www.politico.eu/article/us-iran-strikes-war-peace-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
