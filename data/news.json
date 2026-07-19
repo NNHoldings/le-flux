@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires font face à un dilemme entre inflation et récession.",
-      "La guerre en Ukraine continue d'intensifier avec de nombreux affrontements et des attaques de drones.",
-      "L'Union européenne envisage d'assouplir la tarification du carbone pour soutenir les industriels."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-18"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,11 +25,11 @@
   },
   {
     "type": "news",
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "date": "2026-07-18"
+    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "date": "2026-07-14"
   },
   {
     "type": "news",
@@ -53,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : soixante-neuf affrontements sur le front depuis le début de la journée, selon l’état-major ukrainien",
-    "summary": "Volodymyr Zelensky a par ailleurs affirmé que l’Ukraine avait frappé deux importantes installations dans les régions de Moscou et de Tambov, utilisées selon lui pour acheminer des composants sous sanctions destinés à la fabrication de drones et d’équipements de navigation.",
+    "title": "EN DIRECT, guerre en Ukraine : au moins un mort dans des frappes visant Kiev, au lendemain d’attaques ukrainiennes meurtrières en Russie",
+    "summary": "Depuis juin, la capitale ukrainienne est régulièrement visée par des frappes russes menées à l’aide de missiles balistiques, rapides et plus difficiles à intercepter que les drones ou les missiles de croisière.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
-    "date": "2026-07-18"
+    "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-au-moins-un-mort-dans-des-frappes-visant-kiev-au-lendemain-d-attaques-ukrainiennes-meurtrieres-en-russie_6725306_3210.html",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -77,26 +65,26 @@
   },
   {
     "type": "news",
-    "title": "Un système européen de collecte de données biométriques confond des sœurs jumelles",
-    "summary": "Entrée en vigueur en avril, une version numérique du système d’entrée/de sortie de l’Union européenne “a du mal à faire la différence entre des jumelles identiques”, révèle “Politico Europe”.",
+    "title": "Une frappe de l’Iran tue deux soldats et montre que le pays s’est “adapté aux défenses américaines”",
+    "summary": "Côté américain, le bilan de la guerre s’élève désormais à 16 morts. L’attaque a ciblé une base en Jordanie. En réaction, les États-Unis ont bombardé l’Iran pour le huitième jour consécutif.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/controle-vous-me-semblez-familiere-un-systeme-europeen-de-collecte-de-donnees-biometriques-confond-des-jumelles_251034",
-    "date": "2026-07-18"
+    "link": "https://www.courrierinternational.com/article/conflit-une-frappe-de-l-iran-tue-deux-soldats-et-montre-que-le-pays-s-est-adapte-aux-defenses-americaines_251067",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-    "summary": "Russian officials say strikes on retailer's warehouses caused civilian casualties; Kyiv says sites used to make drones.",
+    "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+    "summary": "Palestinians who have endured Israel's genocidal war are still being targeted.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "Water infrastructure hit in Iran, Kuwait amid latest Gulf war flare-up",
-    "summary": "Iran launched a fresh spate of strikes on Washington’s Gulf allies on Saturday morning after the United States bombed the country for a seventh consecutive night following the collapse of a ceasefire deal. Both Iran and Kuwait said the latest attacks hit desalination plants, a crucial source of water in the dry Middle East region.",
+    "title": "Wie sich Europa für den Ernstfall vorbereitet. Mit NATO-General Laubenthal",
+    "summary": "Listen on Spotify Apple Music Amazon Music Der NATO-Gipfel in Ankara hat der Allianz wichtige Entscheidungen für neue Aufklärungssysteme gebracht. Im Interview mit Gordon Repinski blickt Bundeswehr-General Markus Laubenthal, Chief of Staff im Supreme Headquarters Allied Powers Europe, gelassen auf Trumps Grönland-Äußerungen und betont die verstärkte NATO-Prä…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/water-infrastructure-hit-in-iran-kuwait-amid-latest-gulf-war-flare-up/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-sich-europa-fur-den-ernstfall-vorbereitet-mit-nato-general-laubenthal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-18"
   },
   {
@@ -109,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "L’Union européenne propose d’assouplir la tarification du carbone pour les industriels jusqu’en 2038",
-    "summary": "La réforme du marché du carbone proposée par la Commission européenne permettrait aux industriels de bénéficier plus longtemps de quotas carbone gratuits. Pour montrer que ses ambitions climatiques demeurent, l’UE a aussi présenté un objectif d’électrification à 46 % de sa consommation finale d’énergie en 2040.",
+    "title": "Le port du Havre, concurrencé par Rotterdam et Anvers, œuvre pour se moderniser et enrayer son déclin",
+    "summary": "« La ruée sur les ports » (10/16). Situé aux portes de l’Europe du Nord, le port normand souffre des faiblesses de l’industrie française et est pénalisé par les retards du transport fluvial comme ferroviaire au sortir de ses terminaux. D’importants investissements pourraient toutefois changer la donne.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/planete/article/2026/07/17/l-union-europeenne-propose-d-assouplir-la-tarification-du-carbone-pour-les-industriels-jusqu-en-2038_6724184_3244.html",
-    "date": "2026-07-17"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/18/le-port-du-havre-concurrence-par-rotterdam-et-anvers-uvre-pour-se-moderniser-et-enrayer-son-declin_6724349_3234.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -141,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "LG monitors silently install software through Windows Update without consent",
-    "summary": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent Comments URL: https://news.ycombinator.com/item?id=48956688 Points: 721 # Comments: 358",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 164 # Comments: 61",
     "source": "Hacker News",
-    "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-    "date": "2026-07-18"
+    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -181,11 +169,11 @@
   },
   {
     "type": "news",
-    "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-    "summary": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
-    "date": "2026-07-17"
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -197,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "En Inde, tollé après le coup de force du gouvernement contre Sonam Wangchuk, militant en grève illimitée de la faim",
-    "summary": "L’activiste avait rejoint le mouvement des « cafards », la protestation des étudiants pour exiger la démission du ministre de l’éducation. Samedi 18 juillet, après vingt et un jours de grève de la faim, il a été placé de force dans un hôpital de Delhi.",
+    "title": "Guerre en Ukraine : Volodymyr Zelensky assure aux Ukrainiens qu’il entend leurs revendications, après une nouvelle manifestation à Kiev. Retrouvez les informations du 12 au 18 juillet.",
+    "summary": "Dans les grandes villes d’Ukraine, notamment à Kiev, des milliers de personnes se sont rassemblées pour la troisième journée d’affilée pour réclamer le départ du chef de l’armée, Oleksandr Syrsky, et le retour de Mykhaïlo Fedorov au ministère de la défense.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/18/en-inde-tolle-apres-le-coup-de-force-du-gouvernement-contre-sonam-wangchuk-militant-en-greve-illimitee-de-la-faim_6724761_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-soixante-neuf-affrontements-sur-le-front-depuis-le-debut-de-la-journee-selon-l-etat-major-ukrainien_6722853_3210.html",
     "date": "2026-07-18"
   },
   {
@@ -221,26 +209,26 @@
   },
   {
     "type": "news",
-    "title": "Septième nuit de bombardements américains en Iran, Téhéran menace Washington de guerre “totale”",
-    "summary": "Les États-Unis ont lancé dans la nuit de vendredi à samedi une nouvelle vague de bombardements contre l’Iran, visant des infrastructures civiles et militaires. Téhéran a répliqué par des attaques contre des positions américaines dans la région, et menacé Washington de guerre “totale” en cas de poursuite des bombardements sur son sol.",
+    "title": "Un système européen de collecte de données biométriques confond des sœurs jumelles",
+    "summary": "Entrée en vigueur en avril, une version numérique du système d’entrée/de sortie de l’Union européenne “a du mal à faire la différence entre des jumelles identiques”, révèle “Politico Europe”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-iran-septieme-nuit-de-bombardements-americains-en-iran-teheran-menace-washington-de-guerre-totale_250935",
+    "link": "https://www.courrierinternational.com/article/controle-vous-me-semblez-familiere-un-systeme-europeen-de-collecte-de-donnees-biometriques-confond-des-jumelles_251034",
     "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "China warns UK over British Steel nationalisation, demands fair resolution",
-    "summary": "Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.",
+    "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+    "summary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
-    "date": "2026-07-18"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Trump spares Beijing in probe of alleged Chinese election plot",
-    "summary": "The White House appears to be shielding China from scrutiny in President Donald Trump’s push to get to the bottom of what he has declared an official cover-up of Chinese interference in the 2020 presidential election.",
+    "title": "Trump’s rhetoric is more dangerous than voting machine flaws, experts say",
+    "summary": "Election officials in the U.S. are warning that President Donald Trump’s assertion that America’s voting machines aren’t safe is far more dangerous than the vulnerabilities he highlighted in his Thursday night address.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/17/trump-spares-beijing-in-probe-of-alleged-chinese-election-plot-01004011?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/18/trumps-rhetoric-voting-machine-flaws-01004123?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-18"
   },
   {
@@ -253,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Le port du Havre, concurrencé par Rotterdam et Anvers, œuvre pour se moderniser et enrayer son déclin",
-    "summary": "« La ruée sur les ports » (10/16). Situé aux portes de l’Europe du Nord, le port normand souffre des faiblesses de l’industrie française et est pénalisé par les retards du transport fluvial comme ferroviaire au sortir de ses terminaux. D’importants investissements pourraient toutefois changer la donne.",
+    "title": "IA : Xi Jinping vante un contre-modèle chinois ouvert et accessible pour concurrencer les Etats-Unis",
+    "summary": "La Chine a organisé, vendredi 17 juillet, à Shanghaï, une conférence mondiale sur l’intelligence artificielle. Alors que certaines de ses entreprises talonnent les leaders américains du secteur, ce rattrapage s’inscrit au cœur des rivalités avec les Américains.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/18/le-port-du-havre-concurrence-par-rotterdam-et-anvers-uvre-pour-se-moderniser-et-enrayer-son-declin_6724349_3234.html",
-    "date": "2026-07-18"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/17/ia-xi-jinping-vante-un-contre-modele-chinois-ouvert-et-accessible-face-aux-etats-unis_6724192_3234.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -285,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-    "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md Comments URL: https://news.ycombinator.com/item?id=48952565 Points: 192 # Comments: 76",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 423 # Comments: 188",
     "source": "Hacker News",
-    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "date": "2026-07-17"
+    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
@@ -325,27 +313,27 @@
   },
   {
     "type": "news",
-    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-    "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
+    "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
+    "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+    "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs",
-    "summary": "Calendrier économique : l'inflation en Europe et le marché immobilier américain sous les projecteurs XTB.com",
+    "title": "Les Marchés de Prédiction Atteignent 113,8 Milliards de Dollars au T2 alors que Kalshi Saisit 58,9% de Part",
+    "summary": "Les Marchés de Prédiction Atteignent 113,8 Milliards de Dollars au T2 alors que Kalshi Saisit 58,9% de Part The Currency analytics",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOemZhLU5fSEVOVWZvZHh2c05YM2FoSnc4VDB4SFlJNGVNREJzYVhrQnBlYU10M3FQUkZmVWdjWGFydDd1X3hqV1lTWUdyOFZSeWRSNms1THMxRFY5cG1ObXhfQ2Z6NlJzRG5HZnM3UTRVVWZpNW9tM3o4M1EtZjFickhNLUNsWTQtZFM2OFZtbXJrcXIwRDRIdDBUbVA2UkVDT0RvTVY5SXh1d1VFeUdKaUJ4SjhTX201WVJBNGduTzQwTHIzQWp6TFNSb1I5STJySTUyMw?oc=5",
-    "date": "2026-07-17"
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPREZSbERkbXlrdjNZdGdqOG5ONWRUMHh4cXMzUDg5R1hqTEFLRlpjNVk1eXNyQXh6WVhjYjJ0cklQbWFtNEFmODJjZ0NISmFYUWoxTVViLVJHZ0gwRlVGZWFQS3hhX3lIdDA1U3RXR3czVWFkcG1OSmIzUEtWQU5DWnR1TkdYNXF0T2djX3J5YzN6SjZxSzZOMjJqQThpR2YxRTFlUFZGalo1dUlMYkVZT2VjaU9oMWI4VnlfOUI3UnJiV2d1RU5OTGJuUUUxWW9fMjlkRFhJcWh0d1hlMjVTUWZxOXg3VFhrSFh1NVJsSktZckh1?oc=5",
+    "date": "2026-07-18"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Iran : Mojtaba Khamenei, le Guide suprême iranien, menace d’infliger aux Etats-Unis des « leçons inoubliables » et critique la signature « sans valeur » de Donald Trump",
-    "summary": "Pour Mojtaba Khamenei, « la violation répétée » du protocole d’accord « a une fois de plus démontré à tous que la signature du président américain est sans valeur », a-t-il déclaré dans un message lu à la télévision.",
+    "title": "En Norvège, l’amertume des survivants de l’attentat d’Utoya : « Les idées du néonazi Breivik se sont banalisées dans l’espace public »",
+    "summary": "Il y a quinze ans, le terroriste Anders Behring Breivik assassinait 77 personnes à Oslo et sur l’île d’Utoya. Le 22 juillet, la Norvège commémore ces attentats, les plus meurtriers de son histoire depuis la seconde guerre mondiale, en inaugurant un mémorial et un centre d’exposition.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-iran-n-a-pas-d-autre-choix-que-de-donner-une-lecon-aux-agresseurs-previent-le-vice-ministre-des-affaires-etrangeres-iranien-kazem-gharibabadi_6722873_3210.html",
-    "date": "2026-07-18"
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/19/en-norvege-l-amertume-des-survivants-de-l-attentat-d-utoya-les-idees-du-neonazi-breivik-se-sont-banalisees-dans-l-espace-public_6725347_4500055.html",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -373,18 +361,18 @@
   },
   {
     "type": "news",
-    "title": "Ukrainian strikes hit Russian logistics center",
-    "summary": "Ukrainian strikes hit Russian logistics center",
+    "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "summary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss",
-    "date": "2026-07-18"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
-    "title": "Trump’s rhetoric is more dangerous than voting machine flaws, experts say",
-    "summary": "Election officials in the U.S. are warning that President Donald Trump’s assertion that America’s voting machines aren’t safe is far more dangerous than the vulnerabilities he highlighted in his Thursday night address.",
+    "title": "Trump’s speech offered a preview of his next moves on elections",
+    "summary": "President Donald Trump’s elections legislation remains stalled in Congress. But his Thursday night primetime address contained hints of where he might take his whole-of-government approach to asserting control over American elections.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/trumps-rhetoric-is-more-dangerous-than-voting-machine-flaws-experts-say/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/17/donald-trump-elections-speech-demands-01003431?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-18"
   },
   {
