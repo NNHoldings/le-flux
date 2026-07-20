@@ -4,9 +4,9 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Ukraine continue de provoquer des tensions militaires et géopolitiques en Europe.",
-      "Les entreprises mondiales poursuivent leurs méga-accords malgré les incertitudes géopolitiques."
+      "Les marchés obligataires oscillent entre l'inflation et la récession.",
+      "La BCE refuse de réduire les taux d'intérêt pour les investissements verts malgré le changement climatique.",
+      "Les tensions géopolitiques n'empêchent pas les entreprises mondiales de réaliser des mégadeals."
     ],
     "source": "Le Flux",
     "date": "2026-07-20"
@@ -53,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la région de Moscou visée par plus de 400 drones, « la plupart » interceptés, selon le maire de la capitale russe, Sergueï Sobianine",
-    "summary": "Ces frappes interviennent alors que la capitale ukrainienne, Kiev, a été touchée, dans la nuit de samedi à dimanche, par l’une des « plus importantes attaques de missiles balistiques » depuis le début de la guerre, selon le président Volodymyr Zelensky.",
+    "title": "Changement climatique : pourquoi la BCE refuse de créer un taux d’intérêt réduit pour les investissements verts",
+    "summary": "La banque centrale chinoise garantit un taux de financement bas aux investissements verts. Son homologue européenne, pourtant à la pointe sur le changement climatique, refuse pour l’instant d’utiliser cet instrument.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-la-region-de-moscou-visee-par-plus-de-400-drones-la-plupart-interceptes-selon-le-maire-de-la-capitale-russe_6725306_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/20/changement-climatique-pourquoi-la-bce-refuse-de-creer-un-taux-d-interet-reduit-pour-les-investissements-verts_6727016_3234.html",
     "date": "2026-07-20"
   },
   {
@@ -85,10 +85,10 @@
   },
   {
     "type": "news",
-    "title": "Palestinians celebrate Spain’s World Cup victory",
-    "summary": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
+    "title": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
+    "summary": "The youth-led Cockroach Janta Party protests in New Delhi, demanding India's education minister resign over exam leaks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
     "date": "2026-07-20"
   },
   {
@@ -101,11 +101,11 @@
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient: «Les États-Unis et l’Iran revendiquent une mainmise sur le détroit d’Ormuz»",
-    "summary": "Alors que les échanges de frappes entre l'Iran et les États-Unis se poursuivent, des tankers continuent de subir des attaques iraniennes dans le détroit d’Ormuz. Afin d'accentuer la pression sur l'Iran, Donald Trump a annoncé lundi 13 juillet le rétablissement du blocus naval des ports iraniens.",
+    "title": "L'intelligence artificielle, un enjeu géopolitique majeur",
+    "summary": "La conférence mondiale sur l’intelligence artificielle, devenue un rendez-vous traditionnel et qui rassemble des milliers de participants du secteur, a ouvert ses portes vendredi 17 juillet à Shanghai en Chine. Le numéro 1 chinois Xi Jinping s’y est exprimé à l'ouverture.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260714-guerre-au-moyen-orient-les-%C3%A9tats-unis-et-l-iran-revendiquent-une-mainmise-sur-le-d%C3%A9troit-d-ormuz",
-    "date": "2026-07-14"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260717-l-intelligence-artificielle-un-enjeu-g%C3%A9opolitique-majeur",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -117,11 +117,11 @@
   },
   {
     "type": "news",
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberatta…",
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-    "date": "2026-07-16"
+    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -141,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 474 # Comments: 215",
+    "title": "Xiaomi-Robotics-1",
+    "summary": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html Comments URL: https://news.ycombinator.com/item?id=48974454 Points: 299 # Comments: 203",
     "source": "Hacker News",
-    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "date": "2026-07-19"
+    "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+    "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+    "summary": "CuspAI is part of a new wave of companies looking to use AI to solve challenges in the physical world.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-    "date": "2026-07-14"
-  },
-  {
-    "type": "news",
-    "title": "Marchés : pétrole au plus haut depuis juin, actions asiatiques incertaines",
-    "summary": "Marchés : pétrole au plus haut depuis juin, actions asiatiques incertaines Le Figaro",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnZjU25vSkhVdS11ZnRWWVBOMjRWaGFyQnNwUFkyT3Y2ZTZHaWVaOGtmcUJOUEZrZURlU2FQX1RCRUNwanphZlVWdl9uSUpXWnd3VV80WWQ1bV9PSlVzTlBTQ0RQelFxcTFQdU9tZDhoQUhDbmc2UlVJWVpsN0Q0X3pRcHM4TVpZcllHOHptWjNCWFVMT2VGLXhwY2JmT1NjdldMQkNUZW94WGJ4bjdvREpWSHA?oc=5",
+    "link": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "Dans l’océan Indien, le port de Colombo pris dans les rivalités entre l’Inde et la Chine",
-    "summary": "« La ruée sur les ports » (11/16). Situé au carrefour des principales voies maritimes reliant l’Asie, le Moyen-Orient et l’Europe, le port du Sri Lanka voit New Delhi et Pékin se disputer ses terminaux pour y renforcer leur influence. La rivalité entre les deux puissances asiatiques s’étend désormais à l’ensemble de l’océan Indien.",
+    "title": "Le pétrole flambe au-dessus des 90 dollars : les marchés plus que jamais pessimistes face à la poursuite des frappes au Moyen-Orient",
+    "summary": "Le pétrole flambe au-dessus des 90 dollars : les marchés plus que jamais pessimistes face à la poursuite des frappes au Moyen-Orient Challenges",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbWdFUV9fZExxa05GOF95WWREWnFjYnJsUWJJSVFocEZCWm5zYmlKQm55Mk5ScnV5XzVvZjh2NV9Lbk5QLVNZRlQtZDY3ejhQUFQzaV9sM1RrX09XS2JvdXhwejR1Rndiak1Wa1luQk5PNVFqMG91ekNBa2dGVlVTVmRSM0hsN09DeGcydnpKZm5YQU50Qm9zTE12THdDQURFaGN0ZjBSS3dzams0ZXZnOHhXQUNwTDd5bThicmhTLVhMa28yZGhhUUdXR0ZteHdMZ05ONEhpYXlKcjBlV3BBT3VTcV9KQzZmTXJhNHN6OXlOSTBYckZ1NVFOa1I5eFRGWV8tYkV2YjRvWE5uTWpz?oc=5",
+    "date": "2026-07-20"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran fait face à une guerre « totale » contre les Etats-Unis, affirme son président, Massoud Pezeshkian",
+    "summary": "L’armée américaine a annoncé, lundi matin, avoir mené des frappes sur l’Iran pour la neuvième nuit consécutive. La ville de Bouchehr, où se trouve la seule centrale nucléaire civile en fonctionnement, a été visée. L’Iran a riposté une nouvelle fois par des attaques contre ses pays voisins.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/20/dans-l-ocean-indien-le-port-de-colombo-pris-dans-les-rivalites-entre-l-inde-et-la-chine_6726600_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-l-iran-fait-face-a-une-guerre-totale-contre-les-etats-unis-affirme-son-president-massoud-pezeshkian_6725301_3210.html",
     "date": "2026-07-20"
   },
   {
@@ -213,11 +213,11 @@
   },
   {
     "type": "news",
-    "title": "Subsidies Do Not Explain China’s Competitiveness",
-    "summary": "Like every major economy, China uses industrial policy, and its subsidies have mattered. But subsidies are no longer the most convincing explanation for Chinese firms’ emergence as global leaders in industries that used to be the exclusive domain of advanced economies.",
+    "title": "AI Will Supercharge Surveillance Capitalism",
+    "summary": "For too long, governments have stood by and allowed the creation of business models built on the commercial exploitation of users' personal data and that reward social and psychological manipulation. With the AI industry poised to replicate this model, policymakers must intervene before it is too late.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
-    "date": "2026-07-17"
+    "link": "https://www.project-syndicate.org/commentary/ai-companies-to-launch-ads-based-on-users-inner-thoughts-by-courtney-c-radsch-2026-07",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -229,43 +229,43 @@
   },
   {
     "type": "news",
-    "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
-    "summary": "Argentinians filled the streets of Buenos Aires to honour their team despite its World Cup final defeat.",
+    "title": "Police attack Cockroach activists as thousands march on Indian parliament",
+    "summary": "More than 10,000 protesters braved tear gas and baton charges in their largest challenge yet to PM Modi's government.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "What Britain’s new leader is learning from Donald Trump",
-    "summary": "LONDON — Andy Burnham’s political success depends on his ability to turn Britain away from the wave of nationalist populism that gave the world Donald Trump. That has not stopped the U.K.’s incoming prime minister from studying the president’s rise, and — deliberately or not — embracing some of his methods for the political battles with the British right tha…",
+    "title": "EU hits China’s Alibaba with €550M record fine over illegal products",
+    "summary": "BRUSSELS — The European Commission slapped Chinese e-commerce giant AliExpress with a record €550 million fine on Monday for failing to stop the sale of illegal and harmful products on its platform.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/uk-new-leftist-leader-andy-burnham-learn-donald-trump/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "L'intelligence artificielle, un enjeu géopolitique majeur",
-    "summary": "La conférence mondiale sur l’intelligence artificielle, devenue un rendez-vous traditionnel et qui rassemble des milliers de participants du secteur, a ouvert ses portes vendredi 17 juillet à Shanghai en Chine. Le numéro 1 chinois Xi Jinping s’y est exprimé à l'ouverture.",
+    "title": "Guerre au Moyen-Orient: «On a plus de personnes en insécurité alimentaire»",
+    "summary": "Le monde a-t-il encore les moyens de nourrir ses 8 milliards d'habitants ? L'interrogation peut paraître alarmiste, mais elle se pose chaque année, d'autant que 266 millions de personnes étaient ainsi en situation d'insécurité alimentaire aiguë en 2026, deux fois plus qu'il y a dix ans.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260717-l-intelligence-artificielle-un-enjeu-g%C3%A9opolitique-majeur",
+    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260717-guerre-au-moyen-orient-on-a-un-enjeu-alimentaire-mondial-qui-est-toujours-sur-la-table-analyse-s%C3%A9bastien-abis",
     "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "« La dépendance de l’Irlande à l’égard de grandes entreprises non européennes crée des conflits d’intérêts insurmontables »",
-    "summary": "Le pays, qui a pris la présidence tournante du Conseil de l’UE au 1ᵉʳ juillet, doit se retirer des négociations sur la régulation numérique et les règles de fiscalité des entreprises, estime dans une tribune au « Monde » un collectif d’universitaires, dont les économistes Mariana Mazzucato, Joseph Stiglitz et Shoshana Zuboff.",
+    "title": "La Commission européenne inflige une amende record de 550 millions d’euros à AliExpress",
+    "summary": "Le site de e-commerce chinois a manqué à ses obligations pour lutter contre la vente de produits illégaux. Après le réseau social X et la plateforme Temu, c’est la troisième sanction infligée par l’Europe en moins d’une année.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/19/la-dependance-de-l-irlande-a-l-egard-de-grandes-entreprises-non-europeennes-cree-des-conflits-d-interets-insurmontables_6726231_3232.html",
-    "date": "2026-07-19"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/20/la-commission-europeenne-inflige-une-amende-record-de-550-millions-d-euros-a-aliexpress_6727187_3234.html",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory.",
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberatta…",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-    "date": "2026-07-15"
+    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -285,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "summary": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566 Comments URL: https://news.ycombinator.com/item?id=48973869 Points: 329 # Comments: 180",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 517 # Comments: 235",
     "source": "Hacker News",
-    "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "date": "2026-07-20"
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "date": "2026-07-19"
   },
   {
     "type": "news",
@@ -341,10 +341,10 @@
   },
   {
     "type": "news",
-    "title": "La Cedeao approuve la construction d’un gazoduc Nigeria-Maroc, immense projet énergétique dans les tuyaux depuis des années",
-    "summary": "L’ouvrage, dont la construction est évoquée depuis une décennie, traverserait treize pays d’Afrique de l’Ouest avant d’être raccordé au gazoduc Maghreb-Europe.",
+    "title": "Dans l’océan Indien, le port de Colombo pris dans les rivalités entre l’Inde et la Chine",
+    "summary": "« La ruée sur les ports » (11/16). Situé au carrefour des principales voies maritimes reliant l’Asie, le Moyen-Orient et l’Europe, le port du Sri Lanka voit New Delhi et Pékin se disputer ses terminaux pour y renforcer leur influence. La rivalité entre les deux puissances asiatiques s’étend désormais à l’ensemble de l’océan Indien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/20/la-cedeao-approuve-la-construction-d-un-gazoduc-nigeria-maroc-immense-projet-energetique-dans-les-tuyaux-depuis-des-annees_6726498_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/20/dans-l-ocean-indien-le-port-de-colombo-pris-dans-les-rivalites-entre-l-inde-et-la-chine_6726600_3234.html",
     "date": "2026-07-20"
   },
   {
@@ -357,42 +357,42 @@
   },
   {
     "type": "news",
-    "title": "Asia’s Real Energy Test",
-    "summary": "The Iran war has underscored the fragility of global energy markets, exposing which economies can withstand repeated shocks and which cannot. For ASEAN+3 countries, resilience will depend on stronger electricity systems, regional cooperation, and institutions that can manage persistent uncertainty.",
+    "title": "Subsidies Do Not Explain China’s Competitiveness",
+    "summary": "Like every major economy, China uses industrial policy, and its subsidies have mattered. But subsidies are no longer the most convincing explanation for Chinese firms’ emergence as global leaders in industries that used to be the exclusive domain of advanced economies.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/asian-economies-are-preparing-for-the-wrong-energy-crisis-by-yasuto-watanabe-2026-07",
-    "date": "2026-07-14"
+    "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "La Fifa a “ouvert la porte à la fraude”, accuse le Conseil de l’Europe",
-    "summary": "Dans une lettre ouverte, Alain Berset, le secrétaire général du Conseil de l’Europe, appelle la Fédération internationale de football à œuvrer d’urgence pour “renforcer l’intégrité du sport”. En cause : les pressions politiques et financières qui ont, selon lui, marqué le Mondial 2026.",
+    "title": "Le succès de “The Polygamist”, série sud-africaine sur un magnat de l’immobilier polygame",
+    "summary": "Parfois comparée à la série “Succession”, la série “The Polygamist” bat des records d’audience sur Netflix. Et suscite des débats de société tant en Afrique que dans le reste du monde.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/football-la-fifa-a-ouvert-la-porte-a-la-fraude-accuse-le-conseil-de-l-europe_251199",
-    "date": "2026-07-19"
-  },
-  {
-    "type": "news",
-    "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
-    "summary": "While Ferran Torres orchestrated Spain's winning the ultimate prize, his teammates walk away with awards of their own.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/culture-le-succes-de-the-polygamist-serie-sud-africaine-sur-un-magnat-de-l-immobilier-polygame_251270",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "The ‘hopeless, bad people’ just won Donald Trump’s World Cup",
-    "summary": "Turns out, revenge is a dish best served on a warm Sunday afternoon in a New Jersey swamp. President Donald Trump has spent much of his second term in office berating Spain over its anemic military spending and refusal to allow American forces to use Spanish bases for bombing missions in Iran.",
-    "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/19/spain-world-cup-donald-trump-01004607?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-19"
+    "title": "India’s Rohit Sharma ends retirement talk as World Cup 2027 still in sight",
+    "summary": "Rohit struck 138 off 110 balls in defeat by England in third ODI, which some speculated could be his last for India.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/7/20/indias-rohit-sharma-ends-retirement-talk-as-world-cup-2027-still-in-sight?traffic_source=rss",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient: «On a plus de personnes en insécurité alimentaire»",
-    "summary": "Le monde a-t-il encore les moyens de nourrir ses 8 milliards d'habitants ? L'interrogation peut paraître alarmiste, mais elle se pose chaque année, d'autant que 266 millions de personnes étaient ainsi en situation d'insécurité alimentaire aiguë en 2026, deux fois plus qu'il y a dix ans.",
+    "title": "What Britain’s new leader is learning from Donald Trump",
+    "summary": "LONDON — Andy Burnham’s political success depends on his ability to turn Britain away from the wave of nationalist populism that gave the world Donald Trump. That has not stopped the U.K.’s incoming prime minister from studying the president’s rise, and — deliberately or not — embracing some of his methods for the political battles with the British right tha…",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/uk-new-leftist-leader-andy-burnham-learn-donald-trump/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-20"
+  },
+  {
+    "type": "news",
+    "title": "Géopolitique du tourisme",
+    "summary": "Les congés payés fêtent cette année leurs 90 ans en France. Mais sommes-nous tous égaux dans le monde face aux vacances ? Qui part, qui ne part pas, et où ? Du poids des passeports aux stratégies de soft power des États, quelles particularités selon les pays ? Et comment les affres de la géopolitique (tensions commerciales, conflits, boycotts, climat) reconf…",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260717-guerre-au-moyen-orient-on-a-un-enjeu-alimentaire-mondial-qui-est-toujours-sur-la-table-analyse-s%C3%A9bastien-abis",
-    "date": "2026-07-17"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260719-g%C3%A9opolitique-du-tourisme",
+    "date": "2026-07-19"
   }
 ]
