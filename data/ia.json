@@ -1,6 +1,11 @@
 [
   {
     "type": "ia",
+    "term": "Acteurs clés de l'IA",
+    "explanation": "Les acteurs clés de l'intelligence artificielle comprennent des entreprises technologiques majeures telles que Google, Microsoft et Amazon, qui investissent massivement dans la recherche et le développement. Ces entreprises développent des plateformes et des outils d'IA qui influencent les tendances du marché et façonnent l'avenir de l'innovation technologique."
+  },
+  {
+    "type": "ia",
     "term": "Réseaux de neurones convolutifs (CNN)",
     "explanation": "Les réseaux de neurones convolutifs, introduits dans les années 1980 et popularisés dans les années 2010, sont des architectures conçues pour traiter des données structurées en grille, comme les images. Ils ont révolutionné la vision par ordinateur en permettant des avancées majeures dans la reconnaissance d'objets et la classification d'images. Leur succès est dû à leur capacité à apprendre automatiquement des caractéristiques à différents niveaux d'abstraction."
   },
