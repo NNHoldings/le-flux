@@ -1,6 +1,26 @@
 [
   {
     "type": "histoire",
+    "question": "Quel événement marquant a conduit à la chute de la dynastie Qing ?",
+    "answer": "La chute de la dynastie Qing a été précipitée par la Révolte des Boxers en 1900 et la Révolution de 1911, qui a abouti à la proclamation de la République de Chine le 1er janvier 1912. Ces événements ont révélé l'incapacité de la dynastie à moderniser le pays face aux pressions internes et externes."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles réformes économiques ont été mises en place sous Deng Xiaoping ?",
+    "answer": "Sous Deng Xiaoping, à partir de 1978, la Chine a introduit des réformes économiques majeures, notamment l'ouverture de l'économie aux marchés étrangers et la mise en place des zones économiques spéciales. Ces réformes ont permis à la Chine de connaître une croissance économique rapide et de devenir la deuxième économie mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle innovation technologique majeure a vu le jour en Chine dans les années 2000 ?",
+    "answer": "Dans les années 2000, la Chine a émergé comme un leader mondial dans le domaine des technologies de l'information, notamment avec le développement de la téléphonie mobile et d'Internet. Des entreprises comme Huawei et Alibaba ont été fondées, transformant le paysage technologique et économique du pays."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été l'impact de la révolte de Tiananmen en 1989 sur la politique chinoise ?",
+    "answer": "La révolte de Tiananmen en 1989 a été une manifestation massive pour la démocratie, réprimée brutalement par le gouvernement chinois. Cet événement a eu un impact durable sur la politique chinoise, consolidant le pouvoir du Parti communiste et limitant les réformes politiques tout en poursuivant les réformes économiques."
+  },
+  {
+    "type": "histoire",
     "question": "Qui est considéré comme le père de l'économie moderne ?",
     "answer": "Adam Smith est souvent considéré comme le père de l'économie moderne grâce à son ouvrage 'La richesse des nations' publié en 1776. Il y introduit le concept de la main invisible et défend le libre marché comme moteur de la prospérité."
   },
