@@ -1,6 +1,11 @@
 [
   {
     "type": "ia",
+    "term": "Les enjeux économiques de l'IA",
+    "explanation": "L'intelligence artificielle représente un enjeu économique majeur, avec des impacts potentiels sur la productivité, l'emploi et la compétitivité. Les entreprises investissent massivement dans l'IA pour automatiser des processus, améliorer la prise de décision et créer de nouveaux services."
+  },
+  {
+    "type": "ia",
     "term": "Acteurs clés de l'IA",
     "explanation": "Les acteurs clés de l'intelligence artificielle comprennent des entreprises technologiques majeures telles que Google, Microsoft et Amazon, qui investissent massivement dans la recherche et le développement. Ces entreprises développent des plateformes et des outils d'IA qui influencent les tendances du marché et façonnent l'avenir de l'innovation technologique."
   },
