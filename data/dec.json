@@ -1,6 +1,26 @@
 [
   {
     "type": "dec",
+    "question": "Quels sont les types de risques d'audit identifiés par la NEP 300 ?",
+    "answer": "La NEP 300 identifie deux types de risques d'audit : le risque inhérent, qui est le risque d'anomalies significatives dans les états financiers, et le risque de contrôle, qui est le risque que les contrôles internes ne préviennent pas ou ne détectent pas ces anomalies."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est l'impact de l'évaluation des risques sur le plan d'audit ?",
+    "answer": "L'évaluation des risques d'audit influence le plan d'audit en déterminant les procédures nécessaires pour répondre aux risques identifiés, ajustant ainsi l'approche de l'auditeur en fonction des risques de fraude et d'erreurs."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les étapes de l'évaluation des risques d'audit selon la NEP 315 ?",
+    "answer": "Les étapes de l'évaluation des risques d'audit selon la NEP 315 incluent la compréhension de l'entité et de son environnement, l'évaluation des risques d'anomalies significatives, et la réponse aux risques identifiés par des procédures d'audit appropriées."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est l'importance de la communication des risques d'audit au sein de l'équipe d'audit ?",
+    "answer": "La communication des risques d'audit au sein de l'équipe est cruciale pour assurer une compréhension commune des enjeux, favoriser la coordination dans la mise en œuvre des procédures d'audit et garantir une réponse efficace aux risques identifiés."
+  },
+  {
+    "type": "dec",
     "question": "Que stipule la NEP 100 sur l'indépendance du commissaire aux comptes ?",
     "answer": "La NEP 100 exige que le commissaire aux comptes soit indépendant, à la fois en fait et en apparence, pour garantir l'objectivité de son jugement."
   },
