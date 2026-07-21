@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés boursiers asiatiques rebondissent malgré les tensions géopolitiques au Moyen-Orient.",
-      "L'inflation et la récession continuent de peser sur les marchés obligataires.",
-      "La transition énergétique à Rotterdam marque un tournant pour l'Europe."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-21"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,26 +25,26 @@
   },
   {
     "type": "news",
-    "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
-    "summary": "Russia and Ukraine traded their heaviest strikes in months, fueling fears of escalation and further strain on oil supplies.",
+    "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+    "summary": "CuspAI is part of a new wave of companies looking to use AI to solve challenges in the physical world.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+    "link": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers asiatiques rebondissent alors que la médiation au Moyen-Orient fait baisser les cours du pétrole",
-    "summary": "Les marchés boursiers asiatiques rebondissent alors que la médiation au Moyen-Orient fait baisser les cours du pétrole TradingView",
+    "title": "L'IA pourrait doper l'économie de l'Afrique subsaharienne de 4 % sous réserve d'une amélioration de l'énergie et d'Internet, selon le FMI",
+    "summary": "L'IA pourrait doper l'économie de l'Afrique subsaharienne de 4 % sous réserve d'une amélioration de l'énergie et d'Internet, selon le FMI Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Sa1pzM0c3SkRkd1lxbmVxT3IwM2hmNDd4blhGNXgtZzFUR0Z1bUJWNFI1dFB0c2hocTc0Z1M0R0xRcTdoUFVOTDRuQVhDUDdfVGdabzV6UGpIbW80NHR1R1drRno3anBwd2ZUUGNBaWlnVndSbGxj?oc=5",
-    "date": "2026-07-20"
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNalVTdHF3bnpRbFVlYk5ERFRVLTZIT09tZzdSMUs5am9NNWIyc2ZVNGFhOGsxaXRLX1NYT3BTa1A5M3pkVENxbjduNG1jVkFsTVVUT2NVcFlHZUE4MFRzUUtzOE9lZEZRYmhQSHNodkxNRzE0NWJXaWNRbFVTRTdYQmg0dHlHaDM2NHFzZXhOTEg1a1JfNk5RU0ttQTl4WGlyVUxlUm82cUp2dy1PN0Ryd1FfZFVRVE1STV9HMDZ2dlV2eFZmUmNIQ2hSel9JRldNcnFjaXF6T1Q5ZXlOajNBcHJ5b2gwazAxUV9rZkpn?oc=5",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Rotterdam, premier port d’Europe et hub énergétique, entame une timide transition",
-    "summary": "« La ruée sur les ports » (12/16). Le site portuaire a pris quelques initiatives pour réduire l’impact carbone de ses activités, en développant l’hydrogène ou en se fournissant auprès d’un vaste parc éolien offshore. Mais les freins restent nombreux, 13 % de la demande européenne en énergie dépendant de Rotterdam.",
+    "title": "EN DIRECT, guerre en Ukraine : plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR",
+    "summary": "Le nombre de réfugiés ukrainiens dans le monde (hors Russie) s’élevait à 5,762 millions de personnes au 30 avril 2026, dont 5,213 millions enregistrés en Europe et 549 000 hors du continent, selon le dernier bulletin mensuel du ministère de l’économie et de l’environnement d’Ukraine, qui cite les données du Haut-Commissariat des Nations unies pour les réfugi…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/21/rotterdam-premier-port-d-europe-et-hub-energetique-entame-une-timide-transition_6728154_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-plus-de-5-millions-de-refugies-ukrainiens-accueillis-en-europe-depuis-le-debut-de-la-guerre-selon-le-hcr_6725306_3210.html",
     "date": "2026-07-21"
   },
   {
@@ -77,27 +65,27 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Iran : l’économie trinque, la monnaie locale à un nouveau plus bas historique",
-    "summary": "Alors que l’escalade militaire entre les États-Unis et l’Iran se poursuit et risque de déboucher sur une nouvelle guerre ouverte, la crise économique ne cesse de s’aggraver, asphyxiant une population déjà à genou. Lundi 20 juillet, le dollar s’échangeait à près de 1,9 million de rials, alimentant une redoutable spirale inflationniste.",
+    "title": "Trump vend sa parole à Wall Street, l’IA licencie et Elon Musk marche au gaz et au diesel",
+    "summary": "L’actualité, l’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-teheran-guerre-en-iran-l-economie-trinque-la-monnaie-locale-a-un-nouveau-plus-bas-historique_251322",
-    "date": "2026-07-20"
-  },
-  {
-    "type": "news",
-    "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-    "summary": "There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/la-lettre-tech-trump-vend-sa-parole-a-wall-street-l-ia-licencie-et-elon-musk-marche-au-gaz-et-au-diesel_251282",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EU bets fossil fuel lobby is crying wolf over supply shock warnings",
-    "summary": "BRUSSELS — The European Commission is betting that profit-hungry gas and oil companies will continue exporting into Europe next year, resisting calls by companies to rewrite new climate laws that they say will force them to seek other markets.",
+    "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+    "summary": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
+    "date": "2026-07-21"
+  },
+  {
+    "type": "news",
+    "title": "Natural gas prices surge as violence in Middle East flares again",
+    "summary": "BRUSSELS — European natural gas prices shot to a four-month high as renewed violence around the Strait of Hormuz triggered concerns about the feasibility of transporting energy through the world’s most vital energy chokepoint.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-bets-fossil-fuel-lobby-is-crying-wolf-over-supply-shock-warnings/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-20"
+    "link": "https://www.politico.eu/article/natural-gas-prices-surge-as-violence-in-middle-east-flares-again/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -117,19 +105,19 @@
   },
   {
     "type": "news",
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies.",
+    "title": "Advancing next-gen AI with materials science innovation",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "date": "2026-07-20"
+    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "How to Grow Without Betting Big",
-    "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 years; Adobe, which abandoned perpetual licenses in favor of cloud subscriptions;…",
+    "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+    "summary": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with AI. In this episode of Me, Myself, and AI, the Stanford University economist explains why technology isn’t the biggest barrier to progress — people, organizations, and institutions are.",
     "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-    "date": "2026-06-15"
+    "link": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -141,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-    "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 198 # Comments: 64",
+    "title": "Agent swarms and the new model economics",
+    "summary": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 217 # Comments: 98",
     "source": "Hacker News",
-    "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "date": "2026-07-21"
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -165,11 +153,11 @@
   },
   {
     "type": "news",
-    "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
+    "title": "July 2026 euro area bank lending survey",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
-    "date": "2026-07-17"
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260721~44ee50f75c.en.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -181,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
-    "summary": "CuspAI is part of a new wave of companies looking to use AI to solve challenges in the physical world.",
+    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
+    "summary": "SBI Funds Management, whose billion-dollar IPO garnered bids worth $31 billion, made a subdued debut with shares listing at a 7% premium.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
-    "date": "2026-07-20"
+    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe vue en baisse, le Moyen-Orient toujours dans le viseur",
-    "summary": "Point marchés-L'Europe vue en baisse, le Moyen-Orient toujours dans le viseur Zonebourse",
+    "title": "Point marchés-L'Europe vue en légère baisse, le Moyen-Orient toujours dans le viseur (actualisé)",
+    "summary": "Point marchés-L'Europe vue en légère baisse, le Moyen-Orient toujours dans le viseur (actualisé) Zonebourse",
     "source": "Google Actualités — Éco",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczF5Mm1HNFIzQjdWWllLM1BuMTlXdndqVXljcGxkbFF4SV8xSGl0MWFWUmxSNDl6Wk05T0FZTzQ0Z1ZwWkl2RlVvS0NKRHVROGN1SEl1eF96Z2cyVUIwZHdrbENZUV9LbHg5Y0h0ai1pX3VpT2dUaG5JMXFLbEI1UEVPZ0swZzNTT19nOWRGenc0VXF2bi1fWnR4b1RzRmM5NjdNaDlUbmJPdHhZZWZpSkhyLTJVOVdxdVctdDRfZHlRa2dxdnJwSzRTZk4tUFRrMXg4?oc=5",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : enveloppe du FMI pour Kiev, cinq morts dans la région russe de Belgorod… Les dernières informations",
-    "summary": "Ce versement entre dans le cadre du programme de prêt du Fonds monétaire international, qui attend de l’Ukraine le maintien de sa stabilité économique et la poursuite de plusieurs réformes, notamment en matière de corruption, de fiscalité et de monnaie.",
+    "title": "Le contre-modèle chinois sur l’IA, un défi pour l’Europe",
+    "summary": "Lors de la Conférence mondiale de Shanghaï du 17 juillet, le président chinois, Xi Jinping, a présenté une doctrine d’organisation de l’intelligence artificielle susceptible de rebattre les cartes de l’ordre technologique mondial et qui menace de neutraliser l’avantage qu’avaient les Vingt-Sept sur le terrain normatif.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/21/le-contre-modele-chinois-sur-l-ia-un-defi-pour-l-europe_6728533_3232.html",
     "date": "2026-07-21"
   },
   {
@@ -221,27 +209,27 @@
   },
   {
     "type": "news",
-    "title": "La Belgique accorde des bourses à des étudiants gazaouis, sans leur permettre de venir",
-    "summary": "Au moins sept étudiants gazaouis ont obtenu une bourse pour poursuivre leurs études en Belgique. Laquelle exige qu’ils déposent leur demande de visa en personne, à Jérusalem ou au Caire, alors même qu’Israël interdit aux Gazaouis de quitter l’enclave, ravagée par trois ans de guerre.",
+    "title": "En Italie, l’ambassadeur milliardaire de Trump fait des vagues avec sa diplomatie en yacht",
+    "summary": "Tilman Fertitta, l’ambassadeur des États-Unis à Rome, brouille les lignes entre tourisme de luxe et diplomatie : à bord de son luxueux superyacht, il longe le littoral italien en faisant des haltes régulières pour rencontrer l’élite du pays. Une “dolce vita” qui suscite des protestations, notamment à Venise, vendredi 17 juillet.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-la-belgique-accorde-des-bourses-a-des-etudiants-gazaouis-sans-leur-permettre-de-venir_251298",
-    "date": "2026-07-20"
-  },
-  {
-    "type": "news",
-    "title": "China and Philippines trade accusations after sailor injured at sea",
-    "summary": "Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/politique-en-italie-l-ambassadeur-milliardaire-de-trump-fait-des-vagues-avec-sa-diplomatie-en-yacht_251432",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Kash at the Kremlin? FBI director plans Russia trip.",
-    "summary": "FBI Director Kash Patel is planning to visit Russia later this year, likely in mid-October, according to a U.S. official and a person familiar with the situation. It would be an unusual and sensitive trip for an FBI chief to one of America’s top adversaries. The plans come as Washington and Moscow continue to be at odds over the war in Ukraine, with U.S.",
+    "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
+    "summary": "Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
+    "date": "2026-07-21"
+  },
+  {
+    "type": "news",
+    "title": "Turkey holds up NATO’s €27B fuel pipeline revamp deal",
+    "summary": "BRUSSELS — Turkey has refused to back a €27 billion upgrade of NATO’s military fuel pipeline network, according to two alliance diplomats, as it mounts an eleventh-hour bid to extract concessions on the agreement.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/20/kash-patel-fbi-russia-trip-01005078?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-20"
+    "link": "https://www.politico.eu/article/turkey-nato-military-fuel-pipeline-network-revamp-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -261,19 +249,19 @@
   },
   {
     "type": "news",
-    "title": "The Download: AI hiring biases, and weather data sabotage",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly.",
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "The Global Scaling Gap: Why Strategic Clarity Is Crucial in the Age of AI",
-    "summary": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for companies everywhere while making it possible to reach customers across languages and cultures.",
+    "title": "How to Grow Without Betting Big",
+    "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 years; Adobe, which abandoned perpetual licenses in favor of cloud subscriptions;…",
     "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/",
-    "date": "2026-07-14"
+    "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
+    "date": "2026-06-15"
   },
   {
     "type": "news",
@@ -285,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "Agent swarms and the new model economics",
-    "summary": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 176 # Comments: 81",
+    "title": "China’s open-weights AI strategy is winning",
+    "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1136 # Comments: 857",
     "source": "Hacker News",
-    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "date": "2026-07-20"
   },
   {
@@ -309,11 +297,11 @@
   },
   {
     "type": "news",
-    "title": "ECB selects 36 payment service providers to join digital euro pilot",
+    "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
-    "date": "2026-07-14"
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
-    "summary": "SBI Funds Management, whose billion-dollar IPO garnered bids worth $31 billion, made a subdued debut with shares listing at a 7% premium.",
+    "title": "Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say",
+    "summary": "Inflation fears are back in focus amid worries over escalating tensions between the U.S. and Iran in the Middle East conflict which has kept oil prices elevated",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
+    "link": "https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Les marchés d'actions américains clôturent en baisse face à la hausse des prix du pétrole et aux tensions entre les États-Unis et l'Iran",
-    "summary": "Les marchés d'actions américains clôturent en baisse face à la hausse des prix du pétrole et aux tensions entre les États-Unis et l'Iran Zonebourse Suisse",
+    "title": "PETIT DÉJEUNER DES MARCHÉS EUROPE : Le pétrole supplante l'IA",
+    "summary": "PETIT DÉJEUNER DES MARCHÉS EUROPE : Le pétrole supplante l'IA Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGExSzJXQUtQeWpqZW8wOGpKS3R5ZjZuWERoOTFTN3BycW5mNkxDZ3hUMGVUbHNoVDE4ZGVZYlBwMGY3SEFxOGVLTGpSV0xnSzNqczQ1Rk5HTVAyVWYzQThjVDJ6Sk1yREUzVmpCTThuMFl1NlA1Y1BDbmdnVmgzaEludWpfSEdIUHBMUW5feFk0elA1Sy1BOFJnaDZTTlU4bGMyZ1h0aTdXdk1HdGtHdjl3RVFJOTRQTlF5T1c3eC0tOHZ3OTMtdE5hcVRPVTNhRkRNTFRfX202WHR2bGJxMkxCUmRKdHkzZG9uVEd5X3E1UQ?oc=5",
-    "date": "2026-07-20"
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjViYUd0R1hPQnphXzhMTDA5VEp1U244THRGdmxlajVQbm4td09KZExxVG03bXItU2ZpeXE0RGVwbzFFRG8ya3hqMVBtaDZWMzFoNG9LbDZuWmk1X0RPWTNVV0x1ZzVZM2xBeXMzdGNxWjEwckdwalRQNGhXMUVIcUpIX3pHcF92M2RaUlRjai1fNmR4T2tjRUNHZEIyQnlLRU1ScEZ6dFBmbTl4cVRkaTV6UEZGSUw5T0Rn?oc=5",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran ont de nouveau échangé des tirs durant la nuit",
-    "summary": "Les gardiens de la révolution iraniens ont annoncé avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L’armée américaine a, elle, déclaré avoir mené une dixième nuit de bombardements d’affilée contre la République islamique, notamment contre des centres de commandement militaire et des cibles maritimes.",
+    "title": "Rotterdam, premier port d’Europe et hub énergétique, entame une timide transition",
+    "summary": "« La ruée sur les ports » (12/16). Le site portuaire a pris quelques initiatives pour réduire l’impact carbone de ses activités, en développant l’hydrogène ou en se fournissant auprès d’un vaste parc éolien offshore. Mais les freins restent nombreux, 13 % de la demande européenne en énergie dépendant de Rotterdam.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-ont-de-nouveau-echange-des-tirs-durant-la-nuit_6725301_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/21/rotterdam-premier-port-d-europe-et-hub-energetique-entame-une-timide-transition_6728154_3234.html",
     "date": "2026-07-21"
   },
   {
@@ -365,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "Trump vend sa parole à Wall Street, l’IA licencie et Elon Musk marche au gaz et au diesel",
-    "summary": "L’actualité, l’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
+    "title": "Les houthistes annoncent un blocus maritime de l’Arabie saoudite, faisant craindre une extension du conflit",
+    "summary": "Les rebelles yéménites pro-iraniens ont fait savoir lundi qu’ils comptaient bloquer le trafic maritime saoudien en mer Rouge. Une mesure qui menace d’ouvrir un “nouveau front dans le conflit au Moyen-Orient” et de peser sur l’approvisionnement énergétique mondial, observe la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/la-lettre-tech-trump-vend-sa-parole-a-wall-street-l-ia-licencie-et-elon-musk-marche-au-gaz-et-au-diesel_251282",
+    "link": "https://www.courrierinternational.com/article/guerre-en-iran-les-houthistes-annoncent-un-blocus-maritime-contre-l-arabie-saoudite-faisant-craindre-une-extension-du-conflit_251364",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
-    "summary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
+    "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
+    "summary": "More than 100 students injured in police action against thousands of demonstrators during march on parliament.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Trump threatens 50 percent tariff hike on Canadian goods",
-    "summary": "President Donald Trump on Monday announced that he will impose a 50 percent tariff on some Canadian goods next month, ratcheting up the trade war between the two countries after months of political tension.",
+    "title": "French environment minister to resign after passage of controversial farm bill",
+    "summary": "PARIS — French Minister of Ecological Transition Monique Barbut plans to step down in protest after lawmakers approved controversial farming legislation that exposed major divisions among President Emmanuel Macron’s centrist supporters.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/20/trump-threatens-50-percent-tariff-on-canadian-goods-01005548?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-20"
+    "link": "https://www.politico.eu/article/french-environment-minister-monique-barbut-to-resign-after-passage-of-controversial-farm-bill/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
