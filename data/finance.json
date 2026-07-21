@@ -1,6 +1,16 @@
 [
   {
     "type": "finance",
+    "term": "Analyse des états financiers",
+    "explanation": "L'analyse des états financiers consiste à examiner les documents comptables d'une entreprise, tels que le bilan et le compte de résultat, pour évaluer sa performance financière. Cela aide les gestionnaires, investisseurs et créanciers à prendre des décisions éclairées concernant l'entreprise."
+  },
+  {
+    "type": "finance",
+    "term": "Valeur actuelle nette (VAN)",
+    "explanation": "La valeur actuelle nette (VAN) est une méthode d'évaluation qui calcule la différence entre la valeur actuelle des flux de trésorerie futurs d'un projet et l'investissement initial. Une VAN positive indique que le projet est rentable."
+  },
+  {
+    "type": "finance",
     "term": "Analyse des coûts",
     "explanation": "L'analyse des coûts consiste à identifier, évaluer et contrôler les coûts associés à la production de biens ou de services. Elle permet aux entreprises de déterminer les marges bénéficiaires et d'optimiser leurs processus pour améliorer la rentabilité."
   },
