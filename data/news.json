@@ -4,12 +4,12 @@
     "essential": true,
     "title": "L'essentiel du jour",
     "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Iran impacte gravement l'économie locale et les taux de change.",
-      "L'UE continue de parier sur la résilience face aux pressions des lobbys des combustibles fossiles."
+      "Les marchés boursiers asiatiques rebondissent malgré les tensions géopolitiques au Moyen-Orient.",
+      "L'inflation et la récession continuent de peser sur les marchés obligataires.",
+      "La transition énergétique à Rotterdam marque un tournant pour l'Europe."
     ],
     "source": "Le Flux",
-    "date": "2026-07-20"
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -45,19 +45,19 @@
   },
   {
     "type": "news",
-    "title": "BofA : la Banque centrale européenne devrait maintenir ses taux directeurs en juillet avant une ultime hausse probable en septembre",
-    "summary": "BofA : la Banque centrale européenne devrait maintenir ses taux directeurs en juillet avant une ultime hausse probable en septembre Zonebourse Suisse",
+    "title": "Les marchés boursiers asiatiques rebondissent alors que la médiation au Moyen-Orient fait baisser les cours du pétrole",
+    "summary": "Les marchés boursiers asiatiques rebondissent alors que la médiation au Moyen-Orient fait baisser les cours du pétrole TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjhqeGNsQ2RIU3hLVlYzdUUzLURqOWR2NVhDVkFTNEFDN2xyYzIwY1AtbFNEVVFIQ2JiZ0FKbmJoc2JZTTdlOE5URnJxckxZMThMOHJ3WWdXQlBGa1F0S2JPODl4VDZtMkRXSHp1VHItZUR3dmVsS0ZNWnppN2k5UXdLRmZQNHVVblZ4dTE4bC1jeDF4Qjl6TkhkTG1oTHZLWmtNTEo3QXBGNFpLc3FvWmhsZHJlZTJmTmpPRXlRclNoLVlZbnRvNE1mcGJveGJYeEh4U25iTmEwT0dSNi1BSlNIalVjZ2NXYng1Mm5pMA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Sa1pzM0c3SkRkd1lxbmVxT3IwM2hmNDd4blhGNXgtZzFUR0Z1bUJWNFI1dFB0c2hocTc0Z1M0R0xRcTdoUFVOTDRuQVhDUDdfVGdabzV6UGpIbW80NHR1R1drRno3anBwd2ZUUGNBaWlnVndSbGxj?oc=5",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump menace de nouveau l’Iran, affirmant que, à chaque soldat américain tué, le pays « en paiera plusieurs fois le prix »",
-    "summary": "Le président américain a formulé cette nouvelle menace lundi sur son réseau, Truth Social. Ce week-end, le Pentagone a confirmé la mort de trois militaires américains dans la région. Deux ont été tués en Jordanie, le troisième, dans le nord de l’Irak.",
+    "title": "Rotterdam, premier port d’Europe et hub énergétique, entame une timide transition",
+    "summary": "« La ruée sur les ports » (12/16). Le site portuaire a pris quelques initiatives pour réduire l’impact carbone de ses activités, en développant l’hydrogène ou en se fournissant auprès d’un vaste parc éolien offshore. Mais les freins restent nombreux, 13 % de la demande européenne en énergie dépendant de Rotterdam.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-au-moyen-orient-la-diplomatie-francaise-denonce-un-acte-d-intimidation-extremement-grave-apres-la-detention-de-deux-diplomates-en-iran_6725301_3210.html",
-    "date": "2026-07-20"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/21/rotterdam-premier-port-d-europe-et-hub-energetique-entame-une-timide-transition_6728154_3234.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -85,16 +85,16 @@
   },
   {
     "type": "news",
-    "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
-    "summary": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
+    "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+    "summary": "There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
-    "date": "2026-07-20"
+    "link": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
     "title": "EU bets fossil fuel lobby is crying wolf over supply shock warnings",
-    "summary": "BRUSSELS — The European Commission is betting that profit-hungry gas and oil companies will continue exporting into Europe next year, resisting calls by oil and gas firms to rewrite new climate laws that they say will force them to seek other markets.",
+    "summary": "BRUSSELS — The European Commission is betting that profit-hungry gas and oil companies will continue exporting into Europe next year, resisting calls by companies to rewrite new climate laws that they say will force them to seek other markets.",
     "source": "Politico EU",
     "link": "https://www.politico.eu/article/eu-bets-fossil-fuel-lobby-is-crying-wolf-over-supply-shock-warnings/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-20"
@@ -133,19 +133,19 @@
   },
   {
     "type": "news",
-    "title": "The report oil companies are worried about: Climate attribution science",
-    "summary": "Climate change is being driven largely by the greenhouse gases we've pumped into the atmosphere, which trap more of the Sun's energy there. That added energy increases the odds of extreme events: longer, more intense heat waves and droughts, interspersed with excessive precipitation.",
+    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+    "summary": "A federal judge today ordered Paramount Skydance and Warner Bros. Discovery to halt their $111 billion merger, handing an early win to states that sued to block the deal. The ruling granted a temporary restraining order prohibiting the firms from completing the merger and from consolidating their operations.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-    "date": "2026-07-17"
+    "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "China's open-weights AI strategy is winning",
-    "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 436 # Comments: 368",
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding Comments URL: https://news.ycombinator.com/item?id=48987863 Points: 198 # Comments: 64",
     "source": "Hacker News",
-    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "date": "2026-07-20"
+    "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -173,11 +173,11 @@
   },
   {
     "type": "news",
-    "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-    "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+    "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+    "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-17"
+    "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -189,19 +189,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe vue prudente, le pétrole repasse au-dessus des 90 dollars (actualisé)",
-    "summary": "Point marchés-L'Europe vue prudente, le pétrole repasse au-dessus des 90 dollars (actualisé) Zonebourse",
+    "title": "Point marchés-L'Europe vue en baisse, le Moyen-Orient toujours dans le viseur",
+    "summary": "Point marchés-L'Europe vue en baisse, le Moyen-Orient toujours dans le viseur Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTFlpRHNwRWU1N184VUtnai0xM1RBR2gyTHJFRW9jLWtyYjdzb1VaUDNYdThKOW9GUW9LS2Y4Qk9rZDk5RFlHdVJGcldvc3VDei1mVmUxOHlQSVNFODBNWWFXYWgxZHh6QlY5NFFlT1dIRTRHWENfNkt0QmVZMmFNYkUzRjBMQ0UtQVlGTVVaaVFma3ctWG1kNDktU0dMc1hUZExCTzZPS2czZEJudlNWcW1sdTF1NjgwX1lJckd1bGpxVm1ieFptQ3phQ2ZYYTdJVkdlUWtOcElxWFMwam9pbWNQNTdQRnM?oc=5",
-    "date": "2026-07-20"
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczF5Mm1HNFIzQjdWWllLM1BuMTlXdndqVXljcGxkbFF4SV8xSGl0MWFWUmxSNDl6Wk05T0FZTzQ0Z1ZwWkl2RlVvS0NKRHVROGN1SEl1eF96Z2cyVUIwZHdrbENZUV9LbHg5Y0h0ai1pX3VpT2dUaG5JMXFLbEI1UEVPZ0swZzNTT19nOWRGenc0VXF2bi1fWnR4b1RzRmM5NjdNaDlUbmJPdHhZZWZpSkhyLTJVOVdxdVctdDRfZHlRa2dxdnJwSzRTZk4tUFRrMXg4?oc=5",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue le soutien « solide » du Royaume-Uni, après un entretien avec son nouveau premier ministre, Andy Burnham",
-    "summary": "Avant sa discussion avec le président ukrainien, Andy Burnham avait fait savoir qu’il serait aux « côtés [de M. Zelensky] à 100 %, tout comme l’a été Keir Starmer ». « Nous sommes convenus de discuter de notre coopération future lors d’une rencontre qui aura lieu très prochainement », a aussi annoncé Volodymyr Zelensky.",
+    "title": "EN DIRECT, guerre en Ukraine : enveloppe du FMI pour Kiev, cinq morts dans la région russe de Belgorod… Les dernières informations",
+    "summary": "Ce versement entre dans le cadre du programme de prêt du Fonds monétaire international, qui attend de l’Ukraine le maintien de sa stabilité économique et la poursuite de plusieurs réformes, notamment en matière de corruption, de fiscalité et de monnaie.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-le-soutien-solide-du-royaume-uni-apres-un-entretien-avec-son-nouveau-premier-ministre-andy-burnham_6725306_3210.html",
-    "date": "2026-07-20"
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -221,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "Du rooibos dans l’espace, ou la promesse d’une agriculture spatiale africaine",
-    "summary": "L’Afrique du Sud enverra en octobre des graines de rooibos, plante indigène du pays, dans la Station spatiale internationale dans le cadre d’un projet d’étude sur l’agriculture spatiale. Celui-ci pourrait également être utile pour le développement de cultures mieux à même de résister aux changements climatiques.",
+    "title": "La Belgique accorde des bourses à des étudiants gazaouis, sans leur permettre de venir",
+    "summary": "Au moins sept étudiants gazaouis ont obtenu une bourse pour poursuivre leurs études en Belgique. Laquelle exige qu’ils déposent leur demande de visa en personne, à Jérusalem ou au Caire, alors même qu’Israël interdit aux Gazaouis de quitter l’enclave, ravagée par trois ans de guerre.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sciences-du-rooibos-dans-l-espace-ou-la-promesse-d-une-agriculture-spatiale-africaine_251294",
+    "link": "https://www.courrierinternational.com/article/guerre-la-belgique-accorde-des-bourses-a-des-etudiants-gazaouis-sans-leur-permettre-de-venir_251298",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "Israeli air strike injures 14 in Gaza City",
-    "summary": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
+    "title": "China and Philippines trade accusations after sailor injured at sea",
+    "summary": "Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
-    "date": "2026-07-20"
+    "link": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EU hits China’s Alibaba with €550M record fine over illegal products",
-    "summary": "BRUSSELS — The European Commission slapped Chinese e-commerce giant AliExpress with a record €550 million fine on Monday for failing to stop the sale of illegal and harmful products on its platform.",
+    "title": "Kash at the Kremlin? FBI director plans Russia trip.",
+    "summary": "FBI Director Kash Patel is planning to visit Russia later this year, likely in mid-October, according to a U.S. official and a person familiar with the situation. It would be an unusual and sensitive trip for an FBI chief to one of America’s top adversaries. The plans come as Washington and Moscow continue to be at odds over the war in Ukraine, with U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/20/kash-patel-fbi-russia-trip-01005078?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-20"
   },
   {
@@ -285,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "Hacker wipes Romania's land registry database",
-    "summary": "Article URL: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/ Comments URL: https://news.ycombinator.com/item?id=48978605 Points: 409 # Comments: 231",
+    "title": "Agent swarms and the new model economics",
+    "summary": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 176 # Comments: 81",
     "source": "Hacker News",
-    "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
     "date": "2026-07-20"
   },
   {
@@ -317,35 +317,35 @@
   },
   {
     "type": "news",
-    "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-    "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-20"
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
+    "summary": "SBI Funds Management, whose billion-dollar IPO garnered bids worth $31 billion, made a subdued debut with shares listing at a 7% premium.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "date": "2026-07-18"
+    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Le pétrole s'envole, les Bourses résistent et les obligations d'Etat dévissent : la guerre en Iran creuse les écarts sur les marchés",
-    "summary": "Le pétrole s'envole, les Bourses résistent et les obligations d'Etat dévissent : la guerre en Iran creuse les écarts sur les marchés Les Echos",
+    "title": "Les marchés d'actions américains clôturent en baisse face à la hausse des prix du pétrole et aux tensions entre les États-Unis et l'Iran",
+    "summary": "Les marchés d'actions américains clôturent en baisse face à la hausse des prix du pétrole et aux tensions entre les États-Unis et l'Iran Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcWVuem5KR3NNTDNOck9yNEpRWUZSUnF3NENjclBqeXdQUXlCTWR0djRPcGRoUmtpZDB5WlJpNVZEeF9LbHdQMTl0X0V6RTRKSDlWaEh0dG1wYnlGazB2TzVDVVk5bVBmTTlsV2RiVHdQN3l1N1pndVhTLTM3ZzlGbGZNdElDTHBQdzBMdlB6bXIzUDJabjVkaXdGWUhtNV9KeDJEdEVobWFoNF8yTTBOTlBzbUZpMzhOZVMtRDBQVzJnRFlvODJsN3FFeTVfcG5OWkVNaXRTMjg1Z1plakFzTlZjNmdPWjZWTXFZMDdiVDBsbDlRLWVEanBjUHB3UHRUYkE4ZkNkd25ORmZSVU9ROHB1NmE0c0lKSGtxdDQwRQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGExSzJXQUtQeWpqZW8wOGpKS3R5ZjZuWERoOTFTN3BycW5mNkxDZ3hUMGVUbHNoVDE4ZGVZYlBwMGY3SEFxOGVLTGpSV0xnSzNqczQ1Rk5HTVAyVWYzQThjVDJ6Sk1yREUzVmpCTThuMFl1NlA1Y1BDbmdnVmgzaEludWpfSEdIUHBMUW5feFk0elA1Sy1BOFJnaDZTTlU4bGMyZ1h0aTdXdk1HdGtHdjl3RVFJOTRQTlF5T1c3eC0tOHZ3OTMtdE5hcVRPVTNhRkRNTFRfX202WHR2bGJxMkxCUmRKdHkzZG9uVEd5X3E1UQ?oc=5",
     "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "Le rachat de Warner Bros par Paramount suspendu par une juge californienne",
-    "summary": "Les procureurs de 12 Etats américains, emmenés par la Californie, ont contesté en justice le rachat de Warner Bros Discovery par Paramount Skydance. La suspension de cette fusion doit durer au moins quatorze jours, leur donnant plus de temps pour faire valoir leurs arguments.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran ont de nouveau échangé des tirs durant la nuit",
+    "summary": "Les gardiens de la révolution iraniens ont annoncé avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L’armée américaine a, elle, déclaré avoir mené une dixième nuit de bombardements d’affilée contre la République islamique, notamment contre des centres de commandement militaire et des cibles maritimes.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/20/le-rachat-de-warner-bros-par-paramount-suspendu-par-une-juge-californienne_6727683_3210.html",
-    "date": "2026-07-20"
+    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-ont-de-nouveau-echange-des-tirs-durant-la-nuit_6725301_3210.html",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
@@ -365,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "La Belgique accorde des bourses à des étudiants gazaouis, sans leur permettre de venir",
-    "summary": "Au moins sept étudiants gazaouis ont obtenu une bourse pour poursuivre leurs études en Belgique. Laquelle exige qu’ils déposent leur demande de visa en personne, à Jérusalem ou au Caire, alors même qu’Israël interdit aux Gazaouis de quitter l’enclave, ravagée par trois ans de guerre.",
+    "title": "Trump vend sa parole à Wall Street, l’IA licencie et Elon Musk marche au gaz et au diesel",
+    "summary": "L’actualité, l’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-la-belgique-accorde-des-bourses-a-des-etudiants-gazaouis-sans-leur-permettre-de-venir_251298",
-    "date": "2026-07-20"
+    "link": "https://www.courrierinternational.com/article/la-lettre-tech-trump-vend-sa-parole-a-wall-street-l-ia-licencie-et-elon-musk-marche-au-gaz-et-au-diesel_251282",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Philippine sailor injured during clash with Chinese coast guard",
-    "summary": "A member of China’s coast guard is accused of injuring a Philippine sailor after striking him with a wooden baton.",
+    "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
+    "summary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss",
-    "date": "2026-07-20"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Inquiet des usages de l’IA par les députés, le Parlement européen a une solution",
-    "summary": "Inquiet des usages de l’IA par les députés, le Parlement européen a une solution L’institution compte ouvrir ses portes aux modèles développés par OpenAI, Meta, Anthropic et Mistral, dans le but de maîtriser l’utilisation croissante de cette technologie par les parlementaires et leurs assistants.",
+    "title": "Trump threatens 50 percent tariff hike on Canadian goods",
+    "summary": "President Donald Trump on Monday announced that he will impose a 50 percent tariff on some Canadian goods next month, ratcheting up the trade war between the two countries after months of political tension.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/inquiet-des-usages-de-lia-par-les-deputes-le-parlement-europeen-a-une-solution/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/20/trump-threatens-50-percent-tariff-on-canadian-goods-01005548?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-20"
   },
   {
