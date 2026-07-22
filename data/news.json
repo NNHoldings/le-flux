@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "L'Inde soutient sa monnaie face à la hausse des prix du pétrole.",
+      "L'intelligence artificielle devient un enjeu crucial tant économique que géopolitique."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-22"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % pour endiguer l’inflation",
-    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % pour endiguer l’inflation Financial Afrik",
+    "title": "La banque centrale de l'Inde a vendu 6 milliards de dollars en mai pour soutenir la roupie face au choc pétrolier",
+    "summary": "La banque centrale de l'Inde a vendu 6 milliards de dollars en mai pour soutenir la roupie face au choc pétrolier Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEdHLXVjLVUzbXZhd19DNmdUZy0ySmNXcGZHdUcwYTZXb0NMaVFGMDVMcE9NOUVZc01fNW9taXYwLXk5dV9UY3U2TWJzdHpMUk45QVlCM0cyeHlyOEFUamJrRThFNDM4aXExeFo0OW9FQl9fbkZhLU5DdVY5SGhkQWpkV3V6ODdlVWtoWGtIcEozWDc0RHk1dE1jUEY1R3ZnOEpqWDN1QlJIMU9YLW5NekZQSUJzbjNTNGg5UnF6UG50enpRVUhjYmhn?oc=5",
-    "date": "2026-07-21"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeDhVTnpobVlkd0hreDVFelRpSk9aUHJfMUFFY0ppZWUya0F1VFBaM3o2cXNpdGxtMmFzNEgwNllZUGdCTnc3cmR4aUw3c09hTVNXNzQ5R0tYNllrTkJhc21nZ09sak9Mc2ozdHgxUVVqaU54dlJUOFVuX2dVSUlUcV9IU3JEZTBCSkZqVThoTTJ3cER1YmZOd1lGMXkxWF9sNHB4OFd3TEFicXRYOWJxeFhiRFA3T1lxX3lFVjczMi1vMlVudjBiOGZlTXNldTVrdE1hVDJIM1dWeTg0bjNUUVhkeThlMzdwQUdjaS1kVGNPZw?oc=5",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dénonce les « attaques répétées » et les « menaces » des Etats-Unis contre ses installations nucléaires civiles",
-    "summary": "Les activités nucléaires de l’Iran ont été « intégralement déclarées » à l’AIEA, conformément à ses obligations, a affirmé Esmaeil Baghaei, porte-parole du ministère des affaires étrangères iranien.",
+    "title": "Russie : les entrepôts d’e-commerce, nouvelles cibles des drones ukrainiens",
+    "summary": "En moins d’une semaine, quatre centres de logistique et de stockage de Wildberries, l’équivalent russe d’Amazon, ont été visés. Ces attaques, qui ont fait au moins neuf morts, perturbent les chaînes de distribution et mettent à mal les discours de victoire du Kremlin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -65,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "La vague de chaleur en Europe provoque des pertes massives de récoltes de céréales",
-    "summary": "À cause des épisodes répétés de canicule en juin, les moissons devraient rapporter deux milliards d’euros de moins aux céréaliers européens. La France et la Hongrie figurent en tête des pays les plus touchés.",
+    "title": "OpenAI reconnaît que ses modèles d’IA ont piraté d’eux-mêmes une entreprise",
+    "summary": "Des modèles d’intelligence artificielle en phase d’évaluation sont parvenus à sortir de leur “bac à sable” pour s’infiltrer sans autorisation et de manière autonome sur la plateforme Hugging Face.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-la-vague-de-chaleur-en-europe-provoque-des-pertes-massives-de-recoltes-de-cereales_251872",
+    "link": "https://www.courrierinternational.com/article/cyberattaque-openai-reconnait-que-ses-modeles-d-ia-ont-pirate-d-eux-memes-une-entreprise_251868",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-    "summary": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
+    "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+    "summary": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Ukraine’s drone strikes pile pressure on Russian economy",
-    "summary": "Russia’s economy is creaking ever more loudly as the cost of financing a fifth year of war continues to mount. The latest sign of strain is a standoff between the Ministry of Finance, which has to raise the money to pay for the war, and the country’s largest banks, which are demanding ever-higher rates to finance it.",
+    "title": "Trump administration steers $5B toward AI research",
+    "summary": "Federal agencies have committed more than $5 billion to an Energy Department-led effort to use artificial intelligence to accelerate scientific research, White House Office of Science and Technology Policy Director Michael Kratsios announced Wednesday.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-drone-strikes-russian-economy-pressure/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/22/trump-administration-steers-5b-toward-ai-research-01007708?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-22"
   },
   {
@@ -129,19 +141,19 @@
   },
   {
     "type": "news",
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments) Comments URL: https://news.ycombinator.com/item?id=48997548 Points: 1271 # Comments: 868",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "summary": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a sli…",
     "source": "Hacker News",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "date": "2026-07-21"
+    "link": "https://bento.page/slides/",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Rising dust pollution across Europe in a changing climate",
-    "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10743-wA database of daily dust metals in Europe is established and a machine learning model shows that transported dust intrusion events over the past decade are linked to changes in atmospheric circulation, while an ice core shows that the increase in dust since pre-industrial times is governed…",
+    "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
+    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-zAs automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10743-w",
-    "date": "2026-07-15"
+    "link": "https://www.nature.com/articles/d41586-026-02214-z",
+    "date": "2026-07-16"
   },
   {
     "type": "news",
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Moyen-Orient : entre guerre d’usure et menace sur l’économie mondiale, l’impasse militaire totale entre Washington et Téhéran",
-    "summary": "Moyen-Orient : entre guerre d’usure et menace sur l’économie mondiale, l’impasse militaire totale entre Washington et Téhéran Le Télégramme",
+    "title": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale",
+    "summary": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaWhCWVpTUXpjazFCcHRfSTZKNHdONjFfTXB1S1ZQTG9jeFRrdnl1TkEwZmZYV0xJdnZCNkw1dUx1c0xjdFoxZFROcEFvdENvMnRPWGFBb2FQM3FJdnlVcjBWa0RiSXlPTzktRGtndi0wcEg4Z1pUSmpaVnl6dlhzTktoaUJnNlhYd2U4Xzd2eE9DUmhncEJYM2RSbThVVVlHUTN4V2c3LU1KVXFncUdReE1TcUtzUkdLSWM4eGx4TFNpV0pMTDZCZkpfQzBoQXBUaG13UGM2bVBaZE4wSlItQjMtVHl5V3o2T1VPZnZ2a011VFh4T1JlYw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZU5hX2hwUHBKSFNwTHhzOUN5S0RMN1F1ZmJ4QlZlOFVkUjU3eVp1ZUxoMVNVbW1LTnI2VmZCSm51b3J4cW9sZlZxRlFpWUVycnd1ZlVDVmNaQkt3aXY1ck01UXBaLVpDTm5LaUdBVlNUZjdUWGJxTDJ1Z0pOb1gwRWhWSWM1YXdoX2w3SEZaZnBudGxWb2I3dTM3T2lpSl8yWUlOeVVFb2pkWFRueHZzcmI1RVBxTy1BRmhwOG1zd1dIVGxVcEw2ZHJBWWtOcUYzMTh1Mm9pNFlzUUtqUS1WeHlocExxSmJoRXk5TWc5TEw?oc=5",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Le Japon s’inquiète d’une coopération militaire accrue entre la Chine et la Russie au large de ses côtes",
-    "summary": "Une frégate chinoise navigant avec un navire de guerre russe a procédé à des tirs à balles réelles dans la zone économique exclusive du Japon, dans l’océan Pacifique. Tokyo a protesté et s’inquiète de la multiplication des manœuvres conjointes sino-russes dans la région.",
+    "title": "EN DIRECT, guerre en Ukraine : la nomination de Mykhaïlo Drapaty comme commandant en chef de l’armée ukrainienne ne changera pas la situation sur le front, affirme le Kremlin",
+    "summary": "En réponse aux mobilisations citoyennes pour demander le départ du général Oleksandr Syrsky, Volodymyr Zelensky a remplacé ce dernier par le populaire commandant des forces interarmées.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/22/le-japon-s-inquiete-d-une-cooperation-militaire-accrue-entre-la-chine-et-la-russie-au-large-de-ses-ilots_6730009_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-la-nomination-de-mykhailo-drapaty-comme-commandant-en-chef-de-l-armee-ukrainienne-ne-changera-pas-la-situation-sur-le-front-affirme-le-kremlin_6725306_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -209,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "Au Soudan, une vague de sanctions internationales peu convaincantes",
-    "summary": "Le 20 juillet, Washington a imposé des sanctions au gouvernement du général Al-Burhan, qui dirige de facto le Soudan. Médiatrice dans ce conflit, l’administration Trump pèse ainsi de tout son poids sur Khartoum pour aboutir à un “dialogue national”.",
+    "title": "La guerre reprend, mais que veut vraiment Donald Trump ?",
+    "summary": "Dans ce nouveau bras de fer qui se joue au Moyen-Orient entre les États-Unis et l’Iran, Washington chercherait à accroître la pression militaire en vue d’obtenir des concessions, notamment sur la question du contrôle du détroit d’Ormuz.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-du-burkina-faso-au-soudan-une-vague-de-sanctions-internationales-peu-convaincantes_251862",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-la-guerre-reprend-mais-que-veut-vraiment-donald-trump_251861",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Ukraine hits more warehouses of top Russian online retailer",
-    "summary": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+    "title": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
+    "summary": "As Rabat and Algiers compete for influence, closer ties with one now carry consequences for relations with the other.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
     "date": "2026-07-22"
   },
   {
@@ -241,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "Microsoft signe un accord de « plusieurs milliards » de dollars pour utiliser les data centers de Mistral AI",
-    "summary": "Le géant américain va rendre davantage disponible les modèles d’intelligence artificielle de la start-up française sur sa plateforme de services aux entreprises.",
+    "title": "Les « résumés par IA » de Google, désormais disponibles en France, sont aussi attendus que redoutés",
+    "summary": "Le géant américain déploie, à partir de mercredi, les « AI overviews » ainsi que l’ « AI mode », des outils d’intelligence artificielle déjà présents dans d’autres pays. Médias et éditeurs de site redoutent de se voir privés d’une partie de leur trafic.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/21/microsoft-signe-un-accord-de-plusieurs-milliards-de-dollars-pour-utiliser-les-data-centers-de-mistral-ai_6729035_4408996.html",
-    "date": "2026-07-21"
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/22/google-lance-les-resumes-par-ia-sur-son-moteur-de-recherche-en-france-une-fonctionnalite-attendue-et-redoutee_6729851_4408996.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies.",
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most pre…",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-    "date": "2026-07-21"
+    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -265,27 +277,27 @@
   },
   {
     "type": "news",
-    "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-    "summary": "Nintendo urged a court to dismiss a lawsuit demanding that it pass tariff refunds on to customers, saying that people who bought a Switch console or other products have no legal right to refunds that Nintendo is due to receive from the government.",
+    "title": "Ukrainian drones deliver robots directly into battle by sea and air",
+    "summary": "In the latest twist on battlefield innovations, Ukraine has used both flying drone carriers and drone boats to send ground robots armed with weapons or explosives into battle. The drone-assisted deployments have enabled slower wheeled robots to bypass tough terrain and Russian defenses, and to carry out an unusual robotic amphibious assault on a contested po…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-    "date": "2026-07-21"
+    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Apple defeats liability for not scanning iCloud for CSAM",
-    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 426 # Comments: 444",
+    "title": "The startup's Postgres survival guide",
+    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 165 # Comments: 76",
     "source": "Hacker News",
-    "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-    "date": "2026-07-21"
+    "link": "https://hatchet.run/blog/postgres-survival-guide",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
-    "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-zAs automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+    "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02214-z",
-    "date": "2026-07-16"
+    "link": "https://www.nature.com/articles/d41586-026-02211-2",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -305,34 +317,34 @@
   },
   {
     "type": "news",
-    "title": "The furious dispute over what caused Air India flight 171 to crash",
-    "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+    "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-10"
+    "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle",
-    "summary": "The reshuffle comes after almost a week of nationwide unrest and represents one of the biggest political crises since Russia's full-scale invasion in 2022.",
+    "title": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
+    "summary": "Here are five key things investors need to know to start the trading day.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/22/ukraine-zelenskyy-protests-russia-war-putin.html",
+    "link": "https://www.cnbc.com/2026/07/22/5-things-to-know-before-the-stock-market-opens.html",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient : le pétrole propulsé au-dessus des 95 dollars, le gaz au plus haut depuis mars",
-    "summary": "Guerre au Moyen-Orient : le pétrole propulsé au-dessus des 95 dollars, le gaz au plus haut depuis mars Les Echos",
+    "title": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE",
+    "summary": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblZGcmVTMk9SejhmVnp0YnVkMjk1MmEtU1NtZ1JpMzhQNlJKelotd2QxOF9tQlVmOVdzcVpsVlFVMzJDYWQ0dWhSeENQZVpBcU5fa2VqTVg3WDA1c0Z3MUxiRUdoV0JLQ0dfd1c2d0NZb1FyTDBxWktvSkdUcFpPN0EwWTk2c0lVUVNHSEp1ZWk2R2VYcjF6UDBFV1l4QlBxOGpOcW8yUGFsVDE5UE5JQ00wZlFJQ0lNallLZnBrQnVjYVJncm95UzFaaDBqdmFPeWVNZDlnVUg2WWp2bXhNUGJ1VnN1Yzl6OU5kX3U2S1Vfam4xbldoRktR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDQ3V1VhU1JqVXZSTmp3Q1lJbk1qcjV1MjdXbF80d2tIYzJOeFJDYW1DOGNkVERneFUzUDlFV00zdjc3SVZNak5manlReEV3NHZIZlFOMnhuTjlueG0wbHByalE0bVNleWhfVjduX2lySjZUTDVvUTFSQzdJMHRoVHhYSDBLbGlLWDB6X2drd1o1cFJQUW1ONlMzNjdONTdZV0l4X2pTVEQ2MDFxdTBvVDE0aEUxZHN3cTBKQWlDemdGMWQyMUlLLW5ld1o?oc=5",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes",
-    "summary": "Le Quai d’Orsay et le ministère de l’intérieur étudient secrètement d’autres voies de sanctions contre la figure prorusse de CNews, ex-dirigeante de RT France, chaîne financée par le Kremlin.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : après les menaces de Donald Trump, l’Iran promet des représailles contre des infrastructures régionales liées aux intérêts américains",
+    "summary": "Le président américain avait menacé, un peu plus tôt mercredi, de répliquer à toutes les prochaines attaques de navires par l’Iran dans le détroit d’Ormuz en bombardant les ponts et les centrales électriques iraniennes.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-apres-les-menaces-de-donald-trump-l-iran-promet-des-represailles-contre-des-infrastructures-regionales-liees-aux-interets-americains_6725301_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -353,32 +365,32 @@
   },
   {
     "type": "news",
-    "title": "“Fedorov, Fedorov” : pourquoi les Ukrainiens sont-ils dans la rue ?",
-    "summary": "Pour la cinquième journée consécutive, des manifestations ont eu lieu lundi 20 juillet dans plusieurs villes d’Ukraine. Les protestataires réclament le retour du jeune ministre de la Défense Mykhaïlo Fedorov, limogé par Volodymyr Zelensky une semaine plus tôt.",
+    "title": "Crise politique en Ukraine : “Zelensky a franchi des lignes rouges de la société”",
+    "summary": "Confronté à des manifestations, Volodymyr Zelensky a cédé et vient de nommer un nouveau chef d’état-major des armées. Preuve, analysent les éditorialistes locaux, que la conscience citoyenne de la population reste une force avec laquelle il faut compter, même en plein conflit.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/video/video-fedorov-fedorov-pourquoi-les-ukrainiens-sont-ils-dans-la-rue_251595",
-    "date": "2026-07-21"
-  },
-  {
-    "type": "news",
-    "title": "Syrian people must not be failed again",
-    "summary": "Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/politique-crise-politique-en-ukraine-zelensky-a-franchi-des-lignes-rouges-de-la-societe_251925",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Post-Orbán sanctions showdown exposes EU capitals’ red lines",
-    "summary": "BRUSSELS — EU ambassadors will make another push Wednesday to finalize the bloc’s first Russia sanctions package since Viktor Orbán left office, after governments stripped back key measures to protect their energy, fish processing, banking and shipping interests.",
+    "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+    "summary": "Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+    "date": "2026-07-22"
+  },
+  {
+    "type": "news",
+    "title": "Trump threatens retaliatory strikes on key Iranian infrastructure as conflict escalates",
+    "summary": "President Donald Trump on Wednesday warned that the United States would strike Iranian bridges and power plants if Iran continues to attack commercial ships passing through the Strait of Hormuz.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/post-orban-russia-sanctions-showdown-exposes-eu-capitals-red-lines/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/22/trump-iran-war-infrastructure-strikes-01007558?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-22"
   },
   {
     "type": "news",
     "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
-    "summary": "La rivalité entre la Chine et les États-Unis est depuis quelques années déjà l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
+    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
     "date": "2026-07-22"
