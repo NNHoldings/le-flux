@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La guerre au Moyen-Orient s'intensifie avec des frappes américaines sur l'Iran.",
+      "L'IA devient un enjeu crucial pour la croissance économique et la surveillance."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-22"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -25,27 +37,27 @@
   },
   {
     "type": "news",
-    "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
-    "summary": "CuspAI is part of a new wave of companies looking to use AI to solve challenges in the physical world.",
+    "title": "CNBC Daily Open: AI race, potential tariffs and Middle East conflict continue to heat up",
+    "summary": "The U.S.-China AI race continues to intensify amid signs that the Trump administration could sanction China over \"theft,\" while OpenAI ramps up IPO efforts.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
-    "date": "2026-07-20"
+    "link": "https://www.cnbc.com/2026/07/22/cnbc-daily-open-ai-race-potential-tariffs-and-iran-conflict-heat-up-.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Point marchés-Rebond en vue de Wall Street, l'Europe aussi dans le vert",
-    "summary": "Point marchés-Rebond en vue de Wall Street, l'Europe aussi dans le vert Zonebourse",
+    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % pour endiguer l’inflation",
+    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % pour endiguer l’inflation Financial Afrik",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmc2N2YzcS1CeFlKdDhnMDd0NjhYNUlJZ2g2bmN3a2JJenBuckMzS1J4YmVHdGJibEQ1bE5mc09GeGNtdWRpX2JBSTZwVHd2TWo0bTNUdjd0Z0M1NnpnVFhGaVBlSks0ellTcmhlZG1NVFRQWWEwaTVjdjdROGFnMjE4My1YSHc1M2RTRlJoS0lYZVhnUE95bTcwTWFPT0dOVGZJbUtSU0JCNUU2SHlNUERiX3UwRzl6b3JDaDdRLWpabnpIQl8xcEJ3dw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEdHLXVjLVUzbXZhd19DNmdUZy0ySmNXcGZHdUcwYTZXb0NMaVFGMDVMcE9NOUVZc01fNW9taXYwLXk5dV9UY3U2TWJzdHpMUk45QVlCM0cyeHlyOEFUamJrRThFNDM4aXExeFo0OW9FQl9fbkZhLU5DdVY5SGhkQWpkV3V6ODdlVWtoWGtIcEozWDc0RHk1dE1jUEY1R3ZnOEpqWDN1QlJIMU9YLW5NekZQSUJzbjNTNGg5UnF6UG50enpRVUhjYmhn?oc=5",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la prochaine cible américaine en Iran pourrait être « Pickaxe Mountain », un complexe nucléaire souterrain",
-    "summary": "En novembre 2025, plusieurs médias américains ont affirmé que Téhéran avait accéléré la construction, démentie par le régime iranien, d’un site nucléaire sous-terrain situé près de l’ancien complexe de Natanz, bombardé par les Etats-Unis en juin 2025.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a bombardé l’Iran pour la onzième nuit d’affilée",
+    "summary": "Selon l’état-major américain, des « cibles militaires » ont été visées. Des explosions ont été rapportées par l’agence iranienne d’Etat IRNA à Bouchehr, où se trouve la seule centrale nucléaire civile en fonctionnement d’Iran, ainsi que des frappes dans le sud et le nord-ouest du pays.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-donald-trump-a-accueilli-le-president-libanais-joseph-aoun-a-la-maison-blanche_6725301_3210.html",
-    "date": "2026-07-21"
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-une-nouvelle-fois-lance-une-serie-de-frappes-nocturnes-sur-l-iran_6725301_3210.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -73,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
-    "summary": "Increasing use of long-range missiles and drones against targets far from the front line is worsening the civilian toll.",
+    "title": "Zelenskyy replaces Ukraine military chief after protests",
+    "summary": "Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Natural gas prices surge as violence in Middle East flares again",
-    "summary": "BRUSSELS — European natural gas prices shot to a four-month high as renewed violence around the Strait of Hormuz triggered concerns about the feasibility of transporting energy through the world’s most vital energy chokepoint.",
+    "title": "Ukraine’s drone strikes pile pressure on Russian economy",
+    "summary": "Russia’s economy is creaking ever more loudly as the cost of financing a fifth year of war continues to mount. The latest sign of strain is a standoff between the Ministry of Finance, which has to raise the money to pay for the war, and the country’s largest banks, which are demanding ever-higher rates to finance it.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/natural-gas-prices-surge-as-violence-in-middle-east-flares-again/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-21"
+    "link": "https://www.politico.eu/article/ukraine-drone-strikes-russian-economy-pressure/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -129,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/ Comments URL: https://news.ycombinator.com/item?id=48993414 Points: 353 # Comments: 280",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments) Comments URL: https://news.ycombinator.com/item?id=48997548 Points: 1034 # Comments: 688",
     "source": "Hacker News",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "date": "2026-07-21"
   },
   {
@@ -161,35 +173,35 @@
   },
   {
     "type": "news",
-    "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-    "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-20"
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-02"
   },
   {
     "type": "news",
-    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
-    "summary": "SBI Funds Management, whose billion-dollar IPO garnered bids worth $31 billion, made a subdued debut with shares listing at a 7% premium.",
+    "title": "India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash",
+    "summary": "India is banking on alternative fuels as it prioritizes energy security amid high oil prices and supply constraints.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
-    "date": "2026-07-21"
+    "link": "https://www.cnbc.com/2026/07/22/india-oil-prices-tariff-ethanol-backlash-iran-war-russia-.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "La dette des marchés développés atteindra un record de 75 800 milliards de dollars sous l'effet des chocs et des pressions budgétaires, selon Fitch",
-    "summary": "La dette des marchés développés atteindra un record de 75 800 milliards de dollars sous l'effet des chocs et des pressions budgétaires, selon Fitch Zonebourse Suisse",
+    "title": "Moyen-Orient : entre guerre d’usure et menace sur l’économie mondiale, l’impasse militaire totale entre Washington et Téhéran",
+    "summary": "Moyen-Orient : entre guerre d’usure et menace sur l’économie mondiale, l’impasse militaire totale entre Washington et Téhéran Le Télégramme",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSWV0S0pxMmFtbkxwYUhIQzVRalE5WHN2d1E1Y2RmODZ2RzAyWm8tNmtqcG5fcHVYU29uSjFINWh1REdkZzlfRmJVSHI2UkRmUmJrd01aMVhVN3BOSU83NG9XbDZJRnF3ckszRDhVb2M1bk45emp6TW9kZVpEUy1kYUc3LVpkU08wVWJlanhRcUp6UkV4dVdSUTNSQXBUZFB3V3dBUFBOWVFsYzRzMzZfVktXRnpGd1VYbEVaZEEwMTFuT2NLOE82a1N0NzlGZHVrRWRZZFNlTGtMVURRbENvQ3BCQnU1cFVrUDctaW5LcnU?oc=5",
-    "date": "2026-07-21"
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaWhCWVpTUXpjazFCcHRfSTZKNHdONjFfTXB1S1ZQTG9jeFRrdnl1TkEwZmZYV0xJdnZCNkw1dUx1c0xjdFoxZFROcEFvdENvMnRPWGFBb2FQM3FJdnlVcjBWa0RiSXlPTzktRGtndi0wcEg4Z1pUSmpaVnl6dlhzTktoaUJnNlhYd2U4Xzd2eE9DUmhncEJYM2RSbThVVVlHUTN4V2c3LU1KVXFncUdReE1TcUtzUkdLSWM4eGx4TFNpV0pMTDZCZkpfQzBoQXBUaG13UGM2bVBaZE4wSlItQjMtVHl5V3o2T1VPZnZ2a011VFh4T1JlYw?oc=5",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : l’aviation russe attaque plusieurs villes, dont Zaporijia, Odessa, Sloviansk et la région de Kherson",
-    "summary": "Au cours de la nuit de lundi à mardi, l’armée russe a attaqué l’Ukraine avec 58 drones, dont 46 ont été neutralisés par les forces de défenses aériennes, assure l’armée ukrainienne. Un drone russe a tué trois personnes dans un quartier résidentiel de Soumy.",
+    "title": "L’administration Trump demande des fonds supplémentaires pour la guerre contre l’Iran",
+    "summary": "Alors que le président américain, Donald Trump, a assuré que les Etats-Unis n’en avaient « pas fini du tout » avec Téhéran, le secrétaire à la défense, Pete Hegseth, est venu défendre devant le Sénat une rallonge budgétaire de 87 milliards de dollars sans donner de précisions sur la stratégie de l’administration.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-l-aviation-russe-attaque-plusieurs-villes-dont-zaporijia-odessa-sloviansk-et-la-region-de-kherson_6725306_3210.html",
-    "date": "2026-07-21"
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/l-administration-trump-contrainte-de-demander-des-fonds-supplementaires-pour-la-guerre-contre-l-iran_6729513_3210.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -217,19 +229,19 @@
   },
   {
     "type": "news",
-    "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-    "summary": "Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.",
+    "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+    "summary": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
-    "date": "2026-07-21"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Canada joins British-Italian-Japanese fighter jet project",
-    "summary": "LONDON — Britain, Japan and Italy are bringing Canada in on their project to field a sixth-generation fighter jet by 2035, defense ministers from the nations announced jointly on Tuesday. The move to include Ottawa as an observer nation — as first reported by POLITICO last week — is meant to strengthen middle-power supply chains.",
+    "title": "Lifting Russian athletes ban only helps Putin, Ukraine tells IOC",
+    "summary": "Ukraine’s sports chief slammed the International Olympic Committee for ushering Russian athletes back into the fold even as Moscow continues to wage its war on Ukraine. The IOC announced last week it had “provisionally lifted the suspension of the Russian Olympic Committee,” ending a ban that has been in place since the Kremlin’s full-scale invasion of Ukrai…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/canada-joins-british-italian-japanese-fighter-jet-project/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-21"
+    "link": "https://www.politico.eu/article/russia-athlete-ban-help-vladimir-putin-ukraine-international-olympic-committee-ioc/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -265,16 +277,16 @@
   },
   {
     "type": "news",
-    "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-    "summary": "A federal judge today ordered Paramount Skydance and Warner Bros. Discovery to halt their $111 billion merger, handing an early win to states that sued to block the deal. The ruling granted a temporary restraining order prohibiting the firms from completing the merger and from consolidating their operations.",
+    "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
+    "summary": "Nintendo urged a court to dismiss a lawsuit demanding that it pass tariff refunds on to customers, saying that people who bought a Switch console or other products have no legal right to refunds that Nintendo is due to receive from the government.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-    "date": "2026-07-20"
+    "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 193 # Comments: 148",
+    "title": "Apple defeats liability for not scanning iCloud for CSAM",
+    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 403 # Comments: 366",
     "source": "Hacker News",
     "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "date": "2026-07-21"
@@ -305,35 +317,35 @@
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "The furious dispute over what caused Air India flight 171 to crash",
+    "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-10"
   },
   {
     "type": "news",
-    "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-    "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+    "title": "Zelenskyy ousts Ukraine’s army chief as protests expose wartime power struggle",
+    "summary": "The reshuffle comes after almost a week of nationwide unrest and represents one of the biggest political crises since Russia's full-scale invasion in 2022.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-    "date": "2026-07-21"
+    "link": "https://www.cnbc.com/2026/07/22/ukraine-zelenskyy-protests-russia-war-putin.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "La banque centrale du Nigéria maintient ses taux à 26,5%",
-    "summary": "La banque centrale du Nigéria maintient ses taux à 26,5% Investing.com France",
+    "title": "Les marchés boursiers asiatiques conservent leurs gains alors que les marchés américains rebondissent et que le prix du pétrole progresse",
+    "summary": "Les marchés boursiers asiatiques conservent leurs gains alors que les marchés américains rebondissent et que le prix du pétrole progresse TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1A0ODVJMkJpX05jUjNVeFA5UTZRcGZibWl0aDNhZnAwbzMweVUxSUpmSi1JUFg2LVQwY1lWRkNBYVNWWmMyamtLM041cW04bE9RQkhYRF9xMUxJTTFaUVd2TE1IbFNOYmhEaWZlbUJUa1dKeXRoQWtxQ0tCVHpqZDhxc1Y4R0JSdnJzOE93UmxfM2w1YzFWTHJiS2hzTWJqMTZxdjR4QzdRZFcz?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LLTlSUkJmWGJNVURpRHIzbVBHWWNIRDBNTWVyTm5tbm9wZmE1RU00TWlJd255U05CX0ZoRkwtUHhZUGNlWWlvZkFySi03anNVM2lqcGdQLVBfU3dkVE9IWHJvVXREOTlURFVtdWpzX3ptaExQOUFZ?oc=5",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "Le contre-modèle chinois sur l’IA, un défi pour l’Europe",
-    "summary": "Lors de la Conférence mondiale de Shanghaï du 17 juillet, le président chinois, Xi Jinping, a présenté une doctrine d’organisation de l’intelligence artificielle susceptible de rebattre les cartes de l’ordre technologique mondial et qui menace de neutraliser l’avantage qu’avaient les Vingt-Sept sur le terrain normatif.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
+    "summary": "Les manifestants réclamaient le départ d’Oleksandr Syrsky, commandant en chef de l’armée, qui a été acté mardi soir par le président ukrainien. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapaty.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/21/le-contre-modele-chinois-sur-l-ia-un-defi-pour-l-europe_6728533_3232.html",
-    "date": "2026-07-21"
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -361,19 +373,19 @@
   },
   {
     "type": "news",
-    "title": "Police detain Indian opposition leader Gandhi as protests continue to grow",
-    "summary": "Detained while picketing PM's residence, Gandhi demands Modi's resignation for 'destroying the future of India's youth'.",
+    "title": "US targets China in move to ban military-grade drone imports",
+    "summary": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss",
-    "date": "2026-07-21"
+    "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Turkey holds up NATO’s €27B fuel pipeline revamp deal",
-    "summary": "BRUSSELS — Turkey has refused to back a €27 billion upgrade of NATO’s military fuel pipeline network, according to two alliance diplomats, as it mounts an eleventh-hour bid to extract concessions on the agreement.",
+    "title": "Post-Orbán sanctions showdown exposes EU capitals’ red lines",
+    "summary": "BRUSSELS — EU ambassadors will make another push Wednesday to finalize the bloc’s first Russia sanctions package since Viktor Orbán left office, after governments stripped back key measures to protect their energy, fish processing, banking and shipping interests.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/turkey-nato-military-fuel-pipeline-network-revamp-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-21"
+    "link": "https://www.politico.eu/article/post-orban-russia-sanctions-showdown-exposes-eu-capitals-red-lines/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
