@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre au Moyen-Orient s'intensifie avec des frappes américaines sur l'Iran.",
-      "L'IA devient un enjeu crucial pour la croissance économique et la surveillance."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-22"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -53,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a bombardé l’Iran pour la onzième nuit d’affilée",
-    "summary": "Selon l’état-major américain, des « cibles militaires » ont été visées. Des explosions ont été rapportées par l’agence iranienne d’Etat IRNA à Bouchehr, où se trouve la seule centrale nucléaire civile en fonctionnement d’Iran, ainsi que des frappes dans le sud et le nord-ouest du pays.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dénonce les « attaques répétées » et les « menaces » des Etats-Unis contre ses installations nucléaires civiles",
+    "summary": "Les activités nucléaires de l’Iran ont été « intégralement déclarées » à l’AIEA, conformément à ses obligations, a affirmé Esmaeil Baghaei, porte-parole du ministère des affaires étrangères iranien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-une-nouvelle-fois-lance-une-serie-de-frappes-nocturnes-sur-l-iran_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-denonce-les-attaques-repetees-et-les-menaces-des-etats-unis-contre-ses-installations-nucleaires-civiles_6725301_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -77,19 +65,19 @@
   },
   {
     "type": "news",
-    "title": "Au Nigeria, Dangote choisit de vendre son carburant en dollars et suscite l’inquiétude",
-    "summary": "Le 13 juillet, à la surprise générale, la raffinerie du milliardaire nigérian Aliko Dangote, la plus grande d’Afrique, a mis en place un nouveau système de tarification de son pétrole raffiné en dollars américains au lieu du naira, la monnaie nationale. Une transition qui fait craindre une hausse des prix aux distributeurs et aux consommateurs nigérians.",
+    "title": "La vague de chaleur en Europe provoque des pertes massives de récoltes de céréales",
+    "summary": "À cause des épisodes répétés de canicule en juin, les moissons devraient rapporter deux milliards d’euros de moins aux céréaliers européens. La France et la Hongrie figurent en tête des pays les plus touchés.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-au-nigeria-dangote-choisit-de-vendre-son-carburant-en-dollars-et-suscite-l-inquietude_251398",
-    "date": "2026-07-21"
+    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-la-vague-de-chaleur-en-europe-provoque-des-pertes-massives-de-recoltes-de-cereales_251872",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Zelenskyy replaces Ukraine military chief after protests",
-    "summary": "Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
+    "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+    "summary": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-    "date": "2026-07-21"
+    "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -109,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "Microsoft signe un accord de « plusieurs milliards » de dollars pour utiliser les data centers de Mistral AI",
-    "summary": "Le géant américain va rendre davantage disponible les modèles d’intelligence artificielle de la start-up française sur sa plateforme de services aux entreprises.",
+    "title": "« Après avoir encouragé un fort endettement public, la Banque centrale européenne étrangle aujourd’hui des finances publiques déjà dégradées »",
+    "summary": "L’économiste Nicolas Dufrêne constate, dans une tribune au « Monde », que le coût pour l’Etat français du resserrement de la politique monétaire mené entre juillet 2022 et juin 2026 aura été de près de 90 milliards d’euros. Il plaide pour une démocratisation des choix de la BCE.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/21/microsoft-signe-un-accord-de-plusieurs-milliards-de-dollars-pour-utiliser-les-data-centers-de-mistral-ai_6729035_4408996.html",
-    "date": "2026-07-21"
+    "link": "https://www.lemonde.fr/idees/article/2026/07/22/apres-avoir-encourage-un-fort-endettement-public-la-banque-centrale-europeenne-etrangle-aujourd-hui-des-finances-publiques-deja-degradees_6729998_3232.html",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -142,7 +130,7 @@
   {
     "type": "news",
     "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments) Comments URL: https://news.ycombinator.com/item?id=48997548 Points: 1034 # Comments: 688",
+    "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments) Comments URL: https://news.ycombinator.com/item?id=48997548 Points: 1271 # Comments: 868",
     "source": "Hacker News",
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "date": "2026-07-21"
@@ -197,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "L’administration Trump demande des fonds supplémentaires pour la guerre contre l’Iran",
-    "summary": "Alors que le président américain, Donald Trump, a assuré que les Etats-Unis n’en avaient « pas fini du tout » avec Téhéran, le secrétaire à la défense, Pete Hegseth, est venu défendre devant le Sénat une rallonge budgétaire de 87 milliards de dollars sans donner de précisions sur la stratégie de l’administration.",
+    "title": "Le Japon s’inquiète d’une coopération militaire accrue entre la Chine et la Russie au large de ses côtes",
+    "summary": "Une frégate chinoise navigant avec un navire de guerre russe a procédé à des tirs à balles réelles dans la zone économique exclusive du Japon, dans l’océan Pacifique. Tokyo a protesté et s’inquiète de la multiplication des manœuvres conjointes sino-russes dans la région.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/22/l-administration-trump-contrainte-de-demander-des-fonds-supplementaires-pour-la-guerre-contre-l-iran_6729513_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/le-japon-s-inquiete-d-une-cooperation-militaire-accrue-entre-la-chine-et-la-russie-au-large-de-ses-ilots_6730009_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -221,26 +209,26 @@
   },
   {
     "type": "news",
-    "title": "Le coton, maillon faible du réarmement européen",
-    "summary": "La production de munitions dépend encore largement d’une matière issue du coton, la nitrocellulose, dont la Chine est un fournisseur majeur. Confrontés à des stocks insuffisants, les pays de l’Otan cherchent désormais à relocaliser sa fabrication et à diversifier leurs approvisionnements.",
+    "title": "Au Soudan, une vague de sanctions internationales peu convaincantes",
+    "summary": "Le 20 juillet, Washington a imposé des sanctions au gouvernement du général Al-Burhan, qui dirige de facto le Soudan. Médiatrice dans ce conflit, l’administration Trump pèse ainsi de tout son poids sur Khartoum pour aboutir à un “dialogue national”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/defense-le-coton-maillon-faible-du-rearmement-europeen_251444",
-    "date": "2026-07-21"
-  },
-  {
-    "type": "news",
-    "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
-    "summary": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/vu-du-burkina-faso-au-soudan-une-vague-de-sanctions-internationales-peu-convaincantes_251862",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Lifting Russian athletes ban only helps Putin, Ukraine tells IOC",
-    "summary": "Ukraine’s sports chief slammed the International Olympic Committee for ushering Russian athletes back into the fold even as Moscow continues to wage its war on Ukraine. The IOC announced last week it had “provisionally lifted the suspension of the Russian Olympic Committee,” ending a ban that has been in place since the Kremlin’s full-scale invasion of Ukrai…",
+    "title": "Ukraine hits more warehouses of top Russian online retailer",
+    "summary": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+    "date": "2026-07-22"
+  },
+  {
+    "type": "news",
+    "title": "Britain’s new defense chief Streeting says Israel has ‘fallen short’ in Gaza",
+    "summary": "FARNBOROUGH, ENGLAND — Israel has “fallen short” of Britain’s standards of conduct in Gaza and the West Bank, the U.K.’s new Defence Secretary Wes Streeting said Wednesday. Speaking to journalists at the Farnborough International Airshow in one of his first engagements in the job, Streeting said that as a “friend and ally,” Israel should be held to the same…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-athlete-ban-help-vladimir-putin-ukraine-international-olympic-committee-ioc/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/uk-new-defense-secretary-wes-streeting-israel-fallen-short-gaza/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-22"
   },
   {
@@ -253,10 +241,10 @@
   },
   {
     "type": "news",
-    "title": "Pétrole : le niveau mondial des stocks au plus bas depuis un an, prévient l’AIE",
-    "summary": "La reprise des frappes américaines contre l’Iran et le blocage du détroit d’Ormuz ravivent les craintes sur l’approvisionnement pétrolier mondial. Déjà entamés par plusieurs mois de tensions dans le golfe Arabo-Persique, les stocks des pays de l’OCDE sont tombés à leur plus bas niveau depuis décembre 1990.",
+    "title": "Microsoft signe un accord de « plusieurs milliards » de dollars pour utiliser les data centers de Mistral AI",
+    "summary": "Le géant américain va rendre davantage disponible les modèles d’intelligence artificielle de la start-up française sur sa plateforme de services aux entreprises.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/21/petrole-le-niveau-mondial-des-stocks-au-plus-bas-depuis-un-an-previent-l-aie_6728747_3234.html",
+    "link": "https://www.lemonde.fr/pixels/article/2026/07/21/microsoft-signe-un-accord-de-plusieurs-milliards-de-dollars-pour-utiliser-les-data-centers-de-mistral-ai_6729035_4408996.html",
     "date": "2026-07-21"
   },
   {
@@ -286,7 +274,7 @@
   {
     "type": "news",
     "title": "Apple defeats liability for not scanning iCloud for CSAM",
-    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 403 # Comments: 366",
+    "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 426 # Comments: 444",
     "source": "Hacker News",
     "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
     "date": "2026-07-21"
@@ -333,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers asiatiques conservent leurs gains alors que les marchés américains rebondissent et que le prix du pétrole progresse",
-    "summary": "Les marchés boursiers asiatiques conservent leurs gains alors que les marchés américains rebondissent et que le prix du pétrole progresse TradingView",
+    "title": "Guerre au Moyen-Orient : le pétrole propulsé au-dessus des 95 dollars, le gaz au plus haut depuis mars",
+    "summary": "Guerre au Moyen-Orient : le pétrole propulsé au-dessus des 95 dollars, le gaz au plus haut depuis mars Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LLTlSUkJmWGJNVURpRHIzbVBHWWNIRDBNTWVyTm5tbm9wZmE1RU00TWlJd255U05CX0ZoRkwtUHhZUGNlWWlvZkFySi03anNVM2lqcGdQLVBfU3dkVE9IWHJvVXREOTlURFVtdWpzX3ptaExQOUFZ?oc=5",
-    "date": "2026-07-21"
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPblZGcmVTMk9SejhmVnp0YnVkMjk1MmEtU1NtZ1JpMzhQNlJKelotd2QxOF9tQlVmOVdzcVpsVlFVMzJDYWQ0dWhSeENQZVpBcU5fa2VqTVg3WDA1c0Z3MUxiRUdoV0JLQ0dfd1c2d0NZb1FyTDBxWktvSkdUcFpPN0EwWTk2c0lVUVNHSEp1ZWk2R2VYcjF6UDBFV1l4QlBxOGpOcW8yUGFsVDE5UE5JQ00wZlFJQ0lNallLZnBrQnVjYVJncm95UzFaaDBqdmFPeWVNZDlnVUg2WWp2bXhNUGJ1VnN1Yzl6OU5kX3U2S1Vfam4xbldoRktR?oc=5",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
-    "summary": "Les manifestants réclamaient le départ d’Oleksandr Syrsky, commandant en chef de l’armée, qui a été acté mardi soir par le président ukrainien. Il est remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapaty.",
+    "title": "La propagandiste Xenia Fedorova échappe aux sanctions européennes contre des personnalités russes",
+    "summary": "Le Quai d’Orsay et le ministère de l’intérieur étudient secrètement d’autres voies de sanctions contre la figure prorusse de CNews, ex-dirigeante de RT France, chaîne financée par le Kremlin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/22/la-propagandiste-xenia-fedorova-echappe-aux-sanctions-europeennes-contre-des-personnalites-russes_6730000_3210.html",
     "date": "2026-07-22"
   },
   {
@@ -365,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "Rabat accélère sur son projet de gazoduc Afrique Atlantique, concurrent de celui d’Alger",
-    "summary": "Dimanche 19 juillet, une dizaine d’États ouest-africains ont signé un accord intergouvernemental ouvrant la voie à la réalisation d’un gazoduc reliant le Nigeria au Maroc. Une initiative du roi Mohammed VI, qui cherche aussi à concurrencer le projet de gazoduc transsaharien promu par l’Algérie.",
+    "title": "“Fedorov, Fedorov” : pourquoi les Ukrainiens sont-ils dans la rue ?",
+    "summary": "Pour la cinquième journée consécutive, des manifestations ont eu lieu lundi 20 juillet dans plusieurs villes d’Ukraine. Les protestataires réclament le retour du jeune ministre de la Défense Mykhaïlo Fedorov, limogé par Volodymyr Zelensky une semaine plus tôt.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/energie-rabat-accelere-sur-son-projet-de-gazoduc-afrique-atlantique-concurrent-de-celui-d-alger_251456",
+    "link": "https://www.courrierinternational.com/video/video-fedorov-fedorov-pourquoi-les-ukrainiens-sont-ils-dans-la-rue_251595",
     "date": "2026-07-21"
   },
   {
     "type": "news",
-    "title": "US targets China in move to ban military-grade drone imports",
-    "summary": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
+    "title": "Syrian people must not be failed again",
+    "summary": "Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
     "date": "2026-07-22"
   },
   {
@@ -389,10 +377,10 @@
   },
   {
     "type": "news",
-    "title": "Géopolitique du tourisme",
-    "summary": "Les congés payés fêtent cette année leurs 90 ans en France. Mais sommes-nous tous égaux dans le monde face aux vacances ? Qui part, qui ne part pas, et où ? Du poids des passeports aux stratégies de soft power des États, quelles particularités selon les pays ? Et comment les affres de la géopolitique (tensions commerciales, conflits, boycotts, climat) reconf…",
+    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
+    "summary": "La rivalité entre la Chine et les États-Unis est depuis quelques années déjà l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260719-g%C3%A9opolitique-du-tourisme",
-    "date": "2026-07-19"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
+    "date": "2026-07-22"
   }
 ]
