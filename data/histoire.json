@@ -1,6 +1,31 @@
 [
   {
     "type": "histoire",
+    "question": "Quelle idée économique Karl Marx a-t-il popularisée au 19ème siècle ?",
+    "answer": "Karl Marx a popularisé l'idée de la lutte des classes dans son œuvre 'Le Capital' publiée en 1867. Il y analyse le capitalisme et propose une critique radicale de l'économie politique bourgeoise."
+  },
+  {
+    "type": "histoire",
+    "question": "Qu'est-ce que le keynésianisme et qui en est l'auteur ?",
+    "answer": "Le keynésianisme, développé par John Maynard Keynes dans 'La Théorie générale de l'emploi, de l'intérêt et de la monnaie' en 1936, propose que l'intervention de l'État est nécessaire pour stabiliser l'économie, surtout en période de crise."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel impact la Révolution industrielle a-t-elle eu sur les idées économiques ?",
+    "answer": "La Révolution industrielle, qui débute au milieu du 18ème siècle, a transformé les idées économiques en mettant l'accent sur la production de masse et la mécanisation. Cela a conduit à des théories économiques comme le libéralisme et le socialisme, qui cherchaient à répondre aux nouvelles réalités économiques."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine a-t-elle transformé son économie depuis 1978 ?",
+    "answer": "Depuis 1978, la Chine a initié des réformes économiques avec l'ouverture de son marché et l'introduction d'éléments de capitalisme, sous la direction de Deng Xiaoping. Ce changement a permis un taux de croissance économique rapide et une intégration croissante dans l'économie mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations économiques ont émergé durant la période post-Seconde Guerre mondiale ?",
+    "answer": "Durant la période post-Seconde Guerre mondiale, des innovations économiques telles que le plan Marshall (1948) et la création de l'OCDE (1961) ont été mises en place pour favoriser la reconstruction et la coopération économique en Europe. Ces initiatives ont eu un impact majeur sur la croissance économique des pays concernés."
+  },
+  {
+    "type": "histoire",
     "question": "Quel événement marquant a conduit à la chute de la dynastie Qing ?",
     "answer": "La chute de la dynastie Qing a été précipitée par la Révolte des Boxers en 1900 et la Révolution de 1911, qui a abouti à la proclamation de la République de Chine le 1er janvier 1912. Ces événements ont révélé l'incapacité de la dynastie à moderniser le pays face aux pressions internes et externes."
   },
