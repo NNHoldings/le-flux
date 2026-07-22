@@ -1,6 +1,24 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "早上",
+    "pinyin": "zǎoshang",
+    "fr": "matin"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "晚上",
+    "pinyin": "wǎnshang",
+    "fr": "soir"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "fr": "passer un appel"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "做饭",
     "pinyin": "zuò fàn",
     "fr": "cuisiner"
