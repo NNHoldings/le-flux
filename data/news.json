@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'IA soulève des enjeux géopolitiques et de cybersécurité croissants.",
-      "L'Europe fait face à des défis économiques et politiques, notamment en matière d'énergie et de dettes publiques."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-23"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -45,10 +33,10 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Léger repli en vue en Europe avant la BCE et une pluie de résultats",
-    "summary": "Point marchés-Léger repli en vue en Europe avant la BCE et une pluie de résultats Zonebourse",
+    "title": "Point marchés-Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE",
+    "summary": "Point marchés-Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmp3STNnUVdjdmVKVTlSTjgzRnZNaHRzWVRJd00xU2NTc0dCbmU5bFRzNkNySk1ReWtHTmtmbGZtZi1BVnYybG80ZjZPUWlfR3JjVjYzd0xFZkxzbzNiaFdoZThSQVcyYWxFRndyajlRTGNFMDFxV09BUTF2eG92cEFjUnlyNWFYRlFrVDJtZWtPRmRYN1U3YmVCdFp6Q3pucE9XS25BdFowdVJzcTA3cXg4bzZpUXh0d05zVTNDX19fUExLdGpmVTR4amNaZ2VuNnRycmZiNzRGUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjZkd2dPUTNmZDhYU1BJanRYVzRtVENHa0d3QjVSV28tVXBySG5QN0dHS2pTOERzSDVyV1FubGYyeHpQXzlNS2JnOExiRWJGMlFKWWh6bXp4b1MzS25vQkU2U2FnWDU0LUxxU2xQOVEzRnJSN3U5WnR5WnJRaUVQWTRlX0otNHRrSlluVWNsdFdjYThJTzNRMGZ6d2hmdUF3OGVmYTdNa2xibVdPaXd3VG9NYkc3dVczTnNndjFaRTM0UjhwV0JQTUNVNnZtc0tIZWNVWE5EZGFMVGVlTGRzMXloa2pieVZVQ2pwM0dzYw?oc=5",
     "date": "2026-07-23"
   },
   {
@@ -69,34 +57,34 @@
   },
   {
     "type": "news",
-    "title": "AI Will Supercharge Surveillance Capitalism",
-    "summary": "For too long, governments have stood by and allowed the creation of business models built on the commercial exploitation of users' personal data and that reward social and psychological manipulation. With the AI industry poised to replicate this model, policymakers must intervene before it is too late.",
+    "title": "Will the US Climate War with Canada Become Global?",
+    "summary": "For the first time, a great power has moved to price transboundary climate-driven harms–massive wildfires–and extract compensation unilaterally. What was previously a development, insurance, or emissions-accounting issue is now a security and trade dispute between two G7 economies, setting a precedent that others may try to follow.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-companies-to-launch-ads-based-on-users-inner-thoughts-by-courtney-c-radsch-2026-07",
-    "date": "2026-07-20"
-  },
-  {
-    "type": "news",
-    "title": "OpenAI reconnaît que ses modèles d’IA ont piraté d’eux-mêmes une entreprise",
-    "summary": "Des modèles d’intelligence artificielle en phase d’évaluation sont parvenus à sortir de leur “bac à sable” pour s’infiltrer sans autorisation et de manière autonome sur la plateforme Hugging Face.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/cyberattaque-openai-reconnait-que-ses-modeles-d-ia-ont-pirate-d-eux-memes-une-entreprise_251868",
+    "link": "https://www.project-syndicate.org/commentary/trump-us-canada-wildfire-tariff-first-climate-security-fight-by-vera-songwe-2026-07",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
-    "summary": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+    "title": "Les “lunettes de pervers”, l’innovation dont on n’avait pas besoin",
+    "summary": "C’est à la sensation d’être constamment épié sans notre consentement que Kylie Jenner doit sa dernière polémique. L’influenceuse américaine a collaboré avec Meta pour la sortie de ses lunettes connectées, comprendre des lunettes boostées à l’IA et capables de filmer discrètement pour la modique somme de 419 euros. Sauf que, auprès du public, ça ne passe pas.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/stories/video-les-lunettes-de-pervers-l-innovation-dont-on-n-avait-pas-besoin_251926",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "OpenAI’s models broke free and launched a cyberattack. US Congress wants new rules before it happens again.",
-    "summary": "An alarming cybersecurity incident involving OpenAI’s newest and most advanced artificial intelligence technology has lawmakers hurrying to advance legislation that they say is needed to prevent AI from spinning dangerously outside human control.",
+    "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+    "summary": "Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
+    "date": "2026-07-23"
+  },
+  {
+    "type": "news",
+    "title": "Greek gas concession unlocks EU’s Russia sanctions package",
+    "summary": "BRUSSELS — EU countries reached a deal Thursday on a sweeping 21st sanctions package against Moscow, but only by allowing Greece to keep sending Russian gas to countries outside the bloc.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-countries-clinch-deal-russia-sanctions/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-23"
   },
   {
@@ -109,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "« Après avoir encouragé un fort endettement public, la Banque centrale européenne étrangle aujourd’hui des finances publiques déjà dégradées »",
-    "summary": "L’économiste Nicolas Dufrêne constate, dans une tribune au « Monde », que le coût pour l’Etat français du resserrement de la politique monétaire mené entre juillet 2022 et juin 2026 aura été de près de 90 milliards d’euros. Il plaide pour une démocratisation des choix de la BCE.",
+    "title": "TotalEnergies engrange 11,2 milliards de dollars de bénéfice en six mois, sur fond de guerre au Moyen-Orient",
+    "summary": "La major a enregistré un bond de 72 % de son résultat net au premier semestre 2026, profitant de l’augmentation des cours du pétrole. Un collectif d’ONG souligne la nécessité de taxer davantage « les géants du pétrole et du gaz pour financer l’action climatique ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/22/apres-avoir-encourage-un-fort-endettement-public-la-banque-centrale-europeenne-etrangle-aujourd-hui-des-finances-publiques-deja-degradees_6729998_3232.html",
-    "date": "2026-07-22"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/23/totalenergies-engrange-11-2-milliards-de-dollars-de-benefice-en-six-mois-sur-fond-de-guerre-au-moyen-orient_6730624_3234.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -181,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-    "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
+    "title": "Defense boom lifts European stocks amid strong earnings; Dassault pops 8%",
+    "summary": "The continent's defense upcycle translated into another quarter of higher revenue and swelling order books.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+    "link": "https://www.cnbc.com/2026/07/23/dassault-thales-indra-stock-earnings-defense-boom.html",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE",
-    "summary": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE Zonebourse",
+    "title": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE",
+    "summary": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWhvNXFMYjVjbFJ0aGhoNWpLbVRtM0dRaGMyWDdBSDY4Y01BaEhleGRoWDZ1Ymdjb2sxc012UGtzNDVDT3F4S0RQYVkyb0h4aHhneWdrQWg4LWZKaXh0dVo1WTItNkdoTGlLUFRsd1NKRk9xVjgxdDVKZXJkcEN2ZVN0MC1jR205N0dycEtoZlIwbmFIaUd6ODU2eURyUlc3aEgxRW55SXpWeVZyRGlqMWhsREtaWnVfNldPMlBGYXRJa1lMSlc2bElNc0lnQQ?oc=5",
-    "date": "2026-07-22"
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cG4wN2t5M2lzQkFHbDR3WVZJWlo2eG5fbmt5Tmg3RHZuZzd2eXFSMmZiTENhSUY2bVVqUTc1SkZudnc1ckJFUFJ5eTgxeVVWOVA3YTZwd1VKS0NKVE1TN0VmQWZEbk1ONzlSamVGa0J6bjd0SDlR?oc=5",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran revendique des bombardements sur des sites militaires américains en Jordanie et au Koweït",
-    "summary": "Alors que l’armée américaine a dit avoir procédé à une « nouvelle série de frappes contre l’Iran pour la 12e nuit d’affilée », Téhéran affirme avoir détruit un radar américain du système antimissile THAAD en Jordanie. Au Koweït, l’armée iranienne dit avoir visé notamment des dépôts de munitions et des réservoirs de carburant.",
+    "title": "EN DIRECT, guerre en Ukraine : trafic maritime à l’arrêt dans les ports ukrainiens en raison des risques de bombardements ; Kiev accuse la Russie d’entraver ses exportations agricoles",
+    "summary": "« L’Etat n’a imposé aucune restriction. Cette décision relève des armateurs », a dit le ministre de la politique agraire et de l’alimentation alors que les navires ont déserté les ports ukrainiens depuis mercredi. « L’impact sera réel si cette situation perdure pendant plusieurs mois », a ajouté le ministre.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-l-iran-revendique-des-bombardements-sur-des-sites-militaires-americains-en-jordanie-et-au-koweit_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-plus-de-trafic-maritime-dans-les-ports-ukrainiens-en-raison-des-risques-de-bombardements-kiev-accuse-la-russie-d-entraver-ses-exportations-agricoles_6725306_3210.html",
     "date": "2026-07-23"
   },
   {
@@ -213,35 +201,35 @@
   },
   {
     "type": "news",
-    "title": "Subsidies Do Not Explain China’s Competitiveness",
-    "summary": "Like every major economy, China uses industrial policy, and its subsidies have mattered. But subsidies are no longer the most convincing explanation for Chinese firms’ emergence as global leaders in industries that used to be the exclusive domain of advanced economies.",
+    "title": "AI Will Supercharge Surveillance Capitalism",
+    "summary": "For too long, governments have stood by and allowed the creation of business models built on the commercial exploitation of users' personal data and that reward social and psychological manipulation. With the AI industry poised to replicate this model, policymakers must intervene before it is too late.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
-    "date": "2026-07-17"
+    "link": "https://www.project-syndicate.org/commentary/ai-companies-to-launch-ads-based-on-users-inner-thoughts-by-courtney-c-radsch-2026-07",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
-    "title": "La guerre reprend, mais que veut vraiment Donald Trump ?",
-    "summary": "Dans ce nouveau bras de fer qui se joue au Moyen-Orient entre les États-Unis et l’Iran, Washington chercherait à accroître la pression militaire en vue d’obtenir des concessions, notamment sur la question du contrôle du détroit d’Ormuz.",
+    "title": "Les États-Unis annoncent un accord de coopération nucléaire avec l’Arabie saoudite, un “triomphe” pour Riyad",
+    "summary": "Washington a signé mercredi un accord de coopération nucléaire avec le royaume, ouvrant la voie à un programme nucléaire civil et à l’enrichissement d’uranium sur le sol saoudien. La presse américaine s’alarme des concessions accordées à Riyad, notamment d’une dérogation exemptant l’Arabie saoudite des inspections internationales renforcées habituellement ex…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-la-guerre-reprend-mais-que-veut-vraiment-donald-trump_251861",
-    "date": "2026-07-22"
-  },
-  {
-    "type": "news",
-    "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
-    "summary": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-les-etats-unis-annoncent-un-accord-de-cooperation-nucleaire-avec-l-arabie-saoudite-un-triomphe-pour-riyad_252057",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Germany wants combat drones. Government officials can’t agree where to get them.",
-    "summary": "BERLIN — Germany wants a fleet of uncrewed combat aircraft to meet a key NATO requirement. But divisions inside its defense ministry over whether to buy an Australian drone or wait for European alternatives threaten to derail Berlin’s goal of fielding an initial fleet by 2029.",
+    "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+    "summary": "Russian Foreign Minister Lavrov 'reaffirmed ​readiness' for political ​and diplomatic settlement to Russia-Ukraine war.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
+    "date": "2026-07-23"
+  },
+  {
+    "type": "news",
+    "title": "Canada pushes new UK government to join defense bank",
+    "summary": "LONDON — Canada has urged the new-look British government to join its defense bank, as it tries to deepen its European presence. In an interview with POLITICO, Canadian Minister of National Defence David McGuinty said he is “hopeful” Britain will now sign up to Ottawa’s Defence, Security and Resilience Bank after several of its backers were given key jobs un…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/germany-wants-combat-drones-government-officials-cant-agree-how-to-buy-them/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-22"
+    "link": "https://www.politico.eu/article/canada-new-uk-government-join-defence-security-and-resilience-bank-david-mcguinty/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -253,27 +241,27 @@
   },
   {
     "type": "news",
-    "title": "Au lac de la Muzelle, des néo-bivouaqueurs de plus en plus nombreux : « On a acheté tout le matos chez Decathlon deux jours avant et on a direct plongé dans le grand bain »",
-    "summary": "Ce lac, niché dans le parc national des Ecrins, dans l’Isère, connaît un succès croissant encouragé par les réseaux sociaux. Jusqu’à 200 tentes ont été comptabilisées lors du pic de fréquentation, à l’été 2025, poussant les acteurs de la montagne à repenser le partage de ces espaces naturels.",
+    "title": "« Après avoir encouragé un fort endettement public, la Banque centrale européenne étrangle aujourd’hui des finances publiques déjà dégradées »",
+    "summary": "L’économiste Nicolas Dufrêne constate, dans une tribune au « Monde », que le coût pour l’Etat français du resserrement de la politique monétaire mené entre juillet 2022 et juin 2026 aura été de près de 90 milliards d’euros. Il plaide pour une démocratisation des choix de la BCE.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/23/au-lac-de-la-muzelle-des-neo-bivouaqueurs-de-plus-en-plus-nombreux-on-a-achete-tout-le-matos-chez-decathlon-deux-jours-avant-et-on-a-direct-plonge-dans-le-grand-bain_6730348_3234.html",
-    "date": "2026-07-23"
-  },
-  {
-    "type": "news",
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most pre…",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/22/apres-avoir-encourage-un-fort-endettement-public-la-banque-centrale-europeenne-etrangle-aujourd-hui-des-finances-publiques-deja-degradees_6729998_3232.html",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "How to Grow Without Betting Big",
-    "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 years; Adobe, which abandoned perpetual licenses in favor of cloud subscriptions;…",
+    "title": "The Download: energy transmission and US threats against Chinese AI",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "date": "2026-07-23"
+  },
+  {
+    "type": "news",
+    "title": "Robots Are Coming — But Not Everywhere",
+    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
     "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-    "date": "2026-06-15"
+    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -286,7 +274,7 @@
   {
     "type": "news",
     "title": "The startup's Postgres survival guide",
-    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 387 # Comments: 183",
+    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 431 # Comments: 197",
     "source": "Hacker News",
     "link": "https://hatchet.run/blog/postgres-survival-guide",
     "date": "2026-07-22"
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
-    "summary": "Yemen's Houthis said they had targeted two Saudi Arabian oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+    "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+    "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale",
-    "summary": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale Zonebourse Suisse",
+    "title": "Les marchés reculent avant l'ouverture face aux tensions au Moyen-Orient ; les traders analysent les résultats d'Alphabet et de Tesla",
+    "summary": "Les marchés reculent avant l'ouverture face aux tensions au Moyen-Orient ; les traders analysent les résultats d'Alphabet et de Tesla Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZU5hX2hwUHBKSFNwTHhzOUN5S0RMN1F1ZmJ4QlZlOFVkUjU3eVp1ZUxoMVNVbW1LTnI2VmZCSm51b3J4cW9sZlZxRlFpWUVycnd1ZlVDVmNaQkt3aXY1ck01UXBaLVpDTm5LaUdBVlNUZjdUWGJxTDJ1Z0pOb1gwRWhWSWM1YXdoX2w3SEZaZnBudGxWb2I3dTM3T2lpSl8yWUlOeVVFb2pkWFRueHZzcmI1RVBxTy1BRmhwOG1zd1dIVGxVcEw2ZHJBWWtOcUYzMTh1Mm9pNFlzUUtqUS1WeHlocExxSmJoRXk5TWc5TEw?oc=5",
-    "date": "2026-07-22"
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQnRDSHhwRTIxZU9zNUcyWFBuTjgzTTZ2ODFiNDZhc0Q5Uzl3SzRSVWdVc3JsT2ZVdW10anJURjluQURDRnpDR2NNZ21GWWRzY0c1UHFmVnkxZG0yRWpSVjQ4MnNJaU9TdDZHa3J4Ulh3TV95SWk1U2ZRNDRvdnkwNVFNbS12R05lUy1qN2xJUkcxZGY1UVQzQXFtRzRtQU04OWZpZUJvTjNfTkF5T0xaYXg2VWlra1RZbm5BSFIxWVFqRHBIOE5uQTdRUV9PT0FpUnBnOHMwZ2pwVjFZaU0ycHVJamMycVJBUFYzaTBGNA?oc=5",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "L’Arabie saoudite signe un accord avec les Etats-Unis pour se doter d’un programme nucléaire civil",
-    "summary": "L’annonce de l’accord entre Riyad et Washington suscite des inquiétudes chez certains élus et experts, qui craignent que le royaume ne s’en serve pour développer des armes nucléaires. Les Etats-Unis assurent prévoir des garde-fous contre la prolifération de cette énergie qui se trouve au cœur du conflit avec l’Iran.",
+    "title": "Etats-Unis - Arabie saoudite : derrière l’accord sur le nucléaire civil, des enjeux commerciaux et des inquiétudes",
+    "summary": "Ce partenariat, signé mercredi, voit le jour alors que les Etats-Unis ne lient plus les accords avec le royaume saoudien à la normalisation des relations entre l’Arabie saoudite et Israël.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/23/l-arabie-saoudite-s-allie-aux-etats-unis-pour-se-doter-d-un-programme-nucleaire-civil_6730141_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/etats-unis-arabie-saoudite-derriere-l-accord-sur-le-nucleaire-civil-des-enjeux-commerciaux-et-des-inquietudes_6730627_3210.html",
     "date": "2026-07-23"
   },
   {
@@ -357,39 +345,39 @@
   },
   {
     "type": "news",
-    "title": "A Cold War Adventure in Portugal",
-    "summary": "Just 52 years after escaping military dictatorship, Portugal is an EU and eurozone member and the world’s seventh-safest country. While Donald Trump's systematic destruction of the rules-based global order will not reverse this progress, nor will it do any good for Portugal, the US, or anyone else.",
+    "title": "Subsidies Do Not Explain China’s Competitiveness",
+    "summary": "Like every major economy, China uses industrial policy, and its subsidies have mattered. But subsidies are no longer the most convincing explanation for Chinese firms’ emergence as global leaders in industries that used to be the exclusive domain of advanced economies.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/portugal-transition-from-dictatorship-to-democracy-with-market-based-economy-by-jeffrey-frankel-2026-07",
-    "date": "2026-07-20"
+    "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
+    "date": "2026-07-17"
   },
   {
     "type": "news",
-    "title": "Crise politique en Ukraine : “Zelensky a franchi des lignes rouges de la société”",
-    "summary": "Confronté à des manifestations, Volodymyr Zelensky a cédé et vient de nommer un nouveau chef d’état-major des armées. Preuve, analysent les éditorialistes locaux, que la conscience citoyenne de la population reste une force avec laquelle il faut compter, même en plein conflit.",
+    "title": "Une nouvelle salve de droits de douane met le Canada en furie : “Je déteste Trump”",
+    "summary": "Le monde politique et les médias canadiens se sont levés d’un bloc pour dénoncer la décision du président américain d’imposer, dès le 19 août, des droits additionnels de 50 % sur un large éventail d’exportations du pays, qui avait riposté aux droits de douane imposés précédemment par les États-Unis.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-crise-politique-en-ukraine-zelensky-a-franchi-des-lignes-rouges-de-la-societe_251925",
+    "link": "https://www.courrierinternational.com/article/economie-une-nouvelle-salve-de-droits-de-douane-met-le-canada-en-furie-je-deteste-trump_251939",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-    "summary": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
+    "title": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
+    "summary": "For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-    "date": "2026-07-22"
+    "link": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "EU countries weigh fresh plan to salvage Russia sanctions package",
-    "summary": "BRUSSELS — EU ambassadors will on Thursday examine a fresh proposal on a sweeping new set of Russia sanctions after Greece again vetoed the measures over concerts for its fuel shipping industry.",
+    "title": "Russia chokes Ukraine’s lifeline Black Sea export corridor",
+    "summary": "KYIV — Russia’s attacks on civilian cargo ships bound for Ukrainian ports in the Black Sea are strangling Kyiv’s vital export corridor, with no vessels entering any of the three Ukrainian ports in the Odesa region on Wednesday for the first time since the corridor was established in 2023. “Russia is holding global food security hostage.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/greece-derail-eu-russia-sanctions-plan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-22"
+    "link": "https://www.politico.eu/article/russia-chokes-ukraine-lifeline-black-sea-export-corridor/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Comment former les jeunes économistes africains ?",
+    "title": "Comment former les jeunes économistes africains?",
     "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
