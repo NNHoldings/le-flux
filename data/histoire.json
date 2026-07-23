@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quels furent les principaux événements menant à la chute de la dynastie Qing ?",
+    "answer": "La dynastie Qing a chuté en 1911 suite à une série de révoltes, dont la Révolte des Boxers en 1900 et la Révolution de Xinhai en 1911. L'instabilité politique et les pressions étrangères ont également contribué à son effondrement."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la République de Chine a-t-elle été établie ?",
+    "answer": "La République de Chine a été proclamée le 1er janvier 1912 après la Révolution de Xinhai qui a renversé la dynastie Qing. Sun Yat-sen a été élu comme premier président, marquant le début d'une nouvelle ère politique."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle a joué Mao Zedong dans l'histoire moderne de la Chine ?",
+    "answer": "Mao Zedong a dirigé le Parti communiste chinois et a proclamé la République populaire de Chine le 1er octobre 1949 après une guerre civile contre le Kuomintang. Son leadership a marqué le début d'une transformation radicale de la société chinoise, notamment avec le Grand Bond en avant en 1958."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles ont été les conséquences de la politique de l'enfant unique en Chine ?",
+    "answer": "Introduite en 1979 pour contrôler la croissance démographique, la politique de l'enfant unique a conduit à une réduction significative de la population, mais aussi à des déséquilibres de genre et à un vieillissement rapide de la population. Elle a été assouplie en 2015 face à ces défis."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations technologiques ont marqué la Chine à la fin du 20e siècle ?",
+    "answer": "À la fin du 20e siècle, la Chine a connu une révolution technologique avec l'essor d'Internet et de la téléphonie mobile. L'adhésion à l'OMC en 2001 a également permis une intégration accrue dans l'économie mondiale et a favorisé l'innovation locale."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine a-t-elle évolué sur le plan économique depuis les réformes de Deng Xiaoping ?",
+    "answer": "Les réformes économiques lancées par Deng Xiaoping en 1978 ont transformé la Chine d'une économie planifiée vers une économie de marché, entraînant une croissance rapide. Le PIB a quadruplé entre 1978 et 2008, faisant de la Chine la deuxième économie mondiale."
+  },
+  {
+    "type": "histoire",
     "question": "Quelle idée économique Karl Marx a-t-il popularisée au 19ème siècle ?",
     "answer": "Karl Marx a popularisé l'idée de la lutte des classes dans son œuvre 'Le Capital' publiée en 1867. Il y analyse le capitalisme et propose une critique radicale de l'économie politique bourgeoise."
   },
