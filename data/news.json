@@ -5,11 +5,11 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'Inde soutient sa monnaie face à la hausse des prix du pétrole.",
-      "L'intelligence artificielle devient un enjeu crucial tant économique que géopolitique."
+      "L'IA soulève des enjeux géopolitiques et de cybersécurité croissants.",
+      "L'Europe fait face à des défis économiques et politiques, notamment en matière d'énergie et de dettes publiques."
     ],
     "source": "Le Flux",
-    "date": "2026-07-22"
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -37,27 +37,27 @@
   },
   {
     "type": "news",
-    "title": "CNBC Daily Open: AI race, potential tariffs and Middle East conflict continue to heat up",
-    "summary": "The U.S.-China AI race continues to intensify amid signs that the Trump administration could sanction China over \"theft,\" while OpenAI ramps up IPO efforts.",
+    "title": "India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash",
+    "summary": "India is banking on alternative fuels as it prioritizes energy security amid high oil prices and supply constraints.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/22/cnbc-daily-open-ai-race-potential-tariffs-and-iran-conflict-heat-up-.html",
+    "link": "https://www.cnbc.com/2026/07/22/india-oil-prices-tariff-ethanol-backlash-iran-war-russia-.html",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "La banque centrale de l'Inde a vendu 6 milliards de dollars en mai pour soutenir la roupie face au choc pétrolier",
-    "summary": "La banque centrale de l'Inde a vendu 6 milliards de dollars en mai pour soutenir la roupie face au choc pétrolier Zonebourse Suisse",
+    "title": "Point marchés-Léger repli en vue en Europe avant la BCE et une pluie de résultats",
+    "summary": "Point marchés-Léger repli en vue en Europe avant la BCE et une pluie de résultats Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeDhVTnpobVlkd0hreDVFelRpSk9aUHJfMUFFY0ppZWUya0F1VFBaM3o2cXNpdGxtMmFzNEgwNllZUGdCTnc3cmR4aUw3c09hTVNXNzQ5R0tYNllrTkJhc21nZ09sak9Mc2ozdHgxUVVqaU54dlJUOFVuX2dVSUlUcV9IU3JEZTBCSkZqVThoTTJ3cER1YmZOd1lGMXkxWF9sNHB4OFd3TEFicXRYOWJxeFhiRFA3T1lxX3lFVjczMi1vMlVudjBiOGZlTXNldTVrdE1hVDJIM1dWeTg0bjNUUVhkeThlMzdwQUdjaS1kVGNPZw?oc=5",
-    "date": "2026-07-22"
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmp3STNnUVdjdmVKVTlSTjgzRnZNaHRzWVRJd00xU2NTc0dCbmU5bFRzNkNySk1ReWtHTmtmbGZtZi1BVnYybG80ZjZPUWlfR3JjVjYzd0xFZkxzbzNiaFdoZThSQVcyYWxFRndyajlRTGNFMDFxV09BUTF2eG92cEFjUnlyNWFYRlFrVDJtZWtPRmRYN1U3YmVCdFp6Q3pucE9XS25BdFowdVJzcTA3cXg4bzZpUXh0d05zVTNDX19fUExLdGpmVTR4amNaZ2VuNnRycmZiNzRGUQ?oc=5",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Russie : les entrepôts d’e-commerce, nouvelles cibles des drones ukrainiens",
-    "summary": "En moins d’une semaine, quatre centres de logistique et de stockage de Wildberries, l’équivalent russe d’Amazon, ont été visés. Ces attaques, qui ont fait au moins neuf morts, perturbent les chaînes de distribution et mettent à mal les discours de victoire du Kremlin.",
+    "title": "Tanger Med, le grand port industriel du Maroc rattrapé par les tensions entre la Chine et l’Europe",
+    "summary": "« La ruée sur les ports » (14/16). Conçu pour être le marchepied de l’industrialisation du Maroc, le port Tanger Med a rempli son objectif. Mais les investissements chinois dans le royaume, attirés par des conditions ultra-favorables et une position stratégique dans le détroit de Gibraltar, font craindre qu’il ne devienne aussi l’une des portes d’entrée de P…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html",
-    "date": "2026-07-22"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/23/tanger-med-le-grand-port-industriel-du-maroc-rattrape-par-les-tensions-entre-la-chine-et-l-europe_6730276_3234.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -85,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-    "summary": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+    "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+    "summary": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
-    "date": "2026-07-22"
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Trump administration steers $5B toward AI research",
-    "summary": "Federal agencies have committed more than $5 billion to an Energy Department-led effort to use artificial intelligence to accelerate scientific research, White House Office of Science and Technology Policy Director Michael Kratsios announced Wednesday.",
+    "title": "OpenAI’s models broke free and launched a cyberattack. US Congress wants new rules before it happens again.",
+    "summary": "An alarming cybersecurity incident involving OpenAI’s newest and most advanced artificial intelligence technology has lawmakers hurrying to advance legislation that they say is needed to prevent AI from spinning dangerously outside human control.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/22/trump-administration-steers-5b-toward-ai-research-01007708?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-22"
+    "link": "https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -133,11 +133,11 @@
   },
   {
     "type": "news",
-    "title": "Apps targeted at US troops contain Chinese and Russian code",
-    "summary": "A recent examination of hundreds of mobile apps marketed toward US military personnel found more than one in eight contained software built by companies in China, Russia, or other foreign nations, raising fresh concerns that adversary governments could harvest data revealing where service members live, work, and deploy.",
+    "title": "Ukrainian drones deliver robots directly into battle by sea and air",
+    "summary": "In the latest twist on battlefield innovations, Ukraine has used both flying drone carriers and drone boats to send ground robots armed with weapons or explosives into battle. The drone-assisted deployments have enabled slower wheeled robots to bypass tough terrain and Russian defenses, and to carry out an unusual robotic amphibious assault on a contested po…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-    "date": "2026-07-21"
+    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -181,27 +181,27 @@
   },
   {
     "type": "news",
-    "title": "India steps up energy shift as costs and tariff pressures mount — oil blending push sparks backlash",
-    "summary": "India is banking on alternative fuels as it prioritizes energy security amid high oil prices and supply constraints.",
+    "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
+    "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/22/india-oil-prices-tariff-ethanol-backlash-iran-war-russia-.html",
-    "date": "2026-07-22"
+    "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale",
-    "summary": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale Zonebourse Suisse",
+    "title": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE",
+    "summary": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZU5hX2hwUHBKSFNwTHhzOUN5S0RMN1F1ZmJ4QlZlOFVkUjU3eVp1ZUxoMVNVbW1LTnI2VmZCSm51b3J4cW9sZlZxRlFpWUVycnd1ZlVDVmNaQkt3aXY1ck01UXBaLVpDTm5LaUdBVlNUZjdUWGJxTDJ1Z0pOb1gwRWhWSWM1YXdoX2w3SEZaZnBudGxWb2I3dTM3T2lpSl8yWUlOeVVFb2pkWFRueHZzcmI1RVBxTy1BRmhwOG1zd1dIVGxVcEw2ZHJBWWtOcUYzMTh1Mm9pNFlzUUtqUS1WeHlocExxSmJoRXk5TWc5TEw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWhvNXFMYjVjbFJ0aGhoNWpLbVRtM0dRaGMyWDdBSDY4Y01BaEhleGRoWDZ1Ymdjb2sxc012UGtzNDVDT3F4S0RQYVkyb0h4aHhneWdrQWg4LWZKaXh0dVo1WTItNkdoTGlLUFRsd1NKRk9xVjgxdDVKZXJkcEN2ZVN0MC1jR205N0dycEtoZlIwbmFIaUd6ODU2eURyUlc3aEgxRW55SXpWeVZyRGlqMWhsREtaWnVfNldPMlBGYXRJa1lMSlc2bElNc0lnQQ?oc=5",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la nomination de Mykhaïlo Drapaty comme commandant en chef de l’armée ukrainienne ne changera pas la situation sur le front, affirme le Kremlin",
-    "summary": "En réponse aux mobilisations citoyennes pour demander le départ du général Oleksandr Syrsky, Volodymyr Zelensky a remplacé ce dernier par le populaire commandant des forces interarmées.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran revendique des bombardements sur des sites militaires américains en Jordanie et au Koweït",
+    "summary": "Alors que l’armée américaine a dit avoir procédé à une « nouvelle série de frappes contre l’Iran pour la 12e nuit d’affilée », Téhéran affirme avoir détruit un radar américain du système antimissile THAAD en Jordanie. Au Koweït, l’armée iranienne dit avoir visé notamment des dépôts de munitions et des réservoirs de carburant.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-la-nomination-de-mykhailo-drapaty-comme-commandant-en-chef-de-l-armee-ukrainienne-ne-changera-pas-la-situation-sur-le-front-affirme-le-kremlin_6725306_3210.html",
-    "date": "2026-07-22"
+    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-l-iran-revendique-des-bombardements-sur-des-sites-militaires-americains-en-jordanie-et-au-koweit_6725301_3210.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -229,18 +229,18 @@
   },
   {
     "type": "news",
-    "title": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
-    "summary": "As Rabat and Algiers compete for influence, closer ties with one now carry consequences for relations with the other.",
+    "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
+    "summary": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
-    "date": "2026-07-22"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Britain’s new defense chief Streeting says Israel has ‘fallen short’ in Gaza",
-    "summary": "FARNBOROUGH, ENGLAND — Israel has “fallen short” of Britain’s standards of conduct in Gaza and the West Bank, the U.K.’s new Defence Secretary Wes Streeting said Wednesday. Speaking to journalists at the Farnborough International Airshow in one of his first engagements in the job, Streeting said that as a “friend and ally,” Israel should be held to the same…",
+    "title": "Germany wants combat drones. Government officials can’t agree where to get them.",
+    "summary": "BERLIN — Germany wants a fleet of uncrewed combat aircraft to meet a key NATO requirement. But divisions inside its defense ministry over whether to buy an Australian drone or wait for European alternatives threaten to derail Berlin’s goal of fielding an initial fleet by 2029.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/uk-new-defense-secretary-wes-streeting-israel-fallen-short-gaza/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/germany-wants-combat-drones-government-officials-cant-agree-how-to-buy-them/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-22"
   },
   {
@@ -253,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "Les « résumés par IA » de Google, désormais disponibles en France, sont aussi attendus que redoutés",
-    "summary": "Le géant américain déploie, à partir de mercredi, les « AI overviews » ainsi que l’ « AI mode », des outils d’intelligence artificielle déjà présents dans d’autres pays. Médias et éditeurs de site redoutent de se voir privés d’une partie de leur trafic.",
+    "title": "Au lac de la Muzelle, des néo-bivouaqueurs de plus en plus nombreux : « On a acheté tout le matos chez Decathlon deux jours avant et on a direct plongé dans le grand bain »",
+    "summary": "Ce lac, niché dans le parc national des Ecrins, dans l’Isère, connaît un succès croissant encouragé par les réseaux sociaux. Jusqu’à 200 tentes ont été comptabilisées lors du pic de fréquentation, à l’été 2025, poussant les acteurs de la montagne à repenser le partage de ces espaces naturels.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/07/22/google-lance-les-resumes-par-ia-sur-son-moteur-de-recherche-en-france-une-fonctionnalite-attendue-et-redoutee_6729851_4408996.html",
-    "date": "2026-07-22"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/23/au-lac-de-la-muzelle-des-neo-bivouaqueurs-de-plus-en-plus-nombreux-on-a-achete-tout-le-matos-chez-decathlon-deux-jours-avant-et-on-a-direct-plonge-dans-le-grand-bain_6730348_3234.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -277,16 +277,16 @@
   },
   {
     "type": "news",
-    "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-    "summary": "In the latest twist on battlefield innovations, Ukraine has used both flying drone carriers and drone boats to send ground robots armed with weapons or explosives into battle. The drone-assisted deployments have enabled slower wheeled robots to bypass tough terrain and Russian defenses, and to carry out an unusual robotic amphibious assault on a contested po…",
+    "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
+    "summary": "Nintendo urged a court to dismiss a lawsuit demanding that it pass tariff refunds on to customers, saying that people who bought a Switch console or other products have no legal right to refunds that Nintendo is due to receive from the government.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-    "date": "2026-07-22"
+    "link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+    "date": "2026-07-21"
   },
   {
     "type": "news",
     "title": "The startup's Postgres survival guide",
-    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 165 # Comments: 76",
+    "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 387 # Comments: 183",
     "source": "Hacker News",
     "link": "https://hatchet.run/blog/postgres-survival-guide",
     "date": "2026-07-22"
@@ -325,27 +325,27 @@
   },
   {
     "type": "news",
-    "title": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
-    "summary": "Here are five key things investors need to know to start the trading day.",
+    "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
+    "summary": "Yemen's Houthis said they had targeted two Saudi Arabian oil tankers with drones and missiles for allegedly violating its maritime blockade.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/22/5-things-to-know-before-the-stock-market-opens.html",
-    "date": "2026-07-22"
+    "link": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE",
-    "summary": "Point marchés-L'Europe clôt dans le vert avec les résultats, avant la BCE Zonebourse Suisse",
+    "title": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale",
+    "summary": "Le rand sud-africain se stabilise après une inflation surprise, l'attention se porte sur la décision de la banque centrale Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDQ3V1VhU1JqVXZSTmp3Q1lJbk1qcjV1MjdXbF80d2tIYzJOeFJDYW1DOGNkVERneFUzUDlFV00zdjc3SVZNak5manlReEV3NHZIZlFOMnhuTjlueG0wbHByalE0bVNleWhfVjduX2lySjZUTDVvUTFSQzdJMHRoVHhYSDBLbGlLWDB6X2drd1o1cFJQUW1ONlMzNjdONTdZV0l4X2pTVEQ2MDFxdTBvVDE0aEUxZHN3cTBKQWlDemdGMWQyMUlLLW5ld1o?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZU5hX2hwUHBKSFNwTHhzOUN5S0RMN1F1ZmJ4QlZlOFVkUjU3eVp1ZUxoMVNVbW1LTnI2VmZCSm51b3J4cW9sZlZxRlFpWUVycnd1ZlVDVmNaQkt3aXY1ck01UXBaLVpDTm5LaUdBVlNUZjdUWGJxTDJ1Z0pOb1gwRWhWSWM1YXdoX2w3SEZaZnBudGxWb2I3dTM3T2lpSl8yWUlOeVVFb2pkWFRueHZzcmI1RVBxTy1BRmhwOG1zd1dIVGxVcEw2ZHJBWWtOcUYzMTh1Mm9pNFlzUUtqUS1WeHlocExxSmJoRXk5TWc5TEw?oc=5",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : après les menaces de Donald Trump, l’Iran promet des représailles contre des infrastructures régionales liées aux intérêts américains",
-    "summary": "Le président américain avait menacé, un peu plus tôt mercredi, de répliquer à toutes les prochaines attaques de navires par l’Iran dans le détroit d’Ormuz en bombardant les ponts et les centrales électriques iraniennes.",
+    "title": "L’Arabie saoudite signe un accord avec les Etats-Unis pour se doter d’un programme nucléaire civil",
+    "summary": "L’annonce de l’accord entre Riyad et Washington suscite des inquiétudes chez certains élus et experts, qui craignent que le royaume ne s’en serve pour développer des armes nucléaires. Les Etats-Unis assurent prévoir des garde-fous contre la prolifération de cette énergie qui se trouve au cœur du conflit avec l’Iran.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-apres-les-menaces-de-donald-trump-l-iran-promet-des-represailles-contre-des-infrastructures-regionales-liees-aux-interets-americains_6725301_3210.html",
-    "date": "2026-07-22"
+    "link": "https://www.lemonde.fr/international/article/2026/07/23/l-arabie-saoudite-s-allie-aux-etats-unis-pour-se-doter-d-un-programme-nucleaire-civil_6730141_3210.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -373,26 +373,26 @@
   },
   {
     "type": "news",
-    "title": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-    "summary": "Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.",
+    "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+    "summary": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "Trump threatens retaliatory strikes on key Iranian infrastructure as conflict escalates",
-    "summary": "President Donald Trump on Wednesday warned that the United States would strike Iranian bridges and power plants if Iran continues to attack commercial ships passing through the Strait of Hormuz.",
+    "title": "EU countries weigh fresh plan to salvage Russia sanctions package",
+    "summary": "BRUSSELS — EU ambassadors will on Thursday examine a fresh proposal on a sweeping new set of Russia sanctions after Greece again vetoed the measures over concerts for its fuel shipping industry.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/22/trump-iran-war-infrastructure-strikes-01007558?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/greece-derail-eu-russia-sanctions-plan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-22"
   },
   {
     "type": "news",
-    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
-    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
+    "title": "Comment former les jeunes économistes africains ?",
+    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
-    "date": "2026-07-22"
+    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
+    "date": "2026-07-23"
   }
 ]
