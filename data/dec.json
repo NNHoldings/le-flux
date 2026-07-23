@@ -1,6 +1,31 @@
 [
   {
     "type": "dec",
+    "question": "Quelle norme précise les obligations déontologiques des commissaires aux comptes ?",
+    "answer": "Les obligations déontologiques des commissaires aux comptes sont précisées dans les Normes d'Exercice Professionnel (NEP) et le Code de déontologie des commissaires aux comptes."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le Code de commerce encadre-t-il l'indépendance des commissaires aux comptes ?",
+    "answer": "Le Code de commerce impose que les commissaires aux comptes doivent être indépendants de la société qu'ils auditent, conformément aux articles L. 820-1 à L. 820-3."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les conséquences d'un manquement aux règles déontologiques pour un commissaire aux comptes ?",
+    "answer": "Les conséquences peuvent inclure des sanctions disciplinaires, la suspension ou le retrait du titre de commissaire aux comptes, ainsi que des actions en responsabilité civile."
+  },
+  {
+    "type": "dec",
+    "question": "Comment les commissaires aux comptes doivent-ils gérer les conflits d'intérêts selon les NEP ?",
+    "answer": "Les commissaires aux comptes doivent identifier, évaluer et, le cas échéant, éviter les conflits d'intérêts, et en informer les parties concernées."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les obligations de confidentialité du commissaire aux comptes selon le Code de déontologie ?",
+    "answer": "Le commissaire aux comptes doit respecter la confidentialité des informations obtenues dans le cadre de sa mission et ne doit pas divulguer ces informations sans autorisation."
+  },
+  {
+    "type": "dec",
     "question": "Quels sont les types de risques d'audit identifiés par la NEP 300 ?",
     "answer": "La NEP 300 identifie deux types de risques d'audit : le risque inhérent, qui est le risque d'anomalies significatives dans les états financiers, et le risque de contrôle, qui est le risque que les contrôles internes ne préviennent pas ou ne détectent pas ces anomalies."
   },
