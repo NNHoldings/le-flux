@@ -1,6 +1,11 @@
 [
   {
     "type": "ia",
+    "term": "Acteurs de l'IA",
+    "explanation": "Les acteurs de l'intelligence artificielle incluent des entreprises technologiques majeures comme Google, Microsoft et Amazon, qui investissent massivement dans la recherche et le développement de solutions IA. De plus, des start-ups innovantes et des institutions académiques jouent également un rôle crucial dans l'avancement de la technologie et des applications d'IA, en cherchant à résoudre des problèmes complexes et à créer de nouveaux marchés."
+  },
+  {
+    "type": "ia",
     "term": "Les enjeux économiques de l'IA",
     "explanation": "L'intelligence artificielle représente un enjeu économique majeur, avec des impacts potentiels sur la productivité, l'emploi et la compétitivité. Les entreprises investissent massivement dans l'IA pour automatiser des processus, améliorer la prise de décision et créer de nouveaux services."
   },
