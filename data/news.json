@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'UE renforce l'utilisation des facteurs climatiques dans son cadre de garantie.",
-      "La crise au Moyen-Orient impacte l'économie européenne avec des taux d'intérêt en hausse."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-24"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,11 +25,11 @@
   },
   {
     "type": "news",
-    "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
-    "summary": "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+    "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
-    "date": "2026-07-23"
+    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -53,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "A Toulouse, la guerre spatiale a déjà commencé : « La menace dans l’espace peut créer des dommages stratégiques »",
-    "summary": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la Chine et la Russie ne vendent pas d’armes à l’Iran et les met en garde contre toute livraison",
+    "summary": "Dans un message publié sur Truth Social, le président américain affirme, vendredi, que ses homologues chinois, Xi Jinping, et russe, Vladimir Poutine, lui ont assuré qu’ils ne fourniraient ni ne vendraient d’armes à l’Iran.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-la-chine-et-la-russie-ne-vendent-pas-d-armes-a-l-iran-et-les-met-en-garde-contre-toute-livraison_6725301_3210.html",
     "date": "2026-07-24"
   },
   {
@@ -77,35 +65,35 @@
   },
   {
     "type": "news",
-    "title": "L’Europe inflige une nouvelle amende salée à Google",
-    "summary": "Le géant américain a été sanctionné jeudi 23 juillet par l’Union européenne (UE) pour pratiques anticoncurrentielles dans le cadre du règlement européen sur les marchés numériques. Google devra s’acquitter de 890 millions d’euros pour avoir donné la préférence à ses services dans son moteur de recherche et pour avoir empêché les développeurs d’applications d…",
+    "title": "Portugal : Sines, nouvelle porte d’entrée des données entre l’Europe et les États-Unis",
+    "summary": "Avec l’arrivée du câble sous-marin Nuvem, long de près de 7 000 kilomètres et dont l’entrée en service est attendue pour 2027, le port portugais renforce sa stratégie pour devenir un croisement majeur des échanges numériques mondiaux et séduire les géants de la tech.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-l-europe-inflige-une-nouvelle-amende-salee-a-google_252496",
+    "link": "https://www.courrierinternational.com/article/cables-portugal-sines-nouvelle-porte-d-entree-des-donnees-entre-l-europe-et-les-etats-unis_252500",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-    "summary": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
+    "title": "At least 21 killed as Ukraine and Russia continue to trade attacks",
+    "summary": "Strikes target Ukrainian defence industry event, Russia’s Kirov and more Wildberries warehouses.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Will Europe warm to Britain’s new prime minister?",
-    "summary": "Listen on Spotify Apple Music Amazon Music He’s the seventh British prime minister to walk through the famous black door of Number 10 Downing Street since the Brexit vote 10 years ago.",
+    "title": "China strikes back at EU sanctions targeting defense, tech firms",
+    "summary": "BRUSSELS — China announced it will add export restrictions on 14 EU defense and technology companies after the EU added 14 Chinese businesses to its Russia sanctions lists. This marks Beijing’s most direct and forceful response yet to EU sanctions listings, which it denounced as “egregious.” Recent studies estimate that up to 90 percent of sanctioned goods s…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-europe-warm-to-britains-new-prime-minister/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/china-strikes-back-at-eu-sanctions-targeting-defense-tech-firms-rheinmetall/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Comment former les jeunes économistes africains?",
-    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
+    "title": "Guerre en Iran: comment l'embargo sur les images satellites US a entravé la vérification des faits",
+    "summary": "Le bras de fer entre les États-Unis et l'Iran se poursuit avec une reprise le 8 juillet des frappes américaines. À partir de mars, les premières images spatiales de la guerre déclenchée par Israël et les États-Unis avaient permis d’avoir une idée assez précise des dégâts subis par les belligérants. Elles provenaient principalement d'entreprises américaines.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
-    "date": "2026-07-23"
+    "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260724-guerre-en-iran-comment-l-embargo-sur-les-images-satellites-us-a-entrav%C3%A9-la-v%C3%A9rification-des-faits",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -133,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
-    "summary": "A 63-year-old woman arrived at a hospital in pain. She had abruptly lost vision in her right eye. As doctors got to work, the series of findings that followed revealed not just bad news for her, but an alarming revelation of how infections can evolve within a patient. The woman's remarkable case was reported this week in the New England Journal of Medicine.",
+    "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+    "summary": "The Trump administration is quietly considering a rule change that could make it easier for polluters to build facilities—including certain gas plants and diesel generators that power data centers—with little to no notice to the public.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-    "date": "2026-07-23"
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 987 # Comments: 796",
+    "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+    "summary": "Article URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/ Comments URL: https://news.ycombinator.com/item?id=48973835 Points: 324 # Comments: 84",
     "source": "Hacker News",
-    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "date": "2026-07-23"
+    "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "date": "2026-07-20"
   },
   {
     "type": "news",
@@ -181,11 +169,11 @@
   },
   {
     "type": "news",
-    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
-    "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
+    "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-    "date": "2026-07-24"
+    "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -197,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : un tir de missile russe tue six personnes dans l’oblast de Kiev ; des bombes guidées russes font cinq morts à Sloviansk",
-    "summary": "Volodymyr Zelensky a, par ailleurs, revendiqué le bombardement d’une usine militaire à Kirov, en Russie, qui a fait six morts, selon le gouverneur de l’oblast.",
+    "title": "A Toulouse, la guerre spatiale a déjà commencé : « La menace dans l’espace peut créer des dommages stratégiques »",
+    "summary": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-un-drone-abattu-pour-la-premiere-fois-en-roumanie_6725306_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
     "date": "2026-07-24"
   },
   {
@@ -221,43 +209,43 @@
   },
   {
     "type": "news",
-    "title": "“Bouclier d’Achille” : la Grèce lance son dôme antiaérien avec l’aide d’Israël",
-    "summary": "Dans le cadre d’une ambitieuse réforme de son armée, la Grèce a validé, jeudi 23 juillet, l’acquisition d’un système de défense sur le modèle du Dôme de fer israélien. Un investissement débattu par la presse grecque.",
+    "title": "L’essor des “coolcations”, ces vacances au frais face aux canicules qui étouffent l’Europe",
+    "summary": "Alors que les vagues de chaleur se succèdent sur le continent, notamment dans les pays traditionnellement les plus fréquentés, de plus en plus de voyageurs internationaux font de la fraîcheur une priorité pour leurs vacances.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/armement-bouclier-d-achille-la-grece-lance-son-dome-antiaerien-avec-l-aide-d-israel_252494",
+    "link": "https://www.courrierinternational.com/article/tourisme-l-essor-des-coolcations-ces-vacances-au-frais-face-aux-canicules-qui-etouffent-l-europe_252488",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-    "summary": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
+    "title": "Romanian jet fighter shoots down suspected Russian drone",
+    "summary": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "EU signals relief over new US tariffs as Trump respects transatlantic truce",
-    "summary": "BRUSSELS — The European Union on Friday signaled it could live with new U.S. tariffs imposed over its alleged failure to ban imports made with forced labor after President Donald Trump largely stuck to the terms of a transatlantic trade truce. Washington on Thursday slapped new double-digit tariffs on dozens of U.S.",
+    "title": "World chess chief steps aside after EU sanctions",
+    "summary": "Arkady Dvorkovich, Russia’s former deputy prime minister and president of the International Chess Federation (FIDE), suspended his duties Thursday evening after the European Union sanctioned him.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-trade-truce-holds-despite-new-us-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/international-chess-federation-president-suspends-duties-eu-sanctions/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
-    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
+    "title": "Comment former les jeunes économistes africains?",
+    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
-    "date": "2026-07-22"
+    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "TotalEnergies engrange 11,2 milliards de dollars de bénéfice en six mois, sur fond de guerre au Moyen-Orient",
-    "summary": "La major a enregistré un bond de 72 % de son résultat net au premier semestre 2026, profitant de l’augmentation des cours du pétrole. Un collectif d’ONG souligne la nécessité de taxer davantage « les géants du pétrole et du gaz pour financer l’action climatique ».",
+    "title": "Guerre au Moyen-Orient : après les attaques en mer Rouge, le baril de pétrole remonte au-dessus des 100 dollars",
+    "summary": "Pour contourner le détroit d’Ormuz, l’Arabie saoudite a réorienté une très large part de ses exportations de brut vers le détroit de Bab Al-Mandab au Yémen, à l’entrée de la mer Rouge, menacée à son tour de blocage.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/23/totalenergies-engrange-11-2-milliards-de-dollars-de-benefice-en-six-mois-sur-fond-de-guerre-au-moyen-orient_6730624_3234.html",
-    "date": "2026-07-23"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/24/guerre-au-moyen-orient-apres-les-attaques-en-mer-rouge-le-baril-de-petrole-remonte-au-dessus-des-100-dollars_6731472_3234.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -277,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-    "summary": "Hyundai Motor Company’s plan to put humanoid robots to work by 2028 is not part of current negotiations with striking South Korean autoworkers, according to the company. The automaker is disputing news reports that partial labor strikes by the Hyundai Motor union at the world’s largest automotive plant in South Korea were spurred by concerns about the compan…",
+    "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+    "summary": "A 63-year-old woman arrived at a hospital in pain. She had abruptly lost vision in her right eye. As doctors got to work, the series of findings that followed revealed not just bad news for her, but an alarming revelation of how infections can evolve within a patient. The woman's remarkable case was reported this week in the New England Journal of Medicine.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-    "date": "2026-07-22"
+    "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md Comments URL: https://news.ycombinator.com/item?id=49023019 Points: 341 # Comments: 242",
+    "title": "Half-Life 2 running natively on HaikuOS",
+    "summary": "Article URL: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18 Comments URL: https://news.ycombinator.com/item?id=49034868 Points: 157 # Comments: 20",
     "source": "Hacker News",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "date": "2026-07-23"
+    "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -309,10 +297,10 @@
   },
   {
     "type": "news",
-    "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+    "title": "Philip R. Lane: Outlook for the euro area economy",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
     "date": "2026-07-24"
   },
   {
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
-    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
+    "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here's why",
+    "summary": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant, Wildberries, signaling a new phase in the war.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+    "link": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "La Banque centrale européenne s'inquiète de l'impact du pétrole à 100 dollars sur l'inflation",
-    "summary": "La Banque centrale européenne s'inquiète de l'impact du pétrole à 100 dollars sur l'inflation journaldunet.com",
+    "title": "La Banque centrale de Russie réduit son taux directeur de 25 points de base à 14 % malgré l'impact des drones ukrainiens sur l'économie",
+    "summary": "La Banque centrale de Russie réduit son taux directeur de 25 points de base à 14 % malgré l'impact des drones ukrainiens sur l'économie Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPLTFtOEIyMnNIVWFIM2hpUzZSMEdzQXVac1FraXBncFFFUm9tUk5XSk9mWjM4b05CdUo1UGxfWldtX3VKbTZUVkI2cFJYZnFHcnE1alNyYVlVQjUwUEFfdmh3YWlORGg5dU0xVng4X3VMcG9DazJMWGc3ZVZiS3IxOFdsUjA3eFVDN0hUWmdrTE9iU2s0bEEzQ1lVUzRPVTlZa2xRTW9UWkRkR3pad2ZMN1JVcXQ2dWt0N3ZXN3BUN0hCNE5Pb1ZkcUxuSmZCemFMNFRnblQzM0VTcThoNHotT29JN21uV2QtaVE4R1hpUWxTbk0zcldtbkg4Unc4WlAwWFJSTVpubGE5ZnZtcXJGYnJCWm5hV242Yno2WmNXZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMDJXblVGUjY0cUFNNTN2VUo3M0o3T3c2VF9Qb3RaSGotdGpHSF82bzNQV0RuUmdadVNSdmhadEh3ZkxxdG1wMzAzcG9QRFMwQkd2cHh4X2V5TERlcmVCWmoxUGhSQWNya2R1SkxUa2doX1ZaWkFjVVgxd1FkQ0ZGM1RNYXRXMjItbDdTU1E0VVVrWUJSa19wRUpoNldXOW5KWEJiSDdSWTFTSnFGWmJkMUlXWm1nbFlzdlVGdnNBcGtjVGZnSlNnTDFUOGhGMW1UbWwtNHE3dFRUaFBPVzZ1WWtTM0d5YVlHMlhWVTFjTQ?oc=5",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient : après les attaques en mer Rouge, le baril de pétrole remonte au-dessus des 100 dollars",
-    "summary": "Pour contourner le détroit d’Ormuz, l’Arabie saoudite a réorienté une très large part de ses exportations de brut vers le détroit de Bab Al-Mandab au Yémen, à l’entrée de la mer Rouge, menacée à son tour de blocage.",
+    "title": "Ma vie d’exilée russe à Paris : « Devenir cliente d’une banque française quand on vient de Moscou relève de l’exploit »",
+    "summary": "« Une Russe à Paris » (4/6). La journaliste Elizaveta Osetinskaya, réfugiée en France depuis l’invasion de l’Ukraine par la Russie en 2022, relate ses déboires pour ouvrir un compte bancaire alors que ces établissements doivent faire respecter les sanctions financières contre les proches du Kremlin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/24/guerre-au-moyen-orient-apres-les-attaques-en-mer-rouge-le-baril-de-petrole-remonte-au-dessus-des-100-dollars_6731472_3234.html",
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/24/ma-vie-d-exilee-russe-a-paris-devenir-cliente-d-une-banque-francaise-quand-on-vient-de-moscou-releve-de-l-exploit_6731524_3451060.html",
     "date": "2026-07-24"
   },
   {
@@ -357,42 +345,42 @@
   },
   {
     "type": "news",
-    "title": "How AI Could Reinforce Dollar Dominance",
-    "summary": "While policymakers and economists debate the future of dollar dominance, AI companies, cloud providers, and payment networks might already be writing it into the next chapter of international monetary history. Those who hope to shape that chapter must act now—or risk being left off the page.",
+    "title": "West Africa Needs Its Own Draghi Moment",
+    "summary": "Senegal’s debt crisis has exposed a deeper vulnerability within West Africa’s monetary union. Unable to devalue the shared currency, member countries must either endure painful internal adjustment or boost exports to earn the foreign currency they need to repay external creditors.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-poised-to-reinforce-dollar-dominance-by-chenxu-fu-and-xianguo-huang-2026-07",
+    "link": "https://www.project-syndicate.org/commentary/west-african-monetary-union-faces-its-biggest-test-by-fernando-morra-1-and-anahi-wiedenbrug-2026-07",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "La “Grande Vague” d’Hokusai, une icône enchâssée dans l’imaginaire mondial",
-    "summary": "On l’a probablement tous vue, reproduite à l’infini, imprimée sur des vêtements, dessinée en minuscule sur des ongles ou assemblée en pièces de Lego, devant le mont Fuji. Mais pourquoi cette “Grande Vague de Kanagawa” est-elle si populaire, près de deux cents ans après sa création par le Japonais Hokusai ? se demande “The Guardian”.",
+    "title": "“Grande peur de la laitue” : aux États-Unis, l’épidémie de cyclosporose tourne à la psychose",
+    "summary": "Face à une recrudescence inhabituelle de cas de cyclosporose, une maladie due à un parasite intestinal, de nombreux Américains renoncent à manger de la laitue, par crainte de mettre en danger leur santé. Si les autorités invitent à la prudence, les professionnels de santé rappellent aussi la nécessité de continuer à consommer des fruits et légumes variés.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/culture-la-grande-vague-d-hokusai-une-icone-enchassee-dans-l-imaginaire-mondial_232600_1",
+    "link": "https://www.courrierinternational.com/article/societe-grande-peur-de-la-laitue-aux-etats-unis-l-epidemie-de-cyclosporose-tourne-a-la-psychose_252491",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-    "summary": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
+    "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
+    "summary": "Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and US allies alike",
-    "summary": "Tariffs are back — and they couldn’t come at a worse time for the GOP. Some Republicans fear the eye-popping new levies President Donald Trump threatened to slap on Canada and generic drug makers this week will aggravate Americans who were already blaming the tariffs for stubborn inflation ahead of a midterm election dominated by economic issues.",
+    "title": "EU signals relief over new US tariffs as Trump respects transatlantic truce",
+    "summary": "BRUSSELS — The European Union on Friday signaled it could live with new U.S. tariffs imposed over its alleged failure to ban imports made with forced labor after President Donald Trump largely stuck to the terms of a transatlantic trade truce. Washington on Thursday slapped new double-digit tariffs on dozens of U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/23/oh-crap-those-are-bad-things-trumps-new-tariffs-threatening-further-dampen-gop-midterm-enthusiasm-01008536?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-trade-truce-holds-despite-new-us-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Géopolitique du tourisme",
-    "summary": "Les congés payés fêtent cette année leurs 90 ans en France. Mais sommes-nous tous égaux dans le monde face aux vacances ? Qui part, qui ne part pas, et où ? Du poids des passeports aux stratégies de soft power des États, quelles particularités selon les pays ? Et comment les affres de la géopolitique (tensions commerciales, conflits, boycotts, climat) reconf…",
+    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
+    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260719-g%C3%A9opolitique-du-tourisme",
-    "date": "2026-07-19"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
+    "date": "2026-07-22"
   }
 ]
