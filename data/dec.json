@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Quels sont les objectifs principaux de l'évaluation des risques d'audit selon la NEP 200?",
+    "answer": "Les objectifs principaux de l'évaluation des risques d'audit selon la NEP 200 sont d'identifier et d'évaluer les risques d'anomalies significatives dans les états financiers, qu'elles soient dues à des fraudes ou à des erreurs."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la définition de risque d'audit selon la NEP 300?",
+    "answer": "Le risque d'audit est défini comme le risque que l'auditeur exprime une opinion inappropriée sur des états financiers qui contiennent des anomalies significatives."
+  },
+  {
+    "type": "dec",
+    "question": "Comment la norme NEP 210 recommande-t-elle d'évaluer les risques d'anomalies significatives?",
+    "answer": "La norme NEP 210 recommande d'évaluer les risques d'anomalies significatives en tenant compte de la compréhension de l'entité et de son environnement, y compris de son contrôle interne."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les deux catégories de risques identifiés par la NEP 315?",
+    "answer": "Les deux catégories de risques identifiés par la NEP 315 sont les risques inhérents et les risques de contrôle."
+  },
+  {
+    "type": "dec",
+    "question": "Quel article du Code de commerce évoque les obligations de l'auditeur en matière d'évaluation des risques?",
+    "answer": "L'article L823-9 du Code de commerce évoque les obligations de l'auditeur en matière d'évaluation des risques, en soulignant que l'auditeur doit évaluer les risques d'anomalies significatives dans les états financiers."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est l'importance de l'évaluation des risques d'audit pour la planification de l'audit selon la NEP 300?",
+    "answer": "L'évaluation des risques d'audit est essentielle pour la planification de l'audit, car elle permet à l'auditeur de concevoir des procédures d'audit appropriées pour répondre aux risques identifiés."
+  },
+  {
+    "type": "dec",
     "question": "Quelle norme précise les obligations déontologiques des commissaires aux comptes ?",
     "answer": "Les obligations déontologiques des commissaires aux comptes sont précisées dans les Normes d'Exercice Professionnel (NEP) et le Code de déontologie des commissaires aux comptes."
   },
