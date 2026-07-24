@@ -1,6 +1,21 @@
 [
   {
     "type": "finance",
+    "term": "Plan de financement",
+    "explanation": "Le plan de financement est un document qui décrit les besoins de financement d'une entreprise pour une période donnée. Il inclut les sources de financement, les montants nécessaires et les modalités de remboursement."
+  },
+  {
+    "type": "finance",
+    "term": "Rentabilité",
+    "explanation": "La rentabilité mesure la capacité d'une entreprise à générer des profits par rapport à ses coûts. Elle est souvent exprimée en pourcentage et est essentielle pour attirer des investisseurs et assurer la pérennité de l'entreprise."
+  },
+  {
+    "type": "finance",
+    "term": "Gestion de la trésorerie",
+    "explanation": "La gestion de la trésorerie consiste à surveiller et à optimiser les flux de liquidités d'une entreprise. Elle vise à s'assurer que l'entreprise dispose toujours des ressources nécessaires pour faire face à ses obligations financières."
+  },
+  {
+    "type": "finance",
     "term": "Analyse des états financiers",
     "explanation": "L'analyse des états financiers consiste à examiner les documents comptables d'une entreprise, tels que le bilan et le compte de résultat, pour évaluer sa performance financière. Cela aide les gestionnaires, investisseurs et créanciers à prendre des décisions éclairées concernant l'entreprise."
   },
