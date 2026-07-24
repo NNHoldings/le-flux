@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La crise au Moyen-Orient impacte l'économie européenne et les taux d'intérêt français dépassent 4 %.",
+      "L'innovation en intelligence artificielle et en sciences des matériaux est cruciale pour la croissance future."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-24"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -33,19 +45,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE",
-    "summary": "Point marchés-Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE Zonebourse",
+    "title": "Point marchés-Hausse prudente vue en Europe, les résultats plombés par la géopolitique et le pétrole",
+    "summary": "Point marchés-Hausse prudente vue en Europe, les résultats plombés par la géopolitique et le pétrole Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjZkd2dPUTNmZDhYU1BJanRYVzRtVENHa0d3QjVSV28tVXBySG5QN0dHS2pTOERzSDVyV1FubGYyeHpQXzlNS2JnOExiRWJGMlFKWWh6bXp4b1MzS25vQkU2U2FnWDU0LUxxU2xQOVEzRnJSN3U5WnR5WnJRaUVQWTRlX0otNHRrSlluVWNsdFdjYThJTzNRMGZ6d2hmdUF3OGVmYTdNa2xibVdPaXd3VG9NYkc3dVczTnNndjFaRTM0UjhwV0JQTUNVNnZtc0tIZWNVWE5EZGFMVGVlTGRzMXloa2pieVZVQ2pwM0dzYw?oc=5",
-    "date": "2026-07-23"
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQXpxVWttbG5tNThqX2tmRDlNVFQ1WVhLWnZ3MTJBSkhOUl9JLVUxZXBmdU1GdjN1QmFNTnM2eU5rVFYzWGxENW1xM01KUFdhM2c5ZzMzc29WMGxYSmphNnRCTFFiYXJHVEVIN2R6OVV5VDE4RWFBaHBmVlBKb0lKLXdtY1dFREVuN2hqM1U5YTJtelhLRk1mbzZRTlNyT2kwejZJWVEwT3dTSkl5dHVnUE5ockZmWERLVmFsWXpobkhGOVZzd2Z0NWd2aE4xN1pRblZ6MEo2Wno4UHVmTXZwSzUyb0RicUNjWHV4eUNWWFA?oc=5",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue l’adoption de nouvelles sanctions européennes contre la Russie",
-    "summary": "Les Etats membres de l’Union européenne se sont accordés, jeudi, pour infliger de nouvelles sanctions à la Russie, après plusieurs semaines de négociations.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont visé de nouvelles installations militaires en Iran, pour la treizième nuit de suite",
+    "summary": "Le détroit d’Ormuz « reste ouvert au transit malgré les récentes attaques menées par le corps des gardiens de la révolution islamique iranien », affirme l’armée américaine qui dit avoir notamment ciblé des centres de commandement militaires et des sites de stockage de drones.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-l-adoption-de-nouvelles-sanctions-europeennes-contre-la-russie_6725306_3210.html",
-    "date": "2026-07-23"
+    "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-vise-de-nouvelles-installations-militaires-en-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -65,35 +77,35 @@
   },
   {
     "type": "news",
-    "title": "Pour 2 milliards de dollars, Dassault Systèmes se paie une plateforme d’IA pour la santé",
-    "summary": "La branche logicielle du groupe français de défense a annoncé jeudi 23 juillet le rachat au suédois Nordic Capital de la plateforme américaine d’intelligence artificielle consacrée à la biotech ArisGlobal. Une façon de renforcer sa présence sur le marché convoité des sciences de la vie.",
+    "title": "Mort du rabatteur présumé Daniel Siad : “L’affaire Epstein continue de faire des vagues en France”",
+    "summary": "Daniel Siad était un proche collaborateur du pédocriminel américain Jeffrey Epstein. Plusieurs plaintes ont été déposées contre lui en France, dont certaines pour viols. La presse étrangère revient sur la découverte du corps, le 20 juillet, de celui qui aurait recruté des mannequins pour le compte du vaste réseau criminel de trafic sexuel d’Epstein.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/biotech-pour-2-milliards-de-dollars-dassault-systemes-se-paie-une-plateforme-d-ia-pour-la-sante_252142",
+    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-mort-du-rabatteur-presume-daniel-siad-l-affaire-epstein-continue-de-faire-des-vagues-en-france_252146",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-    "summary": "Oil prices rise for a fifth day after Yemen's Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
+    "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
+    "summary": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
-    "date": "2026-07-23"
+    "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "You won’t see the back of me before year-end, says ECB’s Lagarde",
-    "summary": "European Central Bank President Christine Lagarde pledged to stay in her role until at least the end of the year, quashing ongoing rumors that she will step down in the near term to take part in France’s 2027 presidential election. Lagarde however did not rule out leaving before the end of her term, which expires in Oct. 2027.",
+    "title": "Will Europe warm to Britain’s new prime minister?",
+    "summary": "Listen on Spotify Apple Music Amazon Music He’s the seventh British prime minister to walk through the famous black door of Number 10 Downing Street since the Brexit vote 10 years ago.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/european-central-bank-president-christine-lagarde-term-2027/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-23"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-europe-warm-to-britains-new-prime-minister/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "L'intelligence artificielle, un enjeu géopolitique majeur",
-    "summary": "La conférence mondiale sur l’intelligence artificielle, devenue un rendez-vous traditionnel et qui rassemble des milliers de participants du secteur, a ouvert ses portes vendredi 17 juillet à Shanghai en Chine. Le numéro 1 chinois Xi Jinping s’y est exprimé à l'ouverture.",
+    "title": "Comment former les jeunes économistes africains?",
+    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260717-l-intelligence-artificielle-un-enjeu-g%C3%A9opolitique-majeur",
-    "date": "2026-07-17"
+    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -121,16 +133,16 @@
   },
   {
     "type": "news",
-    "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-    "summary": "In the latest twist on battlefield innovations, Ukraine has used both flying drone carriers and drone boats to send ground robots armed with weapons or explosives into battle. The drone-assisted deployments have enabled slower wheeled robots to bypass tough terrain and Russian defenses, and to carry out an unusual robotic amphibious assault on a contested po…",
+    "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+    "summary": "A 63-year-old woman arrived at a hospital in pain. She had abruptly lost vision in her right eye. As doctors got to work, the series of findings that followed revealed not just bad news for her, but an alarming revelation of how infections can evolve within a patient. The woman's remarkable case was reported this week in the New England Journal of Medicine.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-    "date": "2026-07-22"
+    "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 349 # Comments: 353",
+    "summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 869 # Comments: 745",
     "source": "Hacker News",
     "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "date": "2026-07-23"
@@ -169,27 +181,27 @@
   },
   {
     "type": "news",
-    "title": "Defense boom lifts European stocks amid strong earnings; Dassault pops 8%",
-    "summary": "The continent's defense upcycle translated into another quarter of higher revenue and swelling order books.",
+    "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/dassault-thales-indra-stock-earnings-defense-boom.html",
+    "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE",
-    "summary": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE Boursorama",
+    "title": "COTATIONS DU MATIN EN EUROPE-Le pétrole fait chuter les obligations alors que l'IA brûle ses liquidités",
+    "summary": "COTATIONS DU MATIN EN EUROPE-Le pétrole fait chuter les obligations alors que l'IA brûle ses liquidités Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdW5oU2hCTWNnQWpFS1FUeUx0SjNGbzVna0htb3BvVWVHTWVOdFZ4SGNhYjhVM2NpS0NxeW9UUU83RHJUQXNFd3VrLTBLZVM4UUZmb3ZxS0NoRTFTVTJpa0owU294ejRoZlE1OE5oLW5YQjBqY1g3SzI0aXJOREx0UmMyUVdzNUdocDhybzRnT3J0UTdQSTJ4eVRzUjdWYzgxS0phTVBScF9iTDZPYVgxOVozLU42cGI2ODVJbWkwUXVFWEJYeXdsS3E0a1RteHVKdXhyaHlNa3gxeUhxSDJYRnZUUnQyLTJUQ3JBbU43b2Z5Y29xdE1iddIB-AFBVV95cUxNdW5oU2hCTWNnQWpFS1FUeUx0SjNGbzVna0htb3BvVWVHTWVOdFZ4SGNhYjhVM2NpS0NxeW9UUU83RHJUQXNFd3VrLTBLZVM4UUZmb3ZxS0NoRTFTVTJpa0owU294ejRoZlE1OE5oLW5YQjBqY1g3SzI0aXJOREx0UmMyUVdzNUdocDhybzRnT3J0UTdQSTJ4eVRzUjdWYzgxS0phTVBScF9iTDZPYVgxOVozLU42cGI2ODVJbWkwUXVFWEJYeXdsS3E0a1RteHVKdXhyaHlNa3gxeUhxSDJYRnZUUnQyLTJUQ3JBbU43b2Z5Y29xdE1idQ?oc=5",
-    "date": "2026-07-23"
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUNNTzFpbHZTSDZpZlpZMEdmYk95ZjdqV1ZUTF9qU01QNkpYbEVzTFRaMWVfRGtEenZqRHlnMnVmWnlMWVNIM1RjdW1GbDZaUEd0YXN2eThWUlFxYVUyd1BnSnBSUjdvdmZ5aDFYNHNOc1ZOZ2loTHA4dmpUZ0x3T0FLN2EyWlBnY2Rsa0k4d1FnNUNyY05PM1lpX1d4RHNTdXhJTkJJYWxUT3dodEhWOEZZamJlSmlaMDEwMWwxcF9lZnpZRmlKY1NCNU5ySWRJMFBGLUw0UjlXdlJwamwwTVZyNEJkZmZhVFczU3JkNTkyc2NrMkNjV3B0Nm5tYWpQRHRrMzBlb1JpdmJJak53aHpkd9IBkwJBVV95cUxOUUNNTzFpbHZTSDZpZlpZMEdmYk95ZjdqV1ZUTF9qU01QNkpYbEVzTFRaMWVfRGtEenZqRHlnMnVmWnlMWVNIM1RjdW1GbDZaUEd0YXN2eThWUlFxYVUyd1BnSnBSUjdvdmZ5aDFYNHNOc1ZOZ2loTHA4dmpUZ0x3T0FLN2EyWlBnY2Rsa0k4d1FnNUNyY05PM1lpX1d4RHNTdXhJTkJJYWxUT3dodEhWOEZZamJlSmlaMDEwMWwxcF9lZnpZRmlKY1NCNU5ySWRJMFBGLUw0UjlXdlJwamwwTVZyNEJkZmZhVFczU3JkNTkyc2NrMkNjV3B0Nm5tYWpQRHRrMzBlb1JpdmJJak53aHpkdw?oc=5",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : la poursuite du conflit risque d’entraîner une inflation plus forte que prévu, estime la présidente de la BCE, Christine Lagarde",
-    "summary": "La présidente de la Banque centrale européenne a jugé « alarmante » l’extension du conflit à la mer Rouge, où des rebelles houthistes du Yémen, alliés de l’Iran, ont revendiqué des frappes contre deux pétroliers saoudiens.",
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens à Saint-Pétersbourg provoque un incendie dans un entrepôt",
+    "summary": "« La frappe a visé des installations d’infrastructures civiles », a déclaré le gouverneur de la ville, Alexandre Beglov. Selon des images diffusées sur les réseaux sociaux et des médias locaux, des entrepôts appartenant au géant du commerce en ligne Wildberries, l’équivalent russe d’Amazon, ont été ciblés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-la-poursuite-du-conflit-risque-d-entrainer-une-inflation-plus-forte-que-prevu-estime-la-presidente-de-la-bce-christine-lagarde_6725301_3210.html",
-    "date": "2026-07-23"
+    "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -209,35 +221,35 @@
   },
   {
     "type": "news",
-    "title": "Mort du rabatteur présumé Daniel Siad : “L’affaire Epstein continue de faire des vagues en France”",
-    "summary": "Daniel Siad était un proche collaborateur du pédocriminel américain Jeffrey Epstein. Plusieurs plaintes ont été déposées contre lui en France, dont certaines pour viols. La presse étrangère revient sur la découverte du corps, le 20 juillet, de celui qui aurait recruté des mannequins pour le compte du vaste réseau criminel de trafic sexuel d’Epstein.",
+    "title": "Parmi les démocraties, l’Inde est la championne du monde des coupures d’Internet",
+    "summary": "Le géant sud-asiatique utilise les coupures d’Internet pour “contrôler la liberté d’expression”, une pratique “incompatible avec la démocratie”, dénonce une organisation de défense des droits numériques.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-mort-du-rabatteur-presume-daniel-siad-l-affaire-epstein-continue-de-faire-des-vagues-en-france_252146",
-    "date": "2026-07-23"
+    "link": "https://www.courrierinternational.com/grand-format/infographie-parmi-les-democraties-l-inde-est-la-championne-du-monde-des-coupures-d-internet_244771",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Which Middle East nations have nuclear programmes, and how were they built?",
-    "summary": "Saudi Arabia aims to join the region's nuclear club after it signs a deal with the US.",
+    "title": "Ukraine beheads its military as its performance begins to soar",
+    "summary": "An unprecedented simultaneous replacement of the top defence and military brass comes amid a debate over strategy.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
-    "date": "2026-07-23"
+    "link": "https://www.aljazeera.com/news/2026/7/24/ukraine-beheads-its-military-as-its-performance-begins-to-soar?traffic_source=rss",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Russia chokes Ukraine’s lifeline Black Sea export corridor",
-    "summary": "KYIV — Russia’s attacks on civilian cargo ships bound for Ukrainian ports in the Black Sea are strangling Kyiv’s vital export corridor, with no vessels entering any of the three Ukrainian ports in the Odesa region on Wednesday for the first time since the corridor was established in 2023. “Russia is holding global food security hostage.",
+    "title": "Beethoven versus birds: ECB shortlists designs for new euro banknotes",
+    "summary": "BRUSSELS — Who would win in a fight between Ludwig van Beethoven and a kingfisher? We’re about to find out. The European Central Bank today unveiled its shortlisted designs for the first revamp of the euro banknotes since they were released in 2002.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-chokes-ukraine-lifeline-black-sea-export-corridor/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/beethoven-versus-birds-ecb-shortlists-designs-for-new-euro-banknotes/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Comment former les jeunes économistes africains?",
-    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
+    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
+    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
-    "date": "2026-07-23"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
@@ -265,16 +277,16 @@
   },
   {
     "type": "news",
-    "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
-    "summary": "A 63-year-old woman arrived at a hospital in pain. She had abruptly lost vision in her right eye. As doctors got to work, the series of findings that followed revealed not just bad news for her, but an alarming revelation of how infections can evolve within a patient. The woman's remarkable case was reported this week in the New England Journal of Medicine.",
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "summary": "Hyundai Motor Company’s plan to put humanoid robots to work by 2028 is not part of current negotiations with striking South Korean autoworkers, according to the company. The automaker is disputing news reports that partial labor strikes by the Hyundai Motor union at the world’s largest automotive plant in South Korea were spurred by concerns about the compan…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-    "date": "2026-07-23"
+    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "date": "2026-07-22"
   },
   {
     "type": "news",
     "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-    "summary": "OpenAI and Hugging Face address security incident during model evaluation - https://news.ycombinator.com/item?id=48997548 - July 2026 (1121 comments) Comments URL: https://news.ycombinator.com/item?id=49015639 Points: 251 # Comments: 211",
+    "summary": "OpenAI and Hugging Face address security incident during model evaluation - https://news.ycombinator.com/item?id=48997548 - July 2026 (1121 comments) Comments URL: https://news.ycombinator.com/item?id=49015639 Points: 484 # Comments: 374",
     "source": "Hacker News",
     "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
     "date": "2026-07-23"
@@ -313,27 +325,27 @@
   },
   {
     "type": "news",
-    "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
-    "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
+    "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+    "summary": "Intel rallied after the company reported blowout earnings and guidance.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+    "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Le rand sud-africain chute après la décision surprise de la banque centrale de maintenir ses taux",
-    "summary": "Le rand sud-africain chute après la décision surprise de la banque centrale de maintenir ses taux Zonebourse Suisse",
+    "title": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE",
+    "summary": "Wall Street vue en baisse, les craintes d'inflation pèsent sur l'Europe avant la BCE Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYVZ5QUFpM00zREhVUnNhMXR4bElQcTRXTS0zNlJGNnlhYXVnam1OWTVVa3JNZmNDZmZ5Z19wQ2ZrblJnTjVhcUFjOEFtZndYV3V4Mm02SHVXaVBhcjBvRG5ScWlGTUZ2ZFZ5ZVBUUG0xcG1oTjI5dHdvUGp3V1RGTEhUeFZpVHVIdnFJQ25aRTJPR2tRRFE1SUdrNTUtdTkyN0VxQ0oyZm5acDZ3QVl2UWtwMVUxVEZOa0NGUlZtUjNMV1NUNnVYcHlyUU84QXlBZ1h5U1REZ1FxaVdveTdwcEpuYnhNWTBWR0pPTkxR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdW5oU2hCTWNnQWpFS1FUeUx0SjNGbzVna0htb3BvVWVHTWVOdFZ4SGNhYjhVM2NpS0NxeW9UUU83RHJUQXNFd3VrLTBLZVM4UUZmb3ZxS0NoRTFTVTJpa0owU294ejRoZlE1OE5oLW5YQjBqY1g3SzI0aXJOREx0UmMyUVdzNUdocDhybzRnT3J0UTdQSTJ4eVRzUjdWYzgxS0phTVBScF9iTDZPYVgxOVozLU42cGI2ODVJbWkwUXVFWEJYeXdsS3E0a1RteHVKdXhyaHlNa3gxeUhxSDJYRnZUUnQyLTJUQ3JBbU43b2Z5Y29xdE1iddIB-AFBVV95cUxNdW5oU2hCTWNnQWpFS1FUeUx0SjNGbzVna0htb3BvVWVHTWVOdFZ4SGNhYjhVM2NpS0NxeW9UUU83RHJUQXNFd3VrLTBLZVM4UUZmb3ZxS0NoRTFTVTJpa0owU294ejRoZlE1OE5oLW5YQjBqY1g3SzI0aXJOREx0UmMyUVdzNUdocDhybzRnT3J0UTdQSTJ4eVRzUjdWYzgxS0phTVBScF9iTDZPYVgxOVozLU42cGI2ODVJbWkwUXVFWEJYeXdsS3E0a1RteHVKdXhyaHlNa3gxeUhxSDJYRnZUUnQyLTJUQ3JBbU43b2Z5Y29xdE1idQ?oc=5",
     "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Quels sont les enjeux de l’implantation de Starlink en Afrique ?",
-    "summary": "En l’espace de trois ans, le service d’Internet par satellite du milliardaire Elon Musk, a réussi à déployer ses services sur le continent africain malgré une forte défiance des différents gouvernements.",
+    "title": "En Russie, les autorités tentent de recruter des étudiants pour pallier le manque de soldats dans les régiments de dronistes",
+    "summary": "Alors que la rumeur d’une nouvelle vague de mobilisation enfle sur les réseaux sociaux, le Kremlin impose aux universités de fournir 2 % de leurs effectifs au service de sa guerre contre l’Ukraine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/video/2026/07/23/quels-sont-les-enjeux-de-l-implantation-de-starlink-en-afrique_6730746_3212.html",
-    "date": "2026-07-23"
+    "link": "https://www.lemonde.fr/international/article/2026/07/24/en-russie-les-autorites-tentent-de-recruter-des-etudiants-pour-pallier-le-manque-de-soldats-dans-les-regiments-de-dronistes_6731422_3210.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -353,19 +365,19 @@
   },
   {
     "type": "news",
-    "title": "L’administration Trump envisage une intervention militaire au Mali, selon le “Washington Post”",
-    "summary": "Pour contrer l’avancée du Groupe de soutien à l’islam et aux musulmans (Jnim) au Mali, l’administration Trump étudierait des options militaires. Mais Washington entend surtout se poser en offre sécuritaire alternative à Moscou, dont les paramilitaires de l’Africa Corps ont connu dernièrement des défaites cuisantes face aux djihadistes.",
+    "title": "Dans le sud de l’Iran, un été chamboulé par le retour de la guerre",
+    "summary": "Nuits sans sommeil, coupures d’électricité, pénurie de carburant, axes routiers endommagés : les habitants des zones côtières bombardées par les États-Unis subissent de plein fouet la reprise des affrontements, raconte le site iranien en exil “Radio Farda”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sahel-l-administration-trump-envisage-une-intervention-militaire-au-mali-selon-le-washington-post_252133",
-    "date": "2026-07-23"
+    "link": "https://www.courrierinternational.com/article/temoignages-dans-le-sud-de-l-iran-un-ete-chamboule-par-le-retour-de-la-guerre_251596",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
-    "summary": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
+    "title": "Trillion dollar US defence bill would deepen military ties with Israel",
+    "summary": "A $1.15 trillion US defence bill passed by the House includes plans to expand military cooperation with Israel.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
-    "date": "2026-07-23"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -377,10 +389,10 @@
   },
   {
     "type": "news",
-    "title": "La popularité de la Chine dépasse celle des États-Unis dans le monde",
-    "summary": "La rivalité entre la Chine et les États-Unis est, depuis quelques années déjà, l’un des aspects les plus structurants des relations internationales. La course à la place de première puissance mondiale se déploie sur tous les terrains, y compris sur les esprits.",
+    "title": "Géopolitique du tourisme",
+    "summary": "Les congés payés fêtent cette année leurs 90 ans en France. Mais sommes-nous tous égaux dans le monde face aux vacances ? Qui part, qui ne part pas, et où ? Du poids des passeports aux stratégies de soft power des États, quelles particularités selon les pays ? Et comment les affres de la géopolitique (tensions commerciales, conflits, boycotts, climat) reconf…",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260722-la-popularit%C3%A9-de-la-chine-d%C3%A9passe-celle-des-%C3%A9tats-unis-dans-le-monde",
-    "date": "2026-07-22"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260719-g%C3%A9opolitique-du-tourisme",
+    "date": "2026-07-19"
   }
 ]
