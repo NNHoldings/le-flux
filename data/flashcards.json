@@ -1,6 +1,30 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "报纸",
+    "pinyin": "bàozhǐ",
+    "fr": "journal"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "fr": "télévision"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "广播",
+    "pinyin": "guǎngbò",
+    "fr": "radio"
+  },
+  {
+    "type": "mandarin",
+    "hanzi": "网络",
+    "pinyin": "wǎngluò",
+    "fr": "internet"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "早上",
     "pinyin": "zǎoshang",
     "fr": "matin"
