@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La Banque centrale de Russie réduit son taux directeur malgré l'inflation persistante.",
+      "La crise au Moyen-Orient impacte l'économie européenne avec des taux d'intérêt en hausse."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-25"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -29,14 +41,22 @@
     "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+    "date": "2026-07-25"
+  },
+  {
+    "type": "news",
+    "title": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation",
+    "summary": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation Boursorama",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSVppOVlHYjhUeDJGYmVrWG4wS3pvNTFUU2pRUlk0bVM1QVdkMFE0eVhMY2hhc3RPZVJrbGtpQjhZSXJwZ1BxaERqREQ1ZGZOajl0TmpNdEtrRFJUUFhXTWpWUFRxNFQyY2QwWXZPR3c0NXdoWHZ1ZTk2c0xEWldoeHpHaUtpUzFabmZkMmUwTU5UR2lWUWhFbVA1ektCXzVUcGZraHppQWxKVng2RTUzYXV6U3NCMHNqQWtYN3lYaXdWY1lLRmp0YWtONkY5d0NEY21sXzRvM1MyZ1RTOVY2V0lzeHphVXFOTWM2MDR1T1hqOHl0X0txQXQtSVNhSGNPcmfSAYICQVVfeXFMTklaaTlZR2I4VHgyRmJla1huMEt6bzUxVFNqUVJZNG1TNUFXZDBRNHlYTGNoYXN0T2VSa2xraUI4WUlycGdQcWhEakRENWRmTmo5dE5qTXRLa0RSVFBYV01qVlBUcTRUMmNkMFl2T0d3NDV3aFh2dWU5NnNMRFpXaHh6R2lLaVMxWm5mZDJlME1OVEdpVlFoRW1QNXpLQl81VHBma2h6aUFsSlZ4NkU1M2F1elNzQjBzakFrWDd5WGl3VmNZS0ZqdGFrTjZGOXdDRGNtbF80bzNTMmdUUzlWNldJc3h6YVVxTk1jNjA0dU9Yajh5dF9LcUF0LUlTYUhjT3Jn?oc=5",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran considère qu’il n’y a « pas de solution militaire » au conflit entre les houthistes du Yémen et l’Arabie saoudite",
-    "summary": "Dans une interview publiée samedi par le quotidien d’Etat Iran Daily, le ministre des affaires étrangères iranien, Abbas Araghtchi, a appelé au « dialogue » entre les Saoudiens et les houthistes, soutenus par Téhéran.",
+    "title": "La marine française arpente l’océan Atlantique à la recherche de « clients », ces navires chargés de cocaïne en route vers l’Europe",
+    "summary": "« L’Afrique sous emprise » (6/6). La France assure depuis 1990 une présence militaire quasi permanente le long du littoral ouest-africain pour tenter d’endiguer le trafic de drogue qui inonde l’Europe.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-l-iran-considere-qu-il-n-y-a-pas-de-solution-militaire-au-conflit-entre-les-houthistes-du-yemen-et-l-arabie-saoudite_6725301_3210.html",
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/dans-l-ocean-atlantique-la-difficile-lutte-de-la-marine-francaise-contre-le-trafic-de-cocaine_6732170_3451060.html",
     "date": "2026-07-25"
   },
   {
@@ -57,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Au Zimbabwe, des vuvuzelas pour faire fuir les lions",
-    "summary": "Des communautés voisines d’un parc national, au Zimbabwe, font fuir les lions en les assourdissants au son des vuvuzelas, raconte le média sud-africain “Daily Maverick”. Ces trompettes ont été popularisées lors de la Coupe du monde de 2010 en Afrique du Sud, pays frontalier.",
+    "title": "Une leçon de vélo à 450 dollars : ces parents qui recrutent toute une équipe pour leurs enfants",
+    "summary": "Dans les foyers américains les plus fortunés, les parents s’entourent de plusieurs prestataires pour élever leurs enfants et orchestrer le quotidien familial. “The Wall Street Journal” explore l’essor de “la parentalité en mode PDG”, qui promet de libérer du temps, mais risque en contrepartie de nuire aux relations familiales.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/animaux-au-zimbabwe-des-vuvuzelas-pour-faire-fuir-les-lions_251931",
+    "link": "https://www.courrierinternational.com/article/famille-une-lecon-de-velo-a-450-dollars-ces-parents-qui-recrutent-toute-une-equipe-pour-leurs-enfants_251892",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-    "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+    "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
+    "summary": "Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
     "date": "2026-07-25"
   },
   {
@@ -113,19 +133,19 @@
   },
   {
     "type": "news",
-    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-    "summary": "Paramount Skydance agreed to a longer-term delay of its $111 billion acquisition of Warner Bros. Discovery, preventing the companies from combining until after a judge rules on the merits of a case in which a dozen states challenged the legality of the merger.",
+    "title": "Big Tech accused of stonewalling European social media researchers",
+    "summary": "In the final weeks before Romania’s presidential vote in November 2024, TikTok accounts that had previously spent years posting about manicures or fashion suddenly started promoting a little-known politician named Calin Georgescu. His posts, espousing hard-line views on immigration and anti-Semitic tropes, were viewed 120 million times before the vote.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-    "date": "2026-07-24"
+    "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+    "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "summary": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model: The mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading…",
+    "title": "Android May Soon Restrict On-Device ADB",
+    "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 701 # Comments: 315",
     "source": "Hacker News",
-    "link": "https://globaloilnetwork.staffinganalytics.io/",
-    "date": "2026-07-23"
+    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "date": "2026-07-25"
   },
   {
     "type": "news",
@@ -169,10 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Dans l’océan Atlantique, la difficile lutte de la marine française contre le trafic de cocaïne",
-    "summary": "« L’Afrique sous emprise » (6/6). La France assure depuis 1990 une présence militaire quasi permanente le long du littoral ouest-africain pour tenter d’endiguer le trafic de drogue qui inonde l’Hexagone et le reste de l’Europe. Entre 2010 et 2023, le marché français des stupéfiants a presque triplé.",
+    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation",
+    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation Capmad",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hCS0VXTVpSaFRrcmIxSmlkYV9VN3NKZ0pEV0RfdExjTlRLcS0xeVZJV2QyWnByLWt0NExkazk4cFRUNVJyWlk5R0o2eVN4V25uTVNYWDVma1JUSU10akNIZkdGRVpFc0dsejdXOUVrMUdEUG5oSHBNajJkZV8xQWtoaDFrYS1rNFRkencwd2xkR2VpMEdqeVpmQ0RBYWxObTRGY2ZCTEtWbkJkbjBua1lqcWQ0c05VVTFXdFdVUjItdw?oc=5",
+    "date": "2026-07-24"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre au Moyen-Orient : le ministre des affaires étrangères iranien appelle au « dialogue » entre les Saoudiens et les houthistes",
+    "summary": "Les rebelles houthis du Yémen, alliés de Téhéran, ont ciblé samedi des sites pétroliers dans l’Arabie saoudite voisine en riposte à des frappes de Riyad, marquant une intensification des hostilités sur ce nouveau front de la guerre au Moyen-Orient.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/dans-l-ocean-atlantique-la-difficile-lutte-de-la-marine-francaise-contre-le-trafic-de-cocaine_6732170_3451060.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-le-ministre-des-affaires-etrangeres-iranien-appelle-au-dialogue-entre-les-saoudiens-et-les-houthistes_6725301_3210.html",
     "date": "2026-07-25"
   },
   {
@@ -193,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "En Provence, à l’heure du dérèglement climatique, la pistache est reine",
-    "summary": "VOYAGE EN FRANCE 3/8. Après avoir disparu du territoire provençal au XIXᵉ siècle, la pistache y fait son retour. “De Volkskrant” est parti à la découverte de cet “or vert” qui, en raison du réchauffement, remplace par endroits les vignes dans le sud-est de la France.",
+    "title": "Au Zimbabwe, des vuvuzelas pour faire fuir les lions",
+    "summary": "Des communautés voisines d’un parc national, au Zimbabwe, font fuir les lions en les assourdissants au son des vuvuzelas, raconte le média sud-africain “Daily Maverick”. Ces trompettes ont été popularisées lors de la Coupe du monde de 2010 en Afrique du Sud, pays frontalier.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/long-format/serie-d-ete-en-provence-a-l-heure-du-dereglement-climatique-la-pistache-est-reine_244729",
+    "link": "https://www.courrierinternational.com/article/animaux-au-zimbabwe-des-vuvuzelas-pour-faire-fuir-les-lions_251931",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
-    "summary": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
+    "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+    "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
     "date": "2026-07-25"
   },
   {
@@ -249,19 +277,19 @@
   },
   {
     "type": "news",
-    "title": "European Union grants US request to restrict satellite images of Iran War region",
-    "summary": "The European Union has begun delaying the release of satellite images showing shipping lanes near the Strait of Hormuz by 24 hours. The move comes in response to an earlier US government request and coincides with the Trump administration ramping up the war with Iran once again.",
+    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+    "summary": "Paramount Skydance agreed to a longer-term delay of its $111 billion acquisition of Warner Bros. Discovery, preventing the companies from combining until after a judge rules on the merits of a case in which a dozen states challenged the legality of the merger.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+    "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "summary": "Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf]https://x.com/JensenHuang/status/2080643682408321103, https://xcancel.com/JensenHuang/status/2080643682408321103https://www.wired.com/story/silicon-valley-is-completely-div..., https://archive.ph/LAkVI Comments URL: https://news.ycombinator.com/item?id=49035303 Points: 619 # Comment…",
+    "title": "ARC-AGI Leaderboard",
+    "summary": "Article URL: https://arcprize.org/leaderboard Comments URL: https://news.ycombinator.com/item?id=49045040 Points: 160 # Comments: 127",
     "source": "Hacker News",
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "date": "2026-07-24"
+    "link": "https://arcprize.org/leaderboard",
+    "date": "2026-07-25"
   },
   {
     "type": "news",
@@ -305,10 +333,18 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-    "summary": "Au moins huit personnes, dont deux enfants, ont été tuées dans une frappe ukrainienne ayant visé les territoires occupés par la Russie dans l’oblast de Zaporijia, dans le sud de l’Ukraine, a affirmé Evgueni Balitski, un responsable nommé par Moscou à la tête de la région.",
+    "title": "La Banque centrale européenne s'inquiète de l'impact du pétrole à 100 dollars sur l'inflation",
+    "summary": "La Banque centrale européenne s'inquiète de l'impact du pétrole à 100 dollars sur l'inflation journaldunet.com",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPLTFtOEIyMnNIVWFIM2hpUzZSMEdzQXVac1FraXBncFFFUm9tUk5XSk9mWjM4b05CdUo1UGxfWldtX3VKbTZUVkI2cFJYZnFHcnE1alNyYVlVQjUwUEFfdmh3YWlORGg5dU0xVng4X3VMcG9DazJMWGc3ZVZiS3IxOFdsUjA3eFVDN0hUWmdrTE9iU2s0bEEzQ1lVUzRPVTlZa2xRTW9UWkRkR3pad2ZMN1JVcXQ2dWt0N3ZXN3BUN0hCNE5Pb1ZkcUxuSmZCemFMNFRnblQzM0VTcThoNHotT29JN21uV2QtaVE4R1hpUWxTbk0zcldtbkg4Unc4WlAwWFJSTVpubGE5ZnZtcXJGYnJCWm5hV242Yno2WmNXZw?oc=5",
+    "date": "2026-07-24"
+  },
+  {
+    "type": "news",
+    "title": "OTAN : soupçons d’espionnage au quartier général du commandement militaire de l’organisation",
+    "summary": "La justice belge a annoncé, samedi, l’arrestation d’une Canadienne d’origine chinoise, soupçonnée d’avoir profité d’un stage au siège de l’Alliance atlantique pour se livrer à des « faits d’espionnage au profit d’un pays tiers ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-les-dernieres-informations-au-25-juillet-2026_6725306_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/25/otan-soupcons-d-espionnage-au-quartier-general-du-commandement-militaire-de-l-organisation_6732381_3210.html",
     "date": "2026-07-25"
   },
   {
@@ -329,26 +365,26 @@
   },
   {
     "type": "news",
-    "title": "Pourquoi la Bretagne est le berceau du cyclisme français",
-    "summary": "LE MONDE À VÉLO (3/6) - Avec son littoral escarpé et ses pentes plus raides qu’il n’y paraît, la Bretagne est un territoire particulièrement propice au cyclisme. Pour comprendre l’engouement autour ce sport dans la région, le journaliste Kevin Raymond, du magazine britannique “Cycling Weekly” a pédalé pendant plusieurs jours dans la roue des quatre vainqueur…",
+    "title": "Éruption de joie en Inde après la démission du ministre de l’Éducation",
+    "summary": "Le mouvement dit des “cafards” mené par la jeunesse indienne réclamait depuis un mois la démission du ministre de l’éducation, Dharmendra Pradhan, après un scandale de fraude aux examens de la faculté de médecine. Ils ont obtenu gain de cause, samedi 25 juillet. Certains appellent déjà à maintenir la pression sur le gouvernement pour élargir la contestation.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/serie-d-ete-pourquoi-la-bretagne-est-le-berceau-du-cyclisme-francais_245218",
+    "link": "https://www.courrierinternational.com/article/manifestations-eruption-de-joie-en-inde-apres-la-demission-du-ministre-de-l-education_252750",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "India’s education minister resigns after weeks of ‘Cockroach’ protests",
-    "summary": "Dharmendra Pradhan quits in first major concession from PM Narendra Modi's government after nationwide demonstrations.",
+    "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
+    "summary": "Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "NATO intern arrested over espionage suspicions",
-    "summary": "Belgian police on Friday arrested an intern at NATO’s strategic headquarters of the Allied Powers Europe (SHAPE,) suspecting her of “spying on behalf of a third country and of being a member of a criminal organization,” the Belgian Federal Prosecutor Office wrote in a statement on Saturday.",
+    "title": "Romanian airspace violated twice in 2 days",
+    "summary": "Romanian fighter jets on Friday and Saturday morning shot down two drones that were violating the country’s airspace. On Saturday morning, Romanian radar “detected another unauthorized penetration of the national airspace by a drone operating in the vicinity of the Ukrainian border” and two Romanian F-16 jets shot it down in an unpopulated area close to the…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/nato-intern-arrested-over-espionage-suspicions/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/romanian-airspace-violated-twice-in-2-days/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-25"
   },
   {
@@ -358,29 +394,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
     "date": "2026-07-23"
-  },
-  {
-    "type": "news",
-    "title": "IA : la France tente de rester dans la course mondiale aux data centers",
-    "summary": "Selon Rexecode, le déploiement de data centers en France représenterait 210 milliards d’euros d’investissements d’ici à 2035. Un défi indispensable à relever, juge le cabinet, à l’heure où les contestations locales se multiplient contre ces infrastructures énergivores et peu pourvoyeuses d’emplois.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/25/ia-la-france-tente-de-rester-dans-la-course-mondiale-aux-data-centers_6731684_3234.html",
-    "date": "2026-07-25"
-  },
-  {
-    "type": "news",
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most pre…",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-    "date": "2026-07-22"
-  },
-  {
-    "type": "news",
-    "title": "How to Grow Without Betting Big",
-    "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 years; Adobe, which abandoned perpetual licenses in favor of cloud subscriptions;…",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-    "date": "2026-06-15"
   }
 ]
