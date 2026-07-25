@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les principales idées de l'économie classique au XVIIIe siècle ?",
+    "answer": "L'économie classique, développée par des penseurs comme Adam Smith et David Ricardo, repose sur la libre concurrence et la main invisible du marché. Smith, dans 'La richesse des nations' (1776), affirme que l'intérêt personnel des individus conduit à des bénéfices collectifs."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment Karl Marx a-t-il influencé la pensée économique au XIXe siècle ?",
+    "answer": "Karl Marx, avec son œuvre 'Le Capital' (1867), critique le capitalisme et propose une analyse des luttes de classes. Il soutient que l'exploitation des travailleurs par les capitalistes mène à des crises économiques inévitables."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels sont les fondements de la théorie keynésienne dans la première moitié du XXe siècle ?",
+    "answer": "La théorie keynésienne, formulée par John Maynard Keynes dans 'La Théorie générale de l'emploi, de l'intérêt et de la monnaie' (1936), prône l'intervention de l'État pour réguler l'économie. Keynes soutient que la demande agrégée est le principal moteur de la croissance économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle a été l'importance de la révolution néolibérale dans les années 1980 ?",
+    "answer": "La révolution néolibérale, incarnée par des leaders comme Ronald Reagan et Margaret Thatcher, a promu le dérèglement des marchés et la réduction du rôle de l'État dans l'économie. Cette décennie a marqué un tournant vers des politiques économiques axées sur la libéralisation et la privatisation."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine a-t-elle transformé ses idées économiques depuis les réformes de Deng Xiaoping ?",
+    "answer": "Depuis les réformes de Deng Xiaoping à partir de 1978, la Chine a adopté une économie socialiste de marché, combinant planification centralisée et initiatives privées. Cette transition a propulsé le pays vers une croissance économique rapide, le faisant devenir la deuxième économie mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles idées ont émergé avec les écoles de pensée économique contemporaines ?",
+    "answer": "Les écoles contemporaines, comme l'économie comportementale et l'économie écologique, remettent en question les hypothèses traditionnelles du rationnel et de la croissance illimitée. Ces mouvements, actifs depuis les années 2000, cherchent à intégrer des facteurs psychologiques et environnementaux dans l'analyse économique."
+  },
+  {
+    "type": "histoire",
     "question": "Quels furent les principaux événements menant à la chute de la dynastie Qing ?",
     "answer": "La dynastie Qing a chuté en 1911 suite à une série de révoltes, dont la Révolte des Boxers en 1900 et la Révolution de Xinhai en 1911. L'instabilité politique et les pressions étrangères ont également contribué à son effondrement."
   },
