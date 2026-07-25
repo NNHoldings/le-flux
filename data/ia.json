@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "AI Winter",
+    "explanation": "L'AI Winter désigne les périodes de stagnation et de désillusion dans le développement de l'intelligence artificielle, survenues dans les années 1970 et 1980. Ces phases étaient caractérisées par une réduction des financements et des recherches, due à des attentes non satisfaites et à des limitations technologiques."
+  },
+  {
+    "type": "ia",
+    "term": "Machine Learning",
+    "explanation": "Le Machine Learning est une sous-discipline de l'intelligence artificielle qui permet aux machines d'apprendre à partir de données sans être explicitement programmées. Il utilise des algorithmes pour identifier des motifs et faire des prédictions, jouant un rôle clé dans de nombreuses applications modernes, comme la reconnaissance d'images et le traitement du langage naturel."
+  },
+  {
+    "type": "ia",
     "term": "Acteurs de l'IA",
     "explanation": "Les acteurs de l'intelligence artificielle incluent des entreprises technologiques majeures comme Google, Microsoft et Amazon, qui investissent massivement dans la recherche et le développement de solutions IA. De plus, des start-ups innovantes et des institutions académiques jouent également un rôle crucial dans l'avancement de la technologie et des applications d'IA, en cherchant à résoudre des problèmes complexes et à créer de nouveaux marchés."
   },
