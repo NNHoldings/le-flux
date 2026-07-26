@@ -1,6 +1,21 @@
 [
   {
     "type": "finance",
+    "term": "Actions ordinaires",
+    "explanation": "Les actions ordinaires représentent une part de propriété dans une entreprise et donnent droit à des dividendes et à un vote lors des assemblées générales. Elles sont plus risquées que les actions privilégiées, mais elles offrent un potentiel de rendement plus élevé."
+  },
+  {
+    "type": "finance",
+    "term": "Risque de marché",
+    "explanation": "Le risque de marché est le risque que la valeur d'un investissement fluctue en raison de facteurs économiques ou de l'environnement de marché. Ce risque peut affecter tous les actifs dans une classe d'actifs spécifique, comme les actions ou les obligations."
+  },
+  {
+    "type": "finance",
+    "term": "Indices boursiers",
+    "explanation": "Les indices boursiers sont des indicateurs qui mesurent la performance d'un groupe d'actions. Ils servent de référence pour évaluer la performance du marché et sont souvent utilisés par les investisseurs pour suivre les tendances économiques."
+  },
+  {
+    "type": "finance",
     "term": "Plan de financement",
     "explanation": "Le plan de financement est un document qui décrit les besoins de financement d'une entreprise pour une période donnée. Il inclut les sources de financement, les montants nécessaires et les modalités de remboursement."
   },
