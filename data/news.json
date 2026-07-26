@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La guerre en Ukraine continue d'affecter l'approvisionnement énergétique et la sécurité régionale.",
+      "L'innovation en intelligence artificielle et en science des matériaux ouvre de nouvelles perspectives économiques."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-26"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -41,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Roumanie, membre de l’OTAN, abat un troisième drone en trois jours dans son espace aérien et convoque l’ambassadeur russe",
-    "summary": "Un avion de chasse F-16 a abattu un drone au-dessus de la mer Noire, cinq minutes après son entrée dans l’espace aérien roumain, dimanche. Le président, Nicusor Dan, a cité un rapport d’enquête, selon lequel il s’agissait d’un « modèle Shahed, utilisé par la Fédération de Russie dans sa guerre d’agression contre l’Ukraine »",
+    "title": "EN DIRECT, guerre en Ukraine : les Etats-Unis sont « prêts à contribuer à un règlement pacifique » du conflit, selon le Kremlin",
+    "summary": "Washington affiche une position « duale », a estimé le porte-parole de la présidence russe, Dmitri Peskov. Les Etats-Unis « fournissent des armes à l’Ukraine, même si Donald Trump affirme qu’ils ne savent pas exactement qui les reçoit puisqu’elles sont livrées à l’OTAN », a-t-il ajouté.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-les-dernieres-informations-au-26-juillet-2026_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-les-etats-unis-sont-prets-a-contribuer-a-un-reglement-pacifique-du-conflit-selon-le-kremlin_6732775_3210.html",
     "date": "2026-07-26"
   },
   {
@@ -73,10 +85,10 @@
   },
   {
     "type": "news",
-    "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-    "summary": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+    "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+    "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
     "date": "2026-07-26"
   },
   {
@@ -97,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "La crise au Moyen-Orient se propage à l’économie, les taux d’intérêt de la France dépassent 4 % pour la première fois depuis 2008",
-    "summary": "Le regain de tension sur les marchés du pétrole et du gaz augmente l’inflation et pousse la Banque centrale européenne à durcir sa politique monétaire.",
+    "title": "Guerre au Moyen-Orient : après les attaques en mer Rouge, le baril de pétrole remonte au-dessus des 100 dollars",
+    "summary": "Pour contourner le détroit d’Ormuz, l’Arabie saoudite a réorienté une très large part de ses exportations de brut vers le détroit de Bab Al-Mandab au Yémen, à l’entrée de la mer Rouge, menacée à son tour de blocage.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/23/la-crise-au-moyen-orient-se-propage-a-l-economie-les-taux-d-interet-de-la-france-depassent-4-pour-la-premiere-fois-depuis-2008_6731063_3234.html",
-    "date": "2026-07-23"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/24/guerre-au-moyen-orient-apres-les-attaques-en-mer-rouge-le-baril-de-petrole-remonte-au-dessus-des-100-dollars_6731472_3234.html",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -129,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator.com/item?id=49052912 Points: 176 # Comments: 126",
+    "title": "Park by Robot at London Gatwick Airport",
+    "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id=49058669 Points: 161 # Comments: 89",
     "source": "Hacker News",
-    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "date": "2026-07-25"
+    "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation",
-    "summary": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation Boursorama",
+    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation",
+    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation Capmad",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSVppOVlHYjhUeDJGYmVrWG4wS3pvNTFUU2pRUlk0bVM1QVdkMFE0eVhMY2hhc3RPZVJrbGtpQjhZSXJwZ1BxaERqREQ1ZGZOajl0TmpNdEtrRFJUUFhXTWpWUFRxNFQyY2QwWXZPR3c0NXdoWHZ1ZTk2c0xEWldoeHpHaUtpUzFabmZkMmUwTU5UR2lWUWhFbVA1ektCXzVUcGZraHppQWxKVng2RTUzYXV6U3NCMHNqQWtYN3lYaXdWY1lLRmp0YWtONkY5d0NEY21sXzRvM1MyZ1RTOVY2V0lzeHphVXFOTWM2MDR1T1hqOHl0X0txQXQtSVNhSGNPcmfSAYICQVVfeXFMTklaaTlZR2I4VHgyRmJla1huMEt6bzUxVFNqUVJZNG1TNUFXZDBRNHlYTGNoYXN0T2VSa2xraUI4WUlycGdQcWhEakRENWRmTmo5dE5qTXRLa0RSVFBYV01qVlBUcTRUMmNkMFl2T0d3NDV3aFh2dWU5NnNMRFpXaHh6R2lLaVMxWm5mZDJlME1OVEdpVlFoRW1QNXpLQl81VHBma2h6aUFsSlZ4NkU1M2F1elNzQjBzakFrWDd5WGl3VmNZS0ZqdGFrTjZGOXdDRGNtbF80bzNTMmdUUzlWNldJc3h6YVVxTk1jNjA0dU9Yajh5dF9LcUF0LUlTYUhjT3Jn?oc=5",
-    "date": "2026-07-24"
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hCS0VXTVpSaFRrcmIxSmlkYV9VN3NKZ0pEV0RfdExjTlRLcS0xeVZJV2QyWnByLWt0NExkazk4cFRUNVJyWlk5R0o2eVN4V25uTVNYWDVma1JUSU10akNIZkdGRVpFc0dsejdXOUVrMUdEUG5oSHBNajJkZV8xQWtoaDFrYS1rNFRkencwd2xkR2VpMEdqeVpmQ0RBYWxObTRGY2ZCTEtWbkJkbjBua1lqcWQ0c05VVTFXdFdVUjItdw?oc=5",
+    "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "Hassanein Hiridjee, ou les ambitions d’un impatient de transformer l’Afrique",
-    "summary": "« Fortunes africaines ». Né à Madagascar il y a dix ans, le groupe Axian opère dans 21 pays d’Afrique, dans les télécoms, l’énergie ou les services bancaires. Une expansion tous azimuts portée par un fondateur charismatique qui veut aller très vite.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump « laisse de la place aux négociations », selon l’ambassadeur des Etats-Unis auprès des Nations unies",
+    "summary": "Interrogé sur NBC News pour savoir si le président américain avait décidé de renoncer à une nouvelle escalade en Iran, Mike Waltz a répondu : « Je n’irais pas jusque-là. Le président garde toutes les options sur la table. » Aucun bombardement américain n’a été signalé en Iran dimanche à l’aube.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/26/hassanein-hiridjee-ou-les-ambitions-d-un-impatient-de-transformer-l-afrique_6732910_3212.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-donald-trump-laisse-de-la-place-aux-negociations-selon-l-ambassadeur-des-etats-unis-aupres-des-nations-unies_6725301_3210.html",
     "date": "2026-07-26"
   },
   {
@@ -209,18 +221,18 @@
   },
   {
     "type": "news",
-    "title": "En Chine, la tendance des “êtres humains à l’ancienne” : “25 ans d’âge, 70 dans la tête”",
-    "summary": "Rompant avec la course effrénée au paraître et au bling-bling, de jeunes Chinois renouent avec un mode de vie proche de celui de leurs grands-parents. Ils se baptisent eux-mêmes “êtres humains à l’ancienne”, explique le “South China Morning Post”. Une façon de se reconnecter à la vie.",
+    "title": "L’inflation vertigineuse du nombre de satellites en orbite autour de la Terre",
+    "summary": "Autrefois réservé aux superpuissances, l’espace est désormais accessible aux acteurs privés. Ils y envoient des milliers de satellites pour fournir Internet partout sur la planète.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-en-chine-la-tendance-des-etres-humains-a-l-ancienne-25-ans-d-age-70-dans-la-tete_245872",
+    "link": "https://www.courrierinternational.com/grand-format/infographie-l-inflation-vertigineuse-du-nombre-de-satellites-en-orbite-autour-de-la-terre_251441",
     "date": "2026-07-26"
   },
   {
     "type": "news",
-    "title": "‘No accountability for settler war crimes against Palestinians’",
-    "summary": "‘No accountability for settler war crimes against Palestinians’",
+    "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+    "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
     "date": "2026-07-26"
   },
   {
@@ -228,7 +240,7 @@
     "title": "The Pentagon wants to build data centers. Congress would like a word.",
     "summary": "The Department of Defense’s leasing of land to private companies for artificial intelligence server farms is drawing bipartisan scrutiny from lawmakers worried about the impact on military installations and surrounding communities. The Pentagon is building data centers to supercharge its war tactics with drone swarms and other technologies powered by AI.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/25/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word-00996543?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-26"
   },
   {
@@ -241,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient : après les attaques en mer Rouge, le baril de pétrole remonte au-dessus des 100 dollars",
-    "summary": "Pour contourner le détroit d’Ormuz, l’Arabie saoudite a réorienté une très large part de ses exportations de brut vers le détroit de Bab Al-Mandab au Yémen, à l’entrée de la mer Rouge, menacée à son tour de blocage.",
+    "title": "Kirkenes, le petit port sur la nouvelle route de l’Arctique où grouillent les espions",
+    "summary": "« La ruée sur les ports » (16/16). Le réchauffement climatique pourrait changer le destin de la petite ville norvégienne de 3 500 habitants qui se situe sur une nouvelle route maritime, libérée par la fonte de la banquise, reliant l’Europe et l’Asie. Mais la proximité de la Russie et les tensions géopolitiques contrarient ses ambitions.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/24/guerre-au-moyen-orient-apres-les-attaques-en-mer-rouge-le-baril-de-petrole-remonte-au-dessus-des-100-dollars_6731472_3234.html",
-    "date": "2026-07-24"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -273,10 +285,10 @@
   },
   {
     "type": "news",
-    "title": "Show HN: Brolly, a plain-text weather forecast site",
-    "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https://brolly.sh, a minimalist, plain text weather forecasting site.",
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator.com/item?id=49052912 Points: 228 # Comments: 173",
     "source": "Hacker News",
-    "link": "https://brolly.sh/forecast/RWFP2qW8",
+    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
     "date": "2026-07-25"
   },
   {
@@ -321,18 +333,18 @@
   },
   {
     "type": "news",
-    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation",
-    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation Capmad",
+    "title": "\"La vieille garde s'inquiète\", \"le camp des faucons s'est étoffé\": Donald Trump a nommé un nouveau président à la tête de la Fed pour obtenir une baisse des taux mais la banque centrale devrait temporiser encore un peu",
+    "summary": "\"La vieille garde s'inquiète\", \"le camp des faucons s'est étoffé\": Donald Trump a nommé un nouveau président à la tête de la Fed pour obtenir une baisse des taux mais la banque centrale devrait temporiser encore un peu BFM",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hCS0VXTVpSaFRrcmIxSmlkYV9VN3NKZ0pEV0RfdExjTlRLcS0xeVZJV2QyWnByLWt0NExkazk4cFRUNVJyWlk5R0o2eVN4V25uTVNYWDVma1JUSU10akNIZkdGRVpFc0dsejdXOUVrMUdEUG5oSHBNajJkZV8xQWtoaDFrYS1rNFRkencwd2xkR2VpMEdqeVpmQ0RBYWxObTRGY2ZCTEtWbkJkbjBua1lqcWQ0c05VVTFXdFdVUjItdw?oc=5",
-    "date": "2026-07-25"
+    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNUG5SQVZ2ZHhJNC0wa2JTN1d1VWtwdy1LWVdFVHVRMF9YQmpEaDgzTF9QdG1NX2loeEZ3S2gwSzNKbjVZR1JsSlBwNVlfamxockpoaWpWWThJclU3MVZPX1ZSaGJPMVJ3R0F5Z1AwU21xcGxnNWdYdk1rdWtBR2U3aGxrQ1AxMWhjTTREMTV1RnNQTjhNM0ZhWnV6UDVGaG5UVUJRLVdtN1NFbVNDNmE1TlBKQ0RqajEyX05aYlRsR3A5aElxeVVKekVpS2pjZzE2dS13eHpZdDh0N1pCQnR4TE1sNmVzOXVMMU9yTnM2QU14NHhpdTYzbXZ0QUYxTzVmYUJ4Vk1BWUN2QUthTmUyeWd6dVYzc29RaFl0TzhfQmhZaUlVZkUyUVJuaGZYc20wRDA2SFRRMnZqVDVxQ3V0dHR4X01tRXlrTGNqdU5TYmU3OWQzcU9qNmpDdUxKZFRWOFZxV3NTdmFNVjBtRVNzVGJpcE5qLXRBTkxwUWg1YWpCT1dpelRTbkhLR1FQbnM?oc=5",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
-    "title": "Kirkenes, le petit port sur la nouvelle route de l’Arctique où grouillent les espions",
-    "summary": "« La ruée sur les ports » (16/16). Le réchauffement climatique pourrait changer le destin de la petite ville norvégienne de 3 500 habitants qui se situe sur une nouvelle route maritime, libérée par la fonte de la banquise, reliant l’Europe et l’Asie. Mais la proximité de la Russie et les tensions géopolitiques contrarient ses ambitions.",
+    "title": "Un fabricant chinois de puces s’apprête à réaliser la plus grosse levée de fonds d’Asie grâce au boom de l’IA",
+    "summary": "Le chinois ChangXin Memory Technologies (CXMT) pourrait dépasser les 1 000 milliards de yuans (129 milliards d’euros) de valorisation lundi 27 juillet, après son introduction en Bourse à Shanghaï.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/26/kirkenes-le-petit-port-sur-la-nouvelle-route-de-l-arctique-ou-grouillent-les-espions_6732769_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/26/un-fabricant-chinois-de-puces-s-apprete-a-realiser-la-plus-grosse-levee-de-fonds-d-asie-grace-au-boom-de-l-ia_6733368_3234.html",
     "date": "2026-07-26"
   },
   {
@@ -353,27 +365,27 @@
   },
   {
     "type": "news",
-    "title": "Une leçon de vélo à 450 dollars : ces parents qui recrutent toute une équipe pour leurs enfants",
-    "summary": "Dans les foyers américains les plus fortunés, les parents s’entourent de plusieurs prestataires pour élever leurs enfants et orchestrer le quotidien familial. “The Wall Street Journal” explore l’essor de “la parentalité en mode PDG”, qui promet de libérer du temps, mais risque en contrepartie de nuire aux relations familiales.",
+    "title": "En Chine, la tendance des “êtres humains à l’ancienne” : “25 ans d’âge, 70 dans la tête”",
+    "summary": "Rompant avec la course effrénée au paraître et au bling-bling, de jeunes Chinois renouent avec un mode de vie proche de celui de leurs grands-parents. Ils se baptisent eux-mêmes “êtres humains à l’ancienne”, explique le “South China Morning Post”. Une façon de se reconnecter à la vie.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/famille-une-lecon-de-velo-a-450-dollars-ces-parents-qui-recrutent-toute-une-equipe-pour-leurs-enfants_251892",
-    "date": "2026-07-25"
-  },
-  {
-    "type": "news",
-    "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-    "summary": "Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/societe-en-chine-la-tendance-des-etres-humains-a-l-ancienne-25-ans-d-age-70-dans-la-tete_245872",
     "date": "2026-07-26"
   },
   {
     "type": "news",
-    "title": "Italy’s defense minister offered adviser job to ousted Ukrainian defense chief",
-    "summary": "Mykhailo Fedorov, the former Ukrainian defense minister ousted by President Volodymyr Zelenskyy earlier this month, can start a new life in Rome, if he wants to. Italian Defense Minister Guido Crosetto on Friday said he had called Fedorov the day after he was ousted and proposed that he come to Italy and work as an adviser.",
+    "title": "Israel launches military incursion into Syria amid UN condemnation",
+    "summary": "The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+    "date": "2026-07-26"
+  },
+  {
+    "type": "news",
+    "title": "Extension du marché carbone : le jour où Macron et Bayrou ont dit non à quatre ministres",
+    "summary": "PARIS — Lorsqu’a éclaté la guerre au Moyen-Orient fin février, et que les prix à la pompe ont explosé, le gouvernement a proposé un plan d’électrification permettant de réduire notre exposition aux énergies fossiles, pour le pouvoir d’achat et le climat. Mais faute de moyens à y consacrer, le plan doit se faire à moyens constants.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/italys-defense-minister-offered-adviser-job-to-ousted-ukrainian-defense-chief/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-25"
+    "link": "https://www.politico.eu/article/extension-du-marche-carbone-le-jour-ou-macron-et-bayrou-ont-dit-non-a-quatre-ministres/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
