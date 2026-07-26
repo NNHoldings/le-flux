@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La Banque centrale de Russie réduit son taux directeur malgré l'inflation persistante.",
-      "La crise au Moyen-Orient impacte l'économie européenne avec des taux d'intérêt en hausse."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-25"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -45,18 +33,18 @@
   },
   {
     "type": "news",
-    "title": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation",
-    "summary": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation Boursorama",
+    "title": "Point marchés-Wall Street vue en légère hausse, l'Europe profite du recul des cours du pétrole",
+    "summary": "Point marchés-Wall Street vue en légère hausse, l'Europe profite du recul des cours du pétrole Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSVppOVlHYjhUeDJGYmVrWG4wS3pvNTFUU2pRUlk0bVM1QVdkMFE0eVhMY2hhc3RPZVJrbGtpQjhZSXJwZ1BxaERqREQ1ZGZOajl0TmpNdEtrRFJUUFhXTWpWUFRxNFQyY2QwWXZPR3c0NXdoWHZ1ZTk2c0xEWldoeHpHaUtpUzFabmZkMmUwTU5UR2lWUWhFbVA1ektCXzVUcGZraHppQWxKVng2RTUzYXV6U3NCMHNqQWtYN3lYaXdWY1lLRmp0YWtONkY5d0NEY21sXzRvM1MyZ1RTOVY2V0lzeHphVXFOTWM2MDR1T1hqOHl0X0txQXQtSVNhSGNPcmfSAYICQVVfeXFMTklaaTlZR2I4VHgyRmJla1huMEt6bzUxVFNqUVJZNG1TNUFXZDBRNHlYTGNoYXN0T2VSa2xraUI4WUlycGdQcWhEakRENWRmTmo5dE5qTXRLa0RSVFBYV01qVlBUcTRUMmNkMFl2T0d3NDV3aFh2dWU5NnNMRFpXaHh6R2lLaVMxWm5mZDJlME1OVEdpVlFoRW1QNXpLQl81VHBma2h6aUFsSlZ4NkU1M2F1elNzQjBzakFrWDd5WGl3VmNZS0ZqdGFrTjZGOXdDRGNtbF80bzNTMmdUUzlWNldJc3h6YVVxTk1jNjA0dU9Yajh5dF9LcUF0LUlTYUhjT3Jn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzd6VUdES24zWTV4OXBYYUpCTEJkSVR6N1Q1cXRkN2hFdVRFcjFiN2lGM0o0bGg0UHRIZ1BSQktSRUR5b2MwNjAzdUhYTnZqd2w1RGNnZ0xDeFBCNHNiVFB6QUFlbmZFMnllcjNsV3pTVmZiOFl6SF8zQmlIb0l3M0dfYTRzVlRyX0szcnpiQW12UFltU05KSlJKZWV5cTlQaDBuT0pkbWRqTkFmR1VHbU1JTGt1ZFFVNlY3bExqbHJaYWNzRU1lMU5SdTUzNmNLWVFsSkE2TFVFTVVhRlZpWVVPZXRaalB0ZWc?oc=5",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "La marine française arpente l’océan Atlantique à la recherche de « clients », ces navires chargés de cocaïne en route vers l’Europe",
-    "summary": "« L’Afrique sous emprise » (6/6). La France assure depuis 1990 une présence militaire quasi permanente le long du littoral ouest-africain pour tenter d’endiguer le trafic de drogue qui inonde l’Europe.",
+    "title": "Guerre en Ukraine : au moins 20 morts en Ukraine et en Russie, selon les autorités des deux pays. Retrouvez les informations du 19 au 25 juillet.",
+    "summary": "Quelques heures après des frappes ukrainiennes de longue portée dans le territoire russe, le président du Kazakhstan, Kassym-Jomart Tokaïev, a estimé samedi que le conflit devait être « gelé », lors d’une rencontre avec le président russe, Vladimir Poutine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/dans-l-ocean-atlantique-la-difficile-lutte-de-la-marine-francaise-contre-le-trafic-de-cocaine_6732170_3451060.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-20-morts-en-ukraine-et-en-russie-selon-les-autorites-des-deux-pays_6725306_3210.html",
     "date": "2026-07-25"
   },
   {
@@ -77,19 +65,19 @@
   },
   {
     "type": "news",
-    "title": "Une leçon de vélo à 450 dollars : ces parents qui recrutent toute une équipe pour leurs enfants",
-    "summary": "Dans les foyers américains les plus fortunés, les parents s’entourent de plusieurs prestataires pour élever leurs enfants et orchestrer le quotidien familial. “The Wall Street Journal” explore l’essor de “la parentalité en mode PDG”, qui promet de libérer du temps, mais risque en contrepartie de nuire aux relations familiales.",
+    "title": "En Chine, la tendance des “êtres humains à l’ancienne” : “25 ans d’âge, 70 dans la tête”",
+    "summary": "Rompant avec la course effrénée au paraître et au bling-bling, de jeunes Chinois renouent avec un mode de vie proche de celui de leurs grands-parents. Ils se baptisent eux-mêmes “êtres humains à l’ancienne”, explique le “South China Morning Post”. Une façon de se reconnecter à la vie.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/famille-une-lecon-de-velo-a-450-dollars-ces-parents-qui-recrutent-toute-une-equipe-pour-leurs-enfants_251892",
-    "date": "2026-07-25"
+    "link": "https://www.courrierinternational.com/article/societe-en-chine-la-tendance-des-etres-humains-a-l-ancienne-25-ans-d-age-70-dans-la-tete_245872",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
-    "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-    "summary": "Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.",
+    "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
+    "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
-    "date": "2026-07-25"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -141,10 +129,10 @@
   },
   {
     "type": "news",
-    "title": "Android May Soon Restrict On-Device ADB",
-    "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 701 # Comments: 315",
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https://brolly.sh, a minimalist, plain text weather forecasting site.",
     "source": "Hacker News",
-    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "link": "https://brolly.sh/forecast/RWFP2qW8",
     "date": "2026-07-25"
   },
   {
@@ -181,27 +169,27 @@
   },
   {
     "type": "news",
-    "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
-    "summary": "The origin of the model Hugging Face used to combat the rogue AI is turning heads.",
+    "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here's why",
+    "summary": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant, Wildberries, signaling a new phase in the war.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
-    "date": "2026-07-24"
+    "link": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation",
-    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation Capmad",
+    "title": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation",
+    "summary": "Russie: la Banque centrale abaisse son taux directeur à 14%, malgré l'inflation Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hCS0VXTVpSaFRrcmIxSmlkYV9VN3NKZ0pEV0RfdExjTlRLcS0xeVZJV2QyWnByLWt0NExkazk4cFRUNVJyWlk5R0o2eVN4V25uTVNYWDVma1JUSU10akNIZkdGRVpFc0dsejdXOUVrMUdEUG5oSHBNajJkZV8xQWtoaDFrYS1rNFRkencwd2xkR2VpMEdqeVpmQ0RBYWxObTRGY2ZCTEtWbkJkbjBua1lqcWQ0c05VVTFXdFdVUjItdw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSVppOVlHYjhUeDJGYmVrWG4wS3pvNTFUU2pRUlk0bVM1QVdkMFE0eVhMY2hhc3RPZVJrbGtpQjhZSXJwZ1BxaERqREQ1ZGZOajl0TmpNdEtrRFJUUFhXTWpWUFRxNFQyY2QwWXZPR3c0NXdoWHZ1ZTk2c0xEWldoeHpHaUtpUzFabmZkMmUwTU5UR2lWUWhFbVA1ektCXzVUcGZraHppQWxKVng2RTUzYXV6U3NCMHNqQWtYN3lYaXdWY1lLRmp0YWtONkY5d0NEY21sXzRvM1MyZ1RTOVY2V0lzeHphVXFOTWM2MDR1T1hqOHl0X0txQXQtSVNhSGNPcmfSAYICQVVfeXFMTklaaTlZR2I4VHgyRmJla1huMEt6bzUxVFNqUVJZNG1TNUFXZDBRNHlYTGNoYXN0T2VSa2xraUI4WUlycGdQcWhEakRENWRmTmo5dE5qTXRLa0RSVFBYV01qVlBUcTRUMmNkMFl2T0d3NDV3aFh2dWU5NnNMRFpXaHh6R2lLaVMxWm5mZDJlME1OVEdpVlFoRW1QNXpLQl81VHBma2h6aUFsSlZ4NkU1M2F1elNzQjBzakFrWDd5WGl3VmNZS0ZqdGFrTjZGOXdDRGNtbF80bzNTMmdUUzlWNldJc3h6YVVxTk1jNjA0dU9Yajh5dF9LcUF0LUlTYUhjT3Jn?oc=5",
     "date": "2026-07-24"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : le ministre des affaires étrangères iranien appelle au « dialogue » entre les Saoudiens et les houthistes",
-    "summary": "Les rebelles houthis du Yémen, alliés de Téhéran, ont ciblé samedi des sites pétroliers dans l’Arabie saoudite voisine en riposte à des frappes de Riyad, marquant une intensification des hostilités sur ce nouveau front de la guerre au Moyen-Orient.",
+    "title": "Hassanein Hiridjee, ou les ambitions d’un impatient de transformer l’Afrique",
+    "summary": "« Fortunes africaines ». Né à Madagascar il y a dix ans, le groupe Axian opère dans 21 pays d’Afrique, dans les télécoms, l’énergie ou les services bancaires. Une expansion tous azimuts portée par un fondateur charismatique qui veut aller très vite.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-le-ministre-des-affaires-etrangeres-iranien-appelle-au-dialogue-entre-les-saoudiens-et-les-houthistes_6725301_3210.html",
-    "date": "2026-07-25"
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/26/hassanein-hiridjee-ou-les-ambitions-d-un-impatient-de-transformer-l-afrique_6732910_3212.html",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -221,19 +209,19 @@
   },
   {
     "type": "news",
-    "title": "Au Zimbabwe, des vuvuzelas pour faire fuir les lions",
-    "summary": "Des communautés voisines d’un parc national, au Zimbabwe, font fuir les lions en les assourdissants au son des vuvuzelas, raconte le média sud-africain “Daily Maverick”. Ces trompettes ont été popularisées lors de la Coupe du monde de 2010 en Afrique du Sud, pays frontalier.",
+    "title": "Une leçon de vélo à 450 dollars : ces parents qui recrutent toute une équipe pour leurs enfants",
+    "summary": "Dans les foyers américains les plus fortunés, les parents s’entourent de plusieurs prestataires pour élever leurs enfants et orchestrer le quotidien familial. “The Wall Street Journal” explore l’essor de “la parentalité en mode PDG”, qui promet de libérer du temps, mais risque en contrepartie de nuire aux relations familiales.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/animaux-au-zimbabwe-des-vuvuzelas-pour-faire-fuir-les-lions_251931",
+    "link": "https://www.courrierinternational.com/article/famille-une-lecon-de-velo-a-450-dollars-ces-parents-qui-recrutent-toute-une-equipe-pour-leurs-enfants_251892",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-    "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+    "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+    "summary": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
-    "date": "2026-07-25"
+    "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -285,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "ARC-AGI Leaderboard",
-    "summary": "Article URL: https://arcprize.org/leaderboard Comments URL: https://news.ycombinator.com/item?id=49045040 Points: 160 # Comments: 127",
+    "title": "Show HN: I made some transistor animations",
+    "summary": "Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software.",
     "source": "Hacker News",
-    "link": "https://arcprize.org/leaderboard",
-    "date": "2026-07-25"
+    "link": "https://brandonli.net/semisim/animations",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -325,10 +313,10 @@
   },
   {
     "type": "news",
-    "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
-    "summary": "CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.",
+    "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
+    "summary": "The origin of the model Hugging Face used to combat the rogue AI is turning heads.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
+    "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
     "date": "2026-07-24"
   },
   {
@@ -341,11 +329,11 @@
   },
   {
     "type": "news",
-    "title": "OTAN : soupçons d’espionnage au quartier général du commandement militaire de l’organisation",
-    "summary": "La justice belge a annoncé, samedi, l’arrestation d’une Canadienne d’origine chinoise, soupçonnée d’avoir profité d’un stage au siège de l’Alliance atlantique pour se livrer à des « faits d’espionnage au profit d’un pays tiers ».",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse l’Ukraine d’avoir attaqué un de ses navires en mer Caspienne",
+    "summary": "Selon la télévision d’Etat iranienne, le chargé d’affaires ukrainien à Téhéran a été convoqué samedi au ministère des affaires étrangères pour y être sermonné par un haut fonctionnaire, pour cet « acte hostile et criminel ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/25/otan-soupcons-d-espionnage-au-quartier-general-du-commandement-militaire-de-l-organisation_6732381_3210.html",
-    "date": "2026-07-25"
+    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-l-iran-accuse-l-ukraine-d-avoir-attaque-un-de-ses-navires-en-mer-caspienne_6725301_3210.html",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -373,15 +361,15 @@
   },
   {
     "type": "news",
-    "title": "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
-    "summary": "Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.",
+    "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+    "summary": "Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/25/india-win-second-t20-clash-in-zimbabwe-to-take-series-as-kishan-tilak-varma-shine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
     "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "Romanian airspace violated twice in 2 days",
+    "title": "Romanian airspace violated by drones twice in 2 days",
     "summary": "Romanian fighter jets on Friday and Saturday morning shot down two drones that were violating the country’s airspace. On Saturday morning, Romanian radar “detected another unauthorized penetration of the national airspace by a drone operating in the vicinity of the Ukrainian border” and two Romanian F-16 jets shot it down in an unpopulated area close to the…",
     "source": "Politico EU",
     "link": "https://www.politico.eu/article/romanian-airspace-violated-twice-in-2-days/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
