@@ -1,6 +1,31 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales obligations déontologiques du commissaire aux comptes selon le Code de commerce ?",
+    "answer": "Les principales obligations déontologiques incluent l'indépendance, l'intégrité, la compétence, la diligence, la confidentialité et la loyauté envers les parties prenantes."
+  },
+  {
+    "type": "dec",
+    "question": "Quel article du Code de commerce définit l'indépendance du commissaire aux comptes ?",
+    "answer": "L'indépendance du commissaire aux comptes est définie à l'article L. 822-11 du Code de commerce."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme NEP traite de l'indépendance du commissaire aux comptes ?",
+    "answer": "La norme NEP 200, intitulée 'Indépendance du commissaire aux comptes', précise les exigences en matière d'indépendance dans l'exercice de la mission."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les conséquences d'une violation des règles déontologiques pour un commissaire aux comptes ?",
+    "answer": "Les conséquences peuvent inclure des sanctions disciplinaires, la perte de la qualité de commissaire aux comptes, ainsi que des poursuites judiciaires."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle norme NEP aborde la confidentialité des informations obtenues par le commissaire aux comptes ?",
+    "answer": "La norme NEP 210, qui traite de l'acceptation de la mission, souligne l'importance de la confidentialité des informations obtenues durant l'audit."
+  },
+  {
+    "type": "dec",
     "question": "Quels sont les objectifs principaux de l'évaluation des risques d'audit selon la NEP 200?",
     "answer": "Les objectifs principaux de l'évaluation des risques d'audit selon la NEP 200 sont d'identifier et d'évaluer les risques d'anomalies significatives dans les états financiers, qu'elles soient dues à des fraudes ou à des erreurs."
   },
