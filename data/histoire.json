@@ -1,6 +1,31 @@
 [
   {
     "type": "histoire",
+    "question": "Quelles sont les principales réformes économiques de Deng Xiaoping ?",
+    "answer": "À partir de 1978, Deng Xiaoping a lancé des réformes économiques majeures en Chine, introduisant le concept de 'socialisme de marché'. Ces réformes ont permis l'ouverture du pays aux investissements étrangers et ont favorisé le développement du secteur privé, entraînant une croissance économique rapide."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels événements ont marqué la Révolution culturelle en Chine ?",
+    "answer": "La Révolution culturelle, initiée par Mao Zedong en 1966, visait à renforcer le communisme en Chine en éliminant les éléments capitalistes et traditionnels. Cette période a été marquée par des purges politiques, des violences et la destruction de nombreux biens culturels, se terminant avec la mort de Mao en 1976."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine est-elle devenue une puissance mondiale ?",
+    "answer": "Depuis les réformes de Deng Xiaoping, la Chine a connu une croissance économique spectaculaire, devenant la deuxième économie mondiale en 2010. L'intégration dans l'économie mondiale et le rôle croissant dans les affaires internationales ont permis à la Chine d'accroître son influence géopolitique."
+  },
+  {
+    "type": "histoire",
+    "question": "Quels impacts a eu l'Opium War sur la Chine moderne ?",
+    "answer": "Les guerres de l'opium (1839-1842 et 1856-1860) ont conduit à l'imposition de traités inégaux qui ont affaibli la souveraineté de la Chine et ouvert ses ports au commerce occidental. Ces événements ont déclenché un mouvement de réforme et de modernisation dans le pays, préparant le terrain pour les révolutions futures."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel a été le rôle de la Chine dans la création de l'Organisation mondiale du commerce ?",
+    "answer": "La Chine a rejoint l'Organisation mondiale du commerce (OMC) en 2001, ce qui a marqué son intégration dans le système commercial international. Cette adhésion a permis à la Chine de bénéficier d'un accès élargi aux marchés mondiaux et d'accélérer son développement économique."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les principales idées de l'économie classique au XVIIIe siècle ?",
     "answer": "L'économie classique, développée par des penseurs comme Adam Smith et David Ricardo, repose sur la libre concurrence et la main invisible du marché. Smith, dans 'La richesse des nations' (1776), affirme que l'intérêt personnel des individus conduit à des bénéfices collectifs."
   },
