@@ -1,6 +1,16 @@
 [
   {
     "type": "finance",
+    "term": "Planification financière",
+    "explanation": "La planification financière est le processus de création d'un plan financier pour atteindre les objectifs à court et à long terme d'une entreprise. Cela inclut l'évaluation des ressources nécessaires, l'établissement de budgets et la prévision des flux de trésorerie."
+  },
+  {
+    "type": "finance",
+    "term": "Risque financier",
+    "explanation": "Le risque financier désigne la possibilité que des fluctuations dans les marchés financiers affectent la stabilité financière d'une entreprise. Il inclut des facteurs tels que le risque de crédit, le risque de liquidité et le risque de taux d'intérêt."
+  },
+  {
+    "type": "finance",
     "term": "Actions ordinaires",
     "explanation": "Les actions ordinaires représentent une part de propriété dans une entreprise et donnent droit à des dividendes et à un vote lors des assemblées générales. Elles sont plus risquées que les actions privilégiées, mais elles offrent un potentiel de rendement plus élevé."
   },
