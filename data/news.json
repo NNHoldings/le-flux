@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La guerre en Ukraine continue d'affecter l'approvisionnement énergétique et la sécurité régionale.",
-      "L'innovation en intelligence artificielle et en science des matériaux ouvre de nouvelles perspectives économiques."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-26"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,27 +25,27 @@
   },
   {
     "type": "news",
-    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
-    "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
+    "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+    "summary": "Corporate earnings have staged one of the strongest turnarounds in the economy this year, swinging from barely positive growth in 2025 to double-digit gains.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-    "date": "2026-07-25"
+    "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "26 juillet 2026, conflit iranien élargi, pétrole et gaz rebondissent, marchés réajustent le risque, qui profite vraiment",
-    "summary": "26 juillet 2026, conflit iranien élargi, pétrole et gaz rebondissent, marchés réajustent le risque, qui profite vraiment vonews.net",
+    "title": "Objectway se développe sur les marchés de capitaux et poursuit sa stratégie de croissance paneuropéenne grâce à son projet d’acquisition du spécialiste français SLIB",
+    "summary": "Objectway se développe sur les marchés de capitaux et poursuit sa stratégie de croissance paneuropéenne grâce à son projet d’acquisition du spécialiste français SLIB Yahoo Finance France",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmdhbzRLeHpEWHBJUGhjdVZPczN3a3lYV2k1WTI2b3JMdHVvMWZ2WXZ0b3Y4QTcwOVM3NVdKSzUwY1M1dE15TVVjeEdfSjZZakVlejdzZklrQWtNSWVYanNuUmcxUVhFTGpBMEJySTlpRjhaT0h2MW9xVzlFMlB1eTE5Q29lcXc3bGtNMjkyZDZYaTZsYmJ2RXFkN2labHYyc3VBWmpQUUI0QXg0ZWpWWTQwc3BEdVQycEl4ck1NallPT1ZfbzlvZ1RKeWxxbVJ2M0E?oc=5",
-    "date": "2026-07-26"
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHppM3AtRE14QmU2dGx2WlJTbXlQdl93OU02Ti1zb2VEZExBQmh3WGhoenF1MVhzZXpHamdkeGpTYTdwTk5BWENNUGhvSXBESXR2bXRLSEx1MEVQdDlFLV9hdUdEaUVaMHNWa19qNmxHd2JoaVZVbklkajl0a3FEMi1IU1gtbDVPT3RGQ3IyY3VySE9xbWlvMVByaHp6X0gyVzV6ckc3WjNSZkNvTlVN?oc=5",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les Etats-Unis sont « prêts à contribuer à un règlement pacifique » du conflit, selon le Kremlin",
-    "summary": "Washington affiche une position « duale », a estimé le porte-parole de la présidence russe, Dmitri Peskov. Les Etats-Unis « fournissent des armes à l’Ukraine, même si Donald Trump affirme qu’ils ne savent pas exactement qui les reçoit puisqu’elles sont livrées à l’OTAN », a-t-il ajouté.",
+    "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens fait deux morts dans le sud de la Russie, selon les autorités locales",
+    "summary": "Une frappe ukrainienne nocturne sur la ville de Rostov-sur-le-Don a tué un couple et blessé cinq personnes, a déclaré le gouverneur régional. De son côté, l’armée ukrainienne a affirmé que 147 drones russes avaient été lancés contre le territoire ukrainien pendant la nuit, précisant que l’attaque se poursuivait lundi matin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-les-etats-unis-sont-prets-a-contribuer-a-un-reglement-pacifique-du-conflit-selon-le-kremlin_6732775_3210.html",
-    "date": "2026-07-26"
+    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-fait-deux-morts-dans-le-sud-de-la-russie-selon-les-autorites-locales_6732775_3210.html",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
@@ -85,18 +73,18 @@
   },
   {
     "type": "news",
-    "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-    "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
+    "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+    "summary": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
-    "date": "2026-07-26"
+    "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Romania blames Russia as military shoots down third drone",
-    "summary": "A Romanian fighter jet on Sunday shot down a third drone that had entered its national air space in as many days, prompting President Nicușor Dan to blame Moscow for the “inadmissible and intolerable” incursions. Sunday’s incident marked the latest escalation for the NATO member.",
+    "title": "Extension du marché carbone : le jour où Macron et Bayrou ont dit non à quatre ministres",
+    "summary": "PARIS — Lorsqu’a éclaté la guerre au Moyen-Orient fin février, et que les prix à la pompe ont explosé, le gouvernement a proposé un plan d’électrification permettant de réduire notre exposition aux énergies fossiles, pour le pouvoir d’achat et le climat. Mais faute de moyens à y consacrer, le plan doit se faire à moyens constants.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/romania-blames-russia-as-military-shoots-down-third-drone/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/extension-du-marche-carbone-le-jour-ou-macron-et-bayrou-ont-dit-non-a-quatre-ministres/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-26"
   },
   {
@@ -141,10 +129,10 @@
   },
   {
     "type": "news",
-    "title": "Park by Robot at London Gatwick Airport",
-    "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id=49058669 Points: 161 # Comments: 89",
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Comments URL: https://news.ycombinator.com/item?id=49063022 Points: 663 # Comments: 475",
     "source": "Hacker News",
-    "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "date": "2026-07-26"
   },
   {
@@ -173,35 +161,35 @@
   },
   {
     "type": "news",
-    "title": "Google and Tesla shares plunge as AI spending rattles markets",
-    "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+    "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+    "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-23"
+    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-    "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+    "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+    "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-    "date": "2026-07-26"
+    "link": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation",
-    "summary": "Nigeria : la Banque centrale maintient son taux directeur à 26,50 % malgré le reflux de l’inflation Capmad",
+    "title": "Guerre au Moyen-Orient : chute des prix du pétrole, les marchés parient sur l’accalmie entre les États-Unis et l’Iran",
+    "summary": "Guerre au Moyen-Orient : chute des prix du pétrole, les marchés parient sur l’accalmie entre les États-Unis et l’Iran Le Figaro",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hCS0VXTVpSaFRrcmIxSmlkYV9VN3NKZ0pEV0RfdExjTlRLcS0xeVZJV2QyWnByLWt0NExkazk4cFRUNVJyWlk5R0o2eVN4V25uTVNYWDVma1JUSU10akNIZkdGRVpFc0dsejdXOUVrMUdEUG5oSHBNajJkZV8xQWtoaDFrYS1rNFRkencwd2xkR2VpMEdqeVpmQ0RBYWxObTRGY2ZCTEtWbkJkbjBua1lqcWQ0c05VVTFXdFdVUjItdw?oc=5",
-    "date": "2026-07-25"
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjBFaHppd3h5U1VfeDNhOTNlTDBURGNhalRQWlVISGluOUw2NVBtQUo3akZ4eFFMTXlPdEtlY3Nyem5OOE9xZDRUOUF4UXdOTm4zZ29YaF9mbVZCQWZ6QUpnNkFiV0Z0WWlpWUtyN0VTOGhHYjVJcExBejZZYUZGUVZrZWk0aUZCcjFzTnY4aXd4UW1CeGVqYWUyTjBEdnRkaGlHTXZRVWZqMlNETmkta1JVaVBKQ0Vib1pILUJIa0NpY05CYVM1UFp6dUQ1OGNpY2V4U0xzb2haeG1XWk4wUlBfa1Y1Mm5rT21oZkJhOGY?oc=5",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump « laisse de la place aux négociations », selon l’ambassadeur des Etats-Unis auprès des Nations unies",
-    "summary": "Interrogé sur NBC News pour savoir si le président américain avait décidé de renoncer à une nouvelle escalade en Iran, Mike Waltz a répondu : « Je n’irais pas jusque-là. Le président garde toutes les options sur la table. » Aucun bombardement américain n’a été signalé en Iran dimanche à l’aube.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure que les Etats-Unis disposent de suffisamment de munitions",
+    "summary": "Dans une interview au « Wall Street Journal », le président américain a nié toute pénurie alors que des inquiétudes se font jour concernant les stocks américains d’intercepteurs antimissiles.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-au-moyen-orient-donald-trump-laisse-de-la-place-aux-negociations-selon-l-ambassadeur-des-etats-unis-aupres-des-nations-unies_6725301_3210.html",
-    "date": "2026-07-26"
+    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-accuse-l-ukraine-d-avoir-attaque-un-navire-commercial-iranien_6725301_3210.html",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
@@ -229,19 +217,19 @@
   },
   {
     "type": "news",
-    "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-    "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
+    "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+    "summary": "Abbas Araghchi says the Ukrainian attack on the Iranian vessel in the Caspian Sea 'cannot go unanswered'.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
-    "date": "2026-07-26"
+    "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "The Pentagon wants to build data centers. Congress would like a word.",
-    "summary": "The Department of Defense’s leasing of land to private companies for artificial intelligence server farms is drawing bipartisan scrutiny from lawmakers worried about the impact on military installations and surrounding communities. The Pentagon is building data centers to supercharge its war tactics with drone swarms and other technologies powered by AI.",
+    "title": "Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech",
+    "summary": "U.S. President Donald Trump says they’re a tax. European regulators consider it routine enforcement. Either way, when EU bureaucrats slap the world’s biggest technology companies with a fine, the numbers can make your eyes bulge. How exactly these financial penalties are determined is somewhere between an art and a science.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/25/the-pentagon-wants-to-build-data-centers-congress-would-like-a-word-00996543?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-26"
+    "link": "https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
@@ -285,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator.com/item?id=49052912 Points: 228 # Comments: 173",
+    "title": "Introduction to Data-Oriented Design [pdf]",
+    "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf Comments URL: https://news.ycombinator.com/item?id=49060724 Points: 163 # Comments: 43",
     "source": "Hacker News",
-    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "date": "2026-07-25"
+    "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "date": "2026-07-26"
   },
   {
     "type": "news",
@@ -325,18 +313,18 @@
   },
   {
     "type": "news",
-    "title": "Russia’s Amazon-style retail giant Wildberries is now in Ukraine’s crosshairs. Here's why",
-    "summary": "Ukraine has ratcheted up its attacks on Russia's Amazon-style retail giant, Wildberries, signaling a new phase in the war.",
+    "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+    "summary": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
-    "date": "2026-07-23"
+    "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+    "date": "2026-07-25"
   },
   {
     "type": "news",
-    "title": "\"La vieille garde s'inquiète\", \"le camp des faucons s'est étoffé\": Donald Trump a nommé un nouveau président à la tête de la Fed pour obtenir une baisse des taux mais la banque centrale devrait temporiser encore un peu",
-    "summary": "\"La vieille garde s'inquiète\", \"le camp des faucons s'est étoffé\": Donald Trump a nommé un nouveau président à la tête de la Fed pour obtenir une baisse des taux mais la banque centrale devrait temporiser encore un peu BFM",
+    "title": "Afrique économie - Corridors ferroviaires africains: une économie politique complexe et des retombées encore limitées",
+    "summary": "Afrique économie - Corridors ferroviaires africains: une économie politique complexe et des retombées encore limitées RFI",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNUG5SQVZ2ZHhJNC0wa2JTN1d1VWtwdy1LWVdFVHVRMF9YQmpEaDgzTF9QdG1NX2loeEZ3S2gwSzNKbjVZR1JsSlBwNVlfamxockpoaWpWWThJclU3MVZPX1ZSaGJPMVJ3R0F5Z1AwU21xcGxnNWdYdk1rdWtBR2U3aGxrQ1AxMWhjTTREMTV1RnNQTjhNM0ZhWnV6UDVGaG5UVUJRLVdtN1NFbVNDNmE1TlBKQ0RqajEyX05aYlRsR3A5aElxeVVKekVpS2pjZzE2dS13eHpZdDh0N1pCQnR4TE1sNmVzOXVMMU9yTnM2QU14NHhpdTYzbXZ0QUYxTzVmYUJ4Vk1BWUN2QUthTmUyeWd6dVYzc29RaFl0TzhfQmhZaUlVZkUyUVJuaGZYc20wRDA2SFRRMnZqVDVxQ3V0dHR4X01tRXlrTGNqdU5TYmU3OWQzcU9qNmpDdUxKZFRWOFZxV3NTdmFNVjBtRVNzVGJpcE5qLXRBTkxwUWg1YWpCT1dpelRTbkhLR1FQbnM?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2R0d3pJWXBUd00tSlFsVnNia3BmNk51Y2VBdExuS3d2aVJCNGZZdnN4R0xBUUthOFg1R3YteVd3T0FtZE1OY2tPaTRFM1NmTTMzS0dFcDlqTWtTU3dtU09hLUMwcTVMS2pTUzUtRFhCbnVXcmlFZUg1ZURQeERCQ0pRNGhXcldkN09xZUQyazhNdkxBcTRRdjJsM3NQRmM2RXFiSTh0SEhRMWxTOGNhemt2SzYtcFgtWUgzSGpmOC1wNzZBdzc3Ums4d2hmZWk3aTJZWF9kNDR4UVZ0WHdzRmZpMFByU215X3pBNzN6NUQycjNNQldnOXJyanJrVG82eG5UdA?oc=5",
     "date": "2026-07-26"
   },
   {
@@ -365,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "En Chine, la tendance des “êtres humains à l’ancienne” : “25 ans d’âge, 70 dans la tête”",
-    "summary": "Rompant avec la course effrénée au paraître et au bling-bling, de jeunes Chinois renouent avec un mode de vie proche de celui de leurs grands-parents. Ils se baptisent eux-mêmes “êtres humains à l’ancienne”, explique le “South China Morning Post”. Une façon de se reconnecter à la vie.",
+    "title": "“J’avais honte de gâcher ce qui aurait dû être une expérience extraordinaire” à Paris",
+    "summary": "Une journaliste du quotidien québécois “La Presse” revient sur son échange universitaire dans la capitale française en 1985. Un séjour à Paris qu’elle avait “profondément désiré”, mais qui n’a pas débuté comme elle l’imaginait. Erreur de calendrier, malaise… Josée Boileau est “pétrifiée” et préfère rester enfermée.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-en-chine-la-tendance-des-etres-humains-a-l-ancienne-25-ans-d-age-70-dans-la-tete_245872",
+    "link": "https://www.courrierinternational.com/article/temoignage-j-avais-honte-de-gacher-ce-qui-aurait-du-etre-une-experience-extraordinaire-a-paris_251308",
     "date": "2026-07-26"
   },
   {
     "type": "news",
-    "title": "Israel launches military incursion into Syria amid UN condemnation",
-    "summary": "The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.",
+    "title": "The AI military complex: Which are the main companies in it?",
+    "summary": "Billions of dollars are flowing into a handful of companies now leading the AI transformation of militaries.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
-    "date": "2026-07-26"
+    "link": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Extension du marché carbone : le jour où Macron et Bayrou ont dit non à quatre ministres",
-    "summary": "PARIS — Lorsqu’a éclaté la guerre au Moyen-Orient fin février, et que les prix à la pompe ont explosé, le gouvernement a proposé un plan d’électrification permettant de réduire notre exposition aux énergies fossiles, pour le pouvoir d’achat et le climat. Mais faute de moyens à y consacrer, le plan doit se faire à moyens constants.",
+    "title": "Trump reopens the tariff fight",
+    "summary": "Listen on Spotify Apple Music Amazon Music Icelanders begin voting on whether to restart accession talks with the European Union, reopening a debate shaped by security fears, economic uncertainty and the question of who controls the country’s fishing waters.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/extension-du-marche-carbone-le-jour-ou-macron-et-bayrou-ont-dit-non-a-quatre-ministres/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-26"
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/trump-reopens-the-tariff-fight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
