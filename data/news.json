@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La croissance des bénéfices industriels en Chine ralentit, impactée par la baisse des prix du pétrole.",
-      "L'Europe renforce ses règles sur l'IA face aux ambitions américaines et chinoises."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-28"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,27 +25,27 @@
   },
   {
     "type": "news",
-    "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
-    "summary": "Corporate earnings have staged one of the strongest turnarounds in the economy this year, swinging from barely positive growth in 2025 to double-digit gains.",
+    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+    "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Point marchés-Baisse en vue en Europe avec la tech et de nombreux résultats",
-    "summary": "Point marchés-Baisse en vue en Europe avec la tech et de nombreux résultats Zonebourse",
+    "title": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA",
+    "summary": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0Y0cTBnRGF4STJRTm9oeERZWFFWeUowRFoweVp1WXJELVFwRnpScWZSZ0VhUm9sOG9kUmd3dTdpVWNUUi13ZW8zTlc4aUluNkdqbERDT2l6Q1FsVDRZYlBjalB3eUxfN1VQTkFnLWQyRmpXd2dzVTFQMmlhc0VsS1JKLXVnLUoyY245S1ZYMnJXVFJiVFN2SUxUY1l6cnZsNHQzR0NKa3F1enNnaHBIc19yWmtmLXlJNjVjMnlGX04taTBReUZ1ZlJsWWVwNjFFb0E?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUtDNWN4Vy1FOU9YTWllTDI2c29sY1VmNG0wd3RBbHQ4aW9pdXg0YkJtU0VmLU9TbE1GRjA4eDNFdTNFazFHa2JOTkZrREVuZTRMVzhmcURtVmR0Z182bmc2SWluLUZ3VEdzdWFZQUYxek4zYjFGUjNZS3hyZzQ5NHdFYlc4Wnluck8zRjJOMUpIZzdBMDZpMkE5c212ZGZySkl2SUl2VWJEbktmYVNqMXM3UTZaTWFQMmlWNDFWX1lqdWYtS2xoUlF6RG9HU1NUWEVQRTZPYng2WjdmYjBSTkpuU041R0hwbV9xTXRR?oc=5",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Au Chili, le président d’extrême droite réclame le remboursement de plus d’un demi-million de prêts étudiants",
-    "summary": "Elu en mars, José Antonio Kast exige que les 550 000 bénéficiaires d’un crédit universitaire avec garantie de l’Etat aujourd’hui en défaut de paiement honorent leur dette. Plus de 1 000 débiteurs ont déjà vu leur compte en banque saisi.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est aux Etats-Unis, pour l’hommage au sénateur Lindsey Graham, mais surtout pour parler défense antimissile avec Donald Trump",
+    "summary": "La ‌défense antimissile et la coopération stratégique constituaient ⁠la « priorité numéro un » de ses entretiens prévus ⁠avec ‌le président américain, Donald ​Trump, a dit le président ukrainien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/27/au-chili-le-president-d-extreme-droite-reclame-le-remboursement-de-plus-d-un-demi-million-de-prets-etudiants_6734192_3234.html",
-    "date": "2026-07-27"
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-aux-etats-unis-pour-l-hommage-au-senateur-lindsey-graham-mais-surtout-pour-parler-defense-antimissile-avec-donald-trump_6732775_3210.html",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -77,27 +65,27 @@
   },
   {
     "type": "news",
-    "title": "Le Koweït et le Pakistan signent un nouvel accord de défense",
-    "summary": "En pleine recrudescence de la guerre contre l’Iran, le Koweït cherche à diversifier ses alliances militaires. Alors que les milliers de soldats américains stationnés dans ce pays n’ont pas suffi à empêcher les attaques de Téhéran, Islamabad s’impose un peu plus comme “une solution de remplacement ou un complément” de la protection américaine dans le Golfe, e…",
+    "title": "À Gaza, des cours de natation pour “oublier les horreurs de la guerre”",
+    "summary": "Depuis le début de l’été, des centaines de jeunes Gazaouis ont pu profiter de piscines improvisées construites au bord de mer avec des gravats grâce à l’initiative d’un homme. Une échappatoire pour ces enfants traumatisés, raconte la correspondante du “Guardian” dans l’enclave palestinienne.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-le-koweit-et-le-pakistan-signent-un-nouvel-accord-de-defense_253217",
-    "date": "2026-07-27"
-  },
-  {
-    "type": "news",
-    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-    "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-des-cours-de-natation-pour-oublier-les-horreurs-de-la-guerre_253410",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Europe’s AI safety rules take on US rogue agents and Chinese ambitions",
-    "summary": "BRUSSELS — The U.S.-China race for AI supremacy has suddenly given way to a race for AI safety. And in that race, until recently, the European Union has largely been running alone. It was the news last week of a first-ever case of an autonomous AI agent going rogue that sent U.S.",
+    "title": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+    "summary": "Made up of mostly locals and some foreign visitors, a large group of volunteers step in to fix war damage.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
+    "date": "2026-07-28"
+  },
+  {
+    "type": "news",
+    "title": "US kicks off review of its force posture in Europe",
+    "summary": "The United States on Tuesday launched the country’s Europe posture review that will determine the number of American troops and military assets on the continent, a top U.S. defense official said.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-27"
+    "link": "https://www.politico.eu/article/us-kicks-off-europe-force-posture-review/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -141,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "summary": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sp... Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 265 # Comments: 226",
+    "title": "7.1 Earthquake in Japan",
+    "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en Comments URL: https://news.ycombinator.com/item?id=49080664 Points: 359 # Comments: 71",
     "source": "Hacker News",
-    "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "date": "2026-07-27"
+    "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -181,27 +169,27 @@
   },
   {
     "type": "news",
-    "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
-    "summary": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
+    "title": "Treasury yields edge lower ahead of Fed rates decision as oil prices tumble",
+    "summary": "Traders are awaiting the latest Federal Reserve interest rate decision this week.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
-    "date": "2026-07-27"
-  },
-  {
-    "type": "news",
-    "title": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA",
-    "summary": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA Zonebourse Suisse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUtDNWN4Vy1FOU9YTWllTDI2c29sY1VmNG0wd3RBbHQ4aW9pdXg0YkJtU0VmLU9TbE1GRjA4eDNFdTNFazFHa2JOTkZrREVuZTRMVzhmcURtVmR0Z182bmc2SWluLUZ3VEdzdWFZQUYxek4zYjFGUjNZS3hyZzQ5NHdFYlc4Wnluck8zRjJOMUpIZzdBMDZpMkE5c212ZGZySkl2SUl2VWJEbktmYVNqMXM3UTZaTWFQMmlWNDFWX1lqdWYtS2xoUlF6RG9HU1NUWEVQRTZPYng2WjdmYjBSTkpuU041R0hwbV9xTXRR?oc=5",
+    "link": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Shein : 42 milliards de dollars de chiffre d’affaires, un milliard de commandes, 4 700 nouveautés par jour… les chiffres fous du géant chinois de l’ultra-fast-fashion",
-    "summary": "Le prospectus provisoire de son introduction en Bourse est une mine d’informations sur la plateforme de vente en ligne d’habillement à petits prix.",
+    "title": "Les inquiétudes sur la tech secouent les marchés mondiaux, l'Europe résiste",
+    "summary": "Les inquiétudes sur la tech secouent les marchés mondiaux, l'Europe résiste France 24",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQU9PNVdDYWRqVjRfeWRGbHNoa082X3NsQ0J0SmU4VHNmMGRaSHV6ek9oNTIwZVZ3R1BOSE1lNHFUaVZDT3p4TFlleFd1emVESnNhN2lzM3p4YjdrLWIzMm85SWc0b0ZmNVU5a29yd0Q4Sm9QQm1URzVjRFpEVjdBbF9HMzVBQXNMSVZ1XzRJUFJZWFFCNTlQbUwzMjFZLXQya0FFZ01KWUw3eElBa0pmS2dKRUdETmtTR3dzZ0pHM3h5cUJ2WGdDajV5QlpIdXlUdElwekRiV2ltQQ?oc=5",
+    "date": "2026-07-28"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre au Moyen-Orient : après plusieurs jours d’accalmie, des échanges diplomatiques entre l’Iran, Oman et l’Arabie saoudite",
+    "summary": "Les ministres des affaires étrangères iranien, omanais et saoudien ont évoqué l’état du détroit d’Ormuz, et appelé à la coopération face aux Etats-Unis, rapportent des médias iraniens. Donald Trump a dit avoir décidé de suspendre les bombardements afin de donner une nouvelle chance aux négociations, selon des médias américains.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/27/shein-42-milliards-de-dollars-de-chiffre-d-affaires-un-milliard-de-commandes-4-700-nouveautes-par-jour-les-chiffres-fous-du-geant-chinois-de-l-utra-fast-fashion_6734212_3234.html",
-    "date": "2026-07-27"
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-des-echanges-diplomatiques-entre-l-iran-oman-et-l-arabie-saoudite-apres-plusieurs-jours-consecutifs-d-accalmie_6725301_3210.html",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -221,19 +209,19 @@
   },
   {
     "type": "news",
-    "title": "Face aux incendies, “l’indispensable aide européenne”",
-    "summary": "Soutiens aériens, terrestres et même satellitaires : lorsque l’un de ses membres est confronté à une urgence climatique, l’Union européenne sait se montrer utile, salue la presse espagnole.",
+    "title": "En Ukraine, le “Maïdan de carton” ne faiblit pas malgré les critiques",
+    "summary": "Le mouvement de contestation déclenché par le limogeage du ministre de la Défense, Mykhaïlo Fedorov, dure depuis maintenant treize jours et a déjà obtenu gain de cause sur plusieurs revendications. Il semble vouloir continuer, mais ne fait pas l’unanimité chez les commentateurs locaux.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-madrid-face-aux-incendies-l-indispensable-aide-europeenne_253233",
+    "link": "https://www.courrierinternational.com/article/manifestations-en-ukraine-le-maidan-de-carton-ne-faiblit-pas-malgre-les-critiques_253487",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-    "summary": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
+    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
-    "date": "2026-07-27"
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -253,19 +241,19 @@
   },
   {
     "type": "news",
-    "title": "En fusionnant TIM et Poste Italiane, l’Italie bâtit un géant souverain des télécoms au détriment de la consolidation européenne du secteur",
-    "summary": "En soutenant la constitution de ce nouveau groupe, le gouvernement de Giorgia Meloni a privilégié les intérêts italiens, à l’heure où Bruxelles veut favoriser l’émergence de champions européens transnationaux, plus à même de résister à la concurrence sino-américaine.",
+    "title": "Au Chili, le président d’extrême droite réclame le remboursement de plus d’un demi-million de prêts étudiants",
+    "summary": "Elu en mars, José Antonio Kast exige que les 550 000 bénéficiaires d’un crédit universitaire avec garantie de l’Etat aujourd’hui en défaut de paiement honorent leur dette. Plus de 1 000 débiteurs ont déjà vu leur compte en banque saisi.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/27/en-fusionnant-tim-et-poste-italiane-l-italie-batit-un-geant-souverain-des-telecoms-au-detriment-de-la-consolidation-europeenne-du-secteur_6734011_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/au-chili-le-president-d-extreme-droite-reclame-le-remboursement-de-plus-d-un-demi-million-de-prets-etudiants_6734192_3234.html",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "The Download: energy transmission and US threats against Chinese AI",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day.",
+    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "date": "2026-07-23"
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -285,19 +273,19 @@
   },
   {
     "type": "news",
-    "title": "Benchmarking Opus 5 on SlopCodeBench",
-    "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 244 # Comments: 56",
+    "title": "Self-contained highly-portable Python distributions",
+    "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/ Comments URL: https://news.ycombinator.com/item?id=49073942 Points: 153 # Comments: 34",
     "source": "Hacker News",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
-    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
+    "title": "Daily briefing: The science of The Odyssey",
+    "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02345-3The tale gives us glimpses of the medicine and technology of the Homeric world. Plus, this year’s El Niño is set to be the largest on record and the boom in languages at the dawn of farming.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02275-0",
-    "date": "2026-07-23"
+    "link": "https://www.nature.com/articles/d41586-026-02345-3",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -325,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
-    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+    "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
+    "summary": "Semiconductor stocks fell in premarket trading on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-    "date": "2026-07-27"
-  },
-  {
-    "type": "news",
-    "title": "La Bourse de Chicago lance un produit pour miser sur SpaceX ou Nvidia sans devoir acheter d'actions",
-    "summary": "La Bourse de Chicago lance un produit pour miser sur SpaceX ou Nvidia sans devoir acheter d'actions Les Echos",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUE9tazdPXy1waW04N05YbElDOE1jS1YtNTRKM2Q0OFRPR2lYSG5uQS04a0R4WUpZbURLR1JnaGlxMWd5LUQzTjlkTmZRdk52N1pPZ1UxLXJjTWRSRHRkdi0tQm9zVWNtaGlPVHNGTXg2UmdacTN3bm4xMmpLRWwwNzNGNEtGMkE2STV3bVEtek9UclZsNnlOSV9pNXlWYV94anA2eUhKS0JQZ2RVMk1GQnlTYmpNOEYwLVhYU2QzOUx6Wk5HN050TkUxaHBzb01EOU1RVHl0ZldSdUJJd1NKeVdSRGtnNjNFVnJSb3VFY0pyV2ZtWGFUcg?oc=5",
+    "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : des échanges diplomatiques entre l’Iran, Oman et l’Arabie saoudite après plusieurs jours consécutifs d’accalmie",
-    "summary": "Les ministres des affaires étrangères iranien, omanais et saoudien ont évoqué l’état du détroit d’Ormuz, et appelé à la coopération face aux Etats-Unis, selon des médias iraniens. Donald Trump a dit avoir décidé de suspendre les bombardements afin de donner une nouvelle chance aux négociations, selon des médias américains.",
+    "title": "Marchés: les inquiétudes sur l'IA prennent le relais des tensions géopolitiques",
+    "summary": "Marchés: les inquiétudes sur l'IA prennent le relais des tensions géopolitiques Orange Actualités",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkhPMElJR042ZkV1U2lrX3FKNlpZdTdFX29hV3BDdEU3MDZ4c2l6Sy1Wdnhqa3hBamVnWFZQSG1tSDlpOUNiZ3lyM2pnSlJsbE5iS1UzN25pSXBzUWY4YWVGYnVtc1lpVFc1Y2FvUUFJMktYWnI2M2U1VFdINzVHT2w0UDZ5cnBfemQwdnYwU0djUW1ZS1h4bDFJM242cnJOWUV1VVktQnFkMEpSWUpjaXBUTGRUV3VnYlJrN0pXSTNhY2o1YVd6UnlB?oc=5",
+    "date": "2026-07-28"
+  },
+  {
+    "type": "news",
+    "title": "Dans le sud de l’Iran, une guerre loin de Téhéran mais omniprésente",
+    "summary": "Depuis la reprise des hostilités entre l’Iran et les Etats-Unis, les bombardements américains se concentrent sur les provinces proches du golfe Arbo-Persique. A Bandar-e Abbas, sur l’île de Qechm et dans la province du Fars, les habitants racontent un quotidien marqué par la peur, les destructions et une inflation galopante.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-israelienne-dit-avoir-intercepte-un-drone-pres-de-la-frontiere-jordanienne_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/28/dans-le-sud-de-l-iran-une-guerre-loin-de-teheran-mais-omnipresente_6734561_3210.html",
     "date": "2026-07-28"
   },
   {
@@ -365,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "Javier Milei traite Lula d’“ordure” et crée “la pire crise en cinquante ans” avec le Brésil",
-    "summary": "En visite à São Paulo pour soutenir le principal opposant à Lula en vue de l’élection présidentielle d’octobre au Brésil, le président argentin, Javier Milei, a traité son homologue d’“ordure socialiste”. En réaction, le gouvernement brésilien a rappelé son ambassadeur en Argentine, une mesure sans précédent.",
+    "title": "À l’ère de l’IA, l’illustration scientifique reste “un indispensable instrument de découverte”",
+    "summary": "Observation minutieuse, expertise sur un sujet précis, capacité d’appréciation de l’esprit humain… Ces qualités sont plus que jamais nécessaires à la production d’illustrations scientifiques, l’IA n’étant qu’un outil de plus.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-d-argentine-javier-milei-traite-lula-d-ordure-et-cree-la-pire-crise-en-cinquante-ans-avec-le-bresil_253239",
-    "date": "2026-07-27"
+    "link": "https://www.courrierinternational.com/une/une-du-jour-a-l-ere-de-l-ia-l-illustration-scientifique-reste-un-indispensable-instrument-de-decouverte_253476",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
-    "summary": "Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.",
+    "title": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
+    "summary": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
     "date": "2026-07-28"
   },
   {
