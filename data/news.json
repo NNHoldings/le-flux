@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La croissance des bénéfices industriels en Chine ralentit, impactée par la baisse des prix du pétrole.",
+      "L'Europe renforce ses règles sur l'IA face aux ambitions américaines et chinoises."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-28"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -17,11 +29,11 @@
   },
   {
     "type": "news",
-    "title": "The £5 coffee that tells a story of global economic turmoil",
-    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28"
+    "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -33,18 +45,18 @@
   },
   {
     "type": "news",
-    "title": "Les marchés rebondissent grâce au recul du pétrole et à l'accalmie au Moyen-Orient",
-    "summary": "Les marchés rebondissent grâce au recul du pétrole et à l'accalmie au Moyen-Orient Europe 1",
+    "title": "Point marchés-Baisse en vue en Europe avec la tech et de nombreux résultats",
+    "summary": "Point marchés-Baisse en vue en Europe avec la tech et de nombreux résultats Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkZ6aXljWmEyMWE4T3d1eWFwUXdJXy1hTmFwTDdGM0djOFZ3SnFEYkxrUFhLYUl3VjU2eHJPUWFOU290a2VLZUowQTVZcjlnSkZ2dUd4ejhwRGtBLUptMkc3clQzMnAxNzlBTkI2MklwWFA3RHhyOUk1akJUdzl4VlR1eE93OURLa1FrWDh0U2V0NGxzY09wMnNGVkIzZ0N1cnZ6cVkzOVg4QnBjVjR4QTl2WWVZU3BDM2dqOXI5ZnhpZ9IBwgFBVV95cUxQUkZ6aXljWmEyMWE4T3d1eWFwUXdJXy1hTmFwTDdGM0djOFZ3SnFEYkxrUFhLYUl3VjU2eHJPUWFOU290a2VLZUowQTVZcjlnSkZ2dUd4ejhwRGtBLUptMkc3clQzMnAxNzlBTkI2MklwWFA3RHhyOUk1akJUdzl4VlR1eE93OURLa1FrWDh0U2V0NGxzY09wMnNGVkIzZ0N1cnZ6cVkzOVg4QnBjVjR4QTl2WWVZU3BDM2dqOXI5ZnhpZw?oc=5",
-    "date": "2026-07-27"
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0Y0cTBnRGF4STJRTm9oeERZWFFWeUowRFoweVp1WXJELVFwRnpScWZSZ0VhUm9sOG9kUmd3dTdpVWNUUi13ZW8zTlc4aUluNkdqbERDT2l6Q1FsVDRZYlBjalB3eUxfN1VQTkFnLWQyRmpXd2dzVTFQMmlhc0VsS1JKLXVnLUoyY245S1ZYMnJXVFJiVFN2SUxUY1l6cnZsNHQzR0NKa3F1enNnaHBIc19yWmtmLXlJNjVjMnlGX04taTBReUZ1ZlJsWWVwNjFFb0E?oc=5",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : l’armée russe autorisée par Vladimir Poutine à recruter 25 000 soldats de plus",
-    "summary": "Les effectifs pourront être portés à 2 426 130 personnes, dont 1 535 000 militaires, à compter du 1ᵉʳ août. Il s’agit de la troisième augmentation depuis le début de l’année. Selon Volodymyr Zelensky, son homologue russe s’apprête à lancer une nouvelle campagne de mobilisation après les élections législatives, prévues le 21 septembre.",
+    "title": "Au Chili, le président d’extrême droite réclame le remboursement de plus d’un demi-million de prêts étudiants",
+    "summary": "Elu en mars, José Antonio Kast exige que les 550 000 bénéficiaires d’un crédit universitaire avec garantie de l’Etat aujourd’hui en défaut de paiement honorent leur dette. Plus de 1 000 débiteurs ont déjà vu leur compte en banque saisi.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-l-armee-russe-autorisee-par-vladimir-poutine-a-recruter-25-000-soldats-de-plus_6732775_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/au-chili-le-president-d-extreme-droite-reclame-le-remboursement-de-plus-d-un-demi-million-de-prets-etudiants_6734192_3234.html",
     "date": "2026-07-27"
   },
   {
@@ -65,26 +77,26 @@
   },
   {
     "type": "news",
-    "title": "Spectaculaire introduction en Bourse pour le fabricant de puces chinois CXMT",
-    "summary": "L’action de ChangXin Memory Technologies (CXMT), qui entend rivaliser avec les sud-coréens SK Hynix et Samsung Electronics dans le secteur clé des puces mémoire, a bondi de 466 % lors de sa première journée de cotation à la Bourse de Shanghai. Un lancement réussi, qui renforce la position de la Chine sur ce marché.",
+    "title": "Le Koweït et le Pakistan signent un nouvel accord de défense",
+    "summary": "En pleine recrudescence de la guerre contre l’Iran, le Koweït cherche à diversifier ses alliances militaires. Alors que les milliers de soldats américains stationnés dans ce pays n’ont pas suffi à empêcher les attaques de Téhéran, Islamabad s’impose un peu plus comme “une solution de remplacement ou un complément” de la protection américaine dans le Golfe, e…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-spectaculaire-introduction-en-bourse-pour-le-fabricant-de-puces-chinois-cxmt_253235",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-le-koweit-et-le-pakistan-signent-un-nouvel-accord-de-defense_253217",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
-    "summary": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
+    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
-    "date": "2026-07-27"
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Commission eyes changes to big business tax to unlock budget deal",
-    "summary": "BRUSSELS — The European Commission is considering watering down a tax on big businesses designed to raise money for the EU’s next seven-year budget, four EU officials with knowledge of the discussions said. In an attempt to overcome resistance from national capitals, the EU executive is planning to reduce the number of companies covered by the new levy.",
+    "title": "Europe’s AI safety rules take on US rogue agents and Chinese ambitions",
+    "summary": "BRUSSELS — The U.S.-China race for AI supremacy has suddenly given way to a race for AI safety. And in that race, until recently, the European Union has largely been running alone. It was the news last week of a first-ever case of an autonomous AI agent going rogue that sent U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/commission-eyes-changes-big-business-tax-unlock-budget-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-27"
   },
   {
@@ -97,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "Un fabricant chinois de puces s’apprête à réaliser la plus grosse levée de fonds d’Asie grâce au boom de l’IA",
-    "summary": "Le chinois ChangXin Memory Technologies (CXMT) pourrait dépasser les 1 000 milliards de yuans (129 milliards d’euros) de valorisation lundi 27 juillet, après son introduction en Bourse à Shanghaï.",
+    "title": "Les actionnaires frondeurs du Crédit agricole, du lobbying à la Cour de cassation",
+    "summary": "« Ces placements qui passent mal » (2/6). Une partie des porteurs de certificats coopératifs d’investissement de caisses régionales mène une guerre d’usure depuis dix ans contre l’organe central du Crédit agricole. Plus d’une dizaine de milliers d’investisseurs en ont souscrit, pour un montant total estimé à 2,5 milliards d’euros.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/26/un-fabricant-chinois-de-puces-s-apprete-a-realiser-la-plus-grosse-levee-de-fonds-d-asie-grace-au-boom-de-l-ia_6733368_3234.html",
-    "date": "2026-07-26"
+    "link": "https://www.lemonde.fr/argent/article/2026/07/28/les-actionnaires-frondeurs-du-credit-agricole-du-lobbying-a-la-cour-de-cassation_6734598_1657007.html",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -129,19 +141,19 @@
   },
   {
     "type": "news",
-    "title": "AI companies spend record sums on Washington lobbying",
-    "summary": "https://archive.ph/PASMJ Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 199 # Comments: 97",
+    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+    "summary": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sp... Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 265 # Comments: 226",
     "source": "Hacker News",
-    "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
-    "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
+    "title": "White House rolls out AI funding — and signals a new era for US science",
+    "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shake-up in funding while handing out grants to accelerate research with AI.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02211-2",
-    "date": "2026-07-20"
+    "link": "https://www.nature.com/articles/d41586-026-02332-8",
+    "date": "2026-07-24"
   },
   {
     "type": "news",
@@ -161,11 +173,11 @@
   },
   {
     "type": "news",
-    "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-    "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
+    "title": "The £5 coffee that tells a story of global economic turmoil",
+    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-27"
+    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28"
   },
   {
     "type": "news",
@@ -177,18 +189,18 @@
   },
   {
     "type": "news",
-    "title": "Cryptomonnaies : une contribution estimée à 55 milliards de dollars pour l'économie américaine",
-    "summary": "Cryptomonnaies : une contribution estimée à 55 milliards de dollars pour l'économie américaine Cryptoast",
+    "title": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA",
+    "summary": "PETIT DÉJEUNER MARCHÉS EUROPE - Les semi-conducteurs ébranlés par un changement de dynamique dans l'IA Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEEwX0RoclhWVG1pdExkRGY3VVpKZDNQUHZQeXdJNFU3Z0pWWnV1eTNQWXBvb3JkUlFTMk5GbWlucmZhNTVaWklvUjlTbjhhM0drYjBIM2ZoZV9UeGd3UW9RNmtHSlMtWUJJdEY2SS1Jak1OcDJxbUdQOXYtaVZ2M0I1MWx6b0VmV3UwWkU0dTRMR1pRYXFIY2FVRnlZQ1E?oc=5",
-    "date": "2026-07-27"
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONUtDNWN4Vy1FOU9YTWllTDI2c29sY1VmNG0wd3RBbHQ4aW9pdXg0YkJtU0VmLU9TbE1GRjA4eDNFdTNFazFHa2JOTkZrREVuZTRMVzhmcURtVmR0Z182bmc2SWluLUZ3VEdzdWFZQUYxek4zYjFGUjNZS3hyZzQ5NHdFYlc4Wnluck8zRjJOMUpIZzdBMDZpMkE5c212ZGZySkl2SUl2VWJEbktmYVNqMXM3UTZaTWFQMmlWNDFWX1lqdWYtS2xoUlF6RG9HU1NUWEVQRTZPYng2WjdmYjBSTkpuU041R0hwbV9xTXRR?oc=5",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Au Chili, le président d’extrême droite réclame le remboursement de plus d’un demi-million de prêts étudiants",
-    "summary": "Elu en mars, José Antonio Kast exige que les 550 000 bénéficiaires d’un crédit universitaire avec garantie de l’Etat aujourd’hui en défaut de paiement honorent leur dette. Plus de 1 000 débiteurs ont déjà vu leur compte en banque saisi.",
+    "title": "Shein : 42 milliards de dollars de chiffre d’affaires, un milliard de commandes, 4 700 nouveautés par jour… les chiffres fous du géant chinois de l’ultra-fast-fashion",
+    "summary": "Le prospectus provisoire de son introduction en Bourse est une mine d’informations sur la plateforme de vente en ligne d’habillement à petits prix.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/27/au-chili-le-president-d-extreme-droite-reclame-le-remboursement-de-plus-d-un-demi-million-de-prets-etudiants_6734192_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/shein-42-milliards-de-dollars-de-chiffre-d-affaires-un-milliard-de-commandes-4-700-nouveautes-par-jour-les-chiffres-fous-du-geant-chinois-de-l-utra-fast-fashion_6734212_3234.html",
     "date": "2026-07-27"
   },
   {
@@ -209,27 +221,27 @@
   },
   {
     "type": "news",
-    "title": "Le Koweït et le Pakistan signent un nouvel accord de défense",
-    "summary": "En pleine recrudescence de la guerre contre l’Iran, le Koweït cherche à diversifier ses alliances militaires. Alors que les milliers de soldats américains stationnés dans ce pays n’ont pas suffi à empêcher les attaques de Téhéran, Islamabad s’impose un peu plus comme “une solution de remplacement ou un complément” de la protection américaine dans le Golfe, e…",
+    "title": "Face aux incendies, “l’indispensable aide européenne”",
+    "summary": "Soutiens aériens, terrestres et même satellitaires : lorsque l’un de ses membres est confronté à une urgence climatique, l’Union européenne sait se montrer utile, salue la presse espagnole.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-le-koweit-et-le-pakistan-signent-un-nouvel-accord-de-defense_253217",
-    "date": "2026-07-27"
+    "link": "https://www.courrierinternational.com/article/vu-de-madrid-face-aux-incendies-l-indispensable-aide-europeenne_253233",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Five years after Saied’s power grab, Tunisians are no better off",
-    "summary": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
+    "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+    "summary": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech",
-    "summary": "U.S. President Donald Trump says they’re a tax. European regulators consider it routine enforcement. Either way, when EU bureaucrats slap the world’s biggest technology companies with a fine, the numbers can make your eyes bulge. How exactly these financial penalties are determined is somewhere between an art and a science.",
+    "title": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China",
+    "summary": "Anthropic CEO Dario Amodei on Monday called for a crackdown on China’s access to American artificial intelligence technology, days after the company declined to join other U.S. tech giants in opposing a draconian response to low-cost Chinese AI. While not endorsing a ban on Chinese AI models, Amodei repeated his past pleas for the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-27"
+    "link": "https://www.politico.com/news/2026/07/27/anthropic-ceo-dont-ban-cheap-ai-but-clamp-down-on-china-01013217?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -238,6 +250,14 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260724-guerre-en-iran-comment-l-embargo-sur-les-images-satellites-us-a-entrav%C3%A9-la-v%C3%A9rification-des-faits",
     "date": "2026-07-24"
+  },
+  {
+    "type": "news",
+    "title": "En fusionnant TIM et Poste Italiane, l’Italie bâtit un géant souverain des télécoms au détriment de la consolidation européenne du secteur",
+    "summary": "En soutenant la constitution de ce nouveau groupe, le gouvernement de Giorgia Meloni a privilégié les intérêts italiens, à l’heure où Bruxelles veut favoriser l’émergence de champions européens transnationaux, plus à même de résister à la concurrence sino-américaine.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/27/en-fusionnant-tim-et-poste-italiane-l-italie-batit-un-geant-souverain-des-telecoms-au-detriment-de-la-consolidation-europeenne-du-secteur_6734011_3234.html",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
@@ -257,27 +277,27 @@
   },
   {
     "type": "news",
-    "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-    "summary": "Paramount Skydance agreed to a longer-term delay of its $111 billion acquisition of Warner Bros. Discovery, preventing the companies from combining until after a judge rules on the merits of a case in which a dozen states challenged the legality of the merger.",
+    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+    "summary": "The Trump administration today exempted SpaceX's Starlink routers from the Federal Communications Commission ban on foreign-made routers. A public notice issued by the FCC said Starlink routers received approval from the Department of War (also known as the Department of Defense). SpaceX's exemption is good until February 1, 2028.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-    "date": "2026-07-24"
+    "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Magnolias are so old that they're pollinated by beetles, not bees (2025)",
-    "summary": "Article URL: https://mymodernmet.com/magnolia-ancient-flowers-beetles/ Comments URL: https://news.ycombinator.com/item?id=49009706 Points: 241 # Comments: 85",
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 244 # Comments: 56",
     "source": "Hacker News",
-    "link": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-    "date": "2026-07-22"
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "White House rolls out AI funding — and signals a new era for US science",
-    "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shake-up in funding while handing out grants to accelerate research with AI.",
+    "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
+    "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02332-8",
-    "date": "2026-07-24"
+    "link": "https://www.nature.com/articles/d41586-026-02275-0",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
@@ -297,15 +317,15 @@
   },
   {
     "type": "news",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+    "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-02"
+    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
+    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
     "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
@@ -313,19 +333,19 @@
   },
   {
     "type": "news",
-    "title": "Guerre au Moyen-Orient : chute des prix du pétrole, les marchés parient sur l’accalmie entre les États-Unis et l’Iran",
-    "summary": "Guerre au Moyen-Orient : chute des prix du pétrole, les marchés parient sur l’accalmie entre les États-Unis et l’Iran Le Figaro",
+    "title": "La Bourse de Chicago lance un produit pour miser sur SpaceX ou Nvidia sans devoir acheter d'actions",
+    "summary": "La Bourse de Chicago lance un produit pour miser sur SpaceX ou Nvidia sans devoir acheter d'actions Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjBFaHppd3h5U1VfeDNhOTNlTDBURGNhalRQWlVISGluOUw2NVBtQUo3akZ4eFFMTXlPdEtlY3Nyem5OOE9xZDRUOUF4UXdOTm4zZ29YaF9mbVZCQWZ6QUpnNkFiV0Z0WWlpWUtyN0VTOGhHYjVJcExBejZZYUZGUVZrZWk0aUZCcjFzTnY4aXd4UW1CeGVqYWUyTjBEdnRkaGlHTXZRVWZqMlNETmkta1JVaVBKQ0Vib1pILUJIa0NpY05CYVM1UFp6dUQ1OGNpY2V4U0xzb2haeG1XWk4wUlBfa1Y1Mm5rT21oZkJhOGY?oc=5",
-    "date": "2026-07-27"
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUE9tazdPXy1waW04N05YbElDOE1jS1YtNTRKM2Q0OFRPR2lYSG5uQS04a0R4WUpZbURLR1JnaGlxMWd5LUQzTjlkTmZRdk52N1pPZ1UxLXJjTWRSRHRkdi0tQm9zVWNtaGlPVHNGTXg2UmdacTN3bm4xMmpLRWwwNzNGNEtGMkE2STV3bVEtek9UclZsNnlOSV9pNXlWYV94anA2eUhKS0JQZ2RVMk1GQnlTYmpNOEYwLVhYU2QzOUx6Wk5HN050TkUxaHBzb01EOU1RVHl0ZldSdUJJd1NKeVdSRGtnNjNFVnJSb3VFY0pyV2ZtWGFUcg?oc=5",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "En fusionnant TIM et Poste Italiane, l’Italie bâtit un géant souverain des télécoms au détriment de la consolidation européenne du secteur",
-    "summary": "En soutenant la constitution de ce nouveau groupe, le gouvernement de Giorgia Meloni a privilégié les intérêts italiens, à l’heure où Bruxelles veut favoriser l’émergence de champions européens transnationaux, plus à même de résister à la concurrence sino-américaine.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : des échanges diplomatiques entre l’Iran, Oman et l’Arabie saoudite après plusieurs jours consécutifs d’accalmie",
+    "summary": "Les ministres des affaires étrangères iranien, omanais et saoudien ont évoqué l’état du détroit d’Ormuz, et appelé à la coopération face aux Etats-Unis, selon des médias iraniens. Donald Trump a dit avoir décidé de suspendre les bombardements afin de donner une nouvelle chance aux négociations, selon des médias américains.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/27/en-fusionnant-tim-et-poste-italiane-l-italie-batit-un-geant-souverain-des-telecoms-au-detriment-de-la-consolidation-europeenne-du-secteur_6734011_3234.html",
-    "date": "2026-07-27"
+    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-israelienne-dit-avoir-intercepte-un-drone-pres-de-la-frontiere-jordanienne_6725301_3210.html",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -353,19 +373,19 @@
   },
   {
     "type": "news",
-    "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-    "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+    "title": "Malaysia detains more than 100 Rohingya seeking help from the UN",
+    "summary": "Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
-    "date": "2026-07-27"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/malaysia-detains-more-than-100-rohingya-seeking-help-from-the-un?traffic_source=rss",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Romania slams Russia over weekend drone incursions",
-    "summary": "Romania presented Russia’s ambassador to Bucharest with fragments of drones shot down in Romanian airspace over the weekend, after summoning him to a meeting as part of a strong diplomatic pushback against the incursions. Between Friday and Sunday Romania shot down three suspected Russian drones that violated its airspace.",
+    "title": "Ukraine is embracing MAGA. It’s not clear if MAGA is hugging back.",
+    "summary": "Ukrainian President Volodymyr Zelenskyy arrives in Washington this week having made initial headway courting the MAGA movement that has long complicated his push to keep U.S. support flowing for Ukraine’s war against Russia.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/romania-slams-russia-over-weekend-drone-incursions/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-27"
+    "link": "https://www.politico.com/news/2026/07/27/ukraine-is-embracing-maga-its-not-clear-if-maga-is-hugging-back-01013312?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
@@ -374,13 +394,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
     "date": "2026-07-23"
-  },
-  {
-    "type": "news",
-    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-    "date": "2026-07-24"
   }
 ]
