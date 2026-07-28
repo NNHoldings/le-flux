@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quels sont les principaux concepts de l'économie classique?",
+    "answer": "L'économie classique, développée au XVIIIe et au XIXe siècles, repose sur des concepts tels que la main invisible de Adam Smith, qui prône que l'intérêt personnel conduit à la prospérité générale. Les économistes comme David Ricardo et John Stuart Mill ont également contribué à des théories sur la valeur et le libre-échange."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles idées ont caractérisé le keynésianisme?",
+    "answer": "Le keynésianisme, formulé par John Maynard Keynes durant la Grande Dépression des années 1930, prône l'intervention de l'État dans l'économie pour stabiliser le cycle économique. Keynes soutient que la demande globale est le principal moteur de l'économie et que des dépenses publiques peuvent stimuler cette demande."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la pensée économique marxiste a-t-elle influencé le monde?",
+    "answer": "La pensée économique marxiste, développée par Karl Marx au milieu du XIXe siècle, critique le capitalisme en analysant les relations de classe et l'exploitation des travailleurs. Son œuvre, 'Le Capital', a eu un impact majeur sur les mouvements ouvriers et a inspiré des révolutions, notamment en Russie en 1917."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle est l'importance de la théorie néoclassique?",
+    "answer": "La théorie néoclassique, émergée dans les années 1870, repose sur l'idée que les individus agissent en fonction de leur utilité et que les marchés tendent vers l'équilibre. Elle a introduit des concepts tels que l'élasticité de la demande et a influencé la politique économique jusqu'à aujourd'hui."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles innovations ont marqué l’histoire de la pensée économique au XXe siècle?",
+    "answer": "Au XXe siècle, des innovations comme la théorie des jeux, développée par John von Neumann et Oskar Morgenstern en 1944, ont révolutionné la compréhension des interactions stratégiques entre agents économiques. De plus, les travaux de Milton Friedman sur le monétarisme ont redéfini les politiques monétaires à partir des années 1970."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle la Chine a-t-elle joué dans l'évolution des idées économiques?",
+    "answer": "À partir de la fin des années 1970, la Chine a introduit des réformes économiques sous Deng Xiaoping, passant d'une économie planifiée à une économie de marché socialiste. Ce modèle a inspiré d'autres pays en développement, montrant qu'une transition vers le marché peut être compatible avec un régime politique autoritaire."
+  },
+  {
+    "type": "histoire",
     "question": "Quelles sont les principales réformes économiques de Deng Xiaoping ?",
     "answer": "À partir de 1978, Deng Xiaoping a lancé des réformes économiques majeures en Chine, introduisant le concept de 'socialisme de marché'. Ces réformes ont permis l'ouverture du pays aux investissements étrangers et ont favorisé le développement du secteur privé, entraînant une croissance économique rapide."
   },
