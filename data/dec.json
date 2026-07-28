@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 200 ?",
+    "answer": "L'évaluation des risques d'audit selon la NEP 200 consiste à identifier et à évaluer les risques d'anomalies significatives dans les états financiers, en tenant compte de la compréhension de l'entité et de son environnement."
+  },
+  {
+    "type": "dec",
+    "question": "Quelle est la première étape de l'évaluation des risques d'audit ?",
+    "answer": "La première étape est la compréhension de l'entité et de son environnement, y compris le système de contrôle interne, afin d'identifier les risques potentiels."
+  },
+  {
+    "type": "dec",
+    "question": "Comment la NEP 240 aborde-t-elle le risque de fraude dans l'audit ?",
+    "answer": "La NEP 240 exige que l'auditeur prenne en compte le risque de fraude lors de l'évaluation des risques d'audit et qu'il mette en place des procédures pour répondre à ce risque."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les trois catégories de risques d'audit selon la NEP 315 ?",
+    "answer": "Les trois catégories de risques d'audit selon la NEP 315 sont le risque inhérent, le risque de contrôle et le risque de détection."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le code de commerce français influence-t-il l'évaluation des risques d'audit ?",
+    "answer": "Le code de commerce impose des obligations de transparence et de sincérité dans les états financiers, ce qui influence l'évaluation des risques d'audit en exigeant des vérifications rigoureuses."
+  },
+  {
+    "type": "dec",
+    "question": "Quel est le rôle des procédures analytiques dans l'évaluation des risques d'audit ?",
+    "answer": "Les procédures analytiques aident à identifier des anomalies potentielles en comparant les données financières avec des attentes basées sur des tendances historiques ou des ratios, contribuant ainsi à une évaluation plus précise des risques."
+  },
+  {
+    "type": "dec",
     "question": "Quelles sont les principales obligations déontologiques du commissaire aux comptes selon le Code de commerce ?",
     "answer": "Les principales obligations déontologiques incluent l'indépendance, l'intégrité, la compétence, la diligence, la confidentialité et la loyauté envers les parties prenantes."
   },
