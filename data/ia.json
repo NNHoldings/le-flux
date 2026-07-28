@@ -1,6 +1,16 @@
 [
   {
     "type": "ia",
+    "term": "Apprentissage profond",
+    "explanation": "L'apprentissage profond est une sous-catégorie de l'apprentissage automatique qui utilise des réseaux de neurones à plusieurs couches pour traiter des données non structurées. Émergeant dans les années 2010, il a permis des avancées significatives dans des domaines comme la vision par ordinateur et le traitement du langage naturel. Ses applications économiques sont vastes, allant de la santé à l'automatisation industrielle."
+  },
+  {
+    "type": "ia",
+    "term": "Singularity",
+    "explanation": "La singularité est un concept futuriste qui désigne un point hypothétique où l'intelligence artificielle surpassera l'intelligence humaine, entraînant des changements radicaux dans la société. Ce concept, popularisé par des penseurs comme Ray Kurzweil, suscite des débats sur les conséquences éthiques et économiques de telles avancées. Les enjeux incluent la sécurité, le contrôle et l'impact sur l'emploi."
+  },
+  {
+    "type": "ia",
     "term": "AI Winter",
     "explanation": "L'AI Winter désigne les périodes de stagnation et de désillusion dans le développement de l'intelligence artificielle, survenues dans les années 1970 et 1980. Ces phases étaient caractérisées par une réduction des financements et des recherches, due à des attentes non satisfaites et à des limitations technologiques."
   },
