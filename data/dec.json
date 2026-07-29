@@ -1,6 +1,36 @@
 [
   {
     "type": "dec",
+    "question": "Quelles sont les principales missions d'un commissaire aux comptes selon le Code de commerce ?",
+    "answer": "Les principales missions incluent la certification des comptes annuels, le contrôle des comptes consolidés et la vérification de la régularité et de la sincérité des informations financières."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles normes encadrent la déontologie des commissaires aux comptes ?",
+    "answer": "La déontologie est encadrée par les Normes d'Exercice Professionnel (NEP) et le Code de déontologie des commissaires aux comptes, qui précisent les obligations de compétence, d'indépendance et de secret professionnel."
+  },
+  {
+    "type": "dec",
+    "question": "Quels sont les principes d'indépendance du commissaire aux comptes ?",
+    "answer": "Les principes d'indépendance comprennent l'absence de lien personnel ou financier avec l'entité auditée, ainsi que le respect des périodes de rotation des missions pour éviter les conflits d'intérêts."
+  },
+  {
+    "type": "dec",
+    "question": "Comment le commissaire aux comptes doit-il gérer les conflits d'intérêts ?",
+    "answer": "Il doit signaler tout conflit d'intérêts potentiel et, si nécessaire, se retirer de la mission d'audit pour préserver son indépendance."
+  },
+  {
+    "type": "dec",
+    "question": "Quelles sont les conséquences d'une violation des règles déontologiques ?",
+    "answer": "Les conséquences peuvent inclure des sanctions disciplinaires, la suspension ou l'exclusion de l'Ordre des commissaires aux comptes, ainsi que des poursuites pénales dans certains cas."
+  },
+  {
+    "type": "dec",
+    "question": "Quels articles du Code de commerce traitent de la déontologie du commissaire aux comptes ?",
+    "answer": "Les articles L. 820-1 à L. 820-6 du Code de commerce abordent les obligations déontologiques des commissaires aux comptes, y compris l'indépendance et la responsabilité."
+  },
+  {
+    "type": "dec",
     "question": "Qu'est-ce que l'évaluation des risques d'audit selon la NEP 200 ?",
     "answer": "L'évaluation des risques d'audit selon la NEP 200 consiste à identifier et à évaluer les risques d'anomalies significatives dans les états financiers, en tenant compte de la compréhension de l'entité et de son environnement."
   },
