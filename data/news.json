@@ -5,8 +5,8 @@
     "title": "L'essentiel du jour",
     "bullets": [
       "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'UE continue de renforcer ses sanctions contre la Russie en réponse à la guerre en Ukraine.",
-      "Les actions liées aux semi-conducteurs chutent en raison des inquiétudes concernant l'IA."
+      "L'Ukraine intensifie ses efforts militaires, impactant l'économie russe et les relations internationales.",
+      "Les actions de la technologie, notamment dans l'IA, sont perturbées par des inquiétudes des investisseurs."
     ],
     "source": "Le Flux",
     "date": "2026-07-29"
@@ -37,27 +37,27 @@
   },
   {
     "type": "news",
-    "title": "Senate sets up votes to sanction Russia for Ukraine war",
-    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+    "summary": "Ukraine's drone attacks on Russia's biggest online retailer Wildberries have ratcheted up the pressure on Moscow's wartime economy.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit dans le vert, portée par les résultats et la baisse du pétrole",
-    "summary": "Point marchés-L'Europe finit dans le vert, portée par les résultats et la baisse du pétrole Zonebourse",
+    "title": "Point marchés-Wall Street vue dans le désordre avant la Fed, l'Europe hésite entre résultats et pétrole",
+    "summary": "Point marchés-Wall Street vue dans le désordre avant la Fed, l'Europe hésite entre résultats et pétrole Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOF9oZWNVaTFtTGZrcXJRQktlbS1tbFdvbEFKYk5WeVhMM1ptaHY2Uk9mbEhiWmh4MEluUHpEQUdXdl9mcUxPM0ZnR0VvMzY0bHZLcUtjbmJqdHBua1hIRVNHYjdxNUp4YUR2R3NYVllRbE8xYjg3ZHZZdU5BdlFMOHhIb1k5X2FUM0FfazdCcmJyXzBTcDFJeGhNQmNvTkxweERrZTZjZEN4SjZyNFZscHNJc0J4VktfdlBuTG1kME5DUFllUjdRMGZVWmVQeG5IWDBVVlo0c3dIRnZrYl9NWVhlQ3M0dw?oc=5",
-    "date": "2026-07-28"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEV0RVlUWkFwMVdKelB2X0lfUGdNX0pJSGxyRjhZSWNnV3M1M0ZpTDdNT2VHTERLbkdUVEhvSzk1ZmFydkZsVW5BajFjZGIwZnJsZ1FHR3JEY2swU1l3V1MzeFlTWXVqTmlSLU9sYmNRZVdBcnJMY2lEX1ZyZHhSN2FkSDBWUm5VTXFWbzA3V2tKOTl3RThnSnFWeEhHSVJRYWRNUEZjRE9RcE1tLWREb21zVnE3SFk5YWozbmpjSXRXeW5PLWZ1Q3V1R0w5TmZya0lTaENlNTF2VkhXRkZGa2k1MU9Bb3o1ZFFBQy1CcFVwUQ?oc=5",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
-    "summary": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "summary": "L’armée ukrainienne a attaqué, mercredi, un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires et énergétiques en Russie, dans le district de Riazan ainsi que dans les régions de Perm et Rostov, et en mer Noire.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
-    "date": "2026-07-28"
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-un-entrepot-de-wildberries-l-amazon-russe-attaque-par-l-ukraine-dans-l-ouest-de-la-russie_6732775_3210.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -69,34 +69,34 @@
   },
   {
     "type": "news",
-    "title": "The AI Threat to Financial Stability",
-    "summary": "In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.",
+    "title": "Europe Is Fiddling While Rome Burns",
+    "summary": "Focusing only on emergency planning, disaster response, and recovery after each climate catastrophe is no longer enough in Europe. Policymakers urgently need to start mapping Europe’s long-term future, which will require a fundamental overhaul of its infrastructure, energy system, and major economic sectors.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07",
-    "date": "2026-07-28"
+    "link": "https://www.project-syndicate.org/commentary/europe-still-not-addressing-scale-of-changing-material-and-economic-conditions-by-giulio-boccaletti-2026-07",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Incendies en Europe : le changement climatique ne doit pas être un alibi pour l’inaction",
-    "summary": "Imputer l’ampleur des feux qui ravagent le sud de l’Europe au changement climatique n’est pas une raison pour passer sous silence les manquements des autorités, s’insurge “ABC”. Dans un éditorial, le quotidien conservateur espagnol torpille des politiques environnementales contradictoires et prône un retour à une “gestion forestière traditionnelle”.",
+    "title": "Frappe ukrainienne sur un navire iranien : les deux guerres sont “de plus en plus imbriquées”",
+    "summary": "Avec sa frappe contre un navire iranien sur la route maritime qui relie Téhéran à Moscou, Kiev étend la guerre en Ukraine jusqu’à un corridor vital pour l’Iran et la Russie. Perçue comme la première ciblant directement un navire battant pavillon iranien, cette attaque pourrait ouvrir un nouveau front, tout en permettant à Volodymyr Zelensky d’afficher auprès…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-d-espagne-incendies-en-europe-le-changement-climatique-ne-doit-pas-etre-un-alibi-pour-l-inaction_253443",
+    "link": "https://www.courrierinternational.com/article/conflits-frappe-ukrainienne-sur-un-navire-iranien-les-deux-guerres-sont-de-plus-en-plus-imbriquees_253481",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-    "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
+    "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+    "summary": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-    "date": "2026-07-28"
+    "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Senators vote to advance Russia sanctions bill in Graham’s name",
-    "summary": "Senators voted overwhelmingly Tuesday night to advance a sweeping Russia sanctions bill that Sen. Lindsey Graham (R-S.C.) had long sought to move forward before his unexpected death. The 86 to 12 procedural vote tees up the bill for final passage in the upper chamber later this week.",
+    "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack",
+    "summary": "The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, according to a new analysis from the platform that was breached.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/28/senators-advance-russia-sanctions-bill-lindsey-graham-01014368?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-29"
   },
   {
@@ -109,10 +109,10 @@
   },
   {
     "type": "news",
-    "title": "CMA CGM augmente ses profits malgré le conflit au Moyen-Orient",
-    "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars (2,6 milliards d’euros) de bénéfice opérationnel au deuxième trimestre.",
+    "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
+    "summary": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
     "date": "2026-07-28"
   },
   {
@@ -141,10 +141,10 @@
   },
   {
     "type": "news",
-    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 157 # Comments: 87",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes Comments URL: https://news.ycombinator.com/item?id=49093569 Points: 263 # Comments: 91",
     "source": "Hacker News",
-    "link": "https://learnvector.ai/",
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
     "date": "2026-07-29"
   },
   {
@@ -181,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
-    "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
+    "title": "Senate sets up votes to sanction Russia for Ukraine war",
+    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "L’or stable avant la Fed ; le rebond du pétrole ravive les craintes d’inflation",
-    "summary": "L’or stable avant la Fed ; le rebond du pétrole ravive les craintes d’inflation Yahoo Finance France",
+    "title": "Perspectives d’inflation dans la zone euro : la hausse des prix de l’énergie va-t-elle contraindre la BCE à relever ses taux?",
+    "summary": "Perspectives d’inflation dans la zone euro : la hausse des prix de l’énergie va-t-elle contraindre la BCE à relever ses taux? Morningstar",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFZkaW9WNFJ4SXMzb3l6X1lWZ0tSWnZZWG45MHNWMXFibHRfSXBBdS1LaFlEcjNHNmF0TW1rWTM3cmg3aFVIb0thYjZiTlF4Y1l6ejZmbGVOOERrc05yRmxtYjdId1hIeGZHVDFweFlaLXdqbUZWcVBrdE9nNmhsRXJn?oc=5",
-    "date": "2026-07-28"
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1JWRzJieWRCNk1DcHdLNE56UEU0LXZzNjAxNFFsMC0zaUlPOU5yNDk1UE5vc1V2SmNaQW5KMktIdnpvQmtta2w4Y1liSzBObXZrcERGWjRyZjd4RS14czJUUTl0Tzh1b1E3WmZSZEtsUHpaQTBDa1BlRFR2di1FQlhPbWNpR1ltdEU0akVMQndCbEVfVEhfUkdoQ3FjY1F3SjlHc3k0SlRXanhvQWFERTVCckRsYjlQUFNaS0xwb3NMMkZmRGVFX08xVEQ0WjJWN2tfLVkyQnVzcWhCVjk2LUR6T2lHRnRlSjdFckNvbmxOWUJT?oc=5",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : un entrepôt de Wildberries, le « Amazon russe », attaqué par l’Ukraine dans l’ouest de la Russie",
-    "summary": "Selon plusieurs médias russes, un incendie s’est déclaré dans un centre logistique de Wildberries, dans le district de Riazan, ainsi que sur le site de la raffinerie de Riazan. La raffinerie de pétrole locale a également été touchée, selon les autorités locales.",
+    "title": "Xenia Fedorova, propagandiste prorusse, visée par un arrêté d’expulsion, annonce le ministère de l’intérieur français",
+    "summary": "« Son comportement porte atteinte aux intérêts fondamentaux de l’Etat » et sa présence sur le territoire « constitue pour ce motif une menace particulièrement grave et actuelle pour l’ordre public », peut-on lire dans le document consulté par « Libération ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-donald-trump-declare-que-sa-rencontre-avec-volodymyr-zelensky-a-la-maison-blanche-s-est-tres-bien-passee_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
     "date": "2026-07-29"
   },
   {
@@ -213,34 +213,34 @@
   },
   {
     "type": "news",
-    "title": "The Strong Suffer What They Must",
-    "summary": "Foolish military interventions driven by outdated calculations of economic power have thoroughly discredited the old big powers. Thucydides might well have appreciated the irony of a world in which smaller, weaker countries like Ukraine and Iran can expose Russia and the United States, respectively, as paper tigers.",
+    "title": "The AI Threat to Financial Stability",
+    "summary": "In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/us-russia-discredited-by-smaller-powers-by-harold-james-2026-07",
-    "date": "2026-07-23"
-  },
-  {
-    "type": "news",
-    "title": "Frappe ukrainienne sur un navire iranien : les deux guerres sont “de plus en plus imbriquées”",
-    "summary": "Avec sa frappe contre un navire iranien sur la route maritime qui relie Téhéran à Moscou, Kiev étend la guerre en Ukraine jusqu’à un corridor vital pour l’Iran et la Russie. Perçue comme la première ciblant directement un navire battant pavillon iranien, cette attaque pourrait ouvrir un nouveau front, tout en permettant à Volodymyr Zelensky d’afficher auprès…",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflits-frappe-ukrainienne-sur-un-navire-iranien-les-deux-guerres-sont-de-plus-en-plus-imbriquees_253481",
+    "link": "https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
-    "summary": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+    "title": "Téhéran brise l’accalmie en lançant une attaque surprise contre les forces américaines",
+    "summary": "Les frappes au Moyen-Orient ont repris mercredi après une pause de plusieurs jours : l’Iran a attaqué les forces américaines en Jordanie avant qu’une opération conjointe des États-Unis et de l’Arabie saoudite ne vise un peu plus tard des milices pro-iraniennes en Irak. La presse américaine y voit une escalade et l’entrée directe de Riyad dans le conflit.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-brise-l-accalmie-en-lancant-une-attaque-surprise-contre-les-forces-americaines_253674",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack",
-    "summary": "The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, according to a new analysis from the platform that was breached.",
+    "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+    "summary": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+    "date": "2026-07-29"
+  },
+  {
+    "type": "news",
+    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+    "summary": "Russia charged Telegram co-founder and CEO Pavel Durov on Wednesday with facilitating terrorist activity and placed the Soviet-born Kremlin critic on an international wanted list. The Federal Security Service (FSB) accused Durov’s messaging platform of supporting Ukrainian intelligence services.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/russia-charges-telegram-founder-durov-terrorism-allegations/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-29"
   },
   {
@@ -253,19 +253,19 @@
   },
   {
     "type": "news",
-    "title": "Les actionnaires frondeurs du Crédit agricole, du lobbying à la Cour de cassation",
-    "summary": "« Ces placements qui passent mal » (2/6). Une partie des porteurs de certificats coopératifs d’investissement de caisses régionales mène une guerre d’usure depuis dix ans contre l’organe central du Crédit agricole. Plus d’une dizaine de milliers d’investisseurs en ont souscrit, pour un montant total estimé à 2,5 milliards d’euros.",
+    "title": "CMA CGM augmente ses profits malgré le conflit au Moyen-Orient",
+    "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars (2,6 milliards d’euros) de bénéfice opérationnel au deuxième trimestre.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/07/28/les-actionnaires-frondeurs-du-credit-agricole-du-lobbying-a-la-cour-de-cassation_6734598_1657007.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-    "date": "2026-07-24"
+    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -285,11 +285,11 @@
   },
   {
     "type": "news",
-    "title": "Codex Security",
-    "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 473 # Comments: 144",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 222 # Comments: 141",
     "source": "Hacker News",
-    "link": "https://github.com/openai/codex-security",
-    "date": "2026-07-28"
+    "link": "https://learnvector.ai/",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -309,11 +309,11 @@
   },
   {
     "type": "news",
-    "title": "Philip R. Lane: Outlook for the euro area economy",
+    "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
     "summary": "",
     "source": "BCE (banques centrales)",
-    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-    "date": "2026-07-24"
+    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -333,18 +333,18 @@
   },
   {
     "type": "news",
-    "title": "Les actions d'Amérique latine progressent légèrement, tandis que les marchés des changes affichent des résultats mitigés à la veille de la réunion de la Fed, sur fond de tensions persistantes au Moyen-Orient",
-    "summary": "Les actions d'Amérique latine progressent légèrement, tandis que les marchés des changes affichent des résultats mitigés à la veille de la réunion de la Fed, sur fond de tensions persistantes au Moyen-Orient TradingView",
+    "title": "Bourse: chute de l'IA à Séoul, l'Europe entre bons résultats et hausse du pétrole",
+    "summary": "Bourse: chute de l'IA à Séoul, l'Europe entre bons résultats et hausse du pétrole tv5monde",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMGpNbFkwNXkzREFUQ083ZnRpRUdfdGFCejZIdnBmcEJEaDNsNU5PNjdDVFJLbVdNcV90eGEyTFU5UDlhdXRxTkxzTlRpMlhFSDlDaDZ2Tkd5NkJyR0tZWnFDdzRZTDRUY1h6Y08wb2ZoTmpGQnJR?oc=5",
-    "date": "2026-07-28"
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVZFWUFyRE5Ia0ZabHN3RFM1YVEyckRveGgxaHlsbVNsUFBpd1dONDhXVWl1N0prWDkyRS1CLVl5VHRRS2FkRVZDUlNScFVUQVlhUWczXzBtdVVwa0wySDN1ajN2RkJjb19vMG1mYkpHSTBuLV9xcTRnVXhnMGZwR2cyeEFseEd3QXRoNDFSb2g3QTNmTU56UnhHSXVib0FzR21xYWlUQno1bkYzTGtraGlGcEVSVzdLemFzekFoNGZzQWM?oc=5",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Arabie saoudite attaquent des alliés de l’Iran en Irak, les gardiens de la révolution visent une base américaine en Jordanie",
-    "summary": "L’armée américaine dit avoir ciblé des « sites logistiques et d’armement » appartenant à une ex-coalition de paramilitaires irakiens. Dans la foulée, les gardiens de la révolution disent avoir tiré plusieurs missiles une base aérienne et le centre de commandement central de l’armée américaine en Jordanie.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
+    "summary": "Le président américain a dit ces menaces, mercredi, sur Fox News, alors que la situation s’est dégradée au Moyen-Orient après plusieurs jours d’accalmie. En plus des frappes iraniennes, les Etats-Unis et l’Arabie saoudite ont mené une attaque sur des factions pro iraniennes en Irak.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-en-jordanie-avec-plusieurs-missiles_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-attaquent-des-allies-de-l-iran-en-irak-les-gardiens-de-la-revolution-visent-une-base-americaine-en-jordanie_6725301_3210.html",
     "date": "2026-07-29"
   },
   {
@@ -357,27 +357,27 @@
   },
   {
     "type": "news",
-    "title": "Will the US Climate War with Canada Become Global?",
-    "summary": "For the first time, a great power has moved to price transboundary climate-driven harms–massive wildfires–and extract compensation unilaterally. What was previously a development, insurance, or emissions-accounting issue is now a security and trade dispute between two G7 economies, setting a precedent that others may try to follow.",
+    "title": "The Strong Suffer What They Must",
+    "summary": "Foolish military interventions driven by outdated calculations of economic power have thoroughly discredited the old big powers. Thucydides might well have appreciated the irony of a world in which smaller, weaker countries like Ukraine and Iran can expose Russia and the United States, respectively, as paper tigers.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/trump-us-canada-wildfire-tariff-first-climate-security-fight-by-vera-songwe-2026-07",
-    "date": "2026-07-22"
+    "link": "https://www.project-syndicate.org/commentary/us-russia-discredited-by-smaller-powers-by-harold-james-2026-07",
+    "date": "2026-07-23"
   },
   {
     "type": "news",
-    "title": "Téhéran brise l’accalmie en lançant une attaque surprise contre les forces américaines",
-    "summary": "Les frappes au Moyen-Orient ont repris mercredi après une pause de plusieurs jours : l’Iran a attaqué les forces américaines en Jordanie avant qu’une opération conjointe des États-Unis et de l’Arabie saoudite ne vise un peu plus tard des milices pro-iraniennes en Irak. La presse américaine y voit une escalade et l’entrée directe de Riyad dans le conflit.",
+    "title": "Un migrant sans casier judiciaire renvoyé en Afghanistan : Berlin franchit un “nouveau cap”",
+    "summary": "Le renvoi vers Kaboul d’un ressortissant afghan n’ayant commis aucun crime en Allemagne constitue une première depuis le retour au pouvoir des talibans. Pour la presse d’outre-Rhin, la reprise des expulsions de grande ampleur promise par le gouvernement de Friedrich Merz est désormais actée.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-brise-l-accalmie-en-lancant-une-attaque-surprise-contre-les-forces-americaines_253674",
+    "link": "https://www.courrierinternational.com/article/politique-un-migrant-sans-casier-judiciaire-renvoye-en-afghanistan-berlin-franchit-un-nouveau-cap_253740",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-    "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
+    "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+    "summary": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
-    "date": "2026-07-28"
+    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -389,10 +389,10 @@
   },
   {
     "type": "news",
-    "title": "Incendies: «Il faut lutter contre le négationnisme climatique», avertit le chef de la diplomatie espagnole",
-    "summary": "La situation commençait à s'améliorer, mardi 28 juillet 2026 en Espagne où le Premier ministre, Pedro Sanchez a dit apercevoir « la lumière au bout du tunnel ». Mais une nouvelle vague de chaleur s'installe et l'Agence météorologique nationale (Aemet) alerte sur des risques extrêmes d'incendie.",
+    "title": "Zinédine Zidane, sélectionneur enthousiaste et diplomate malgré lui",
+    "summary": "Sans surprise, Zinédine Zidane est donc officiellement le nouveau sélectionneur de l’équipe de France de football. L’enjeu est avant tout sportif. Il s’agit de maintenir les Bleus au plus haut niveau après trois qualifications d’affilée pour le dernier carré de la Coupe du monde. Mais le poste est tellement exposé, que cela va bien au-delà de ça.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260729-incendies-il-faut-lutter-contre-le-n%C3%A9gationnisme-climatique-avertit-le-chef-de-la-diplomatie-espagnole",
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260729-zin%C3%A9dine-zidane-s%C3%A9lectionneur-enthousiaste-et-diplomate-malgr%C3%A9-lui",
     "date": "2026-07-29"
   }
 ]
