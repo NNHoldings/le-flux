@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "L'Ukraine intensifie ses efforts militaires, impactant l'économie russe et les relations internationales.",
-      "Les actions de la technologie, notamment dans l'IA, sont perturbées par des inquiétudes des investisseurs."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -38,7 +26,7 @@
   {
     "type": "news",
     "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "summary": "Ukraine's drone attacks on Russia's biggest online retailer Wildberries have ratcheted up the pressure on Moscow's wartime economy.",
+    "summary": "Ukraine's drone attacks on Russia's biggest online retailer, Wildberries, have ratcheted up the pressure on Moscow's wartime economy.",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
     "date": "2026-07-29"
@@ -53,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-    "summary": "L’armée ukrainienne a attaqué, mercredi, un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires et énergétiques en Russie, dans le district de Riazan ainsi que dans les régions de Perm et Rostov, et en mer Noire.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
+    "summary": "Le président américain a proféré ces menaces, mercredi, sur Fox News, alors que la situation s’est dégradée au Moyen-Orient après plusieurs jours d’accalmie. En plus des frappes iraniennes, les Etats-Unis et l’Arabie saoudite ont mené une attaque sur des factions pro-iraniennes en Irak.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-un-entrepot-de-wildberries-l-amazon-russe-attaque-par-l-ukraine-dans-l-ouest-de-la-russie_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-donald-trump-promet-que-les-etats-unis-vont-frapper-fort-en-iran-apres-les-attaques-sur-une-base-americaine-en-jordanie_6725301_3210.html",
     "date": "2026-07-29"
   },
   {
@@ -77,11 +65,11 @@
   },
   {
     "type": "news",
-    "title": "Frappe ukrainienne sur un navire iranien : les deux guerres sont “de plus en plus imbriquées”",
-    "summary": "Avec sa frappe contre un navire iranien sur la route maritime qui relie Téhéran à Moscou, Kiev étend la guerre en Ukraine jusqu’à un corridor vital pour l’Iran et la Russie. Perçue comme la première ciblant directement un navire battant pavillon iranien, cette attaque pourrait ouvrir un nouveau front, tout en permettant à Volodymyr Zelensky d’afficher auprès…",
+    "title": "Entre Moscou et Pyongyang, la naissance d’un axe routier bien utile pour la logistique militaire",
+    "summary": "Sur le point d’être achevé, le premier pont routier entre la Russie et la Corée du Nord est officiellement destiné à dynamiser les échanges commerciaux. Mais l’enquête d’une ONG ukrainienne y voit surtout un nouvel axe logistique capable de fluidifier et dissimuler les échanges militaires entre les deux alliés dans leur guerre contre Kiev.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflits-frappe-ukrainienne-sur-un-navire-iranien-les-deux-guerres-sont-de-plus-en-plus-imbriquees_253481",
-    "date": "2026-07-28"
+    "link": "https://www.courrierinternational.com/article/transport-entre-moscou-et-pyongyang-la-naissance-d-un-axe-routier-bien-utile-pour-la-logistique-militaire_253810",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -93,10 +81,10 @@
   },
   {
     "type": "news",
-    "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack",
-    "summary": "The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, according to a new analysis from the platform that was breached.",
+    "title": "France issues expulsion order against Russian TV star Xenia Fedorova",
+    "summary": "PARIS — French authorities have moved to expel from the country Xenia Fedorova, a Russian media star who has courted controversy for her pro-Kremlin narrative. Fedorova, the former head of the Kremlin-backed RT France news outlet, was handed an expulsion order by the Paris Prefecture of Police, which handles immigration matters for foreigners living in the F…",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/france-issues-expulsion-order-pro-kremlin-xenia-fedorova/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-29"
   },
   {
@@ -141,19 +129,19 @@
   },
   {
     "type": "news",
-    "title": "More Tailscale tricks for your jailbroken Kindle",
-    "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes Comments URL: https://news.ycombinator.com/item?id=49093569 Points: 263 # Comments: 91",
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "summary": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 206 # Comments: 132",
     "source": "Hacker News",
-    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "link": "https://arxiv.org/abs/2607.25398",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "White House rolls out AI funding — and signals a new era for US science",
-    "summary": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shake-up in funding while handing out grants to accelerate research with AI.",
+    "title": "Quantum meets capitalism: how to pair long-term bets on technology with commercial speed",
+    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02310-0Quantum computing exists because governments funded risky bets. Capitalism can carry it the rest of the way — if quantum scientists are supported.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02332-8",
-    "date": "2026-07-24"
+    "link": "https://www.nature.com/articles/d41586-026-02310-0",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -197,8 +185,8 @@
   },
   {
     "type": "news",
-    "title": "Xenia Fedorova, propagandiste prorusse, visée par un arrêté d’expulsion, annonce le ministère de l’intérieur français",
-    "summary": "« Son comportement porte atteinte aux intérêts fondamentaux de l’Etat » et sa présence sur le territoire « constitue pour ce motif une menace particulièrement grave et actuelle pour l’ordre public », peut-on lire dans le document consulté par « Libération ».",
+    "title": "Xenia Fedorova, propagandiste russe, visée par un arrêté d’expulsion, annonce le ministère de l’intérieur français",
+    "summary": "« Son comportement porte atteinte aux intérêts fondamentaux de l’Etat » et sa présence sur le territoire « constitue pour ce motif une menace particulièrement grave et actuelle pour l’ordre public », peut-on lire dans le document consulté par « Libération ». Xenia Fedorova va « immédiatement former un recours », a annoncé son avocat.",
     "source": "Le Monde International",
     "link": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
     "date": "2026-07-29"
@@ -221,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "Téhéran brise l’accalmie en lançant une attaque surprise contre les forces américaines",
-    "summary": "Les frappes au Moyen-Orient ont repris mercredi après une pause de plusieurs jours : l’Iran a attaqué les forces américaines en Jordanie avant qu’une opération conjointe des États-Unis et de l’Arabie saoudite ne vise un peu plus tard des milices pro-iraniennes en Irak. La presse américaine y voit une escalade et l’entrée directe de Riyad dans le conflit.",
+    "title": "Les États-Unis décident de bannir les robots humanoïdes fabriqués à l’étranger",
+    "summary": "Au nom de “risques inacceptables pour la sécurité nationale”, la Commission fédérale des communications (FCC) interdit l’importation d’“appareils robotiques avancés”. Une mise à l’index qui vise essentiellement les robots humanoïdes produits en Chine, explique la presse américaine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-brise-l-accalmie-en-lancant-une-attaque-surprise-contre-les-forces-americaines_253674",
+    "link": "https://www.courrierinternational.com/article/technologies-les-etats-unis-decident-de-bannir-les-robots-humanoides-fabriques-a-l-etranger_254104",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-    "summary": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+    "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+    "summary": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
     "date": "2026-07-29"
   },
   {
@@ -285,19 +273,19 @@
   },
   {
     "type": "news",
-    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 222 # Comments: 141",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 247 # Comments: 189",
     "source": "Hacker News",
-    "link": "https://learnvector.ai/",
+    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Wildfires rampaged across Europe in the dying days of the Triassic",
-    "summary": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
+    "title": "The past and future impact of climate change on childhood malaria in Africa",
+    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-wClimate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02333-7",
-    "date": "2026-07-28"
+    "link": "https://www.nature.com/articles/s41586-026-10840-w",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -333,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "Bourse: chute de l'IA à Séoul, l'Europe entre bons résultats et hausse du pétrole",
-    "summary": "Bourse: chute de l'IA à Séoul, l'Europe entre bons résultats et hausse du pétrole tv5monde",
+    "title": "Air Corsica lance ses escapades hivernales à la découverte de marchés de Noël d'Europe",
+    "summary": "Air Corsica lance ses escapades hivernales à la découverte de marchés de Noël d'Europe Corse Net Infos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVZFWUFyRE5Ia0ZabHN3RFM1YVEyckRveGgxaHlsbVNsUFBpd1dONDhXVWl1N0prWDkyRS1CLVl5VHRRS2FkRVZDUlNScFVUQVlhUWczXzBtdVVwa0wySDN1ajN2RkJjb19vMG1mYkpHSTBuLV9xcTRnVXhnMGZwR2cyeEFseEd3QXRoNDFSb2g3QTNmTU56UnhHSXVib0FzR21xYWlUQno1bkYzTGtraGlGcEVSVzdLemFzekFoNGZzQWM?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzR3dXNVYkVNNENLSUFPT0RIYUpKa2ZHbzZRUllrUXg0MDFyLVQzZDNnTjViYVBuTmtncVM3YmRscVVzMkVDSGQ3UkNlSDNNVDJKNkVlcld3RWJsX05kLThFelFwQW95am9RSzdKblYzbEVNdGJRUy1NV0hDamRWYk91T2JtcTdJZF9tUkdXWWs1SmxhN3hGUUhJNXlJRzEycUZ5TVlCRVpja3BDWXhweDlaQ18zNS1DNHhsdDRhMHQ2eVZ5UGdrTWswSWI?oc=5",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
-    "summary": "Le président américain a dit ces menaces, mercredi, sur Fox News, alors que la situation s’est dégradée au Moyen-Orient après plusieurs jours d’accalmie. En plus des frappes iraniennes, les Etats-Unis et l’Arabie saoudite ont mené une attaque sur des factions pro iraniennes en Irak.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a rencontré Donald Tusk en Pologne",
+    "summary": "A son retour des Etats-Unis, le président ukrainien a fait escale à Lublin. Le premier ministre polonais a déclaré qu’ils avaient évoqué la coopération antibalistique, sans plus de précisions.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-attaquent-des-allies-de-l-iran-en-irak-les-gardiens-de-la-revolution-visent-une-base-americaine-en-jordanie_6725301_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html",
     "date": "2026-07-29"
   },
   {
@@ -357,34 +345,34 @@
   },
   {
     "type": "news",
-    "title": "The Strong Suffer What They Must",
-    "summary": "Foolish military interventions driven by outdated calculations of economic power have thoroughly discredited the old big powers. Thucydides might well have appreciated the irony of a world in which smaller, weaker countries like Ukraine and Iran can expose Russia and the United States, respectively, as paper tigers.",
+    "title": "When Politicians Ignore Economic Expertise",
+    "summary": "As politicians encroach on areas that require technical knowledge, the risk of costly policy mistakes increases. The failures of Narendra Modi and Donald Trump show that when it comes to economic policymaking, political acumen is no substitute for a deep understanding of incentives, markets, and institutions.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/us-russia-discredited-by-smaller-powers-by-harold-james-2026-07",
-    "date": "2026-07-23"
+    "link": "https://www.project-syndicate.org/commentary/some-economic-questions-should-not-be-left-to-politicians-by-kaushik-basu-2026-07",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Un migrant sans casier judiciaire renvoyé en Afghanistan : Berlin franchit un “nouveau cap”",
-    "summary": "Le renvoi vers Kaboul d’un ressortissant afghan n’ayant commis aucun crime en Allemagne constitue une première depuis le retour au pouvoir des talibans. Pour la presse d’outre-Rhin, la reprise des expulsions de grande ampleur promise par le gouvernement de Friedrich Merz est désormais actée.",
+    "title": "Le parcours à l’étranger des deux lauréats chinois de la médaille Fields fait débat en Chine",
+    "summary": "Quelques jours après l’attribution de la médaille Fields 2026 à quatre mathématiciens, dont deux Chinois, Hong Wang et Yu Deng, les internautes chinois se disputent sur la contribution de leur formation universitaire dans leur réussite, chinoise ou occidentale ?",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-un-migrant-sans-casier-judiciaire-renvoye-en-afghanistan-berlin-franchit-un-nouveau-cap_253740",
+    "link": "https://www.courrierinternational.com/article/sciences-le-parcours-a-l-etranger-des-deux-laureats-chinois-de-la-medaille-fields-fait-debat-en-chine_254137",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-    "summary": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
+    "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
+    "summary": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "The French presidential candidate who wants to blow up the Franco-German engine",
-    "summary": "PARIS — Far-right leader Marine Le Pen isn’t the only candidate in France’s presidential election vowing to upend the status quo in the European Union. If far-left firebrand Jean-Luc Mélenchon were to emerge as French president, he has signaled he would seek to overturn the bloc’s foundational relationship: the Franco-German partnership that has underpinned…",
+    "title": "Brussels rises against FIFA President Infantino’s plan to bring in private investors",
+    "summary": "FIFA’s move to privatize a new commercial subsidiary with the help of a Trump-linked venture capital firm is drawing scrutiny from the EU. On Tuesday, FIFA published a proposal to privatize the commercial operations of the men’s and women’s World Cups. A venture capital firm headed by Josh Kushner, the brother of U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/jean-luc-melenchon-president-candidate-france-germany-relationship/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/fifa-world-cup-privatization-plan-faces-brussels-scrutiny/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-29"
   },
   {
