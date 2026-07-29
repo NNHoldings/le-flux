@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "L'UE continue de renforcer ses sanctions contre la Russie en réponse à la guerre en Ukraine.",
+      "Les actions liées aux semi-conducteurs chutent en raison des inquiétudes concernant l'IA."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-29"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -25,11 +37,11 @@
   },
   {
     "type": "news",
-    "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
-    "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+    "title": "Senate sets up votes to sanction Russia for Ukraine war",
+    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-    "date": "2026-07-27"
+    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -41,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : l’Europe redoute une participation plus active de la Biélorussie",
-    "summary": "Sommé par Kiev de rompre ses liens militaires avec Moscou, courtisé sans succès par les Occidentaux, Alexandre Loukachenko, le président biélorusse, maintient son pays dans une posture d’appui discret à la Russie, sans engager pour le moment ses propres troupes.",
+    "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
+    "summary": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/28/guerre-en-ukraine-l-europe-redoute-une-participation-plus-active-de-la-bielorussie_6735248_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
     "date": "2026-07-28"
   },
   {
@@ -73,19 +85,19 @@
   },
   {
     "type": "news",
-    "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
-    "summary": "Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.",
+    "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+    "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "US kicks off review of its force posture in Europe",
-    "summary": "The United States on Tuesday launched the country’s Europe posture review that will determine the number of American troops and military assets on the continent, a top U.S. defense official said.",
+    "title": "Senators vote to advance Russia sanctions bill in Graham’s name",
+    "summary": "Senators voted overwhelmingly Tuesday night to advance a sweeping Russia sanctions bill that Sen. Lindsey Graham (R-S.C.) had long sought to move forward before his unexpected death. The 86 to 12 procedural vote tees up the bill for final passage in the upper chamber later this week.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/us-kicks-off-europe-force-posture-review/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-28"
+    "link": "https://www.politico.com/news/2026/07/28/senators-advance-russia-sanctions-bill-lindsey-graham-01014368?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -98,7 +110,7 @@
   {
     "type": "news",
     "title": "CMA CGM augmente ses profits malgré le conflit au Moyen-Orient",
-    "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars de bénéfice opérationnel au deuxième trimestre.",
+    "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars (2,6 milliards d’euros) de bénéfice opérationnel au deuxième trimestre.",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
     "date": "2026-07-28"
@@ -121,19 +133,19 @@
   },
   {
     "type": "news",
-    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-    "summary": "The Trump administration today exempted SpaceX's Starlink routers from the Federal Communications Commission ban on foreign-made routers. A public notice issued by the FCC said Starlink routers received approval from the Department of War (also known as the Department of Defense). SpaceX's exemption is good until February 1, 2028.",
+    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+    "summary": "Anyone following the AI space is by now familiar with lofty claims that AI models will soon be better than humans at everything and capable of replacing vast swaths of the human workforce. In a new study from Google Research, though, a team that looked at how workers are actually using Gemini \"[did] not find evidence...",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "date": "2026-07-27"
+    "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "summary": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/ Comments URL: https://news.ycombinator.com/item?id=49083314 Points: 363 # Comments: 174",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 157 # Comments: 87",
     "source": "Hacker News",
-    "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "date": "2026-07-28"
+    "link": "https://learnvector.ai/",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -169,27 +181,27 @@
   },
   {
     "type": "news",
-    "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-    "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
+    "title": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
+    "summary": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-    "date": "2026-07-28"
+    "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Marchés: les inquiétudes sur l'IA prennent le relais des tensions géopolitiques",
-    "summary": "Marchés: les inquiétudes sur l'IA prennent le relais des tensions géopolitiques Zonebourse",
+    "title": "L’or stable avant la Fed ; le rebond du pétrole ravive les craintes d’inflation",
+    "summary": "L’or stable avant la Fed ; le rebond du pétrole ravive les craintes d’inflation Yahoo Finance France",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWZDdWZUX3N3blYyQ3Zrb3lTdWpSTUhTcVJWWDRVY2pjei00emZtV0JTMkFUSzlUejJIQ2hxajZ2a0NocDZpb0t1aEtvMmJEZE5rMXktTmg1VF96dl91Y3J4SWdxTkdiVk02emlvMG5fT1ZnbUtwQkhKVG9BV0FNSE94b2VVd2I4TFQzWi1PT3VnbHBDcEtmNnVKMTdvRThWNFZHeERJNHdUT2Z4aEwxWkhFVEpyOWNXa3Q4QjhHSDAtSFhjSDROVUFHc2VYODNCWmtkMUpR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFZkaW9WNFJ4SXMzb3l6X1lWZ0tSWnZZWG45MHNWMXFibHRfSXBBdS1LaFlEcjNHNmF0TW1rWTM3cmg3aFVIb0thYjZiTlF4Y1l6ejZmbGVOOERrc05yRmxtYjdId1hIeGZHVDFweFlaLXdqbUZWcVBrdE9nNmhsRXJn?oc=5",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
-    "summary": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
+    "title": "EN DIRECT, guerre en Ukraine : un entrepôt de Wildberries, le « Amazon russe », attaqué par l’Ukraine dans l’ouest de la Russie",
+    "summary": "Selon plusieurs médias russes, un incendie s’est déclaré dans un centre logistique de Wildberries, dans le district de Riazan, ainsi que sur le site de la raffinerie de Riazan. La raffinerie de pétrole locale a également été touchée, selon les autorités locales.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
-    "date": "2026-07-28"
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-donald-trump-declare-que-sa-rencontre-avec-volodymyr-zelensky-a-la-maison-blanche-s-est-tres-bien-passee_6732775_3210.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -209,27 +221,27 @@
   },
   {
     "type": "news",
-    "title": "À Gaza, des cours de natation pour “oublier les horreurs de la guerre”",
-    "summary": "Depuis le début de l’été, des centaines de jeunes Gazaouis ont pu profiter de piscines improvisées construites au bord de mer avec des gravats grâce à l’initiative d’un homme. Une échappatoire pour ces enfants traumatisés, raconte la correspondante du “Guardian” dans l’enclave palestinienne.",
+    "title": "Frappe ukrainienne sur un navire iranien : les deux guerres sont “de plus en plus imbriquées”",
+    "summary": "Avec sa frappe contre un navire iranien sur la route maritime qui relie Téhéran à Moscou, Kiev étend la guerre en Ukraine jusqu’à un corridor vital pour l’Iran et la Russie. Perçue comme la première ciblant directement un navire battant pavillon iranien, cette attaque pourrait ouvrir un nouveau front, tout en permettant à Volodymyr Zelensky d’afficher auprès…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-des-cours-de-natation-pour-oublier-les-horreurs-de-la-guerre_253410",
+    "link": "https://www.courrierinternational.com/article/conflits-frappe-ukrainienne-sur-un-navire-iranien-les-deux-guerres-sont-de-plus-en-plus-imbriquees_253481",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-    "summary": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
+    "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+    "summary": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
-    "date": "2026-07-28"
+    "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China",
-    "summary": "Anthropic CEO Dario Amodei on Monday called for a crackdown on China’s access to American artificial intelligence technology, days after the company declined to join other U.S. tech giants in opposing a draconian response to low-cost Chinese AI. While not endorsing a ban on Chinese AI models, Amodei repeated his past pleas for the U.S.",
+    "title": "OpenAI’s rogue models roamed the internet for 4 days and staged a second attack",
+    "summary": "The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, according to a new analysis from the platform that was breached.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/27/anthropic-ceo-dont-ban-cheap-ai-but-clamp-down-on-china-01013217?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-28"
+    "link": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -265,18 +277,18 @@
   },
   {
     "type": "news",
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "summary": "Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks. The new tools come less than a week after OpenAI lost control of two of its security models when they infiltrated the servers of startup Hugging Face.",
+    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+    "summary": "The Trump administration today exempted SpaceX's Starlink routers from the Federal Communications Commission ban on foreign-made routers. A public notice issued by the FCC said Starlink routers received approval from the Department of War (also known as the Department of Defense). SpaceX's exemption is good until February 1, 2028.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
     "date": "2026-07-27"
   },
   {
     "type": "news",
-    "title": "7.1 Earthquake in Japan",
-    "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en Comments URL: https://news.ycombinator.com/item?id=49080664 Points: 712 # Comments: 180",
+    "title": "Codex Security",
+    "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 473 # Comments: 144",
     "source": "Hacker News",
-    "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "link": "https://github.com/openai/codex-security",
     "date": "2026-07-28"
   },
   {
@@ -305,35 +317,35 @@
   },
   {
     "type": "news",
-    "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-    "summary": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-27"
+    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Treasury yields edge lower ahead of Fed rates decision as oil prices tumble",
-    "summary": "Traders are awaiting the latest Federal Reserve interest rate decision this week.",
+    "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
-    "date": "2026-07-28"
+    "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Texas Roadhouse devrait maintenir sa croissance alors que l'inflation du bœuf atteint un pic, selon RBC Capital Markets",
-    "summary": "Texas Roadhouse devrait maintenir sa croissance alors que l'inflation du bœuf atteint un pic, selon RBC Capital Markets Zonebourse",
+    "title": "Les actions d'Amérique latine progressent légèrement, tandis que les marchés des changes affichent des résultats mitigés à la veille de la réunion de la Fed, sur fond de tensions persistantes au Moyen-Orient",
+    "summary": "Les actions d'Amérique latine progressent légèrement, tandis que les marchés des changes affichent des résultats mitigés à la veille de la réunion de la Fed, sur fond de tensions persistantes au Moyen-Orient TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQW1hY0xkZ25heXdZSW9BREZKY3REQVlTYk5RU0c0WUpEeC1jR1NvRVVqandTeXQtdkNEdmIzZWhRWDNFdmhVZ3F6eUJmV0IxaGRhTkxYdFlVZXdPRkY1Uk16ZGFRa1QtT21jR29LWS1wb0RHVkY5TThKVjY0dl9BWmZLbkRlNFV2U0tVNk5HczFDTFQyRG14eXlWZDNZTXlnbEdkRm5raDdSaVJEdFFtWDE0eng1a3A1Z3hKTkFDLXhzdGNEdzNST0hkVXRNcVJYWHB3cnRDZG9ISnd3Nk1VZV9ZSVpITHBhWnVmYllPc2U?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMGpNbFkwNXkzREFUQ083ZnRpRUdfdGFCejZIdnBmcEJEaDNsNU5PNjdDVFJLbVdNcV90eGEyTFU5UDlhdXRxTkxzTlRpMlhFSDlDaDZ2Tkd5NkJyR0tZWnFDdzRZTDRUY1h6Y08wb2ZoTmpGQnJR?oc=5",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump réaffirme que l’Iran « n’aura jamais l’arme nucléaire »",
-    "summary": "Le président américain a ‌fait état de « bonnes » discussions avec Téhéran mais a réitéré ses menaces de frapper le site iranien de « Pickaxe Mountain » et les infrastructures du pays si ​aucun accord n’est conclu.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Arabie saoudite attaquent des alliés de l’Iran en Irak, les gardiens de la révolution visent une base américaine en Jordanie",
+    "summary": "L’armée américaine dit avoir ciblé des « sites logistiques et d’armement » appartenant à une ex-coalition de paramilitaires irakiens. Dans la foulée, les gardiens de la révolution disent avoir tiré plusieurs missiles une base aérienne et le centre de commandement central de l’armée américaine en Jordanie.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-apres-plusieurs-jours-d-accalmie-des-echanges-diplomatiques-entre-l-iran-oman-et-l-arabie-saoudite_6725301_3210.html",
-    "date": "2026-07-28"
+    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-en-jordanie-avec-plusieurs-missiles_6725301_3210.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -353,34 +365,34 @@
   },
   {
     "type": "news",
-    "title": "Frappe ukrainienne sur un navire iranien : les deux guerres sont “de plus en plus imbriquées”",
-    "summary": "Avec sa frappe contre un navire iranien sur la route maritime qui relie Téhéran à Moscou, Kiev étend la guerre en Ukraine jusqu’à un corridor vital pour l’Iran et la Russie. Perçue comme la première ciblant directement un navire battant pavillon iranien, cette attaque pourrait ouvrir un nouveau front, tout en permettant à Volodymyr Zelensky d’afficher auprès…",
+    "title": "Téhéran brise l’accalmie en lançant une attaque surprise contre les forces américaines",
+    "summary": "Les frappes au Moyen-Orient ont repris mercredi après une pause de plusieurs jours : l’Iran a attaqué les forces américaines en Jordanie avant qu’une opération conjointe des États-Unis et de l’Arabie saoudite ne vise un peu plus tard des milices pro-iraniennes en Irak. La presse américaine y voit une escalade et l’entrée directe de Riyad dans le conflit.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflits-frappe-ukrainienne-sur-un-navire-iranien-les-deux-guerres-sont-de-plus-en-plus-imbriquees_253481",
-    "date": "2026-07-28"
+    "link": "https://www.courrierinternational.com/article/guerre-en-iran-teheran-brise-l-accalmie-en-lancant-une-attaque-surprise-contre-les-forces-americaines_253674",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Why has Iran’s economy not collapsed under US war pressure?",
-    "summary": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
+    "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+    "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
     "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Brussels defends nomination of former Slovenian FM as special rep",
-    "summary": "BRUSSELS — The European Commission says it followed the rules in its selection of an envoy to Africa’s troubled Sahel region, even as the person it initially tapped faces criminal charges in Slovenia because of the nomination.",
+    "title": "The French presidential candidate who wants to blow up the Franco-German engine",
+    "summary": "PARIS — Far-right leader Marine Le Pen isn’t the only candidate in France’s presidential election vowing to upend the status quo in the European Union. If far-left firebrand Jean-Luc Mélenchon were to emerge as French president, he has signaled he would seek to overturn the bloc’s foundational relationship: the Franco-German partnership that has underpinned…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-defends-nomination-former-slovenian-foreign-minister-special-representative/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-28"
+    "link": "https://www.politico.eu/article/jean-luc-melenchon-president-candidate-france-germany-relationship/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Comment former les jeunes économistes africains?",
-    "summary": "Des ressources convoitées, un poids démographique croissant au sein de la population mondiale, une jeunesse entreprenante et un fort potentiel d'innovation : le continent africain dispose d’atouts considérables, parmi les plus prometteurs au monde.",
+    "title": "Incendies: «Il faut lutter contre le négationnisme climatique», avertit le chef de la diplomatie espagnole",
+    "summary": "La situation commençait à s'améliorer, mardi 28 juillet 2026 en Espagne où le Premier ministre, Pedro Sanchez a dit apercevoir « la lumière au bout du tunnel ». Mais une nouvelle vague de chaleur s'installe et l'Agence météorologique nationale (Aemet) alerte sur des risques extrêmes d'incendie.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260723-comment-former-les-jeunes-%C3%A9conomistes-africains",
-    "date": "2026-07-23"
+    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260729-incendies-il-faut-lutter-contre-le-n%C3%A9gationnisme-climatique-avertit-le-chef-de-la-diplomatie-espagnole",
+    "date": "2026-07-29"
   }
 ]
