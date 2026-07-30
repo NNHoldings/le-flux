@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires font face à une lutte entre inflation et récession.",
+      "La BCE élargit l'utilisation des facteurs climatiques dans le cadre des garanties du système Eurosystem.",
+      "La Fed maintient ses taux d'intérêt, tout en restant prête à agir si la guerre en Iran s'intensifie."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -17,7 +29,7 @@
   },
   {
     "type": "news",
-    "title": "Interest rates held as Bank of England says inflation set to rise",
+    "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
     "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
     "source": "BBC Business",
     "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
@@ -25,11 +37,11 @@
   },
   {
     "type": "news",
-    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "summary": "Ukraine's drone attacks on Russia's biggest online retailer, Wildberries, have ratcheted up the pressure on Moscow's wartime economy.",
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
-    "date": "2026-07-29"
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -41,10 +53,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : l’UE va verser près de 3,5 milliards d’euros supplémentaires à Kiev pour renforcer ses capacités militaires",
-    "summary": "Cette nouvelle tranche est versée au titre du volet défense du programme de prêts de soutien à Kiev, destiné à financer l’acquisition de drones, de missiles, de systèmes de défense antiaérienne et d’avions de combat.",
+    "title": "EN DIRECT, guerre en Ukraine : après la chute d’un missile présumé russe en Pologne, le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade »",
+    "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une nouvelle « violation inacceptable » de l’espace aérien de l’Union européenne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-l-ex-ministre-de-la-defense-ukrainien-mykhailo-fedorov-affirme-que-son-eviction-est-liee-a-la-resistance-suscitee-par-ses-reformes_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-apres-la-chute-d-un-missile-presume-russe-en-pologne-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade_6732775_3210.html",
     "date": "2026-07-30"
   },
   {
@@ -65,18 +77,18 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine, incendies en Gironde, Fifa, Jared Leto : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "L’Europe, une destination de choix pour les Américains",
+    "summary": "Malgré une situation sécuritaire incertaine pour eux, les Américains n’ont pas perdu leur intérêt pour l’expatriation. Mais où vont-ils ou devraient-ils aller par les temps qui courent ? La presse du pays a des pistes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-incendies-en-gironde-fifa-jared-leto-les-informations-de-la-nuit_254268",
+    "link": "https://www.courrierinternational.com/article/partir-l-europe-une-destination-de-choix-pour-les-americains_252387",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Poland says Russian missile breaches NATO airspace",
-    "summary": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+    "title": "US GDP growth dips as inflation and trade deficits pressure economy",
+    "summary": "GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
     "date": "2026-07-30"
   },
   {
@@ -129,11 +141,11 @@
   },
   {
     "type": "news",
-    "title": "AI's top startups are barely publishing their research",
-    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 520 # Comments: 266",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 159 # Comments: 78",
     "source": "Hacker News",
-    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "date": "2026-07-29"
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -169,26 +181,26 @@
   },
   {
     "type": "news",
-    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
-    "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
+    "title": "30-year yield hovers near 2007 high as traders weigh Fed decision to holds rates steady",
+    "summary": "Investors weighed the Federal Reserve's decision to hold interest rates steady.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+    "link": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La banque centrale indienne serait intervenue pour limiter la chute de la roupie face à la hausse des prix du pétrole, selon des traders",
-    "summary": "La banque centrale indienne serait intervenue pour limiter la chute de la roupie face à la hausse des prix du pétrole, selon des traders Zonebourse Suisse",
+    "title": "Ukraine : la banque centrale relève son taux directeur à 15,5 %",
+    "summary": "Ukraine : la banque centrale relève son taux directeur à 15,5 % Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMEU1TFVQTmdRRnZGbmlIbTNiUlhlRnh3WlFfVGZfb2ZHNVZrVEUzSklIZURmWG5NQVh1SjJMcWhFTDNmX3B1RnhHTnc0S3piblJuWmJpc2E3dWNqZ0tiRjNiazhkbU5oSFcyMTVvTldia0RweHJ0NDNYOVpXNDhMZXhaOWZhVWNUNEx0XzNHN3UtVTdLSUwxaWViVTR3Q3l5d184a2ZuWDQ1VVFHRlBNLXUtVTFmUzZXOE42aE1NNGxETE80REhSNDhNTm84eFJNaUFmM3dySE1TZVRjWVBod0tBd2NKdGdrQmN0cjZSd2ZlUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlV2OFFPRjRzdWo4VGlheFJUOGp0TC0yV3NtWW00X2VjUy1xWmlWcDNHX3N1LUh1YlhodTVTTGNnMFFxbU5HU0dWclBvS3BnSzRRZm9XQ0VoRkZOMHlpcnlONXJvUWZraDRCNGJlQl9nTFZqTk1JWl9VUE1mQ0h0MGR1NEREVlFYb0N6RjNNbm82UlcwYV9RRTFIS0lKVkRNRWQ3bi0xU2hzSlNqVDd5X3FzcGlZNDNoZ0ZTLTF3?oc=5",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "L’industrie en Europe n’est pas adaptée aux nouvelles crises climatiques",
-    "summary": "Vagues de chaleur, inondations, incendies… L’adaptation au changement climatique n’est pas suffisamment prise en compte par les industriels dans leurs plans de financements et de fonctionnement, qui privilégient davantage la réduction des émissions de CO₂, selon une étude du cabinet Sia Partners.",
+    "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
+    "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/l-industrie-en-europe-n-est-pas-adaptee-aux-nouvelles-crises-climatiques_6736909_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
     "date": "2026-07-30"
   },
   {
@@ -209,26 +221,26 @@
   },
   {
     "type": "news",
-    "title": "L’immobilier, cheval de Troie russe sur le sol européen ?",
-    "summary": "La Finlande, la Pologne et les pays baltes ont interdit aux ressortissants russes de conclure des transactions immobilières afin d’éviter que des biens soient utilisés pour des activités de renseignement ou de sabotage. Ce n’est pas encore le cas ailleurs en Europe, s’inquiètent plusieurs experts auprès du quotidien suédois “Dagens Nyheter”.",
+    "title": "À Hiroshima, un alliage métallique inédit découvert dans les débris de l’explosion nucléaire",
+    "summary": "Sur les plages de la baie de Hiroshima, on trouve toujours de minuscules débris formés lors de l’explosion de la bombe atomique américaine, le 6 août 1945. Des chercheurs ont découvert un alliage métallique inédit dans certains d’entre eux.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-suede-l-immobilier-cheval-de-troie-russe-sur-le-sol-europeen_245830",
+    "link": "https://www.courrierinternational.com/article/sciences-a-hiroshima-un-alliage-metallique-inedit-decouvert-dans-les-debris-de-l-explosion-nucleaire_254731",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-    "summary": "Rights group says India continues to support the Israeli military despite genocide 'broadcast worldwide on daily basis'.",
+    "title": "NATO jets scramble as Russian missile detonates in Poland",
+    "summary": "The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Tusk: ‘Everything indicates’ Russian cruise missile hit Poland",
-    "summary": "An airborne object crashed in eastern Poland early Thursday during Russia’s latest attack on Ukraine, leaving behind a 10-meter-wide crater and scattered debris, said Polish authorities. Ukraine’s Foreign Minister Andrii Sybiha quickly claimed on X that it was “a Russian Kh-101 cruise missile” that violated NATO airspace.",
+    "title": "EU launches €30B push to build 7 massive AI data centers",
+    "summary": "BRUSSELS — The EU on Thursday fired the starting gun on plans to fund seven multi-billion-euro computing hubs to train artificial intelligence models in Europe. The launch of an official process for seven industry consortia willing to build AI “gigafactories” fulfills a promise made by European Commission President Ursula von der Leyen at an AI summit last y…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/unidentified-object-crashes-poland-russia-strikes-ukraine/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-launches-e30-billion-push-build-7-giga-ai-compute-hubs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-30"
   },
   {
@@ -273,19 +285,19 @@
   },
   {
     "type": "news",
-    "title": "The Cold Email",
-    "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 237 # Comments: 92",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 256 # Comments: 253",
     "source": "Hacker News",
-    "link": "https://zachholman.com/posts/cold-email",
-    "date": "2026-07-29"
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "The past and future impact of climate change on childhood malaria in Africa",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-wClimate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.",
+    "title": "Fires in Europe are breaking records: here’s what the future holds",
+    "summary": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10840-w",
-    "date": "2026-07-29"
+    "link": "https://www.nature.com/articles/d41586-026-02361-3",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -313,26 +325,26 @@
   },
   {
     "type": "news",
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
+    "summary": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La Fed maintient son taux directeur, malgré l’inflation - finance-investissement.com",
-    "summary": "La Fed maintient son taux directeur, malgré l’inflation finance-investissement.com",
+    "title": "Point marchés-L'Europe, hormis Londres, finit dans le vert, portée par les résultats",
+    "summary": "Point marchés-L'Europe, hormis Londres, finit dans le vert, portée par les résultats Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNFVE12bTAxZG5qVTFnT0djU3FvY1NwaHZTNkRKTk5YRzdkT25lWG90dy1lWXhMeFBHVUhEa3RmNzNsTmxGZHVkcHd3RW45U21jNGUtMW5ORm5fa3N5UWVBVjNxRTFlZDNmUEFrZXBBcFdyRm1UOFBWMi1VSGdsa0lwOHZQVUc1VkhjX09STTNhYUNnOUh4dA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcVlucndUem16ZDF0T2F3b3RlM3Q0SjFBLWtGMHkyY3B3MXotQWNDLUtwQmtOVXQyaGYzTHJMajQ2VWZhRzh3dlpHRGRkLWpzdHRsVzdEbkNvTF9PZ1FyWGx4eWJjSUFwOENoMXBNT01jZlo3TXBXYV81MF8tSEU4Nl9hQlpQbjRhUHNfdVd4QTl6bG1KbzgzZjVwR1FzcW1Yai1tc3RGWDlYT29ndTM2OUxFYUZxXzRCN3VmVDF3RTdpUzh0NnRFU19fWmxNTHFNLXI5YWFPTThIUQ?oc=5",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Pendant les manifestations, j’ai trouvé les gens si créatifs avec leurs slogans »",
-    "summary": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Sasha voit dans les manifestations contre le limogeage du ministre de la défense, Mykhaïlo Fedorov, la détermination du peuple ukrainien à s’exprimer. Un mouvement auquel Olga, qui voyage seule avec son fils pour retrouver sa famille à Kiev, espère participer.",
+    "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
+    "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/30/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-pendant-les-manifestations-j-ai-trouve-les-gens-si-creatifs-avec-leurs-slogans_6736649_4500055.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
     "date": "2026-07-30"
   },
   {
@@ -345,34 +357,34 @@
   },
   {
     "type": "news",
-    "title": "The AI Threat to Financial Stability",
-    "summary": "In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.",
+    "title": "The Limits of Asia’s Two Major Growth Models",
+    "summary": "Data from a period in which both China and India pursued deliberate industrial policies show that neither country's development route is accessible to other countries. At best, their experience can alert policymakers to structural limitations and coordination problems that will require their own homegrown solutions.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07",
-    "date": "2026-07-28"
+    "link": "https://www.project-syndicate.org/commentary/china-india-development-models-limitations-and-lessons-for-others-by-hinh-t-dinh-and-karim-el-aynaoui-2026-07",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La chroniqueuse pro-Kremlin Xenia Fedorova visée par un arrêté d’expulsion",
-    "summary": "La journaliste russe, qui intervient régulièrement sur des chaînes appartenant au milliardaire conservateur Vincent Bolloré, s’est vu remettre mercredi un arrêté ministériel d’expulsion, décision qu’elle va contester.",
+    "title": "La guerre entre les États-Unis et l’Iran gagne de nouveaux pays et de nouveaux fronts",
+    "summary": "L’intensification des attaques iraniennes contre les bases de l’armée américaine en Jordanie, la participation de l’Arabie saoudite aux frappes contre les milices pro-Téhéran en Irak et le ciblage de navires près de l’embouchure du canal de Suez plonge le Moyen-Orient “en territoire inconnu”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/france-la-chroniqueuse-pro-kremlin-xenia-fedorova-visee-par-un-arrete-d-expulsion_254301",
+    "link": "https://www.courrierinternational.com/article/conflit-la-guerre-entre-les-etats-unis-et-l-iran-gagne-de-nouveaux-pays-et-de-nouveaux-fronts_254532",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-    "summary": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least eight people.",
+    "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
+    "summary": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Potential roadblocks ahead for Washington’s Russia sanctions bill",
-    "summary": "Long-anticipated Russia sanctions legislation proposed by the late Sen. Lindsey Graham is heading toward passage in the Senate. That doesn’t mean the road ahead will be easy, and it certainly won’t be quick.",
+    "title": "US-Iran war looms over Britain’s economy",
+    "summary": "LONDON — U.S. President Donald Trump’s shadow is set to loom over the British economy as the Bank of England on Thursday warned fresh conflict in Iran could send prices soaring. New U.K. Prime Minister Andy Burnham took office last week with a flurry of cost-of-living announcements — but it’s the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/29/roadblocks-graham-russia-sanctions-bill-01015843?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/us-iran-war-looms-over-british-economy/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-30"
   },
   {
