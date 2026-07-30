@@ -1,6 +1,12 @@
 [
   {
     "type": "mandarin",
+    "hanzi": "频道",
+    "pinyin": "píndào",
+    "fr": "chaîne (de télévision)"
+  },
+  {
+    "type": "mandarin",
     "hanzi": "吃饭",
     "pinyin": "chīfàn",
     "fr": "manger"
