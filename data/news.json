@@ -1,6 +1,18 @@
 [
   {
     "type": "news",
+    "essential": true,
+    "title": "L'essentiel du jour",
+    "bullets": [
+      "Les marchés obligataires sont en tension entre inflation et récession.",
+      "La Fed maintient ses taux face à la hausse du pétrole et à l'inflation.",
+      "La guerre en Ukraine s'intensifie avec de nouvelles frappes russes."
+    ],
+    "source": "Le Flux",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -17,11 +29,11 @@
   },
   {
     "type": "news",
-    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+    "title": "The £5 coffee that tells a story of global economic turmoil",
+    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-28"
+    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28"
   },
   {
     "type": "news",
@@ -33,19 +45,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue dans le désordre avant la Fed, l'Europe hésite entre résultats et pétrole",
-    "summary": "Point marchés-Wall Street vue dans le désordre avant la Fed, l'Europe hésite entre résultats et pétrole Zonebourse",
+    "title": "Taux américains : pourquoi la Fed temporise face au rebond du pétrole et au risque d’inflation",
+    "summary": "Taux américains : pourquoi la Fed temporise face au rebond du pétrole et au risque d’inflation La Tribune",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEV0RVlUWkFwMVdKelB2X0lfUGdNX0pJSGxyRjhZSWNnV3M1M0ZpTDdNT2VHTERLbkdUVEhvSzk1ZmFydkZsVW5BajFjZGIwZnJsZ1FHR3JEY2swU1l3V1MzeFlTWXVqTmlSLU9sYmNRZVdBcnJMY2lEX1ZyZHhSN2FkSDBWUm5VTXFWbzA3V2tKOTl3RThnSnFWeEhHSVJRYWRNUEZjRE9RcE1tLWREb21zVnE3SFk5YWozbmpjSXRXeW5PLWZ1Q3V1R0w5TmZya0lTaENlNTF2VkhXRkZGa2k1MU9Bb3o1ZFFBQy1CcFVwUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQWN6UFdxcEkyZUpobzNPT2hlY18yS0JXMVdNQzVzYmFTdWlLTnZhNlVIWXFNTkpwdlpLdXc5WGd0bHZJdHVPSXN6LXFTWWZLbkFjekZYbFJfOF9TV2lZZ3NVQmJjQTl4cHU3YnZxa0RZS1E1VE9hcEc3UU5PeHNhaDQ1MHZPOHlrbVpZZHdhdHIxRU1LUk5EVGh0Rm5NYXFIYjZTVWdoWGNZZlBtQWlEOXJNTnRNSUxCVlBFeXZFbURsd0tucEdyUEh5TTQwZll5cGVWYWlLTElOMGRPV2tsclRBWnZCenRFRUFjMmFsWUtVUEJORGtrSkp2MXZRVktCNHhJRTI2eVk?oc=5",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
-    "summary": "Le président américain a proféré ces menaces, mercredi, sur Fox News, alors que la situation s’est dégradée au Moyen-Orient après plusieurs jours d’accalmie. En plus des frappes iraniennes, les Etats-Unis et l’Arabie saoudite ont mené une attaque sur des factions pro-iraniennes en Irak.",
+    "title": "EN DIRECT, guerre en Ukraine : la Russie attaque à nouveau avec des centaines de missiles et drones, Volodymyr Zelensky appelle ses alliés à renforcer la défense antiaérienne",
+    "summary": "Le président ukrainien a affirmé que les frappes russes menées dans la nuit de mercredi à jeudi avaient fait au moins huit morts à travers l’Ukraine, dont cinq membres d’une même famille dans la région de Dnipropetrovsk. L’armée ukrainienne a, elle, visé deux nouveaux entrepôts de Wildberries, « l’Amazon russe ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-donald-trump-promet-que-les-etats-unis-vont-frapper-fort-en-iran-apres-les-attaques-sur-une-base-americaine-en-jordanie_6725301_3210.html",
-    "date": "2026-07-29"
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -73,18 +85,18 @@
   },
   {
     "type": "news",
-    "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
-    "summary": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
+    "title": "At least 14 killed as Russia strikes Ukraine a day after Zelenskyy warning",
+    "summary": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
-    "date": "2026-07-29"
+    "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "France issues expulsion order against Russian TV star Xenia Fedorova",
-    "summary": "PARIS — French authorities have moved to expel from the country Xenia Fedorova, a Russian media star who has courted controversy for her pro-Kremlin narrative. Fedorova, the former head of the Kremlin-backed RT France news outlet, was handed an expulsion order by the Paris Prefecture of Police, which handles immigration matters for foreigners living in the F…",
+    "title": "Climate change is turning parts of Europe into an insurance nightmare",
+    "summary": "BRUSSELS — As wildfires menaced the outer suburbs of Bordeaux and Madrid this week, Europe once more faced an uncomfortable reality: a rapidly warming planet threatens to make parts of the continent uninsurable.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/france-issues-expulsion-order-pro-kremlin-xenia-fedorova/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/climate-change-europe-insurance/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-29"
   },
   {
@@ -97,11 +109,11 @@
   },
   {
     "type": "news",
-    "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
-    "summary": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
+    "title": "La Fed maintient ses taux inchangés, sous la pression de Donald Trump",
+    "summary": "A l’issue de sa traditionnelle réunion de deux jours, le comité de politique monétaire a décidé de maintenir ses taux dans la fourchette comprise entre 3,50 % et 3,75 %, pour la cinquième fois d’affilée.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
-    "date": "2026-07-28"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/29/la-fed-maintient-ses-taux-inchanges-sous-la-pression-de-donald-trump_6736412_3234.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -121,18 +133,18 @@
   },
   {
     "type": "news",
-    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-    "summary": "Anyone following the AI space is by now familiar with lofty claims that AI models will soon be better than humans at everything and capable of replacing vast swaths of the human workforce. In a new study from Google Research, though, a team that looked at how workers are actually using Gemini \"[did] not find evidence...",
+    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+    "summary": "Elon Musk has settled his lawsuit with advertisers that he once claimed should be criminally prosecuted for refusing to advertise on his social media platform, X. In a joint statement that reveals little about the deal, the World Federation of Advertisers (WFA) and X said that they were “putting the litigation involving the Global Alliance for Responsible Me…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "date": "2026-07-28"
+    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "summary": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 206 # Comments: 132",
+    "title": "AI's top startups are barely publishing their research",
+    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 379 # Comments: 201",
     "source": "Hacker News",
-    "link": "https://arxiv.org/abs/2607.25398",
+    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "date": "2026-07-29"
   },
   {
@@ -161,34 +173,34 @@
   },
   {
     "type": "news",
-    "title": "The £5 coffee that tells a story of global economic turmoil",
-    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+    "title": "Shell profits double as oil prices rise due to Iran war",
+    "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28"
+    "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Senate sets up votes to sanction Russia for Ukraine war",
-    "summary": "The sanctions target Russian officials, oligarchs, their family members, foreign persons, Russian banks and financial institutions and the Russian shadow fleet.",
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
-    "date": "2026-07-29"
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Perspectives d’inflation dans la zone euro : la hausse des prix de l’énergie va-t-elle contraindre la BCE à relever ses taux?",
-    "summary": "Perspectives d’inflation dans la zone euro : la hausse des prix de l’énergie va-t-elle contraindre la BCE à relever ses taux? Morningstar",
+    "title": "M. Warsh s'engage à ne pas \"fléchir\" face à l'inflation alors que la Fed, divisée, maintient ses taux inchangé",
+    "summary": "M. Warsh s'engage à ne pas \"fléchir\" face à l'inflation alors que la Fed, divisée, maintient ses taux inchangé Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1JWRzJieWRCNk1DcHdLNE56UEU0LXZzNjAxNFFsMC0zaUlPOU5yNDk1UE5vc1V2SmNaQW5KMktIdnpvQmtta2w4Y1liSzBObXZrcERGWjRyZjd4RS14czJUUTl0Tzh1b1E3WmZSZEtsUHpaQTBDa1BlRFR2di1FQlhPbWNpR1ltdEU0akVMQndCbEVfVEhfUkdoQ3FjY1F3SjlHc3k0SlRXanhvQWFERTVCckRsYjlQUFNaS0xwb3NMMkZmRGVFX08xVEQ0WjJWN2tfLVkyQnVzcWhCVjk2LUR6T2lHRnRlSjdFckNvbmxOWUJT?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdDJOMWlZMzF2THp1SjNCM1hzUHQ3VjJlTzM3djRvcHNjVGQwRVVpMWY4QURiTDdTNlA4Z3JiMzBLY1B0NXpYY1NLUk9aRDAtS3FsczRtLUtrM1oybU9aaHFVWWJQT0ZjZklqVFRieC1neGxiU1NobmpLWHRHUk9uUEdwNnNQOVVaRHdYQ3ZwQ0hiN29seS1SbTdNNnB1NHhTU3BxcldtT1g1eHM5MzJXVmtvcFVrUGRUcXNaM3haSklDOUlYTWwtY1pjYlZQc3pMc0hURUl0UTI5R190aWZ4WUI3WjB6MGQ4YUo1U2ZiUHU2UHQtRmp4N2Jzd0lBalRSVThSNzJfZktVNkE4cTQ3Nm5SRm10T0nSAZcCQVVfeXFMUHQyTjFpWTMxdkx6dUozQjNYc1B0N1YyZU8zN3Y0b3BzY1RkMEVVaTFmOEFEYkw3UzZQOGdyYjMwS2NQdDV6WGNTS1JPWkQwLUtxbHM0bS1LazNaMm1PWmhxVVliUE9GY2ZJalRUYngtZ3hsYlNTaG5qS1h0R1JPblBHcDZzUDlVWkR3WEN2cENIYjdvbHktUm03TTZwdTR4U1NwcXJXbU9YNXhzOTMyV1Zrb3BVa1BkVHFzWjN4WkpJQzlJWE1sLWNaY2JWUHN6THNIVEVJdFEyOUdfdGlmeFlCN1owejBkOGFKNVNmYlB1NlB0LUZqeDdic3dJQWpUUlU4UjcyX2ZLVTZBOHE0NzZuUkZtdE9J?oc=5",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Xenia Fedorova, propagandiste russe, visée par un arrêté d’expulsion, annonce le ministère de l’intérieur français",
-    "summary": "« Son comportement porte atteinte aux intérêts fondamentaux de l’Etat » et sa présence sur le territoire « constitue pour ce motif une menace particulièrement grave et actuelle pour l’ordre public », peut-on lire dans le document consulté par « Libération ». Xenia Fedorova va « immédiatement former un recours », a annoncé son avocat.",
+    "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
+    "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
     "date": "2026-07-29"
   },
   {
@@ -217,19 +229,19 @@
   },
   {
     "type": "news",
-    "title": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-    "summary": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
+    "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+    "summary": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-    "summary": "Russia charged Telegram co-founder and CEO Pavel Durov on Wednesday with facilitating terrorist activity and placed the Soviet-born Kremlin critic on an international wanted list. The Federal Security Service (FSB) accused Durov’s messaging platform of supporting Ukrainian intelligence services.",
+    "title": "European football officials eye Qatari sports executive to challenge Infantino",
+    "summary": "BRUSSELS — European soccer officials are considering Qatari sports executive Nasser al-Khelaifi as a potential candidate in next year’s election for FIFA’s top job, after President Gianni Infantino’s proposal to sell stakes in the World Cup to outside investors sent the plan’s critics scrambling to identify a challenger.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-charges-telegram-founder-durov-terrorism-allegations/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-29"
+    "link": "https://www.politico.com/news/2026/07/29/europe-nasser-al-khelaifi-challenge-infantino-fifa-01015898?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -241,11 +253,11 @@
   },
   {
     "type": "news",
-    "title": "CMA CGM augmente ses profits malgré le conflit au Moyen-Orient",
-    "summary": "Porté par la hausse de la demande et des tarifs, le transporteur maritime français a dégagé 3 milliards de dollars (2,6 milliards d’euros) de bénéfice opérationnel au deuxième trimestre.",
+    "title": "A Prato, en Italie, la colère monte contre les dérives de la fast-fashion asiatique, gangrenée par la mafia chinoise",
+    "summary": "Dans cette province industrielle de Toscane, premier pôle textile d’Europe, les pratiques frauduleuses de certaines entreprises chinoises nourrissent une économie parallèle, fondée sur l’évasion fiscale, le travail clandestin et l’exploitation d’ouvriers migrants.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/28/cma-cgm-augmente-ses-profits-malgre-le-conflit-au-moyen-orient_6735399_3234.html",
-    "date": "2026-07-28"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/29/a-prato-en-italie-la-colere-monte-contre-les-derives-de-la-fast-fashion-asiatique-gangrenee-par-la-mafia-chinoise_6736360_3234.html",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -265,18 +277,18 @@
   },
   {
     "type": "news",
-    "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-    "summary": "The Trump administration today exempted SpaceX's Starlink routers from the Federal Communications Commission ban on foreign-made routers. A public notice issued by the FCC said Starlink routers received approval from the Department of War (also known as the Department of Defense). SpaceX's exemption is good until February 1, 2028.",
+    "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
+    "summary": "If you follow quantum computing news for long enough, it can start to seem like any quantum system that can alternate between two well-separated energy states can be used as a qubit. Atoms, ions, photons, electrons, and manufactured devices all have their backers. One of the key things that attracts backers is the tech's ability to scale.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "date": "2026-07-27"
+    "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 247 # Comments: 189",
+    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+    "summary": "Article URL: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html Comments URL: https://news.ycombinator.com/item?id=49098198 Points: 269 # Comments: 326",
     "source": "Hacker News",
-    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "date": "2026-07-29"
   },
   {
@@ -305,35 +317,35 @@
   },
   {
     "type": "news",
-    "title": "Trump administration bans new Chinese humanoid robots",
-    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+    "title": "The Chinese robot army transforming the UK's retail industry",
+    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-    "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+    "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-    "date": "2026-07-29"
+    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Air Corsica lance ses escapades hivernales à la découverte de marchés de Noël d'Europe",
-    "summary": "Air Corsica lance ses escapades hivernales à la découverte de marchés de Noël d'Europe Corse Net Infos",
+    "title": "La Fed, sous la houlette de Warsh, maintient ses taux inchangés, laissant le marché obligataire perplexe",
+    "summary": "La Fed, sous la houlette de Warsh, maintient ses taux inchangés, laissant le marché obligataire perplexe Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzR3dXNVYkVNNENLSUFPT0RIYUpKa2ZHbzZRUllrUXg0MDFyLVQzZDNnTjViYVBuTmtncVM3YmRscVVzMkVDSGQ3UkNlSDNNVDJKNkVlcld3RWJsX05kLThFelFwQW95am9RSzdKblYzbEVNdGJRUy1NV0hDamRWYk91T2JtcTdJZF9tUkdXWWs1SmxhN3hGUUhJNXlJRzEycUZ5TVlCRVpja3BDWXhweDlaQ18zNS1DNHhsdDRhMHQ2eVZ5UGdrTWswSWI?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX0huWDFOeE15alIwRWZXb1R2TFcyZHpldG4yNGxjc1V0VDVLN0dBamRPWjFscnE1MFlNZGs1VVNYZV9qUlBISWt3MmZtd0xreVF0Z2U3OVZHRkU2QTc4VWpidW41RGhHYXRjeERRZEtSZ3ZoLVplQ0dsSlRPU2pYeVFqdEhEelFxcW1XZEpYMFJvbTVRVnF4TVlPSU9wd0tKUFBPUnNPYWthQkxHTF9XbWZkWkVSRnk1NWhVZ0JvLVRTZjktYjJNcXJZTmdwZFAzR1FGS0h3NGp2TXFpMDhaSVllczFqYlNSUEp1YXViS2RpWnMyc3o1LU5zYzlSQVQ4VHpDZnZOZFhFU0JkXy04StIBkAJBVV95cUxQX0huWDFOeE15alIwRWZXb1R2TFcyZHpldG4yNGxjc1V0VDVLN0dBamRPWjFscnE1MFlNZGs1VVNYZV9qUlBISWt3MmZtd0xreVF0Z2U3OVZHRkU2QTc4VWpidW41RGhHYXRjeERRZEtSZ3ZoLVplQ0dsSlRPU2pYeVFqdEhEelFxcW1XZEpYMFJvbTVRVnF4TVlPSU9wd0tKUFBPUnNPYWthQkxHTF9XbWZkWkVSRnk1NWhVZ0JvLVRTZjktYjJNcXJZTmdwZFAzR1FGS0h3NGp2TXFpMDhaSVllczFqYlNSUEp1YXViS2RpWnMyc3o1LU5zYzlSQVQ4VHpDZnZOZFhFU0JkXy04Sg?oc=5",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky a rencontré Donald Tusk en Pologne",
-    "summary": "A son retour des Etats-Unis, le président ukrainien a fait escale à Lublin. Le premier ministre polonais a déclaré qu’ils avaient évoqué la coopération antibalistique, sans plus de précisions.",
+    "title": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Pendant les manifestations, j’ai trouvé les gens si créatifs avec leurs slogans »",
+    "summary": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Sasha voit dans les manifestations contre le limogeage du ministre de la défense, Mykhaïlo Fedorov, la détermination du peuple ukrainien à s’exprimer. Un mouvement auquel Olga, qui voyage seule avec son fils pour retrouver sa famille à Kiev, espère participer.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-a-rencontre-donald-tusk-en-pologne_6732775_3210.html",
-    "date": "2026-07-29"
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/30/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-pendant-les-manifestations-j-ai-trouve-les-gens-si-creatifs-avec-leurs-slogans_6736649_4500055.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -353,27 +365,27 @@
   },
   {
     "type": "news",
-    "title": "Le parcours à l’étranger des deux lauréats chinois de la médaille Fields fait débat en Chine",
-    "summary": "Quelques jours après l’attribution de la médaille Fields 2026 à quatre mathématiciens, dont deux Chinois, Hong Wang et Yu Deng, les internautes chinois se disputent sur la contribution de leur formation universitaire dans leur réussite, chinoise ou occidentale ?",
+    "title": "Guerre en Ukraine, incendies en Gironde, Fifa, Jared Leto : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sciences-le-parcours-a-l-etranger-des-deux-laureats-chinois-de-la-medaille-fields-fait-debat-en-chine_254137",
-    "date": "2026-07-29"
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-incendies-en-gironde-fifa-jared-leto-les-informations-de-la-nuit_254268",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
-    "summary": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
+    "title": "War and shortages push Gaza hospitals to breaking point",
+    "summary": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
-    "date": "2026-07-29"
+    "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Brussels rises against FIFA President Infantino’s plan to bring in private investors",
-    "summary": "FIFA’s move to privatize a new commercial subsidiary with the help of a Trump-linked venture capital firm is drawing scrutiny from the EU. On Tuesday, FIFA published a proposal to privatize the commercial operations of the men’s and women’s World Cups. A venture capital firm headed by Josh Kushner, the brother of U.S.",
+    "title": "US launches strikes on Iran in retaliation for failed attack on American troops",
+    "summary": "The U.S. launched fresh strikes against Iran Wednesday evening in retaliation for an attempted Iranian attack on American forces in the Middle East, the Pentagon announced, the first U.S. strikes following a brief lull in the fighting. U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/fifa-world-cup-privatization-plan-faces-brussels-scrutiny/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-29"
+    "link": "https://www.politico.com/news/2026/07/29/us-strikes-iran-failed-troop-attack-01016715?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
