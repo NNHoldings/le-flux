@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires sont en tension entre inflation et récession.",
-      "La Fed maintient ses taux face à la hausse du pétrole et à l'inflation.",
-      "La guerre en Ukraine s'intensifie avec de nouvelles frappes russes."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -29,11 +17,11 @@
   },
   {
     "type": "news",
-    "title": "The £5 coffee that tells a story of global economic turmoil",
-    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+    "title": "Interest rates held as Bank of England says inflation set to rise",
+    "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28"
+    "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -45,18 +33,18 @@
   },
   {
     "type": "news",
-    "title": "Taux américains : pourquoi la Fed temporise face au rebond du pétrole et au risque d’inflation",
-    "summary": "Taux américains : pourquoi la Fed temporise face au rebond du pétrole et au risque d’inflation La Tribune",
+    "title": "Point marchés-Rebond en vue à Wall Street, l'Europe dans le vert, les résultats de sociétés dominent",
+    "summary": "Point marchés-Rebond en vue à Wall Street, l'Europe dans le vert, les résultats de sociétés dominent Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQWN6UFdxcEkyZUpobzNPT2hlY18yS0JXMVdNQzVzYmFTdWlLTnZhNlVIWXFNTkpwdlpLdXc5WGd0bHZJdHVPSXN6LXFTWWZLbkFjekZYbFJfOF9TV2lZZ3NVQmJjQTl4cHU3YnZxa0RZS1E1VE9hcEc3UU5PeHNhaDQ1MHZPOHlrbVpZZHdhdHIxRU1LUk5EVGh0Rm5NYXFIYjZTVWdoWGNZZlBtQWlEOXJNTnRNSUxCVlBFeXZFbURsd0tucEdyUEh5TTQwZll5cGVWYWlLTElOMGRPV2tsclRBWnZCenRFRUFjMmFsWUtVUEJORGtrSkp2MXZRVktCNHhJRTI2eVk?oc=5",
-    "date": "2026-07-29"
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeDdCSEhwTTBtdk1SWklOUjlxTjJBWWJnQWdiNzgtSExpQzI0cE5xSjZneWJVR3JpdFZoaEdFMkRQVGYzMVRMWEwtSFVrbWdJUXVRWGJMQ0RVaTY5c3k2TzdKZFpFNzNVUmdJd1pqTm01NlpTd2ZZTWJrUkZCeXJZUnhPU3dSODBRT011MmxZOG1qbjlKTlFTd3ZpTjlRODlFOU9sQTUwYWpCdzYwbUVyT3R1X3lVZTBkd1Q5bDY2WVdTSUQ5RXBhc0lHYktkTWRUamVJMEVGclVhRGJxVDhmdFNOcjVxa0U3YXFjM2dvX3Q?oc=5",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie attaque à nouveau avec des centaines de missiles et drones, Volodymyr Zelensky appelle ses alliés à renforcer la défense antiaérienne",
-    "summary": "Le président ukrainien a affirmé que les frappes russes menées dans la nuit de mercredi à jeudi avaient fait au moins huit morts à travers l’Ukraine, dont cinq membres d’une même famille dans la région de Dnipropetrovsk. L’armée ukrainienne a, elle, visé deux nouveaux entrepôts de Wildberries, « l’Amazon russe ».",
+    "title": "EN DIRECT, guerre en Ukraine : l’UE va verser près de 3,5 milliards d’euros supplémentaires à Kiev pour renforcer ses capacités militaires",
+    "summary": "Cette nouvelle tranche est versée au titre du volet défense du programme de prêts de soutien à Kiev, destiné à financer l’acquisition de drones, de missiles, de systèmes de défense antiaérienne et d’avions de combat.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-la-russie-bombarde-les-villes-de-kiev-lviv-et-kryvy-rih_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-l-ex-ministre-de-la-defense-ukrainien-mykhailo-fedorov-affirme-que-son-eviction-est-liee-a-la-resistance-suscitee-par-ses-reformes_6732775_3210.html",
     "date": "2026-07-30"
   },
   {
@@ -77,51 +65,51 @@
   },
   {
     "type": "news",
-    "title": "Entre Moscou et Pyongyang, la naissance d’un axe routier bien utile pour la logistique militaire",
-    "summary": "Sur le point d’être achevé, le premier pont routier entre la Russie et la Corée du Nord est officiellement destiné à dynamiser les échanges commerciaux. Mais l’enquête d’une ONG ukrainienne y voit surtout un nouvel axe logistique capable de fluidifier et dissimuler les échanges militaires entre les deux alliés dans leur guerre contre Kiev.",
+    "title": "Guerre en Ukraine, incendies en Gironde, Fifa, Jared Leto : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/transport-entre-moscou-et-pyongyang-la-naissance-d-un-axe-routier-bien-utile-pour-la-logistique-militaire_253810",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "At least 14 killed as Russia strikes Ukraine a day after Zelenskyy warning",
-    "summary": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-incendies-en-gironde-fifa-jared-leto-les-informations-de-la-nuit_254268",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Climate change is turning parts of Europe into an insurance nightmare",
-    "summary": "BRUSSELS — As wildfires menaced the outer suburbs of Bordeaux and Madrid this week, Europe once more faced an uncomfortable reality: a rapidly warming planet threatens to make parts of the continent uninsurable.",
+    "title": "Poland says Russian missile breaches NATO airspace",
+    "summary": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
+    "title": "Spain, France, UK warn megafires show climate change is ‘threatening our way of life’",
+    "summary": "BRUSSELS — The massive blazes raging in Spain and France epitomize the threat climate change is posing to Europe, the British government said in joint statements issued with the two fire-stricken countries overnight.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/climate-change-europe-insurance/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-07-29"
+    "link": "https://www.politico.eu/article/spain-france-uk-warn-megafires-show-climate-change-is-threatening-our-way-of-life/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Le discours antidémocratique peut-il encore être combattu?",
-    "summary": "La « guerre de l’information » est sur toutes les lèvres. Depuis la crise sanitaire et plus encore avec le conflit en Ukraine, cette guerre qui n’est ni militaire, ni sociale, ni économique, déchire le débat public. Chacun veut imposer sa manière de raconter le monde, on peine à se mettre d’accord sur un récit commun.",
+    "title": "À la Une: l’Ukraine est-elle en train de prendre le dessus face à la Russie?",
+    "summary": "",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260725-le-discours-antid%C3%A9mocratique-peut-il-encore-%C3%AAtre-combattu",
-    "date": "2026-07-25"
+    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260730-%C3%A0-la-une-l-ukraine-est-elle-en-train-de-prendre-le-dessus-face-%C3%A0-la-russie",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La Fed maintient ses taux inchangés, sous la pression de Donald Trump",
-    "summary": "A l’issue de sa traditionnelle réunion de deux jours, le comité de politique monétaire a décidé de maintenir ses taux dans la fourchette comprise entre 3,50 % et 3,75 %, pour la cinquième fois d’affilée.",
+    "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
+    "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/29/la-fed-maintient-ses-taux-inchanges-sous-la-pression-de-donald-trump_6736412_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
     "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law.",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "date": "2026-07-27"
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -142,7 +130,7 @@
   {
     "type": "news",
     "title": "AI's top startups are barely publishing their research",
-    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 379 # Comments: 201",
+    "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 520 # Comments: 266",
     "source": "Hacker News",
     "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "date": "2026-07-29"
@@ -173,35 +161,35 @@
   },
   {
     "type": "news",
-    "title": "Shell profits double as oil prices rise due to Iran war",
-    "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+    "title": "The £5 coffee that tells a story of global economic turmoil",
+    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-30"
+    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28"
   },
   {
     "type": "news",
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+    "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "M. Warsh s'engage à ne pas \"fléchir\" face à l'inflation alors que la Fed, divisée, maintient ses taux inchangé",
-    "summary": "M. Warsh s'engage à ne pas \"fléchir\" face à l'inflation alors que la Fed, divisée, maintient ses taux inchangé Boursorama",
+    "title": "La banque centrale indienne serait intervenue pour limiter la chute de la roupie face à la hausse des prix du pétrole, selon des traders",
+    "summary": "La banque centrale indienne serait intervenue pour limiter la chute de la roupie face à la hausse des prix du pétrole, selon des traders Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdDJOMWlZMzF2THp1SjNCM1hzUHQ3VjJlTzM3djRvcHNjVGQwRVVpMWY4QURiTDdTNlA4Z3JiMzBLY1B0NXpYY1NLUk9aRDAtS3FsczRtLUtrM1oybU9aaHFVWWJQT0ZjZklqVFRieC1neGxiU1NobmpLWHRHUk9uUEdwNnNQOVVaRHdYQ3ZwQ0hiN29seS1SbTdNNnB1NHhTU3BxcldtT1g1eHM5MzJXVmtvcFVrUGRUcXNaM3haSklDOUlYTWwtY1pjYlZQc3pMc0hURUl0UTI5R190aWZ4WUI3WjB6MGQ4YUo1U2ZiUHU2UHQtRmp4N2Jzd0lBalRSVThSNzJfZktVNkE4cTQ3Nm5SRm10T0nSAZcCQVVfeXFMUHQyTjFpWTMxdkx6dUozQjNYc1B0N1YyZU8zN3Y0b3BzY1RkMEVVaTFmOEFEYkw3UzZQOGdyYjMwS2NQdDV6WGNTS1JPWkQwLUtxbHM0bS1LazNaMm1PWmhxVVliUE9GY2ZJalRUYngtZ3hsYlNTaG5qS1h0R1JPblBHcDZzUDlVWkR3WEN2cENIYjdvbHktUm03TTZwdTR4U1NwcXJXbU9YNXhzOTMyV1Zrb3BVa1BkVHFzWjN4WkpJQzlJWE1sLWNaY2JWUHN6THNIVEVJdFEyOUdfdGlmeFlCN1owejBkOGFKNVNmYlB1NlB0LUZqeDdic3dJQWpUUlU4UjcyX2ZLVTZBOHE0NzZuUkZtdE9J?oc=5",
-    "date": "2026-07-29"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMEU1TFVQTmdRRnZGbmlIbTNiUlhlRnh3WlFfVGZfb2ZHNVZrVEUzSklIZURmWG5NQVh1SjJMcWhFTDNmX3B1RnhHTnc0S3piblJuWmJpc2E3dWNqZ0tiRjNiazhkbU5oSFcyMTVvTldia0RweHJ0NDNYOVpXNDhMZXhaOWZhVWNUNEx0XzNHN3UtVTdLSUwxaWViVTR3Q3l5d184a2ZuWDQ1VVFHRlBNLXUtVTFmUzZXOE42aE1NNGxETE80REhSNDhNTm84eFJNaUFmM3dySE1TZVRjWVBod0tBd2NKdGdrQmN0cjZSd2ZlUQ?oc=5",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
-    "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation.",
+    "title": "L’industrie en Europe n’est pas adaptée aux nouvelles crises climatiques",
+    "summary": "Vagues de chaleur, inondations, incendies… L’adaptation au changement climatique n’est pas suffisamment prise en compte par les industriels dans leurs plans de financements et de fonctionnement, qui privilégient davantage la réduction des émissions de CO₂, selon une étude du cabinet Sia Partners.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
-    "date": "2026-07-29"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/l-industrie-en-europe-n-est-pas-adaptee-aux-nouvelles-crises-climatiques_6736909_3234.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -213,51 +201,51 @@
   },
   {
     "type": "news",
-    "title": "The AI Threat to Financial Stability",
-    "summary": "In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.",
+    "title": "Explaining China’s Industrial Competitiveness",
+    "summary": "External headwinds have not weakened China’s manufacturing competitiveness. That is because the Chinese economy combines an unusually large manufacturing base, deep supply chains, fast engineering feedback loops, and cutthroat domestic competition to create global powerhouses.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07",
-    "date": "2026-07-28"
-  },
-  {
-    "type": "news",
-    "title": "Les États-Unis décident de bannir les robots humanoïdes fabriqués à l’étranger",
-    "summary": "Au nom de “risques inacceptables pour la sécurité nationale”, la Commission fédérale des communications (FCC) interdit l’importation d’“appareils robotiques avancés”. Une mise à l’index qui vise essentiellement les robots humanoïdes produits en Chine, explique la presse américaine.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/technologies-les-etats-unis-decident-de-bannir-les-robots-humanoides-fabriques-a-l-etranger_254104",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-    "summary": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "European football officials eye Qatari sports executive to challenge Infantino",
-    "summary": "BRUSSELS — European soccer officials are considering Qatari sports executive Nasser al-Khelaifi as a potential candidate in next year’s election for FIFA’s top job, after President Gianni Infantino’s proposal to sell stakes in the World Cup to outside investors sent the plan’s critics scrambling to identify a challenger.",
-    "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/29/europe-nasser-al-khelaifi-challenge-infantino-fifa-01015898?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.project-syndicate.org/commentary/china-industrial-competitiveness-root-causes-by-miao-yanliang-2026-07",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Guerre en Iran: comment l'embargo sur les images satellites US a entravé la vérification des faits",
-    "summary": "Le bras de fer entre les États-Unis et l'Iran se poursuit avec une reprise le 8 juillet des frappes américaines. À partir de mars, les premières images spatiales de la guerre déclenchée par Israël et les États-Unis avaient permis d’avoir une idée assez précise des dégâts subis par les belligérants. Elles provenaient principalement d'entreprises américaines.",
-    "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260724-guerre-en-iran-comment-l-embargo-sur-les-images-satellites-us-a-entrav%C3%A9-la-v%C3%A9rification-des-faits",
-    "date": "2026-07-24"
+    "title": "L’immobilier, cheval de Troie russe sur le sol européen ?",
+    "summary": "La Finlande, la Pologne et les pays baltes ont interdit aux ressortissants russes de conclure des transactions immobilières afin d’éviter que des biens soient utilisés pour des activités de renseignement ou de sabotage. Ce n’est pas encore le cas ailleurs en Europe, s’inquiètent plusieurs experts auprès du quotidien suédois “Dagens Nyheter”.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/vu-de-suede-l-immobilier-cheval-de-troie-russe-sur-le-sol-europeen_245830",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "A Prato, en Italie, la colère monte contre les dérives de la fast-fashion asiatique, gangrenée par la mafia chinoise",
-    "summary": "Dans cette province industrielle de Toscane, premier pôle textile d’Europe, les pratiques frauduleuses de certaines entreprises chinoises nourrissent une économie parallèle, fondée sur l’évasion fiscale, le travail clandestin et l’exploitation d’ouvriers migrants.",
+    "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+    "summary": "Rights group says India continues to support the Israeli military despite genocide 'broadcast worldwide on daily basis'.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
+    "title": "Tusk: ‘Everything indicates’ Russian cruise missile hit Poland",
+    "summary": "An airborne object crashed in eastern Poland early Thursday during Russia’s latest attack on Ukraine, leaving behind a 10-meter-wide crater and scattered debris, said Polish authorities. Ukraine’s Foreign Minister Andrii Sybiha quickly claimed on X that it was “a Russian Kh-101 cruise missile” that violated NATO airspace.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/unidentified-object-crashes-poland-russia-strikes-ukraine/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
+    "title": "Le discours antidémocratique peut-il encore être combattu?",
+    "summary": "La « guerre de l’information » est sur toutes les lèvres. Depuis la crise sanitaire et plus encore avec le conflit en Ukraine, cette guerre qui n’est ni militaire, ni sociale, ni économique, déchire le débat public. Chacun veut imposer sa manière de raconter le monde, on peine à se mettre d’accord sur un récit commun.",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260725-le-discours-antid%C3%A9mocratique-peut-il-encore-%C3%AAtre-combattu",
+    "date": "2026-07-25"
+  },
+  {
+    "type": "news",
+    "title": "Le rebond en trompe-l’œil de l’économie française au deuxième trimestre",
+    "summary": "Après un recul de 0,1 % du PIB au cours des trois premiers mois de l’année, le léger rebond au deuxième trimestre (+ 0,2 %) est largement dû aux exportations, en partie dans l’aéronautique. L’industrie tient, tandis que les ménages demeurent prudents.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/29/a-prato-en-italie-la-colere-monte-contre-les-derives-de-la-fast-fashion-asiatique-gangrenee-par-la-mafia-chinoise_6736360_3234.html",
-    "date": "2026-07-29"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -285,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html Comments URL: https://news.ycombinator.com/item?id=49098198 Points: 269 # Comments: 326",
+    "title": "The Cold Email",
+    "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 237 # Comments: 92",
     "source": "Hacker News",
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "link": "https://zachholman.com/posts/cold-email",
     "date": "2026-07-29"
   },
   {
@@ -317,27 +305,27 @@
   },
   {
     "type": "news",
-    "title": "The Chinese robot army transforming the UK's retail industry",
-    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+    "title": "Shell profits double as oil prices rise due to Iran war",
+    "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
-    "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+    "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "La Fed, sous la houlette de Warsh, maintient ses taux inchangés, laissant le marché obligataire perplexe",
-    "summary": "La Fed, sous la houlette de Warsh, maintient ses taux inchangés, laissant le marché obligataire perplexe Boursorama",
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
+    "title": "La Fed maintient son taux directeur, malgré l’inflation - finance-investissement.com",
+    "summary": "La Fed maintient son taux directeur, malgré l’inflation finance-investissement.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX0huWDFOeE15alIwRWZXb1R2TFcyZHpldG4yNGxjc1V0VDVLN0dBamRPWjFscnE1MFlNZGs1VVNYZV9qUlBISWt3MmZtd0xreVF0Z2U3OVZHRkU2QTc4VWpidW41RGhHYXRjeERRZEtSZ3ZoLVplQ0dsSlRPU2pYeVFqdEhEelFxcW1XZEpYMFJvbTVRVnF4TVlPSU9wd0tKUFBPUnNPYWthQkxHTF9XbWZkWkVSRnk1NWhVZ0JvLVRTZjktYjJNcXJZTmdwZFAzR1FGS0h3NGp2TXFpMDhaSVllczFqYlNSUEp1YXViS2RpWnMyc3o1LU5zYzlSQVQ4VHpDZnZOZFhFU0JkXy04StIBkAJBVV95cUxQX0huWDFOeE15alIwRWZXb1R2TFcyZHpldG4yNGxjc1V0VDVLN0dBamRPWjFscnE1MFlNZGs1VVNYZV9qUlBISWt3MmZtd0xreVF0Z2U3OVZHRkU2QTc4VWpidW41RGhHYXRjeERRZEtSZ3ZoLVplQ0dsSlRPU2pYeVFqdEhEelFxcW1XZEpYMFJvbTVRVnF4TVlPSU9wd0tKUFBPUnNPYWthQkxHTF9XbWZkWkVSRnk1NWhVZ0JvLVRTZjktYjJNcXJZTmdwZFAzR1FGS0h3NGp2TXFpMDhaSVllczFqYlNSUEp1YXViS2RpWnMyc3o1LU5zYzlSQVQ4VHpDZnZOZFhFU0JkXy04Sg?oc=5",
-    "date": "2026-07-29"
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNFVE12bTAxZG5qVTFnT0djU3FvY1NwaHZTNkRKTk5YRzdkT25lWG90dy1lWXhMeFBHVUhEa3RmNzNsTmxGZHVkcHd3RW45U21jNGUtMW5ORm5fa3N5UWVBVjNxRTFlZDNmUEFrZXBBcFdyRm1UOFBWMi1VSGdsa0lwOHZQVUc1VkhjX09STTNhYUNnOUh4dA?oc=5",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -357,42 +345,42 @@
   },
   {
     "type": "news",
-    "title": "When Politicians Ignore Economic Expertise",
-    "summary": "As politicians encroach on areas that require technical knowledge, the risk of costly policy mistakes increases. The failures of Narendra Modi and Donald Trump show that when it comes to economic policymaking, political acumen is no substitute for a deep understanding of incentives, markets, and institutions.",
+    "title": "The AI Threat to Financial Stability",
+    "summary": "In episodes like the railroad boom and the dot-com bubble, creditors and shareholders were wiped out, because investment in a genuinely transformative technology outpaced any plausible near-term return. With the US financial system and asset markets having become a one-way bet on AI, such an outcome today could be catastrophic.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/some-economic-questions-should-not-be-left-to-politicians-by-kaushik-basu-2026-07",
-    "date": "2026-07-29"
+    "link": "https://www.project-syndicate.org/commentary/ai-bubble-threatens-financial-stability-by-brian-judge-2026-07",
+    "date": "2026-07-28"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine, incendies en Gironde, Fifa, Jared Leto : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "La chroniqueuse pro-Kremlin Xenia Fedorova visée par un arrêté d’expulsion",
+    "summary": "La journaliste russe, qui intervient régulièrement sur des chaînes appartenant au milliardaire conservateur Vincent Bolloré, s’est vu remettre mercredi un arrêté ministériel d’expulsion, décision qu’elle va contester.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-guerre-en-ukraine-incendies-en-gironde-fifa-jared-leto-les-informations-de-la-nuit_254268",
+    "link": "https://www.courrierinternational.com/article/france-la-chroniqueuse-pro-kremlin-xenia-fedorova-visee-par-un-arrete-d-expulsion_254301",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "War and shortages push Gaza hospitals to breaking point",
-    "summary": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
+    "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+    "summary": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least eight people.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "US launches strikes on Iran in retaliation for failed attack on American troops",
-    "summary": "The U.S. launched fresh strikes against Iran Wednesday evening in retaliation for an attempted Iranian attack on American forces in the Middle East, the Pentagon announced, the first U.S. strikes following a brief lull in the fighting. U.S.",
+    "title": "Potential roadblocks ahead for Washington’s Russia sanctions bill",
+    "summary": "Long-anticipated Russia sanctions legislation proposed by the late Sen. Lindsey Graham is heading toward passage in the Senate. That doesn’t mean the road ahead will be easy, and it certainly won’t be quick.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/29/us-strikes-iran-failed-troop-attack-01016715?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/07/29/roadblocks-graham-russia-sanctions-bill-01015843?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Zinédine Zidane, sélectionneur enthousiaste et diplomate malgré lui",
-    "summary": "Sans surprise, Zinédine Zidane est donc officiellement le nouveau sélectionneur de l’équipe de France de football. L’enjeu est avant tout sportif. Il s’agit de maintenir les Bleus au plus haut niveau après trois qualifications d’affilée pour le dernier carré de la Coupe du monde. Mais le poste est tellement exposé, que cela va bien au-delà de ça.",
+    "title": "Guerre en Iran: comment l'embargo sur les images satellites US a entravé la vérification des faits",
+    "summary": "Le bras de fer entre les États-Unis et l'Iran se poursuit avec une reprise le 8 juillet des frappes américaines. À partir de mars, les premières images spatiales de la guerre déclenchée par Israël et les États-Unis avaient permis d’avoir une idée assez précise des dégâts subis par les belligérants. Elles provenaient principalement d'entreprises américaines.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260729-zin%C3%A9dine-zidane-s%C3%A9lectionneur-enthousiaste-et-diplomate-malgr%C3%A9-lui",
-    "date": "2026-07-29"
+    "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260724-guerre-en-iran-comment-l-embargo-sur-les-images-satellites-us-a-entrav%C3%A9-la-v%C3%A9rification-des-faits",
+    "date": "2026-07-24"
   }
 ]
