@@ -1,6 +1,36 @@
 [
   {
     "type": "histoire",
+    "question": "Quelle a été l'impact de la Révolution chinoise de 1949 sur l'économie de la Chine ?",
+    "answer": "La Révolution chinoise de 1949 a conduit à la création de la République populaire de Chine, marquant le début d'une économie planifiée. Le Parti communiste a nationalisé les industries et collectivisé l'agriculture, ce qui a entraîné des transformations économiques significatives jusqu'à la fin des années 1970."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la politique de l'ouverture de Deng Xiaoping a-t-elle transformé la Chine dans les années 1980 ?",
+    "answer": "Deng Xiaoping a lancé la politique de l'ouverture en 1978, permettant des réformes économiques et l'introduction de l'économie de marché. Cela a conduit à une croissance rapide et à l'émergence de la Chine comme une puissance économique mondiale, avec un PIB multiplié par plus de dix entre 1980 et 2010."
+  },
+  {
+    "type": "histoire",
+    "question": "Quel rôle la Chine a-t-elle joué dans la guerre froide ?",
+    "answer": "Durant la guerre froide, la Chine a d'abord été alliée à l'Union soviétique, mais a rompu cette alliance en 1960, adoptant une position plus indépendante. En 1971, la Chine a été admise aux Nations unies, marquant un tournant dans sa diplomatie et renforçant son influence mondiale."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelles ont été les conséquences des manifestations de Tian'anmen en 1989 ?",
+    "answer": "Les manifestations de Tian'anmen en 1989 ont été réprimées par le gouvernement, entraînant des milliers de morts et une forte répression politique. Cet événement a eu des répercussions durables sur la politique intérieure, avec un renforcement de l'autoritarisme et une prudente libéralisation économique."
+  },
+  {
+    "type": "histoire",
+    "question": "Comment la Chine a-t-elle développé son secteur technologique au XXIe siècle ?",
+    "answer": "Au XXIe siècle, la Chine a investi massivement dans son secteur technologique, avec des initiatives comme 'Made in China 2025' lancée en 2015. Cela a permis à la Chine de devenir un leader mondial dans des domaines tels que l'intelligence artificielle, les télécommunications et les énergies renouvelables."
+  },
+  {
+    "type": "histoire",
+    "question": "Quelle est l'importance de l'initiative Belt and Road lancée en 2013 ?",
+    "answer": "L'initiative Belt and Road, lancée par la Chine en 2013, vise à renforcer les infrastructures et les échanges commerciaux entre l'Asie, l'Europe et l'Afrique. Elle représente une stratégie géopolitique majeure pour étendre l'influence de la Chine à l'échelle mondiale, avec des investissements estimés à des milliers de milliards de dollars."
+  },
+  {
+    "type": "histoire",
     "question": "Quels sont les principaux concepts de l'économie classique?",
     "answer": "L'économie classique, développée au XVIIIe et au XIXe siècles, repose sur des concepts tels que la main invisible de Adam Smith, qui prône que l'intérêt personnel conduit à la prospérité générale. Les économistes comme David Ricardo et John Stuart Mill ont également contribué à des théories sur la valeur et le libre-échange."
   },
