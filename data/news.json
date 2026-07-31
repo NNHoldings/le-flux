@@ -1,18 +1,6 @@
 [
   {
     "type": "news",
-    "essential": true,
-    "title": "L'essentiel du jour",
-    "bullets": [
-      "Les marchés obligataires font face à une lutte entre inflation et récession.",
-      "La BCE élargit l'utilisation des facteurs climatiques dans le cadre des garanties du système Eurosystem.",
-      "La Fed maintient ses taux d'intérêt, tout en restant prête à agir si la guerre en Iran s'intensifie."
-    ],
-    "source": "Le Flux",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
     "title": "Inflation or recession? The tug of war in bond markets",
     "summary": "Governments’ borrowing costs are being pulled in opposite directions",
     "source": "The Economist — Finance",
@@ -37,26 +25,26 @@
   },
   {
     "type": "news",
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "title": "CNBC Daily Open: Iran-U.S. tensions, China's factory data and a steady Bank of Japan",
+    "summary": "U.S. President Donald Trump called on Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support. However duties would have little effect, as the U.S. imports nearly nothing from Iran.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-    "date": "2026-07-30"
+    "link": "https://www.cnbc.com/2026/07/31/-cnbc-daily-open-iran-us-tensions-chinas-factory-data-and-a-steady-bank-of-japan.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Point marchés-Rebond en vue à Wall Street, l'Europe dans le vert, les résultats de sociétés dominent",
-    "summary": "Point marchés-Rebond en vue à Wall Street, l'Europe dans le vert, les résultats de sociétés dominent Zonebourse",
+    "title": "Économie circulaire : spécialiste de l’intelligence artificielle (IA), Greyparrot lève 27 millions de dollars pour équiper les centres de tri",
+    "summary": "Économie circulaire : spécialiste de l’intelligence artificielle (IA), Greyparrot lève 27 millions de dollars pour équiper les centres de tri L'Usine Nouvelle",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeDdCSEhwTTBtdk1SWklOUjlxTjJBWWJnQWdiNzgtSExpQzI0cE5xSjZneWJVR3JpdFZoaEdFMkRQVGYzMVRMWEwtSFVrbWdJUXVRWGJMQ0RVaTY5c3k2TzdKZFpFNzNVUmdJd1pqTm01NlpTd2ZZTWJrUkZCeXJZUnhPU3dSODBRT011MmxZOG1qbjlKTlFTd3ZpTjlRODlFOU9sQTUwYWpCdzYwbUVyT3R1X3lVZTBkd1Q5bDY2WVdTSUQ5RXBhc0lHYktkTWRUamVJMEVGclVhRGJxVDhmdFNOcjVxa0U3YXFjM2dvX3Q?oc=5",
-    "date": "2026-07-30"
+    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQVjNSbmxrT1ZEZjk2YjZFUFl2U24xTmZUOEpUWFdCRUg1NkFQWmpVTlBaMXFPZHNWdTUxQkJobFVVZzJJUmdDM2RzY0NHenpfcXV3ckF1U0F5dHZmcHR0QUt6czNHUDMyZXIybkdLLWhsSjVMbnd4S2NJbFdmeHJlQm5ieGNYNVdRenRVNW10NXE0bThvVnVEZWVLVWxJN24tVWxRbnFiTEpBRXEwYVJ3U1M3OUpkZ3h3TzdMVFZaNTJuMVdlbENKT3oxMUt6Nno5dUduNzRuLWNqRzhjTjBhY1ZaelBoVnZqMVc5ZFJQUnRWR3FwSTNSTDh3ZzR4RldHbHpUckM5S3ZpcW8tVkhwNUdGU0tYamFpa2w2MDVwcmpDanFreDVxZTNPX2t0SjBK?oc=5",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : après la chute d’un missile présumé russe en Pologne, le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade »",
+    "title": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade » après la chute d’un missile présumé russe en Pologne",
     "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une nouvelle « violation inacceptable » de l’espace aérien de l’Union européenne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-apres-la-chute-d-un-missile-presume-russe-en-pologne-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade_6732775_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade-apres-la-chute-d-un-missile-presume-russe-en-pologne_6732775_3210.html",
     "date": "2026-07-30"
   },
   {
@@ -85,35 +73,35 @@
   },
   {
     "type": "news",
-    "title": "US GDP growth dips as inflation and trade deficits pressure economy",
-    "summary": "GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.",
+    "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
+    "summary": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
-    "date": "2026-07-30"
+    "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Spain, France, UK warn megafires show climate change is ‘threatening our way of life’",
-    "summary": "BRUSSELS — The massive blazes raging in Spain and France epitomize the threat climate change is posing to Europe, the British government said in joint statements issued with the two fire-stricken countries overnight.",
+    "title": "Climate change made Spanish wildfires 20 times more likely",
+    "summary": "BRUSSELS — Climate change is rendering Europe more flammable, vastly increasing the odds of the tinderbox conditions that fueled this week’s megafires in France and Spain, said researchers Friday. Enormous blazes have spread around Bordeaux and Madrid since the weekend, forcing mass evacuations and destroying hundreds of homes.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/spain-france-uk-warn-megafires-show-climate-change-is-threatening-our-way-of-life/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/climate-change-spain-france-fire-likely/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "À la Une: l’Ukraine est-elle en train de prendre le dessus face à la Russie?",
-    "summary": "",
+    "title": "Ukraine et Iran, des guerres interconnectées, dans un contexte conflictuel globalisé",
+    "summary": "La guerre continue entre la Russie et l’Ukraine d’une part, et entre les États-Unis et l’Iran d’autre part. Deux guerres menées sur des théâtres différents et pour des raisons différentes. Mais deux guerres de plus en plus interconnectées, comme le montrent plusieurs événements récents.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260730-%C3%A0-la-une-l-ukraine-est-elle-en-train-de-prendre-le-dessus-face-%C3%A0-la-russie",
-    "date": "2026-07-30"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260731-ukraine-et-iran-des-guerres-interconnect%C3%A9es-dans-un-contexte-conflictuel-globalis%C3%A9",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "La Fed choisit de maintenir ses taux inchangés, malgré une forte inflation",
-    "summary": "Le comité de la banque centrale affiche un niveau de dissension inédit car la pression en faveur d’une politique monétaire plus restrictive s’accroît aux Etats-Unis, afin de s’attaquer frontalement à l’inflation.",
+    "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
+    "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/la-fed-choisit-de-maintenir-ses-taux-inchanges-malgre-une-forte-inflation_6736482_3234.html",
-    "date": "2026-07-29"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -141,10 +129,10 @@
   },
   {
     "type": "news",
-    "title": "Advancing the price-performance frontier with GPT‑5.6",
-    "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 159 # Comments: 78",
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49116721 Points: 165 # Comments: 70",
     "source": "Hacker News",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
     "date": "2026-07-30"
   },
   {
@@ -181,27 +169,27 @@
   },
   {
     "type": "news",
-    "title": "30-year yield hovers near 2007 high as traders weigh Fed decision to holds rates steady",
-    "summary": "Investors weighed the Federal Reserve's decision to hold interest rates steady.",
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Ukraine : la banque centrale relève son taux directeur à 15,5 %",
-    "summary": "Ukraine : la banque centrale relève son taux directeur à 15,5 % Zonebourse",
+    "title": "\"C'est presque trop beau pour être vrai\": en croissance de 0,2%, l'économie allemande a été plus résiliente que prévu au deuxième trimestre malgré la guerre au Moyen-Orient",
+    "summary": "\"C'est presque trop beau pour être vrai\": en croissance de 0,2%, l'économie allemande a été plus résiliente que prévu au deuxième trimestre malgré la guerre au Moyen-Orient BFM",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlV2OFFPRjRzdWo4VGlheFJUOGp0TC0yV3NtWW00X2VjUy1xWmlWcDNHX3N1LUh1YlhodTVTTGNnMFFxbU5HU0dWclBvS3BnSzRRZm9XQ0VoRkZOMHlpcnlONXJvUWZraDRCNGJlQl9nTFZqTk1JWl9VUE1mQ0h0MGR1NEREVlFYb0N6RjNNbm82UlcwYV9RRTFIS0lKVkRNRWQ3bi0xU2hzSlNqVDd5X3FzcGlZNDNoZ0ZTLTF3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPVllSMXdienA1QkwyTGFKWVROdWdVemFXZkJ3cVYzRUFMaDJ0TDBSc0lwTnBIWWE2VmZnUk1zYURJX1piQWVrcUlJQmFMUy1vMFRYWEEzZTUwYzJfbjc2c0VpeXZIMGpmUFVwcko2RUxtSk5BWGNKb1F3d3BRNTdVWnNzcFlXdTUyTEFQMTVMQlpqN2QzdGZlZTlscG5ka0hpYWJ5NHlmVm55aVFVTE5sWl9CLW9NdlBacnVYNTF0dmFVSUJXZDJCcDR4eHA4ZS03VFZlSTg4WmFQSTJUOFQ0SkNrdUd6MVNEYUpZYllqZE16NVE0cDRzaFhSZWRtNlVNSHJjVk4zY3FvQjBZTXJqTjlwMXhkM1dvNkdnRmJOMTVhSUxFb0RwUm04NVotOHBLNldJeEN3TnZEcG5rb2ZXNzJIZmN1Z0Y3V0dqNG1YM0d2MUVTZ2lmS2RMSFk5NklYZGpqN3pnUV9NbzM1?oc=5",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "IA : l’Europe met 5 milliards d’euros sur la table pour financer sept méga-usines et combler son retard sur les Etats-Unis et la Chine",
-    "summary": "La Commission européenne a ouvert un appel d’offres pour financer ces gigantesques structures conçues pour l’entraînement de modèles d’intelligence artificielle. Les défis sont nombreux : incertitude budgétaire, respect des normes environnementales, dépendance aux Américains…",
+    "title": "A Barcelone, Russes et Ukrainiens exilés se croisent aux bains : « La guerre, on n’en parle pas, même au “bania” »",
+    "summary": "Depuis un an les bains de vapeur traditionnels d’Europe de l’Est et de Russie, fleurissent dans la capitale catalane. Plébiscités tant par les Russes que par les Ukrainiens qui se sont installés par milliers sur la Costa Brava au début de la guerre, en 2022, ces établissements sont devenus un lieu de cohabitation inattendu entre les communautés des deux pays…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/ia-bruxelles-met-cinq-milliards-d-euros-sur-la-table-et-espere-combler-son-retard-sur-washington-et-pekin_6737050_3234.html",
-    "date": "2026-07-30"
+    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/31/a-barcelone-russes-et-ukrainiens-exiles-se-croisent-aux-bains-la-guerre-on-n-en-parle-pas-meme-au-banya_6737092_4500055.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -229,34 +217,34 @@
   },
   {
     "type": "news",
-    "title": "NATO jets scramble as Russian missile detonates in Poland",
-    "summary": "The growing series of NATO airspace violations is raising concern that Russia's war on Ukraine could escalate.",
+    "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+    "summary": "European football's governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
-    "date": "2026-07-30"
+    "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "EU launches €30B push to build 7 massive AI data centers",
-    "summary": "BRUSSELS — The EU on Thursday fired the starting gun on plans to fund seven multi-billion-euro computing hubs to train artificial intelligence models in Europe. The launch of an official process for seven industry consortia willing to build AI “gigafactories” fulfills a promise made by European Commission President Ursula von der Leyen at an AI summit last y…",
+    "title": "Week Ender — Searing Contradiction: Wildfires and climate politics",
+    "summary": "Listen on Spotify Apple Music Amazon Music Wildfires may sound remote — something that happens deep in a forest or on an empty mountainside. But in Europe, there’s often very little distance between nature and major population centers.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-launches-e30-billion-push-build-7-giga-ai-compute-hubs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/searing-contradiction-wildfires-and-climate-politics/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "À la Une: l’Ukraine est-elle en train de prendre le dessus face à la Russie?",
+    "summary": "",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260730-%C3%A0-la-une-l-ukraine-est-elle-en-train-de-prendre-le-dessus-face-%C3%A0-la-russie",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Le discours antidémocratique peut-il encore être combattu?",
-    "summary": "La « guerre de l’information » est sur toutes les lèvres. Depuis la crise sanitaire et plus encore avec le conflit en Ukraine, cette guerre qui n’est ni militaire, ni sociale, ni économique, déchire le débat public. Chacun veut imposer sa manière de raconter le monde, on peine à se mettre d’accord sur un récit commun.",
-    "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260725-le-discours-antid%C3%A9mocratique-peut-il-encore-%C3%AAtre-combattu",
-    "date": "2026-07-25"
-  },
-  {
-    "type": "news",
-    "title": "Le rebond en trompe-l’œil de l’économie française au deuxième trimestre",
-    "summary": "Après un recul de 0,1 % du PIB au cours des trois premiers mois de l’année, le léger rebond au deuxième trimestre (+ 0,2 %) est largement dû aux exportations, en partie dans l’aéronautique. L’industrie tient, tandis que les ménages demeurent prudents.",
+    "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
+    "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/en-france-un-rebond-en-trompe-l-il-de-l-economie-au-deuxieme-trimestre_6736703_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
     "date": "2026-07-30"
   },
   {
@@ -285,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "summary": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 256 # Comments: 253",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49112867 Points: 557 # Comments: 364",
     "source": "Hacker News",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
     "date": "2026-07-30"
   },
   {
@@ -325,27 +313,27 @@
   },
   {
     "type": "news",
-    "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
-    "summary": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
+    "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+    "summary": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-    "date": "2026-07-30"
+    "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe, hormis Londres, finit dans le vert, portée par les résultats",
-    "summary": "Point marchés-L'Europe, hormis Londres, finit dans le vert, portée par les résultats Zonebourse",
+    "title": "Point marchés-L'Europe vue dans le vert, les craintes sur la \"tech\" s'apaisent",
+    "summary": "Point marchés-L'Europe vue dans le vert, les craintes sur la \"tech\" s'apaisent Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcVlucndUem16ZDF0T2F3b3RlM3Q0SjFBLWtGMHkyY3B3MXotQWNDLUtwQmtOVXQyaGYzTHJMajQ2VWZhRzh3dlpHRGRkLWpzdHRsVzdEbkNvTF9PZ1FyWGx4eWJjSUFwOENoMXBNT01jZlo3TXBXYV81MF8tSEU4Nl9hQlpQbjRhUHNfdVd4QTl6bG1KbzgzZjVwR1FzcW1Yai1tc3RGWDlYT29ndTM2OUxFYUZxXzRCN3VmVDF3RTdpUzh0NnRFU19fWmxNTHFNLXI5YWFPTThIUQ?oc=5",
-    "date": "2026-07-30"
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYjRQSFMwRVQxMk1MbDdQWkFaVElITExNZ3lyeHkteVpZTzI3VWFNSHJZdWtLRndBUW96eWRTRC1tS3NBNTJDRXpXUjBtcS1BT0tublc4T05JVm1zckhoMVVqWXM3R05PSUJFbXZHRjNaajFlVkI5VVNPanl4VXp2ZFQyZGpHZTlSd0VfbjQ5dFo5WmR0dEl3T0FLSVc3NWhQT29ybEotR0d1SjdJYUl4WWR4NEY0TTNrNlJ6MlBuSWpoTl92MmxvMzZoSVJzeVlsWWc?oc=5",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
-    "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations.",
+    "title": "Avec l’argent européen, Kiev multiplie les acquisitions d’équipements militaires de dernière génération",
+    "summary": "Grâce au prêt de 90 milliards d’euros accordé par les Vingt-Sept, l’Ukraine commande avions de chasse et systèmes antiaériens. Mais les pays du Vieux Continent ne sont pas en capacité de fournir tous les matériels nécessaires.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
-    "date": "2026-07-30"
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/avec-l-argent-europeen-kiev-multiplie-les-acquisitions-d-equipements-militaires-de-derniere-generation_6737086_3210.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -373,26 +361,26 @@
   },
   {
     "type": "news",
-    "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
-    "summary": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
+    "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+    "summary": "Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
-    "date": "2026-07-30"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "US-Iran war looms over Britain’s economy",
-    "summary": "LONDON — U.S. President Donald Trump’s shadow is set to loom over the British economy as the Bank of England on Thursday warned fresh conflict in Iran could send prices soaring. New U.K. Prime Minister Andy Burnham took office last week with a flurry of cost-of-living announcements — but it’s the U.S.",
+    "title": "Italy and Spain clash over Schengen as Ceuta migration spat boils over",
+    "summary": "Italy’s most senior politicians have called for Spain to be kicked out of Europe’s Schengen zone, with tempers running hot as thousands of migrants reportedly forced their way into the Spanish enclave of Ceuta.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/us-iran-war-looms-over-british-economy/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/migration-crisis-spain-italy-clash-over-schengen-morocco-cueta/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-30"
   },
   {
     "type": "news",
-    "title": "Guerre en Iran: comment l'embargo sur les images satellites US a entravé la vérification des faits",
-    "summary": "Le bras de fer entre les États-Unis et l'Iran se poursuit avec une reprise le 8 juillet des frappes américaines. À partir de mars, les premières images spatiales de la guerre déclenchée par Israël et les États-Unis avaient permis d’avoir une idée assez précise des dégâts subis par les belligérants. Elles provenaient principalement d'entreprises américaines.",
+    "title": "Le discours antidémocratique peut-il encore être combattu?",
+    "summary": "La « guerre de l’information » est sur toutes les lèvres. Depuis la crise sanitaire et plus encore avec le conflit en Ukraine, cette guerre qui n’est ni militaire, ni sociale, ni économique, déchire le débat public. Chacun veut imposer sa manière de raconter le monde, on peine à se mettre d’accord sur un récit commun.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260724-guerre-en-iran-comment-l-embargo-sur-les-images-satellites-us-a-entrav%C3%A9-la-v%C3%A9rification-des-faits",
-    "date": "2026-07-24"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260725-le-discours-antid%C3%A9mocratique-peut-il-encore-%C3%AAtre-combattu",
+    "date": "2026-07-25"
   }
 ]
