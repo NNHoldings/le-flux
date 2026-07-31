@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "L’Ukraine multiplie les acquisitions d’équipements militaires de dernière génération avec l’argent européen",
-    "summary": "Grâce au prêt de 90 milliards d’euros accordé par l’UE, Kiev commande avions de chasse et systèmes antiaériens. Mais les pays du Vieux Continent ne sont pas capables de fournir tous les matériels nécessaires.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : le trafic maritime est toujours impossible dans le détroit d’Ormuz, affirme l’Iran",
+    "summary": "L’armée américaine assure pourtant que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des quatre derniers mois », précise le commandement militaire américain pour le Moyen-Orient, sur X.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/07/31/avec-l-argent-europeen-kiev-multiplie-les-acquisitions-d-equipements-militaires-de-derniere-generation_6737086_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html",
     "date": "2026-07-31"
   },
   {
@@ -65,26 +65,26 @@
   },
   {
     "type": "news",
-    "title": "À Hiroshima, un alliage métallique inédit découvert dans les débris de l’explosion nucléaire",
-    "summary": "Sur les plages de la baie de Hiroshima, on trouve toujours de minuscules débris formés lors de l’explosion de la bombe atomique américaine, le 6 août 1945. Des chercheurs ont découvert un alliage métallique inédit dans certains d’entre eux.",
+    "title": "À Gaza, le plan de désarmement accepté par le Hamas suscite une fragile “lueur d’espoir”",
+    "summary": "En acceptant la feuille de route du plan Trump prévoyant la mise hors service progressive de son arsenal en échange d’un retrait graduel de l’armée israélienne, le Hamas ouvre la perspective d’une fin de la guerre à Gaza, ardemment attendue par la population de l’enclave.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sciences-a-hiroshima-un-alliage-metallique-inedit-decouvert-dans-les-debris-de-l-explosion-nucleaire_254731",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
-    "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
-    "summary": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-le-plan-de-desarmement-accepte-par-le-hamas-suscite-une-fragile-lueur-d-espoir_255027",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Commission launches major hiring push for AI Office",
-    "summary": "The European Commission has launched a hiring call to boost the headcount of its units responsible for enforcing the EU’s new artificial intelligence rules. The EU’s executive confirmed Friday that it is seeking contract agents for two units within the two-year-old Artificial Intelligence Office, which is part of the Commission’s technology department, DG Co…",
+    "title": "Russia and Ukraine report casualties as they continue to trade attacks",
+    "summary": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
+    "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "UK to hold budget on Oct. 28, chancellor announces",
+    "summary": "Andy Burnham’s new government will hold its first budget on Oct. 28, U.K. Chancellor John Healey announced today. Healey, who replaced Rachel Reeves in the job last week, will have to balance maintaining fiscal credibility in the bond market and the new government’s desire to expand spending on defense and social care.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/uk-budget-october-28-chancellor-john-healey/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-31"
   },
   {
@@ -113,11 +113,27 @@
   },
   {
     "type": "news",
-    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-    "summary": "Elon Musk has settled his lawsuit with advertisers that he once claimed should be criminally prosecuted for refusing to advertise on his social media platform, X. In a joint statement that reveals little about the deal, the World Federation of Advertisers (WFA) and X said that they were “putting the litigation involving the Global Alliance for Responsible Me…",
+    "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+    "summary": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with AI. In this episode of Me, Myself, and AI, the Stanford University economist explains why technology isn’t the biggest barrier to progress — people, organizations, and institutions are.",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
+    "date": "2026-07-21"
+  },
+  {
+    "type": "news",
+    "title": "Iran struck Amazon data centers again amid widening war, satellites show",
+    "summary": "Satellite images have revealed new damage to Amazon data centers in the Middle East along with at least one crucial Saudi oil facility, following missile and drone attacks by Iran and its Houthi allies.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "date": "2026-07-29"
+    "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+    "date": "2026-07-30"
+  },
+  {
+    "type": "news",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals Comments URL: https://news.ycombinator.com/item?id=49116922 Points: 206 # Comments: 164",
+    "source": "Hacker News",
+    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -153,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "title": "Leonardo expects more deals as Europe ramps up defense spending",
+    "summary": "Leonardo is eyeing further M&A as it races to expand capabilities and meet surging defense demand after raising its 2026 outlook.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
-    "title": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable",
-    "summary": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable global.morningstar.com",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHlYc1owQ2ZqLTEtV3RBRGNRZm5mVF9BRFVSUU9xLXo0UllvS19wUHBhRHJPbW9wVjdMM0k1RUxPWVBjWERXMUp5Q3NoX2ZVdW5mZXNlVldfaVBJd1BBZHg5X0JVX0hpX0RucGFlNlo0aDEtTkxCVXZmV0Nvay1fZGZ4NXRZZkllUEJxTDQ4cDh0dXlJYS1hWEJBblF0eWRHcmZyemYzZVJIaXBPR2htdkZ6bjRWaG1fVVJaTUhLS2hVZ0lGbmpfbWQzeE1mNnVBWmwzUmVFbmJjUG5OX2kyRG82MWhYc0tCSjFEV1h4Z3d1Y050UWc?oc=5",
+    "link": "https://www.cnbc.com/2026/07/31/leonardo-defense-acquisitions.html",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "A Barcelone, Russes et Ukrainiens exilés se croisent aux bains : « La guerre, on n’en parle pas, même au “bania” »",
-    "summary": "Depuis un an les bains de vapeur traditionnels d’Europe de l’Est et de Russie, fleurissent dans la capitale catalane. Plébiscités tant par les Russes que par les Ukrainiens qui se sont installés par milliers sur la Costa Brava au début de la guerre, en 2022, ces établissements sont devenus un lieu de cohabitation inattendu entre les communautés des deux pays…",
+    "title": "Inde : le portefeuille de contrats de change à terme de la banque centrale se contracte légèrement à 103,3 milliards de dollars",
+    "summary": "Inde : le portefeuille de contrats de change à terme de la banque centrale se contracte légèrement à 103,3 milliards de dollars Zonebourse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSzhJb2s5ZjlBdUFHRmtnRUFMRlI5OXJNMnU3cVpibWR5T0t0WVVPWVpCclFYSHVReTZ5TlRxbWRSMTdYc2pUbEJTVnl5ck9fVGFTX3o2YzRNRWdJSFIxRDFpcFNmRzlraWZ5Ty0xMENlaFNuOGdsd3VCNU1rWUxOMXBYUG5GMkZWejRkSHJhUmpQR2g1Y0NzTmM5TlhTVHA2R2taRUxwNHVjWU9MZmtWSHZzbGtYMDlFbURzQW42b3Jnd3ZjR25mbnAySjJwQVRrVE5GZV9RLVFfa3RZTXhtQ2pyTUV0WHNvOTg2c0dNMmY?oc=5",
+    "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : Donald Trump dit vouloir faire « très attention » avant d’autoriser Kiev à produire des missiles Patriot",
+    "summary": "« Vous donnez cette technologie et, un jour, ils peuvent se retourner contre vous », a mis en garde le président américain, lors d’un conseil des ministres ouvert à la presse dans sa résidence de Camp David.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/31/a-barcelone-russes-et-ukrainiens-exiles-se-croisent-aux-bains-la-guerre-on-n-en-parle-pas-meme-au-banya_6737092_4500055.html",
+    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-donald-trump-dit-vouloir-faire-tres-attention-avant-d-autoriser-kiev-a-produire-des-missiles-patriot_6732775_3210.html",
     "date": "2026-07-31"
   },
   {
@@ -185,34 +201,34 @@
   },
   {
     "type": "news",
-    "title": "AI Must Enlarge the Economy, Not Divide It",
-    "summary": "To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.",
+    "title": "Africa’s Energy Curse Is a Political Choice",
+    "summary": "It is no secret why African countries with large fossil-fuel reserves nonetheless have failed to reduce extreme poverty or provide reliable electricity to all households. Those in power have made a conscious choice to privilege hard-currency export revenues, some of which then finance elite consumption rather than public investment.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07",
+    "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "La guerre entre les États-Unis et l’Iran gagne de nouveaux pays et de nouveaux fronts",
-    "summary": "L’intensification des attaques iraniennes contre les bases de l’armée américaine en Jordanie, la participation de l’Arabie saoudite aux frappes contre les milices pro-Téhéran en Irak et le ciblage de navires près de l’embouchure du canal de Suez plonge le Moyen-Orient “en territoire inconnu”.",
+    "title": "Au Zimbabwe, des traitements contre le sida dans des élevages de volailles",
+    "summary": "Une enquête du “Southern Africa Accountability Journalism Project”, publiée par le média sud-africain “Daily Maverick”, suggère que des éleveurs zimbabwéens donnent des antirétroviraux à leurs volailles en espérant stimuler leur croissance.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflit-la-guerre-entre-les-etats-unis-et-l-iran-gagne-de-nouveaux-pays-et-de-nouveaux-fronts_254532",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
-    "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
-    "summary": "Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/elevage-au-zimbabwe-des-traitements-contre-le-sida-dans-des-elevages-de-volailles_255225",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Week Ender — Searing Contradiction: Wildfires and climate politics",
-    "summary": "Listen on Spotify Apple Music Amazon Music Wildfires may sound remote — something that happens deep in a forest or on an empty mountainside. But in Europe, there’s often very little distance between nature and major population centers.",
+    "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+    "summary": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+    "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "Commission launches major hiring push for AI Office",
+    "summary": "The European Commission has launched a hiring call to boost the headcount of its units responsible for enforcing the EU’s new artificial intelligence rules. The EU’s executive confirmed Friday that it is seeking contract agents for two units within the two-year-old Artificial Intelligence Office, which is part of the Commission’s technology department, DG Co…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/searing-contradiction-wildfires-and-climate-politics/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-31"
   },
   {
@@ -241,11 +257,27 @@
   },
   {
     "type": "news",
-    "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-    "summary": "If you follow quantum computing news for long enough, it can start to seem like any quantum system that can alternate between two well-separated energy states can be used as a qubit. Atoms, ions, photons, electrons, and manufactured devices all have their backers. One of the key things that attracts backers is the tech's ability to scale.",
+    "title": "Robots Are Coming — but Not Everywhere",
+    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+    "date": "2026-07-23"
+  },
+  {
+    "type": "news",
+    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+    "summary": "Elon Musk has settled his lawsuit with advertisers that he once claimed should be criminally prosecuted for refusing to advertise on his social media platform, X. In a joint statement that reveals little about the deal, the World Federation of Advertisers (WFA) and X said that they were “putting the litigation involving the Global Alliance for Responsible Me…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
     "date": "2026-07-29"
+  },
+  {
+    "type": "news",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 434 # Comments: 230",
+    "source": "Hacker News",
+    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -281,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Oil prices move higher as recovering Hormuz Strait traffic tempers war premium",
-    "summary": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
+    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+    "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+    "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : « un essor de la coopération avec la Russie », l’économie nord-coréenne croît pour la troisième année consécutive",
-    "summary": "Guerre en Ukraine : « un essor de la coopération avec la Russie », l’économie nord-coréenne croît pour la troisième année consécutive Sud Ouest",
+    "title": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable",
+    "summary": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable Morningstar",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOTQ2OVZWS21yNlJXN0xPZk9xSnd4alFjN1hBWHBXX05fMWVBUm95NW1TeTdiYkMtdDlvLVhJNlgzVDJTN0d3WWdqUEU4SHNaWVdXcERia0hTT2Zha0RaTUJDcjB3U1dWd2V6NW5BWFFiRVhINmYyeXpzVWFqMEIzUmdpbHJFMWNKSlJMNzl6bTl2MW1SbmtkMklsR0FpTXMxd3VMNTVMOTIwOEh5YktmVnU0OWNFNENUbnZTd0xMejlBaHFfYlNDek82R2ttS0FJQXMtWjVwWjRBMmRKMkN1ZEh4a1YxTGlrSVpWemNWZTJ6SWZ5Zm1qd0RDcGZFYzBvb0ducXBVUU9OQ3BjZjhVZHJmMTU0Q1l1aW5rQllmc1NmQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHlYc1owQ2ZqLTEtV3RBRGNRZm5mVF9BRFVSUU9xLXo0UllvS19wUHBhRHJPbW9wVjdMM0k1RUxPWVBjWERXMUp5Q3NoX2ZVdW5mZXNlVldfaVBJd1BBZHg5X0JVX0hpX0RucGFlNlo0aDEtTkxCVXZmV0Nvay1fZGZ4NXRZZkllUEJxTDQ4cDh0dXlJYS1hWEJBblF0eWRHcmZyemYzZVJIaXBPR2htdkZ6bjRWaG1fVVJaTUhLS2hVZ0lGbmpfbWQzeE1mNnVBWmwzUmVFbmJjUG5OX2kyRG82MWhYc0tCSjFEV1h4Z3d1Y050UWc?oc=5",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : aucun bombardement américain n’a été signalé en Iran durant la nuit ; Téhéran affirme avoir visé des infrastructures américaines au Koweït",
-    "summary": "L’attaque d’infrastructures militaires de la base aérienne d’Al-Ahmad Al-Jaber, au Koweït, revendiquée par Téhéran, n’a pas été confirmée par les autorités koweïtiennes.",
+    "title": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique",
+    "summary": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-aucun-bombardement-americain-n-a-ete-signale-en-iran-durant-la-nuit-teheran-affirme-avoir-vise-des-infrastructures-americaines-au-koweit_6737099_3210.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
     "date": "2026-07-31"
   },
   {
@@ -313,74 +345,42 @@
   },
   {
     "type": "news",
-    "title": "Europe Is Fiddling While Rome Burns",
-    "summary": "Focusing only on emergency planning, disaster response, and recovery after each climate catastrophe is no longer enough in Europe. Policymakers urgently need to start mapping Europe’s long-term future, which will require a fundamental overhaul of its infrastructure, energy system, and major economic sectors.",
+    "title": "AI Must Enlarge the Economy, Not Divide It",
+    "summary": "To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/europe-still-not-addressing-scale-of-changing-material-and-economic-conditions-by-giulio-boccaletti-2026-07",
-    "date": "2026-07-29"
+    "link": "https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Des armes biologiques créées via IA ? Même les patrons du secteur s’inquiètent",
-    "summary": "Avec 85 autres acteurs du milieu, les PDG des principales entreprises d’intelligence artificielle ont signé une lettre ouverte appelant à une plus grande régulation de la synthèse génétique. Leur crainte : que cette technologie, conjuguée avec le développement de l’IA, ne facilite la création d’armes biologiques.",
+    "title": "Incendies en Gironde : l’Ukraine aussi envoie des pompiers à la rescousse",
+    "summary": "Bien qu’ils soient déjà plus que sollicités dans leur pays, des membres de la protection civile ukrainienne vont arriver en renfort dans le sud-ouest de la France. Le dirigeant ukrainien, Volodymyr Zelensky, a déclaré que Kiev souhaitait “aider ceux qui aident l’Ukraine”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/stories/technologie-des-armes-biologiques-creees-via-ia-meme-les-patrons-du-secteur-s-inquietent_252127",
+    "link": "https://www.courrierinternational.com/article/geopolitique-incendies-en-gironde-l-ukraine-aussi-envoie-des-pompiers-a-la-rescousse_255292",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
-    "summary": "European football's governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
+    "title": "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
+    "summary": "Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "White House unveils roadmap to demilitarize Gaza",
-    "summary": "The White House on Thursday announced a new framework aimed at demilitarizing the Gaza Strip, but its success depends on Hamas and Israel fulfilling a series of significant commitments. Under the framework, Hamas would disarm and relinquish its governance in Gaza, while Israel would be required to withdraw its military forces from the territory.As U.S.",
+    "title": "Trump administration slams Spain’s Sánchez for migrant ‘invasion’ of Ceuta",
+    "summary": "U.S. President Donald Trump and his top officials are slamming Spain over the migrant crisis unfolding in Ceuta, after about 50,000 migrants crossed into the northern African exclave from Morocco since Wednesday. “I saw Spain yesterday, and I watched the catastrophe that took place.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/07/30/white-house-unveils-roadmap-demilitarize-gaza-israel-hamas-01018868?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/donald-trump-criticizes-spain-pedro-sanchez-over-ceuta-migration/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Secrétariat général de l'ONU: le sénégalais Macky Sall en difficulté après un premier vote indicatif",
+    "title": "Secrétariat général de l'ONU: le Sénégalais Macky Sall en difficulté après un premier vote indicatif",
     "summary": "La règle était tacite, mais claire : le prochain patron de l’ONU serait une femme. Et pour respecter la rotation géographique, elle serait originaire d’un pays d’Amérique latine. Pourtant, deux candidats africains ont tout de même décidé de se lancer dans la course à la succession d’Antonio Guterres : l’ancien président sénégalais Macky Sall et l’homme polit…",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/monde/20260731-secr%C3%A9tariat-g%C3%A9n%C3%A9ral-de-l-onu-le-s%C3%A9n%C3%A9galais-macky-sall-en-difficult%C3%A9-apr%C3%A8s-un-premier-vote-indicatif",
     "date": "2026-07-31"
-  },
-  {
-    "type": "news",
-    "title": "L’industrie en Europe n’est pas adaptée aux nouvelles crises climatiques",
-    "summary": "Vagues de chaleur, inondations, incendies… L’adaptation au changement climatique n’est pas suffisamment prise en compte par les industriels dans leurs plans de financements et de fonctionnement, qui privilégient davantage la réduction des émissions de CO₂, selon une étude du cabinet Sia Partners.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/l-industrie-en-europe-n-est-pas-adaptee-aux-nouvelles-crises-climatiques_6736909_3234.html",
-    "date": "2026-07-30"
-  },
-  {
-    "type": "news",
-    "title": "The AI Hype Index: Unsexy AI",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "summary": "A quantum-resistant cryptography algorithm that was under consideration as an official US standard has been taken out of the running after an Anthropic security model helped find a flaw that rendered it broken. The algorithm is known as HAWK. It's a digital signature scheme designed to withstand future attacks from quantum computers.",
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "The past and future impact of climate change on childhood malaria in Africa",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-wClimate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.",
-    "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10840-w",
-    "date": "2026-07-29"
   }
 ]
