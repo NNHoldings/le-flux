@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : une explosion signalée « à proximité immédiate » d’un pétrolier dans le détroit d’Ormuz ; des attaques de drones au Koweït",
-    "summary": "Aucun dommage concernant le pétrolier n’a été signalé pour le moment, ajoute l’agence de sécurité maritime britannique, qui affirme qu’une enquête est en cours. Plus tôt dans la matinée, un autre pétrolier avait été frappé par un « projectile non identifié » au large de la ville côtière de Limah à Oman, à l’entrée du détroit d’Ormuz.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique des bombardements nocturnes contre trois raffineries russes",
+    "summary": "Le président ukrainien a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions de son armée. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-au-moyen-orient-une-explosion-signalee-a-proximite-immediate-d-un-petrolier-dans-le-detroit-d-ormuz-des-attaques-de-drones-au-koweit_6737099_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-des-bombardements-nocturnes-contre-trois-raffineries-russes_6732775_3210.html",
     "date": "2026-08-01"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "Après plus d’un an de vagabondage spatial, une vieille fusée de SpaceX s’apprête à percuter la Lune",
-    "summary": "Dix-huit mois après une mission lunaire réussie, l’étage supérieur d’une fusée Falcon 9 de SpaceX fonce à nouveau vers la Lune, cette fois pour s’y écraser. Une collision non programmée mais qui ravit les scientifiques.",
+    "title": "La crise des migrants à Ceuta fait valser la solidarité européenne",
+    "summary": "En Europe, les dirigeants de droite et d’extrême droite se sont servis de l’arrivée soudaine de migrants dans l’enclave autonome espagnole de Ceuta pour critiquer la politique migratoire de Madrid. L’Espagne se sent isolée à ce sujet parmi les Vingt-Sept, relate la presse outre-Pyrénées.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/espace-apres-plus-d-un-an-de-vagabondage-spatial-une-vieille-fusee-de-spacex-s-apprete-a-percuter-la-lune_255359",
+    "link": "https://www.courrierinternational.com/article/vu-d-espagne-la-crise-des-migrants-a-ceuta-fait-valser-la-solidarite-europeenne_255390",
     "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-    "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
+    "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+    "summary": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
     "date": "2026-08-01"
   },
   {
@@ -129,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Golang proposal: container/: generic collection types",
-    "summary": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 161 # Comments: 132",
+    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+    "summary": "Article URL: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/ Comments URL: https://news.ycombinator.com/item?id=49134694 Points: 157 # Comments: 81",
     "source": "Hacker News",
-    "link": "https://github.com/golang/go/issues/80590",
-    "date": "2026-07-31"
+    "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -185,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des bombardements contre trois raffineries russes",
-    "summary": "Volodymyr Zelensky a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions ukrainiennes. Plus tôt dans la journée, le chef de la République de Bashkortostan, Radiy Khabirov, avait dit avoir « repoussé une nouvelle attaque de drone » contre la ville d’Oufa.",
+    "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
+    "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
     "date": "2026-08-01"
   },
   {
@@ -209,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "J’ai enfin trouvé des chaussettes bavaroises à Paris, dans une boutique iranienne",
-    "summary": "Vivre la culture populaire allemande dans la capitale française n’est pas chose facile, raconte Leo Klimm. Peinant à dénicher des chaussettes traditionnelles bavaroises à Paris, le correspondant du magazine “Der Spiegel” a finalement trouvé son salut dans un lieu plutôt inattendu.",
+    "title": "J’ai participé à une “fête des câlins” pour surmonter ma peur du contact physique",
+    "summary": "Dans les colonnes du quotidien suisse “Neue Zürchner Zeitung”, Johanna Tesch raconte comment elle a tenté de surmonter son angoisse d’une trop grande proximité physique en participant à une “fête des câlins”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-d-allemagne-j-ai-enfin-trouve-des-chaussettes-bavaroises-a-paris-dans-une-boutique-iranienne_248196",
+    "link": "https://www.courrierinternational.com/article/societe-j-ai-participe-a-une-fete-des-calins-pour-surmonter-ma-peur-du-contact-physique_253484",
     "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
-    "summary": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
+    "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "summary": "Attacks kill four as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
     "date": "2026-08-01"
   },
   {
@@ -233,11 +233,11 @@
   },
   {
     "type": "news",
-    "title": "À la Une: l’Ukraine est-elle en train de prendre le dessus face à la Russie?",
-    "summary": "",
+    "title": "Bande de Gaza: «Pour le Hamas, le désarmement n'est pas juste un acte, mais un processus politique plus large»",
+    "summary": "Le Hamas consent au désarmement dans la bande de Gaza, mais le protocole comporte encore des failles susceptibles de faire voler l’accord en éclats. Pour en parler, RFI reçoit Thomas Vescovi, doctorant en science politique à l’EHESS et à l’Université libre de Bruxelles.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260730-%C3%A0-la-une-l-ukraine-est-elle-en-train-de-prendre-le-dessus-face-%C3%A0-la-russie",
-    "date": "2026-07-30"
+    "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260801-bande-de-gaza-pour-le-hamas-le-d%C3%A9sarmement-n-est-pas-juste-un-acte-mais-un-processus-politique-plus-large",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -273,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "summary": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 161 # Comments: 50",
+    "title": "Software for One",
+    "summary": "Article URL: https://www.ajwaxman.com/writing/software-for-one Comments URL: https://news.ycombinator.com/item?id=49096605 Points: 200 # Comments: 207",
     "source": "Hacker News",
-    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "date": "2026-07-31"
+    "link": "https://www.ajwaxman.com/writing/software-for-one",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
@@ -321,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "Marchés mondiaux: les résultats d'entreprises salués, malgré les inquiétudes sur les taux",
-    "summary": "Marchés mondiaux: les résultats d'entreprises salués, malgré les inquiétudes sur les taux France 24",
+    "title": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable",
+    "summary": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable Morningstar",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkR3MzVvMFdJX1N4djdtYjhXcXNHY0hMRzFpdk01cW9RZEVZU3p4Y3NKRmo0Zk84M3Q2dVdGN055NzhVMjd0bTQ2d2Z5dkhERVNvSk54RHpwaGl6bFhVc1p3QVpkeUlUSE5BSFRJNVdnc29mRGJ2ZDFwWFhPU1NmbWlaV1U4ckU0c2lmRnhtc0hzU3E5NmxvQy1hRTNXeXAwZHdsMERaMTVTUElsQndoaUZWUllyZWxkbnVxa3hmbzV4QQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHlYc1owQ2ZqLTEtV3RBRGNRZm5mVF9BRFVSUU9xLXo0UllvS19wUHBhRHJPbW9wVjdMM0k1RUxPWVBjWERXMUp5Q3NoX2ZVdW5mZXNlVldfaVBJd1BBZHg5X0JVX0hpX0RucGFlNlo0aDEtTkxCVXZmV0Nvay1fZGZ4NXRZZkllUEJxTDQ4cDh0dXlJYS1hWEJBblF0eWRHcmZyemYzZVJIaXBPR2htdkZ6bjRWaG1fVVJaTUhLS2hVZ0lGbmpfbWQzeE1mNnVBWmwzUmVFbmJjUG5OX2kyRG82MWhYc0tCSjFEV1h4Z3d1Y050UWc?oc=5",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Donald Trump tente de forcer la main d’Israël pour lui faire accepter l’accord sur le désarmement du Hamas et le retrait israélien de la bande de Gaza",
-    "summary": "Le texte présenté par le Conseil de la paix, création du président américain, semble placer sur un pied d’égalité le retrait des forces israéliennes de l’enclave et la mise hors service de l’arsenal du mouvement palestinien. Un processus qui n’est « pas acceptable » selon Itamar Ben Gvir, le ministre de la sécurité nationale de l’Etat hébreu.",
+    "title": "Bande de Gaza : des frappes israéliennes font deux morts et endommagent les entrepôts d’un hôpital",
+    "summary": "Ces frappes interviennent après l’annonce par le président américain, Donald Trump, puis par le Hamas palestinien de la conclusion d’un accord pour mettre fin à la guerre, qu’Israël n’a pour l’heure pas officiellement confirmée.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/01/donald-trump-tente-de-forcer-la-main-d-israel-pour-accepter-l-accord-sur-le-desarmement-du-hamas-et-le-retrait-israelien-de-la-bande-de-gaza_6737182_3210.html",
+    "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/08/01/bande-de-gaza-des-frappes-israeliennes-font-deux-morts-et-endommagent-les-entrepots-d-un-hopital_6737234_6325529.html",
     "date": "2026-08-01"
   },
   {
@@ -353,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "“Cet ours me connaît” : la forêt bosnienne livrée à elle-même depuis vingt mille ans",
-    "summary": "Dans les montagnes de Bosnie-Herzégovine, la forêt de Perucica se découvre comme un monde à part, où chaque trace d’ours, ces “requins terrestres”, ou de loup, rappelle que l’homme n’est qu’un invité. Ce reportage publié par le quotidien britannique “The Guardian” raconte une randonnée dans l’un des derniers grands sanctuaires sauvages d’Europe.",
+    "title": "J’ai enfin trouvé des chaussettes bavaroises à Paris, dans une boutique iranienne",
+    "summary": "Vivre la culture populaire allemande dans la capitale française n’est pas chose facile, raconte Leo Klimm. Peinant à dénicher des chaussettes traditionnelles bavaroises à Paris, le correspondant du magazine “Der Spiegel” a finalement trouvé son salut dans un lieu plutôt inattendu.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-cet-ours-me-connait-la-foret-bosnienne-livree-a-elle-meme-depuis-vingt-mille-ans_244643",
+    "link": "https://www.courrierinternational.com/article/vu-d-allemagne-j-ai-enfin-trouve-des-chaussettes-bavaroises-a-paris-dans-une-boutique-iranienne_248196",
     "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-    "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
+    "title": "Israeli forces detain residents and demolish homes in southern Syria",
+    "summary": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria's southern provinces.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
     "date": "2026-08-01"
   },
   {
@@ -377,10 +377,10 @@
   },
   {
     "type": "news",
-    "title": "Secrétariat général de l'ONU: le Sénégalais Macky Sall en difficulté après un premier vote indicatif",
-    "summary": "La règle était tacite, mais claire : le prochain patron de l’ONU serait une femme. Et pour respecter la rotation géographique, elle serait originaire d’un pays d’Amérique latine. Pourtant, deux candidats africains ont tout de même décidé de se lancer dans la course à la succession d’Antonio Guterres : l’ancien président sénégalais Macky Sall et l’homme polit…",
+    "title": "Géopolitique des mers et des océans de Marianne Péron-Doise",
+    "summary": "Flottes fantômes russes, navires espions chinois et pêche illégale… Nos océans sont devenus le prolongement des conflits terrestres. Comment reprendre le contrôle d'espaces maritimes de plus en plus militarisés et opaques ? Marianne Péron-Doise, directrice de l'Observatoire géopolitique de l'Indopacifique à l'IRIS (Institut de relations internationales et st…",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/monde/20260731-secr%C3%A9tariat-g%C3%A9n%C3%A9ral-de-l-onu-le-s%C3%A9n%C3%A9galais-macky-sall-en-difficult%C3%A9-apr%C3%A8s-un-premier-vote-indicatif",
-    "date": "2026-07-31"
+    "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260801-g%C3%A9opolitique-des-mers-et-des-oc%C3%A9ans-de-marianne-p%C3%A9ron-doise",
+    "date": "2026-08-01"
   }
 ]
