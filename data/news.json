@@ -25,10 +25,10 @@
   },
   {
     "type": "news",
-    "title": "CNBC Daily Open: Iran-U.S. tensions, China's factory data and a steady Bank of Japan",
-    "summary": "U.S. President Donald Trump called on Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support. However duties would have little effect, as the U.S. imports nearly nothing from Iran.",
+    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/31/-cnbc-daily-open-iran-us-tensions-chinas-factory-data-and-a-steady-bank-of-japan.html",
+    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
     "date": "2026-07-31"
   },
   {
@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : le trafic maritime est toujours impossible dans le détroit d’Ormuz, affirme l’Iran",
-    "summary": "L’armée américaine assure pourtant que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des quatre derniers mois », précise le commandement militaire américain pour le Moyen-Orient, sur X.",
+    "title": "EN DIRECT, guerre en Ukraine : neuf morts à Kiev après une attaque de missiles balistiques russes, selon les secours ukrainiens",
+    "summary": "« Un incendie s’est déclaré dans un immeuble de six étages, dans le raïon de Solomiansky à Kiev, à la suite de l’attaque », a déclaré l’administration militaire de Kiev. Selon les services de secours ukrainiens, l’offensive russe a également fait 23 blessés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-trafic-maritime-est-toujours-impossible-dans-le-detroit-d-ormuz-affirme-l-iran_6737099_3210.html",
-    "date": "2026-07-31"
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-neuf-morts-a-kiev-apres-une-attaque-de-missiles-balistiques-russes-selon-les-secours-ukrainiens_6732775_3210.html",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -65,19 +65,19 @@
   },
   {
     "type": "news",
-    "title": "À Gaza, le plan de désarmement accepté par le Hamas suscite une fragile “lueur d’espoir”",
-    "summary": "En acceptant la feuille de route du plan Trump prévoyant la mise hors service progressive de son arsenal en échange d’un retrait graduel de l’armée israélienne, le Hamas ouvre la perspective d’une fin de la guerre à Gaza, ardemment attendue par la population de l’enclave.",
+    "title": "Après plus d’un an de vagabondage spatial, une vieille fusée de SpaceX s’apprête à percuter la Lune",
+    "summary": "Dix-huit mois après une mission lunaire réussie, l’étage supérieur d’une fusée Falcon 9 de SpaceX fonce à nouveau vers la Lune, cette fois pour s’y écraser. Une collision non programmée mais qui ravit les scientifiques.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-le-plan-de-desarmement-accepte-par-le-hamas-suscite-une-fragile-lueur-d-espoir_255027",
-    "date": "2026-07-31"
+    "link": "https://www.courrierinternational.com/article/espace-apres-plus-d-un-an-de-vagabondage-spatial-une-vieille-fusee-de-spacex-s-apprete-a-percuter-la-lune_255359",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Russia and Ukraine report casualties as they continue to trade attacks",
-    "summary": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+    "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
+    "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
-    "date": "2026-07-31"
+    "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -129,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals Comments URL: https://news.ycombinator.com/item?id=49116922 Points: 206 # Comments: 164",
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 151 # Comments: 175",
     "source": "Hacker News",
-    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "date": "2026-07-30"
+    "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -177,19 +177,19 @@
   },
   {
     "type": "news",
-    "title": "Inde : le portefeuille de contrats de change à terme de la banque centrale se contracte légèrement à 103,3 milliards de dollars",
-    "summary": "Inde : le portefeuille de contrats de change à terme de la banque centrale se contracte légèrement à 103,3 milliards de dollars Zonebourse",
+    "title": "Les mesures de la banque centrale indienne pour attirer les flux de capitaux captent près de 41 milliards de dollars",
+    "summary": "Les mesures de la banque centrale indienne pour attirer les flux de capitaux captent près de 41 milliards de dollars ch.zonebourse.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSzhJb2s5ZjlBdUFHRmtnRUFMRlI5OXJNMnU3cVpibWR5T0t0WVVPWVpCclFYSHVReTZ5TlRxbWRSMTdYc2pUbEJTVnl5ck9fVGFTX3o2YzRNRWdJSFIxRDFpcFNmRzlraWZ5Ty0xMENlaFNuOGdsd3VCNU1rWUxOMXBYUG5GMkZWejRkSHJhUmpQR2g1Y0NzTmM5TlhTVHA2R2taRUxwNHVjWU9MZmtWSHZzbGtYMDlFbURzQW42b3Jnd3ZjR25mbnAySjJwQVRrVE5GZV9RLVFfa3RZTXhtQ2pyTUV0WHNvOTg2c0dNMmY?oc=5",
-    "date": "2026-07-31"
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZzdJUU5JM3Jpenh1MVRoMWpNQmxRQUp6N04wVUZoQ21lWWVTMEs1WHAzZFNNb0kzVWhxeTJOdXhMdk5wR0MzYkNWNnVCUjhYVHpmaVYzLVRaeThGbTNCNTA3UDN1UFdMNjRPZjc3a1BZcHdWNjhPYWFocFNvZmVQMzZ1Zm1qbzVfMVZCN1BxaVJYQ1ZWUXg5RThDR0lRRXJzWGRJeXhjWUtHMmpLelNTbEo4NkltZ3hRN25vYnBpRHJ1cEI2dE8zeFBJZDVxVVR1M2l4dmJSZS15bEVyMkxvOHk0dkxVWXFYaEw0RnlFU1pCZw?oc=5",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Donald Trump dit vouloir faire « très attention » avant d’autoriser Kiev à produire des missiles Patriot",
-    "summary": "« Vous donnez cette technologie et, un jour, ils peuvent se retourner contre vous », a mis en garde le président américain, lors d’un conseil des ministres ouvert à la presse dans sa résidence de Camp David.",
+    "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump menace une nouvelle fois de frapper l’Iran « très fort »",
+    "summary": "Des médias américains ont rapporté que Washington envisageait de nouveaux bombardements massifs durant le week-end, auxquels pourrait participer Israël pour la première fois depuis la phase initiale de la guerre.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-donald-trump-dit-vouloir-faire-tres-attention-avant-d-autoriser-kiev-a-produire-des-missiles-patriot_6732775_3210.html",
-    "date": "2026-07-31"
+    "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-au-moyen-orient-donald-trump-menace-une-nouvelle-fois-de-frapper-l-iran-tres-fort_6737099_3210.html",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -209,26 +209,26 @@
   },
   {
     "type": "news",
-    "title": "Au Zimbabwe, des traitements contre le sida dans des élevages de volailles",
-    "summary": "Une enquête du “Southern Africa Accountability Journalism Project”, publiée par le média sud-africain “Daily Maverick”, suggère que des éleveurs zimbabwéens donnent des antirétroviraux à leurs volailles en espérant stimuler leur croissance.",
+    "title": "À Gaza, le plan de désarmement accepté par le Hamas suscite une fragile “lueur d’espoir”",
+    "summary": "En acceptant la feuille de route du plan Trump prévoyant la mise hors service progressive de son arsenal en échange d’un retrait graduel de l’armée israélienne, le Hamas ouvre la perspective d’une fin de la guerre à Gaza, ardemment attendue par la population de l’enclave.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/elevage-au-zimbabwe-des-traitements-contre-le-sida-dans-des-elevages-de-volailles_255225",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-a-gaza-le-plan-de-desarmement-accepte-par-le-hamas-suscite-une-fragile-lueur-d-espoir_255027",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
-    "summary": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+    "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+    "summary": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
-    "date": "2026-07-31"
+    "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Commission launches major hiring push for AI Office",
-    "summary": "The European Commission has launched a hiring call to boost the headcount of its units responsible for enforcing the EU’s new artificial intelligence rules. The EU’s executive confirmed Friday that it is seeking contract agents for two units within the two-year-old Artificial Intelligence Office, which is part of the Commission’s technology department, DG Co…",
+    "title": "Trump administration slams Spain’s Sánchez for migrant ‘invasion’ of Ceuta",
+    "summary": "U.S. President Donald Trump and his top officials are slamming Spain over the migrant crisis unfolding in Ceuta, after about 50,000 migrants crossed into the northern African exclave from Morocco since Wednesday. “I saw Spain yesterday, and I watched the catastrophe that took place.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/donald-trump-criticizes-spain-pedro-sanchez-over-ceuta-migration/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-31"
   },
   {
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Aux Etats-Unis, la croissance marque un peu le pas au deuxième trimestre sous l’effet de la guerre au Moyen-Orient",
-    "summary": "La hausse du produit intérieur brut reste largement soutenue par la consommation de ménages, qui compense un ralentissement des investissements, ainsi que l’augmentation des importations.",
+    "title": "Maisons du monde finalise son plan de sauvetage et échappe au redressement judiciaire",
+    "summary": "Le refinancement prévoit une prise de contrôle de 95 % du capital de Maisons du monde par le fonds Alteri Investors, spécialisé dans le commerce de détail en Europe, et le gestionnaire de fonds Eicos Investment Group.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/30/aux-etats-unis-la-croissance-marque-un-peu-le-pas-au-deuxieme-trimestre_6737049_3234.html",
-    "date": "2026-07-30"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/31/maisons-du-monde-finalise-son-plan-de-sauvetage-et-echappe-au-redressement-judiciaire_6737168_3234.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -265,18 +265,18 @@
   },
   {
     "type": "news",
-    "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-    "summary": "Elon Musk has settled his lawsuit with advertisers that he once claimed should be criminally prosecuted for refusing to advertise on his social media platform, X. In a joint statement that reveals little about the deal, the World Federation of Advertisers (WFA) and X said that they were “putting the litigation involving the Global Alliance for Responsible Me…",
+    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+    "summary": "Everyone knows that great gimmicks are the key to hiring top developers for your startup. That's why small AI startup LemonLime—which \"optimizes your existing data to work with AI\"—has so many of them. Want a job interview? Score a perfect 7/7 on the company's own \"Is it a Lemon or a Lime?\" game.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "date": "2026-07-29"
+    "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 434 # Comments: 230",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 525 # Comments: 196",
     "source": "Hacker News",
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
     "date": "2026-07-31"
   },
   {
@@ -321,19 +321,19 @@
   },
   {
     "type": "news",
-    "title": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable",
-    "summary": "L’inflation dans la zone euro surprend à la hausse; une hausse des taux de la BCE en septembre semble désormais plus probable Morningstar",
+    "title": "Marchés mondiaux: les résultats d'entreprises salués, malgré les inquiétudes sur les taux",
+    "summary": "Marchés mondiaux: les résultats d'entreprises salués, malgré les inquiétudes sur les taux france24.com",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHlYc1owQ2ZqLTEtV3RBRGNRZm5mVF9BRFVSUU9xLXo0UllvS19wUHBhRHJPbW9wVjdMM0k1RUxPWVBjWERXMUp5Q3NoX2ZVdW5mZXNlVldfaVBJd1BBZHg5X0JVX0hpX0RucGFlNlo0aDEtTkxCVXZmV0Nvay1fZGZ4NXRZZkllUEJxTDQ4cDh0dXlJYS1hWEJBblF0eWRHcmZyemYzZVJIaXBPR2htdkZ6bjRWaG1fVVJaTUhLS2hVZ0lGbmpfbWQzeE1mNnVBWmwzUmVFbmJjUG5OX2kyRG82MWhYc0tCSjFEV1h4Z3d1Y050UWc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkR3MzVvMFdJX1N4djdtYjhXcXNHY0hMRzFpdk01cW9RZEVZU3p4Y3NKRmo0Zk84M3Q2dVdGN055NzhVMjd0bTQ2d2Z5dkhERVNvSk54RHpwaGl6bFhVc1p3QVpkeUlUSE5BSFRJNVdnc29mRGJ2ZDFwWFhPU1NmbWlaV1U4ckU0c2lmRnhtc0hzU3E5NmxvQy1hRTNXeXAwZHdsMERaMTVTUElsQndoaUZWUllyZWxkbnVxa3hmbzV4QQ?oc=5",
     "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique",
-    "summary": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme.",
+    "title": "Donald Trump tente de forcer la main d’Israël pour lui faire accepter l’accord sur le désarmement du Hamas et le retrait israélien de la bande de Gaza",
+    "summary": "Le texte présenté par le Conseil de la paix, création du président américain, semble placer sur un pied d’égalité le retrait des forces israéliennes de l’enclave et la mise hors service de l’arsenal du mouvement palestinien. Un processus qui n’est « pas acceptable » selon Itamar Ben Gvir, le ministre de la sécurité nationale de l’Etat hébreu.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
-    "date": "2026-07-31"
+    "link": "https://www.lemonde.fr/international/article/2026/08/01/donald-trump-tente-de-forcer-la-main-d-israel-pour-accepter-l-accord-sur-le-desarmement-du-hamas-et-le-retrait-israelien-de-la-bande-de-gaza_6737182_3210.html",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -353,26 +353,26 @@
   },
   {
     "type": "news",
-    "title": "Incendies en Gironde : l’Ukraine aussi envoie des pompiers à la rescousse",
-    "summary": "Bien qu’ils soient déjà plus que sollicités dans leur pays, des membres de la protection civile ukrainienne vont arriver en renfort dans le sud-ouest de la France. Le dirigeant ukrainien, Volodymyr Zelensky, a déclaré que Kiev souhaitait “aider ceux qui aident l’Ukraine”.",
+    "title": "“Cet ours me connaît” : la forêt bosnienne livrée à elle-même depuis vingt mille ans",
+    "summary": "Dans les montagnes de Bosnie-Herzégovine, la forêt de Perucica se découvre comme un monde à part, où chaque trace d’ours, ces “requins terrestres”, ou de loup, rappelle que l’homme n’est qu’un invité. Ce reportage publié par le quotidien britannique “The Guardian” raconte une randonnée dans l’un des derniers grands sanctuaires sauvages d’Europe.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-incendies-en-gironde-l-ukraine-aussi-envoie-des-pompiers-a-la-rescousse_255292",
-    "date": "2026-07-31"
+    "link": "https://www.courrierinternational.com/article/reportage-cet-ours-me-connait-la-foret-bosnienne-livree-a-elle-meme-depuis-vingt-mille-ans_244643",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
-    "summary": "Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.",
+    "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+    "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss",
-    "date": "2026-07-31"
+    "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+    "date": "2026-08-01"
   },
   {
     "type": "news",
-    "title": "Trump administration slams Spain’s Sánchez for migrant ‘invasion’ of Ceuta",
-    "summary": "U.S. President Donald Trump and his top officials are slamming Spain over the migrant crisis unfolding in Ceuta, after about 50,000 migrants crossed into the northern African exclave from Morocco since Wednesday. “I saw Spain yesterday, and I watched the catastrophe that took place.",
+    "title": "Almost all of Ceuta migrants have returned to Morocco, Spain says",
+    "summary": "BRUSSELS — More than 48,300 of the approximately 50,000 people who entered the Spanish exclave of Ceuta from Morocco have returned, a Spanish government official told POLITICO. “Most of the people that came yesterday are now back in Morocco,” said the official, who was granted anonymity to speak freely, adding that the situation was “on the path back to norm…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/donald-trump-criticizes-spain-pedro-sanchez-over-ceuta-migration/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/almost-all-ceuta-migrants-returned-morocco-spain-says/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-07-31"
   },
   {
