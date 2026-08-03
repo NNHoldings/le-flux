@@ -25,11 +25,11 @@
   },
   {
     "type": "news",
-    "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-    "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+    "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
+    "summary": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "date": "2026-07-31"
+    "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
+    "date": "2026-08-02"
   },
   {
     "type": "news",
@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : une attaque russe fait trois morts à Kryvy Rih ; six morts près de Krasnodar, dans le sud de la Russie, après une frappe ukrainienne",
-    "summary": "L’armée ukrainienne a affirmé que la Russie avait lancé, dans la nuit de dimanche à lundi, 181 drones contre son territoire, dont 163 qui ont été abattus ou neutralisés par les défenses aériennes.",
+    "title": "Accord sur le désarmement du Hamas à Gaza : Israël a transmis aux Américains ses « inquiétudes » sur le plan annoncé par Donald Trump",
+    "summary": "Vendredi, le ministre d’extrême droite israélien Itamar Ben Gvir avait jugé « inacceptable pour Israël » cet accord, qui prévoit un retrait progressif des forces israéliennes du territoire palestinien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-ont-fait-six-morts-en-crimee-et-pres-de-krasnodar-selon-les-autorites-russes_6737250_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/accord-sur-le-desarmement-du-hamas-a-gaza-israel-a-transmis-aux-americains-ses-inquietudes-sur-le-plan-annonce-par-donald-trump_6737348_3210.html",
     "date": "2026-08-03"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "Lille, une oasis étonnamment paisible pour les britanniques buveurs de bière",
-    "summary": "Profitant d’un séjour à Lille, ce journaliste du quotidien britannique conservateur “The Daily Telegraph” a fait la tournée des hauts lieux de la bière dans la capitale des Flandres. Brasseries artisanales, gastronomie et terrasses : il découvre la “capitale française de la bière” dans une ambiance détendue, loin des pubs bondés de Londres.",
+    "title": "Le ralentissement de l’Amoc va-t-il aussi dérégler le climat ?",
+    "summary": "Les chercheurs s’inquiètent du ralentissement de l’Amoc, le principal courant de l’Atlantique, véritable chef d’orchestre du climat. De nouvelles études prévoient son arrêt total, dont l’une des conséquences serait une chute des températures en Europe. Les modèles divergent, mais certains annoncent que la catastrophe pourrait arriver vers 2100.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-du-royaume-uni-lille-une-oasis-etonnamment-paisible-pour-les-britanniques-buveurs-de-biere_249980",
+    "link": "https://www.courrierinternational.com/article/atlantique-le-ralentissement-de-l-amoc-va-t-il-aussi-deregler-le-climat_245325",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Ukraine strikes Russia’s biggest retailer again",
-    "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
+    "title": "At least 17 killed as Russia and Ukraine trade heavy attacks",
+    "summary": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
     "date": "2026-08-03"
   },
   {
@@ -97,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "Maisons du monde finalise son plan de sauvetage et échappe au redressement judiciaire",
-    "summary": "Le refinancement prévoit une prise de contrôle de 95 % du capital de Maisons du monde par le fonds Alteri Investors, spécialisé dans le commerce de détail en Europe, et le gestionnaire de fonds Eicos Investment Group.",
+    "title": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
+    "summary": "L’émirat reste particulièrement attractif pour la finance de l’ombre. Mais, depuis le lancement de l’offensive américano-israélienne en Iran, en février, il n’exerce plus son rôle de refuge pour les grandes fortunes mondialisées.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/07/31/maisons-du-monde-finalise-son-plan-de-sauvetage-et-echappe-au-redressement-judiciaire_6737168_3234.html",
-    "date": "2026-07-31"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -130,7 +130,7 @@
   {
     "type": "news",
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 156 # Comments: 125",
+    "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 299 # Comments: 262",
     "source": "Hacker News",
     "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
     "date": "2026-08-03"
@@ -169,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-    "summary": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
+    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-    "date": "2026-08-02"
-  },
-  {
-    "type": "news",
-    "title": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient",
-    "summary": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient Zonebourse Suisse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcm9wclRxa1FGd2x1QU5KV1M1eEUzb2s4d1BCMFJ6Q3dzS0tJbE1IekRiRDg5VlBTa05iLTlWcURtUDBxMU1fRERuNldoa3Vsa3RYNE9qdkozWlNieDkzZEwybW55MmQwWmNBSTlDY3pSNWZlWjFaTG1aLTl5OGJlZEFNR2dCS0lwYmt4cVFENUcweTM1OTZneGRjOXdEU1N3MGZGWTJwU0tXWnZXeGtDQUdMdVQ0dVNsSVdqOVdqOFI1OUJsdVU2RFBvWk1IZGIxOFNCcVdJQ1VFTkE3T2c?oc=5",
+    "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
-    "summary": "L’émirat reste particulièrement attractif pour la finance de l’ombre. Mais, depuis le lancement de l’offensive américano-israélienne en Iran, en février, il n’exerce plus son rôle de refuge pour les grandes fortunes mondialisées.",
+    "title": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient",
+    "summary": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient Zonebourse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMmJGWGVzMFpUQk5rcXpkNS1lTURyYWRqNllxclNobWVQTmlQMGs3SThWbGlXTEw1LUw1NlRjVVZaQ25IMmZQU2hDVEtMd1RZaG9NejQxOTZYVVJHdnk3bUwxQ2dCaGJCQ3hyRHN0UHdlcXR0NU95MEpOREFKNk0yNEZ2NGU5QzBNYjRmdHpsMkJiR0xuQmJwLW9xYjI4ZXc2X0xGODB3YndPZE1IZnhRR1o5eDNnQ3E1ckd3QVlIZG9sb20yUHRMVndTZFh5Mk1HNDR1VjhGUk9VSEl3ZmtN?oc=5",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : l’ambassadrice ukrainienne aux Etats-Unis limogée par Volodymyr Zelensky",
+    "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-l-ambassadrice-ukrainienne-aux-etats-unis-limogee-par-volodymyr-zelensky_6737250_3210.html",
     "date": "2026-08-03"
   },
   {
@@ -209,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "Le ralentissement de l’Amoc va-t-il aussi dérégler le climat ?",
-    "summary": "Les chercheurs s’inquiètent du ralentissement de l’Amoc, le principal courant de l’Atlantique, véritable chef d’orchestre du climat. De nouvelles études prévoient son arrêt total, dont l’une des conséquences serait une chute des températures en Europe. Les modèles divergent, mais certains annoncent que la catastrophe pourrait arriver vers 2100.",
+    "title": "Benyamin Nétanyahou, principal obstacle au plan de paix à Gaza",
+    "summary": "Si le Hamas a accepté de rendre les armes et de se fondre dans le paysage politique en abandonnant la gouvernance de l’enclave palestinienne, le gouvernement du Premier ministre israélien cherche à préserver la présence militaire et la liberté d’action de l’État hébreu.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/atlantique-le-ralentissement-de-l-amoc-va-t-il-aussi-deregler-le-climat_245325",
+    "link": "https://www.courrierinternational.com/article/opinion-benyamin-netanyahou-principal-obstacle-au-plan-de-paix-a-gaza_255786",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Wildfires still burning in France and Spain amid fears of more to come",
-    "summary": "Europe's warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
+    "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+    "summary": "Iranians feeling pressure amid US president's on-again, off-again comments on conflict and negotiations.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
     "date": "2026-08-03"
   },
   {
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Abdul Samad Rabiu, l’autre industriel multimilliardaire qui veut changer le Nigeria",
-    "summary": "« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire de Kano, carrefour millénaire du commerce transsaharien.",
+    "title": "Maisons du monde finalise son plan de sauvetage et échappe au redressement judiciaire",
+    "summary": "Le refinancement prévoit une prise de contrôle de 95 % du capital de Maisons du monde par le fonds Alteri Investors, spécialisé dans le commerce de détail en Europe, et le gestionnaire de fonds Eicos Investment Group.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html",
-    "date": "2026-08-02"
+    "link": "https://www.lemonde.fr/economie/article/2026/07/31/maisons-du-monde-finalise-son-plan-de-sauvetage-et-echappe-au-redressement-judiciaire_6737168_3234.html",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
@@ -265,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "China could supply EV manufacturing boom with recycled EVs",
-    "summary": "While recycling is a mathematically obvious response to the finite, non-renewable nature of many resources, the economic math is often challenging. For many materials, it can be hard to compete with virgin materials on a cost basis.",
+    "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+    "summary": "SpaceX and the state of Louisiana are close to finalizing a deal for the launch company to acquire about 130,000 acres along the northern coast of the Gulf of Mexico. There have been persistent rumors about such an agreement for months, but now The Times-Picayune | The New Orleans Advocate reports that Louisiana Gov.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-    "date": "2026-07-31"
+    "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "summary": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 235 # Comments: 59",
+    "title": "Bonsai: Janestreet's UI Library",
+    "summary": "Article URL: https://github.com/janestreet/bonsai Comments URL: https://news.ycombinator.com/item?id=49152842 Points: 236 # Comments: 88",
     "source": "Hacker News",
-    "link": "https://github.com/wie-project/kakehashi",
-    "date": "2026-08-02"
+    "link": "https://github.com/janestreet/bonsai",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -313,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
-    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+    "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+    "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+    "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "La banque centrale de l'Inde devrait maintenir son statu quo malgré le pivot de ses pairs vers des hausses de taux",
-    "summary": "La banque centrale de l'Inde devrait maintenir son statu quo malgré le pivot de ses pairs vers des hausses de taux Zonebourse Suisse",
+    "title": "Marchés: les Bourses européennes saluent la baisse du pétrole, le yen grimpe",
+    "summary": "Marchés: les Bourses européennes saluent la baisse du pétrole, le yen grimpe Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2NMNk1rYl9NZngteWF3VVdEcjlBR0dLdnJpYXZIVTBULUVpWVR5Rk5ocG1mWDYwRnRldGd5dl8tTXRNTmFNZDh3bmp3Nk5STmpyaDZ2Um9SV0NSQXpBVTBFd1drU213LWE3STFhZkpvNWZubjk4dEJEd1NpYXRNMllscTh3ckhBdllDQTNLa2RqV3VNSE9Zd2FZLVlqYlZHUlZ3MWZTc250UjFvWkpYQTR1alFidEs2cDFBN1lNaFROUWZDaDB2N19zYzdLQkNMOGdfTzFBMWVKTlVMUFRNclJ0NWxiNDVMRHpEb2taVlpGZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFUyQWJkb0pHdkozRzZtLUdUZWw1aG1pX1JkbWRIZ3ZwaTJJbk1nVjE4N0x2ZWtHMUx4aHFYYUtSeTNuVDBHcEh6RG1TdlM3NTdwS2hGOG1sbm82Ym95VTRTT0NYeHJsMlZWQ2RKNEd1STVUa0lFZDJyZWpjd3NycmVhZGJOWG5SRHpWcWhfSjlNdTJ0VDNGU0VNZWtBaE00XzBxZFNzY3A2QWRoRVhJdExVN1F2WFlFVUo2NzEzMWtHTFF5MkswNmEzallGRHVf?oc=5",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse à nouveau les Etats-Unis d’avoir violé l’accord de juin visant à mettre fin au conflit",
-    "summary": "Le porte-parole du ministère des affaires étrangères iranien a par ailleurs affirmé qu’il n’y avait pas de négociations en cours avec les Américains, contredisant des propos tenus par Donald Trump dimanche. Esmaeil Baghaei a en revanche annoncé des négociations avec Oman pour sécuriser un passage dans le détroit d’Ormuz.",
+    "title": "Crise de Ceuta : Giorgia Meloni, bénéficiaire de la solidarité de Bruxelles, en 2023, à Lampedusa, veut isoler l’Espagne",
+    "summary": "La présidente d’extrême droite du conseil italien veut se positionner comme une leader en Europe sur le thème migratoire, à l’approche d’une campagne électorale qui s’annonce dominée par les discours identitaires.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-l-iran-accuse-a-nouveau-les-etats-unis-d-avoir-viole-l-accord-visant-a-mettre-fin-au-conflit-signe-en-juin_6737099_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/03/giorgia-meloni-beneficiaire-de-la-solidarite-de-bruxelles-en-2023-a-lampedusa-veut-isoler-l-espagne_6737358_3210.html",
     "date": "2026-08-03"
   },
   {
@@ -353,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "Rechercher l’ennui à tout prix, pas forcément l’idée du siècle",
-    "summary": "Contre la tyrannie des smartphones qui absorbent toute notre attention, faut-il se forcer à s’ennuyer ? Ce n’est pas si simple, expliquent les spécialistes des neurosciences : se priver de toute activité pendant de trop longs moments est même “fondamentalement stupide” !",
+    "title": "“Absent du bureau” : au mois d’août, “une partie de l’Europe se met en veille”",
+    "summary": "Entre horaires d’été et fermetures annuelles, plusieurs pays européens prennent les congés d’été très au sérieux, s’amuse la presse étrangère. Certains, en particulier en France, s’offrent même un mois complet de pause au mois d’août. Une coutume admirable, saluent nos voisins, un brin envieux.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/psychologie-rechercher-l-ennui-a-tout-prix-pas-forcement-l-idee-du-siecle_246556",
+    "link": "https://www.courrierinternational.com/article/travail-absent-du-bureau-au-mois-d-aout-une-partie-de-l-europe-se-met-en-veille_255790",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
-    "summary": "Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.",
+    "title": "Can Netanyahu survive Israel’s most consequential election?",
+    "summary": "Israelis head to the polls in October for the country's first election since the war on Gaza began.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
     "date": "2026-08-03"
   },
   {
@@ -377,7 +377,7 @@
   },
   {
     "type": "news",
-    "title": "Géopolitique des mers et des océans de Marianne Péron-Doise",
+    "title": "«Géopolitique des mers et océans» de Marianne Péron-Doise",
     "summary": "Flottes fantômes russes, navires espions chinois et pêche illégale… Nos océans sont devenus le prolongement des conflits terrestres. Comment reprendre le contrôle d'espaces maritimes de plus en plus militarisés et opaques ? Marianne Péron-Doise, directrice de l'Observatoire géopolitique de l'Indopacifique à l'IRIS (Institut de relations internationales et st…",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260801-g%C3%A9opolitique-des-mers-et-des-oc%C3%A9ans-de-marianne-p%C3%A9ron-doise",
