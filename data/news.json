@@ -33,10 +33,18 @@
   },
   {
     "type": "news",
-    "title": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
-    "summary": "L’émirat reste particulièrement attractif pour la finance de l’ombre. Mais, depuis le lancement de l’offensive américano-israélienne en Iran, en février, il n’exerce plus son rôle de refuge pour les grandes fortunes mondialisées.",
+    "title": "Marchés: les Bourses européennes profitent de la baisse du pétrole, le yen grimpe",
+    "summary": "Marchés: les Bourses européennes profitent de la baisse du pétrole, le yen grimpe TradingView",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmUXFCc21JeWN6aG5EY3dfbnNVZ3BueUZFZGl3Q2l1QXFON3lsdFhROWl6Ti1wZHUtSDdCQWFheTk3YkZyLS1HTGVuT1ZES3ljeERPOWJETzhQZHJuYUtONHhB?oc=5",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : une attaque russe fait trois morts à Kryvy Rih ; six morts près de Krasnodar, dans le sud de la Russie, après une frappe ukrainienne",
+    "summary": "L’armée ukrainienne a affirmé que la Russie avait lancé, dans la nuit de dimanche à lundi, 181 drones contre son territoire, dont 163 qui ont été abattus ou neutralisés par les défenses aériennes.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-des-attaques-de-drones-ukrainiens-ont-fait-six-morts-en-crimee-et-pres-de-krasnodar-selon-les-autorites-russes_6737250_3210.html",
     "date": "2026-08-03"
   },
   {
@@ -49,11 +57,11 @@
   },
   {
     "type": "news",
-    "title": "Silicon, Not Software, Will Decide the AI Race",
-    "summary": "The AI race is no longer just about building better models. As competition shifts from scientific discovery to deployment, success increasingly depends on computing power, advanced semiconductors, physical infrastructure, and markets large enough to justify the enormous investments they require.",
+    "title": "This Time Could Be Different for Russia Sanctions",
+    "summary": "High inflation and interest rates are eating away at the foundations of the Russian economy and sapping its growth. By hitting its most important sectors, and its essential source of foreign hard cash, new US legislation would pile enormous pressure on the Kremlin just when it is urgently needed.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/ai-has-made-infrastructure-matter-again-by-antonin-bergeaud-and-robin-rivaton-2026-07",
-    "date": "2026-07-31"
+    "link": "https://www.project-syndicate.org/commentary/russia-sanctions-bill-lindsey-graham-act-has-teeth-by-simon-johnson-and-oleg-ustenko-2026-08",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -65,19 +73,19 @@
   },
   {
     "type": "news",
-    "title": "Russian and Ukrainian strikes kill 14 on both sides",
-    "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages",
+    "title": "Ukraine strikes Russia’s biggest retailer again",
+    "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-    "date": "2026-08-02"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Trump keeps escalating his trade threats. This time, Europe isn’t biting.",
-    "summary": "Washington is again ratcheting up the pressure on the European Union with new tariff threats. Brussels’ response is strikingly different from a year ago: Don’t retaliate, don’t put on a show for Donald Trump, and don’t let him dictate the timetable.",
+    "title": "France bolsters checks on ‘sensitive’ foreign investments",
+    "summary": "PARIS — The French government will need to green light attempts by non-European investors to acquire more than 10 percent of shares in French companies “operating in a sensitive sector” and listed on a stock market outside the EU, Prime Minister Sébastien Lecornu said.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/08/02/trump-trade-threats-europe-01020492?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-02"
+    "link": "https://www.politico.eu/article/france-check-sensitive-foreign-investment-sebastien-lecornu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -97,11 +105,11 @@
   },
   {
     "type": "news",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question…",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "date": "2026-07-30"
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -118,6 +126,14 @@
     "source": "Ars Technica",
     "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
     "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 156 # Comments: 125",
+    "source": "Hacker News",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -161,10 +177,18 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre au Moyen-Orient : « Nous ne négocions pas avec les Etats-Unis », assure la diplomatie iranienne, contredisant des propos tenus par Donald Trump dimanche",
-    "summary": "Donald Trump avait affirmé, dimanche, que des pourparlers avec Téhéran étaient prévus lundi après-midi. Le porte-parole du ministère des affaires étrangères iranien a en revanche annoncé des négociations avec Oman pour sécuriser un passage dans le détroit d’Ormuz.",
+    "title": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient",
+    "summary": "Point marchés-Wall Street vue en hausse, l'Europe dans le vert, espoirs au Moyen-Orient Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcm9wclRxa1FGd2x1QU5KV1M1eEUzb2s4d1BCMFJ6Q3dzS0tJbE1IekRiRDg5VlBTa05iLTlWcURtUDBxMU1fRERuNldoa3Vsa3RYNE9qdkozWlNieDkzZEwybW55MmQwWmNBSTlDY3pSNWZlWjFaTG1aLTl5OGJlZEFNR2dCS0lwYmt4cVFENUcweTM1OTZneGRjOXdEU1N3MGZGWTJwU0tXWnZXeGtDQUdMdVQ0dVNsSVdqOVdqOFI1OUJsdVU2RFBvWk1IZGIxOFNCcVdJQ1VFTkE3T2c?oc=5",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
+    "title": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
+    "summary": "L’émirat reste particulièrement attractif pour la finance de l’ombre. Mais, depuis le lancement de l’offensive américano-israélienne en Iran, en février, il n’exerce plus son rôle de refuge pour les grandes fortunes mondialisées.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-nous-ne-negocions-pas-avec-les-etats-unis-assure-la-diplomatie-iranienne-contredisant-des-propos-tenus-par-donald-trump-dimanche_6737099_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
     "date": "2026-08-03"
   },
   {
@@ -177,10 +201,10 @@
   },
   {
     "type": "news",
-    "title": "Africa’s Energy Curse Is a Political Choice",
-    "summary": "It is no secret why African countries with large fossil-fuel reserves nonetheless have failed to reduce extreme poverty or provide reliable electricity to all households. Those in power have made a conscious choice to privilege hard-currency export revenues, some of which then finance elite consumption rather than public investment.",
+    "title": "Silicon, Not Software, Will Decide the AI Race",
+    "summary": "The AI race is no longer just about building better models. As competition shifts from scientific discovery to deployment, success increasingly depends on computing power, advanced semiconductors, physical infrastructure, and markets large enough to justify the enormous investments they require.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
+    "link": "https://www.project-syndicate.org/onpoint/ai-has-made-infrastructure-matter-again-by-antonin-bergeaud-and-robin-rivaton-2026-07",
     "date": "2026-07-31"
   },
   {
@@ -193,19 +217,19 @@
   },
   {
     "type": "news",
-    "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-    "summary": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
+    "title": "Wildfires still burning in France and Spain amid fears of more to come",
+    "summary": "Europe's warming climate intensifies fires in France and Spain, scorching forests and threatening more communities.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Hungary faces energy crunch as drought shuts down Paks nuclear plant, PM says",
-    "summary": "Hungary faces “the most critical five days” ahead as a record drought in Central Europe has forced Budapest to shut down a nuclear power plant that generates 40 percent of the country’s electricity, Prime Minister Péter Magyar said Sunday.",
+    "title": "UEFA threatens Infantino, Joshua Kushner with legal action",
+    "summary": "The governing body of European football, UEFA, has threatened legal action against FIFA President Gianni Infantino, venture capitalist Joshua Kushner — brother of U.S. President Donald Trump’s son-in-law Jared Kushner — and other individuals involved in the controversial plan to privatize a share of the World Cup’s commercial operations.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/hungary-shuts-down-paks-nuclear-plant-danube-drought-intensifies-energy-crisis/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-02"
+    "link": "https://www.politico.eu/article/uefa-legal-action-against-gianni-infantino-joshua-kushner/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-03"
   },
   {
     "type": "news",
@@ -217,19 +241,19 @@
   },
   {
     "type": "news",
-    "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
-    "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte, dans laquelle s’illustre la Chine.",
+    "title": "Abdul Samad Rabiu, l’autre industriel multimilliardaire qui veut changer le Nigeria",
+    "summary": "« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire de Kano, carrefour millénaire du commerce transsaharien.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
-    "date": "2026-08-01"
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html",
+    "date": "2026-08-02"
   },
   {
     "type": "news",
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late.",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "date": "2026-07-29"
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "date": "2026-07-30"
   },
   {
     "type": "news",
@@ -246,6 +270,14 @@
     "source": "Ars Technica",
     "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
     "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+    "summary": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 235 # Comments: 59",
+    "source": "Hacker News",
+    "link": "https://github.com/wie-project/kakehashi",
+    "date": "2026-08-02"
   },
   {
     "type": "news",
@@ -273,26 +305,34 @@
   },
   {
     "type": "news",
-    "title": "Shell profits double as oil prices rise due to Iran war",
-    "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+    "title": "The Chinese robot army transforming the UK's retail industry",
+    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-07-30"
+    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-07-29"
   },
   {
     "type": "news",
-    "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-    "summary": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+    "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Les équipementiers Valeo et Forvia confirment l’inflexion du secteur automobile vers la défense",
-    "summary": "En pleine crise de leur secteur, les deux groupes français cherchent à diversifier leurs activités et à profiter de la hausse des budgets militaires en participant à la production de drones.",
+    "title": "La banque centrale de l'Inde devrait maintenir son statu quo malgré le pivot de ses pairs vers des hausses de taux",
+    "summary": "La banque centrale de l'Inde devrait maintenir son statu quo malgré le pivot de ses pairs vers des hausses de taux Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2NMNk1rYl9NZngteWF3VVdEcjlBR0dLdnJpYXZIVTBULUVpWVR5Rk5ocG1mWDYwRnRldGd5dl8tTXRNTmFNZDh3bmp3Nk5STmpyaDZ2Um9SV0NSQXpBVTBFd1drU213LWE3STFhZkpvNWZubjk4dEJEd1NpYXRNMllscTh3ckhBdllDQTNLa2RqV3VNSE9Zd2FZLVlqYlZHUlZ3MWZTc250UjFvWkpYQTR1alFidEs2cDFBN1lNaFROUWZDaDB2N19zYzdLQkNMOGdfTzFBMWVKTlVMUFRNclJ0NWxiNDVMRHpEb2taVlpGZw?oc=5",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse à nouveau les Etats-Unis d’avoir violé l’accord de juin visant à mettre fin au conflit",
+    "summary": "Le porte-parole du ministère des affaires étrangères iranien a par ailleurs affirmé qu’il n’y avait pas de négociations en cours avec les Américains, contredisant des propos tenus par Donald Trump dimanche. Esmaeil Baghaei a en revanche annoncé des négociations avec Oman pour sécuriser un passage dans le détroit d’Ormuz.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/03/les-equipementiers-valeo-et-forvia-confirment-l-inflexion-du-secteur-automobile-vers-la-defense_6737330_3234.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-l-iran-accuse-a-nouveau-les-etats-unis-d-avoir-viole-l-accord-visant-a-mettre-fin-au-conflit-signe-en-juin_6737099_3210.html",
     "date": "2026-08-03"
   },
   {
@@ -305,10 +345,10 @@
   },
   {
     "type": "news",
-    "title": "AI Must Enlarge the Economy, Not Divide It",
-    "summary": "To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.",
+    "title": "Africa’s Energy Curse Is a Political Choice",
+    "summary": "It is no secret why African countries with large fossil-fuel reserves nonetheless have failed to reduce extreme poverty or provide reliable electricity to all households. Those in power have made a conscious choice to privilege hard-currency export revenues, some of which then finance elite consumption rather than public investment.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07",
+    "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
     "date": "2026-07-31"
   },
   {
@@ -321,18 +361,18 @@
   },
   {
     "type": "news",
-    "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
-    "summary": "Brazil's President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
+    "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+    "summary": "Climate change makes Europe's summers hotter, intensifying fires and droughts while threatening lives and economies.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
     "date": "2026-08-03"
   },
   {
     "type": "news",
-    "title": "Europe’s ETS revision is an opportunity to strengthen maritime competitiveness",
-    "summary": "For Europe’s maritime sector—and beyond—the European Commission’s proposal to revise the EU Emissions Trading System (ETS) goes in the right direction and reflects much of what Cruise Lines International Association (CLIA) has consistently called for: a framework in which carbon pricing supports, rather than holds back, the maritime transition, strengthens E…",
+    "title": "Paris court rejects pro-Kremlin TV star’s appeal against expulsion",
+    "summary": "A Paris court on Monday rejected Russian television star Xenia Fedorova’s appeal against a ruling that she must leave the country, a week after French authorities accused her of acting as “a conduit for disinformation campaigns” orchestrated by Moscow to “destabilize public order.” The former head of Kremlin-backed RT France, who has been under house arrest…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/sponsored-content/europes-ets-revision-is-an-opportunity-to-strengthen-maritime-competitiveness/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/paris-court-rejects-xenia-fedorova-appeal-over-expulsion-order/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-03"
   },
   {
@@ -342,45 +382,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260801-g%C3%A9opolitique-des-mers-et-des-oc%C3%A9ans-de-marianne-p%C3%A9ron-doise",
     "date": "2026-08-01"
-  },
-  {
-    "type": "news",
-    "title": "Ce qui change le 1ᵉʳ août pour votre budget : Livret A, tarifs d’électricité, allocation de rentrée scolaire, aide carburant",
-    "summary": "Plusieurs hausses seront effectives dès samedi, alors que l’allocation de rentrée scolaire ne sera versée que plus tard dans le mois.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/argent/article/2026/08/01/ce-qui-change-le-1-aout-pour-votre-budget-livret-a-tarifs-d-electricite-allocation-de-rentree-scolaire-aide-carburant_6737189_1657007.html",
-    "date": "2026-08-01"
-  },
-  {
-    "type": "news",
-    "title": "The AI Hype Index: Unsexy AI",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "date": "2026-07-29"
-  },
-  {
-    "type": "news",
-    "title": "How to Grow Without Betting Big",
-    "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 years; Adobe, which abandoned perpetual licenses in favor of cloud subscriptions;…",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-    "date": "2026-06-15"
-  },
-  {
-    "type": "news",
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "summary": "Like any company, Reddit reports quarterly earnings, and its CEO, Steve Huffman, addresses investors during those reports. It's not always about just sharing numbers, though: This quarter, Huffman took the opportunity to voice concerns and criticisms about Google's AI Overviews feature, which automatically summarizes search results on most user queries.",
-    "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "date": "2026-08-01"
-  },
-  {
-    "type": "news",
-    "title": "The past and future impact of climate change on childhood malaria in Africa",
-    "summary": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10840-wClimate and econometric modelling reveal that human-induced climate change is shifting the burden of childhood malaria in Africa.",
-    "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-10840-w",
-    "date": "2026-07-29"
   }
 ]
