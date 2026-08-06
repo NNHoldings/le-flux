@@ -25,11 +25,11 @@
   },
   {
     "type": "news",
-    "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-    "summary": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+    "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
+    "summary": "The Slavneft-Yanos facility in Yaroslavl, which is situated hundreds of miles from the Ukraine border, is one of Russia's biggest oil refineries.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
-    "date": "2026-08-05"
+    "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+    "date": "2026-08-06"
   },
   {
     "type": "news",
@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : privé de bouclier face aux missiles balistiques russes, Kiev cherche la parade",
-    "summary": "La défense antiaérienne semble avoir épuisé ses stocks de munitions contre les missiles balistiques, fournies par les Etats-Unis et, dans une moindre mesure, par la France et l’Italie. Moscou en profite pour redoubler les frappes meurtrières, qui se concentrent sur la capitale ukrainienne.",
+    "title": "Donald Trump dément toute diminution des stocks d’armements américains et dénonce les affirmations « traîtresses » des médias",
+    "summary": "« Les Etats-Unis disposent de quantités énormes de “munitions” », a fait valoir le président américain alors que plusieurs médias, dont CNN et le « Washington Post », avaient fait état de pénuries de missiles guidés à longue portée et d’intercepteurs de défense anti-aérienne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/06/guerre-en-ukraine-prive-de-bouclier-face-aux-missiles-balistiques-russes-kiev-cherche-la-parade_6739636_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/donald-trump-dement-toute-diminution-des-stocks-de-l-armement-americain-et-denonce-les-affirmations-traitresses-des-medias_6739794_3210.html",
     "date": "2026-08-06"
   },
   {
@@ -57,6 +57,14 @@
   },
   {
     "type": "news",
+    "title": "This Time Could Be Different for Russia Sanctions",
+    "summary": "High inflation and interest rates are eating away at the foundations of the Russian economy and sapping its growth. By hitting its most important sectors, and its essential source of foreign hard cash, new US legislation would pile enormous pressure on the Kremlin just when it is urgently needed.",
+    "source": "Project Syndicate",
+    "link": "https://www.project-syndicate.org/commentary/russia-sanctions-bill-lindsey-graham-act-has-teeth-by-simon-johnson-and-oleg-ustenko-2026-08",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
     "title": "La Chine investit de nouveau massivement dans son parc nucléaire",
     "summary": "Le Conseil d’État chinois vient d’approuver quatre nouveaux projets de centrales nucléaires, soit huit réacteurs, principalement de troisième génération et de conception chinoise. La Chine compte devenir le plus important producteur mondial d’énergie nucléaire d’ici à 2030, notamment pour répondre aux besoins du secteur de l’intelligence artificielle.",
     "source": "Courrier International",
@@ -65,10 +73,10 @@
   },
   {
     "type": "news",
-    "title": "Ukraine escalates strikes on Russian shipping",
-    "summary": "Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia's hold on Crimea",
+    "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+    "summary": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
     "date": "2026-08-06"
   },
   {
@@ -81,11 +89,11 @@
   },
   {
     "type": "news",
-    "title": "Ukraine et Iran, des guerres interconnectées, dans un contexte conflictuel globalisé",
-    "summary": "La guerre continue entre la Russie et l’Ukraine d’une part, et entre les États-Unis et l’Iran d’autre part. Deux guerres menées sur des théâtres différents et pour des raisons différentes. Mais deux guerres de plus en plus interconnectées, comme le montrent plusieurs événements récents.",
+    "title": "Les détroits dans le monde: le détroit de Taïwan, une zone de tension au cœur de l’économie mondiale",
+    "summary": "Notre série consacrée aux détroits s’arrête dans l’un des passages les plus sensibles de la planète : celui qui sépare la Chine de Taïwan, l’île indépendante de fait que Pékin souhaite récupérer, par la force si nécessaire. Exercices militaires, blocus, semi-conducteurs....",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260731-ukraine-et-iran-des-guerres-interconnect%C3%A9es-dans-un-contexte-conflictuel-globalis%C3%A9",
-    "date": "2026-07-31"
+    "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260806-les-d%C3%A9troits-dans-le-monde-le-d%C3%A9troit-de-ta%C3%AFwan-une-zone-de-tension-au-c%C5%93ur-de-l-%C3%A9conomie-mondiale",
+    "date": "2026-08-06"
   },
   {
     "type": "news",
@@ -122,7 +130,7 @@
   {
     "type": "news",
     "title": "Nashville uses eminent domain to block data center near zoo",
-    "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news.ycombinator.com/item?id=49191624 Points: 218 # Comments: 237",
+    "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news.ycombinator.com/item?id=49191624 Points: 266 # Comments: 323",
     "source": "Hacker News",
     "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
     "date": "2026-08-06"
@@ -161,11 +169,11 @@
   },
   {
     "type": "news",
-    "title": "SoftBank posts profit beat boosted by $8.2 billion investment gain from Intel",
-    "summary": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+    "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+    "summary": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
-    "date": "2026-08-06"
+    "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+    "date": "2026-08-05"
   },
   {
     "type": "news",
@@ -177,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 605 drones dans la nuit ; trois morts dans des bombardements russes dans la région de Kharkiv",
-    "summary": "Les frappes russes qui ont visé des maisons individuelles de la ville de Balakliïa ont tué, dans la nuit de mercredi à jeudi, deux femmes et un homme.",
+    "title": "Xenia Fedorova, propagandiste pro-Poutine : l’arrêté d’expulsion pris par la France est une « persécution politique », assure la diplomatie russe",
+    "summary": "La chroniqueuse russe est accusée par la France d’être « un relais des campagnes de désinformation pilotées par les autorités russes » pour « déstabiliser l’ordre public » en France.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-londres-reaffirme-son-soutien-indefectible-et-sans-equivoque-a-kiev_6737250_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/06/xenia-fedorova-propagandiste-pro-poutine-l-arrete-d-expulsion-pris-par-la-france-est-une-persecution-politique-assure-la-diplomatie-russe_6739944_3210.html",
     "date": "2026-08-06"
   },
   {
@@ -193,18 +201,26 @@
   },
   {
     "type": "news",
-    "title": "“700 000 dollars par minute” : les compagnies pétrolières engrangent des profits record",
-    "summary": "Au cours du deuxième trimestre de l’année, les grandes compagnies pétrolières et gazières ont amassé plus de 90 milliards de dollars de bénéfices alors que le conflit iranien a fait flamber les prix de l’énergie.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/energie-700-000-dollars-par-minute-les-compagnies-petrolieres-engrangent-des-profits-record_256548",
-    "date": "2026-08-05"
+    "title": "Africa’s Energy Curse Is a Political Choice",
+    "summary": "It is no secret why African countries with large fossil-fuel reserves nonetheless have failed to reduce extreme poverty or provide reliable electricity to all households. Those in power have made a conscious choice to privilege hard-currency export revenues, some of which then finance elite consumption rather than public investment.",
+    "source": "Project Syndicate",
+    "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
+    "date": "2026-07-31"
   },
   {
     "type": "news",
-    "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-    "summary": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
+    "title": "Italie : à un an des législatives, l’opposition à Meloni de plus en plus fracturée",
+    "summary": "Les prochaines élections législatives transalpines devraient avoir lieu en octobre 2027, et pour espérer les remporter, les deux principaux partis d’opposition, le Parti démocrate et le Mouvement 5 étoiles, devront forcément s’allier. Or, les différents sont importants entre ces deux forces politiques, notamment au sujet du soutien à l’Ukraine.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/politique-italie-a-un-an-des-legislatives-l-opposition-a-meloni-de-plus-en-plus-fracturee_256678",
+    "date": "2026-08-06"
+  },
+  {
+    "type": "news",
+    "title": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+    "summary": "Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
     "date": "2026-08-06"
   },
   {
@@ -258,7 +274,7 @@
   {
     "type": "news",
     "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-    "summary": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 212 # Comments: 83",
+    "summary": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 251 # Comments: 101",
     "source": "Hacker News",
     "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
     "date": "2026-08-05"
@@ -305,19 +321,19 @@
   },
   {
     "type": "news",
-    "title": "Avant-première ASX : les actions australiennes attendues en baisse, l'inflation américaine ravive les craintes de hausse des taux ; Block en croissance au T2",
-    "summary": "Avant-première ASX : les actions australiennes attendues en baisse, l'inflation américaine ravive les craintes de hausse des taux ; Block en croissance au T2 Zonebourse Suisse",
+    "title": "Bourse: l'Europe solide sur ses bases, la planète IA plombée par SpaceX",
+    "summary": "Bourse: l'Europe solide sur ses bases, la planète IA plombée par SpaceX TradingView",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUnNVWU9hZk5RNzNSYmZmS2lMemVYRFNEWkw1QVJ4WkdZZ2drdktpbGhsQUJXcjljUUswOGxpWEVJeXRCTzM4SElCSV8yUERvYnJPdG8tS1RKZDRJdUpJMU5ZOURoMUxVTkM4OVY3TEJ4SXZDLWMyLUxhazdHSjBCZnc0N25BMXRMMmlEcEhoN2lDeEZBWHNrdlcyQ3hsLXlpR29UdFBJcksySm43QlAxS2M2RUhUbDBvQTZaVG9vWUpvOHpDTFd4cWxydlBxdnc4STF6YlR5Q0FFSTVBdF9GNGhvQ1pVV1YtZXktdlBR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwMWJkR3JDLTBFMGxsWEp6TTB3czJranQzXzc1Nml2RHRObk4xc0YzZ05jeWhVZlZGd1RrOWo1eEd5WUhBRjV6WjRVSGtvS25tdHd0YUU1OEQ0VlBYMnJCY0pn?oc=5",
     "date": "2026-08-06"
   },
   {
     "type": "news",
-    "title": "Droits de douane : l’administration Trump a remboursé près de 100 milliards de dollars aux entreprises à la suite de la décision de la Cour suprême",
-    "summary": "Selon des documents judiciaires mis en ligne mardi, l’administration des douanes a évalué à plus de 128 milliards de dollars les demandes de remboursement en cours de traitement ou déjà réalisées.",
+    "title": "EN DIRECT, guerre en Ukraine : la Suède va remettre à Kiev un navire de la flotte fantôme russe",
+    "summary": "Le navire avait été arraisonné au début de mars et transportait, selon l’Ukraine, du blé ukrainien volé des territoires occupés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/06/droits-de-douane-l-administration-trump-a-rembourse-pres-de-100-milliards-de-dollars-aux-entreprises-apres-la-decision-de-la-cour-supreme_6739503_3210.html",
-    "date": "2026-08-05"
+    "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-la-suede-va-remettre-a-kiev-un-navire-de-la-flotte-fantome-russe_6737250_3210.html",
+    "date": "2026-08-06"
   },
   {
     "type": "news",
@@ -329,26 +345,34 @@
   },
   {
     "type": "news",
-    "title": "Crash d’une fusée SpaceX sur la Lune, Fifa, Nigeria, DZ Mafia, Bangladesh : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "AI Must Enlarge the Economy, Not Divide It",
+    "summary": "To unlock AI’s full economic potential, we must steer it toward expansion. That requires replacing incentives that favor capital over labor with those that reward augmentation and investment in human capability.",
+    "source": "Project Syndicate",
+    "link": "https://www.project-syndicate.org/commentary/ai-revolution-does-not-have-to-replace-human-work-by-mark-esposito-and-aurelie-jean-1-2026-07",
+    "date": "2026-07-31"
+  },
+  {
+    "type": "news",
+    "title": "Le Canada renforce ses critères d’admission pour l’obtention d’un visa étudiant",
+    "summary": "À un mois de la rentrée scolaire canadienne, les étudiants internationaux devront désormais prouver qu’ils ont assez de fonds pour subvenir à leurs besoins, le temps de leurs études. À défaut de quoi, leur visa leur sera refusé.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-crash-d-une-fusee-spacex-sur-la-lune-fifa-nigeria-dz-mafia-bangladesh-les-informations-de-la-nuit_256611",
+    "link": "https://www.courrierinternational.com/article/visas-le-canada-renforce-ses-criteres-d-admission-pour-l-obtention-d-un-visa-etudiant_256446",
     "date": "2026-08-06"
   },
   {
     "type": "news",
-    "title": "Could the Iran war derail Donald Trump’s legacy?",
-    "summary": "President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.",
+    "title": "Why is France developing a new nuclear strategy?",
+    "summary": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
     "date": "2026-08-06"
   },
   {
     "type": "news",
-    "title": "Why people want a job at the European Commission — and why so many end up miserable",
-    "summary": "Why people want a job at the European Commission — and why so many end up miserable The Commission is one of Brussels’ most coveted employers. Inside, officials describe mounting pressure, bureaucracy and burnout.",
+    "title": "Former PM joins list of French presidential candidates reportedly targeted by Russian interference",
+    "summary": "PARIS — Former Prime Minister Gabriel Attal is the latest in a string of French presidential candidates allegedly targeted by a Russian disinformation campaign. Attal, the candidate of President Emmanuel Macron’s Renaissance party, said on Thursday he had been “a victim” of an electoral “interference” attempt originating from Russia, and that he expected suc…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/why-people-want-job-european-commission-miserable/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/gabriel-attal-french-presidential-candidates-targeted-by-russian-interference/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-06"
   },
   {
@@ -358,29 +382,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260801-g%C3%A9opolitique-des-mers-et-des-oc%C3%A9ans-de-marianne-p%C3%A9ron-doise",
     "date": "2026-08-01"
-  },
-  {
-    "type": "news",
-    "title": "SpaceX double presque son chiffre d’affaires, sans enrayer la chute de son titre récemment introduit en Bourse",
-    "summary": "Les pertes du groupe d’Elon Musk inquiètent les marchés malgré des revenus en forte hausse, portés par Starlink et l’intelligence artificielle. Le développement de cette dernière branche exige des investissements massifs.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/05/spacex-double-quasiment-son-chiffre-d-affaires-sans-enrayer-la-chute-de-son-titre-recemment-introduit-en-bourse_6739349_3234.html",
-    "date": "2026-08-05"
-  },
-  {
-    "type": "news",
-    "title": "Trump’s AI protectionism has come for robotics",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "date": "2026-08-03"
-  },
-  {
-    "type": "news",
-    "title": "Robots Are Coming — but Not Everywhere",
-    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
-    "date": "2026-07-23"
   }
 ]
