@@ -33,10 +33,18 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
-    "summary": "Des frappes russes ont fait deux morts dans les régions de Kharkiv et d’Odessa dans la nuit de samedi à dimanche, tandis qu’une attaque de drones ukrainienne a tué trois personnes dans la région russe de Belgorod.",
+    "title": "Une évolution du conflit très préoccupante: comment la Russie tente d'étouffer l'économie ukrainienne \"avec des effets sur les marchés mondiaux\"",
+    "summary": "Une évolution du conflit très préoccupante: comment la Russie tente d'étouffer l'économie ukrainienne \"avec des effets sur les marchés mondiaux\" La Libre.be",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNTlZ6UUpCX0hhRHNuZ1N5QjdFLXhCUUYwWWhYVVd4QllYNks5SldLbm5rdm12TUxkOTBXbGQ2bDVkN3Fsd2ZJekhkTmpCbVRfbG42Y0lRMmpLVFVXTnZYVDF3Ync0SFBER1lsb29fdWY0QzBnM0VOX1plcGVoekRQZFp4enB0N3pTVzRBWXZOME03UHB0Y212U3ZjeXdhcVM0WGdZc0FiZWs5ZFlFWll1UG9EZ0g4a19veTRLU2RqdkhxMHRORWRTU2J5eGFGZ1p3bUJOYjN2aFU4VXNmWWU3UjViWE45dzJjUlh4ZFdyMVhOd3UzSjNQcENhZVlvWHE2M0x2eWFVY0NzZkd3b3Y5MkxhR1BiYTJlRWx0Nnd0VkpaZzdmaWp4QmpkTjBTdU95c3lGUWNCN3hnMkl0OEF6Qi0xVXBIdWVETWFxNzI2elRucXlmR29EVDFsdFNzMG11cFE?oc=5",
+    "date": "2026-08-09"
+  },
+  {
+    "type": "news",
+    "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
+    "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-des-echanges-de-frappes-font-cinq-morts-et-des-dizaines-de-blesses-en-ukraine-et-en-russie_6741928_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
     "date": "2026-08-09"
   },
   {
@@ -65,19 +73,19 @@
   },
   {
     "type": "news",
-    "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-    "summary": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa's port.",
+    "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+    "summary": "Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
     "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "US Senate passes Russia sanctions bill",
-    "summary": "The Senate voted 86 to 11 to pass the sweeping Russia sanctions bill championed by the late Sen. Lindsey Graham on Friday, advancing legislation that would give the White House more leverage against Moscow as it seeks to end the war in Ukraine — and a brand new tariff tool.",
+    "title": "Russia and Ukraine exchange overnight strikes, WHO confirms warehouse destroyed",
+    "summary": "A World Health Organization (WHO) warehouse storing emergency health supplies in Ukraine has been destroyed, as Kyiv and Moscow exchanged fresh missile strikes overnight, causing several deaths and leaving tens of people injured.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/08/07/senate-passes-russia-sanctions-bill-01029073?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-08"
+    "link": "https://www.politico.eu/article/who-warehouse-destroyed-ukraine-russia-missile-strikes/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
@@ -121,14 +129,6 @@
   },
   {
     "type": "news",
-    "title": "Fastmail offers EU data region",
-    "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 430 # Comments: 226",
-    "source": "Hacker News",
-    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "date": "2026-08-08"
-  },
-  {
-    "type": "news",
     "title": "What’s missing from the White House plan for the future of US science",
     "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02384-wTo realize ‘a new golden age for science’, the United States needs open borders and must properly fund studies in the social sciences, public health and the humanities — not just research in technology and engineering.",
     "source": "Nature",
@@ -161,16 +161,24 @@
   },
   {
     "type": "news",
-    "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-    "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+    "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-    "date": "2026-08-07"
+    "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "date": "2026-08-09"
+  },
+  {
+    "type": "news",
+    "title": "La dette extérieure de l'Egypte s'est élevée à 164,78 milliards de dollar en mars 2026, selon la Banque Centrale",
+    "summary": "La dette extérieure de l'Egypte s'est élevée à 164,78 milliards de dollar en mars 2026, selon la Banque Centrale Ahraminfo",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQjUzUXNrQmRIbFV0T1hRQ0NXS016aGtfM29MeFJoOFFnYVBaOW9wVVNZei1lV3VXbWxCWnAtOHBwWTBnYl9GelZwR3BNM0xnWTNFTUtR?oc=5",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
     "title": "A Gaza, « les plus grandes funérailles collectives de l’histoire de la Palestine », ou la difficulté de donner une sépulture aux morts et aux disparus de la guerre",
-    "summary": "Les restes de 112 victimes d’une frappe israélienne sur un immeuble de l’enclave palestinienne, membres d’une même famille, ont été enterrés le 4 août, deux ans et demi après leur mort. Les habitants manquent de moyens pour chercher et extraire les milliers de corps qui gisent encore sous les décombres.",
+    "summary": "Les restes de 112 victimes d’une frappe israélienne sur un immeuble de l’enclave palestinienne, membres d’une même famille, ont été enterrés le 4 août, deux ans et demi après leur mort. Les habitants manquent de moyens pour chercher et extraire les milliers de corps encore sous les décombres.",
     "source": "Le Monde International",
     "link": "https://www.lemonde.fr/international/article/2026/08/09/a-gaza-les-plus-grandes-funerailles-collectives-de-l-histoire-de-la-palestine-ou-la-difficulte-de-donner-une-sepulture-aux-morts-et-aux-disparus-de-la-guerre_6741922_3210.html",
     "date": "2026-08-09"
@@ -193,26 +201,26 @@
   },
   {
     "type": "news",
-    "title": "Drones en Europe, canicule, Todd Blanche confirmé, Gianni Infantino : les informations de la nuit",
-    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+    "title": "“Dans le ventre de Dakar” : le marché Kermel tente de résister à la désertion des clients",
+    "summary": "Réputé pour son architecture coloniale française et sa structure circulaire plantée au cœur de la ville, le marché Kermel est l’un des plus emblématiques de la capitale sénégalaise. Mais avec l’évolution des modes de consommation de la classe moyenne, il est de plus en plus déserté au profit des livraisons de courses et des supermarchés, regrette le quotidie…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-drones-en-europe-canicule-todd-blanche-confirme-gianni-infantino-les-informations-de-la-nuit_257139",
+    "link": "https://www.courrierinternational.com/article/reportage-dans-le-ventre-de-dakar-le-marche-kermel-tente-de-resister-a-la-desertion-des-clients_249219",
     "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-    "summary": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
+    "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
+    "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
     "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "Russian strikes on Ukraine kill 12, wound over 80 overnight",
-    "summary": "Russian airstrikes across Ukraine have killed at least 12 people and injured dozens more in multiple drone and missile attacks overnight, according to local authorities. The Ukrainian Air Force said Russia launched six missiles and 151 attack drones throughout Friday night, hitting 12 locations. Ukrainian authorities managed to down 135 drones.",
+    "title": "US Senate passes Russia sanctions bill",
+    "summary": "The Senate voted 86 to 11 to pass the sweeping Russia sanctions bill championed by the late Sen. Lindsey Graham on Friday, advancing legislation that would give the White House more leverage against Moscow as it seeks to end the war in Ukraine — and a brand new tariff tool.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-attack-across-ukraine-kills-12-injures-over-80-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/08/07/senate-passes-russia-sanctions-bill-01029073?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-08"
   },
   {
@@ -257,14 +265,6 @@
   },
   {
     "type": "news",
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-    "summary": "Article URL: http://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 152 # Comments: 70",
-    "source": "Hacker News",
-    "link": "http://longbets.org/601/",
-    "date": "2026-08-09"
-  },
-  {
-    "type": "news",
     "title": "Europe can become a bioengineering powerhouse with these three changes",
     "summary": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02389-5Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.",
     "source": "Nature",
@@ -297,18 +297,26 @@
   },
   {
     "type": "news",
-    "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-    "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+    "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+    "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+    "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+    "date": "2026-08-07"
+  },
+  {
+    "type": "news",
+    "title": "Ralentissement de l'inflation en zone euro et repositionnement du marché sur la zone dollar: Benjamin Melman dans Intégrale Bourse - 01/11",
+    "summary": "Ralentissement de l'inflation en zone euro et repositionnement du marché sur la zone dollar: Benjamin Melman dans Intégrale Bourse - 01/11 Orange Actualités",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT2VSVkx4dGEzU2V0NS1OVzluNE1YdDVrRGN5VjBMRHJyQnpqeF9uUWJkZjZUdzZjNnVzM3lRVmhEVjFkb3J1bFN6Q1JCSjVJZnFzOEIybW9iTC1RZ3hyVU9EaTduUVB2bmRHM0FqckRDbmhsTkhuaUZsYWstemVNWGt4c21mT0RTa1ZQQ1FpZVpVSUFFdlpRME9KS3pnQ3NJMkdFamJwcUxGd1VFSGItMlhGZnFmdXZCcm13cG5wbDJKM012ZjNoc0NlTG8weV9vVFdxTHZxUWNPcG82X0ExZ0I5M0xQNXdCWVNibXJPZzd5SkFhTW5YbW9aWEwxOFVsc2F3aE5JSUNvVVg5RFZNbTNadlJ5eFhsZ3lVYUVMdw?oc=5",
     "date": "2026-08-08"
   },
   {
     "type": "news",
-    "title": "Maria Angelicoussis, la discrète armatrice la plus puissante de Grèce",
-    "summary": "Le groupe Angelicoussis, qu’elle dirige depuis 2021, est le plus grand armateur privé du monde en tonnage, et profite de l’essor du gaz naturel liquéfié en Europe. La PDG de 44 ans est la femme la plus riche de Grèce.",
+    "title": "« Joe Biden s’est condamné à l’humiliation en endossant l’héritage de Donald Trump au Moyen-Orient »",
+    "summary": "Le cinquième anniversaire de la déroute américaine en Afghanistan, en août 2021, rappelle que l’ancien président américain Joe Biden s’est piégé au Moyen-Orient en s’inscrivant dans le sillage de son prédécesseur à la Maison Blanche.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/09/maria-angelicoussis-la-discrete-armatrice-la-plus-puissante-de-grece_6741918_3234.html",
+    "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/09/joe-biden-s-est-condamne-a-l-humiliation-en-endossant-l-heritage-de-donald-trump-au-moyen-orient_6741930_6116995.html",
     "date": "2026-08-09"
   },
   {
@@ -329,27 +337,27 @@
   },
   {
     "type": "news",
-    "title": "“Un tournant tragique” : comment l’Ukraine perd la bataille du ciel",
-    "summary": "Depuis des semaines, la Russie bombarde sans relâche des cibles civiles et énergétiques ukrainiennes alors que le pays manque cruellement de missiles intercepteurs. À l’approche du cinquième hiver de guerre, Moscou va certainement chercher à “plonger l’Ukraine dans le noir”, analyse la presse étrangère.",
+    "title": "Drones en Europe, canicule, Todd Blanche confirmé, Gianni Infantino : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/missiles-un-tournant-tragique-comment-l-ukraine-perd-la-bataille-du-ciel_257040",
-    "date": "2026-08-08"
-  },
-  {
-    "type": "news",
-    "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
-    "summary": "Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-drones-en-europe-canicule-todd-blanche-confirme-gianni-infantino-les-informations-de-la-nuit_257139",
     "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "Germany’s gas gamble puts Europe’s winter at risk",
-    "summary": "BERLIN — Europe’s reserves of natural gas are running dangerously low, risking fresh energy woes if the Iran war rages on and cold spells drive up heating demand over winter. But the continent’s top energy user doesn’t seem too bothered.",
+    "title": "Pentagon urges faster US weapons production amid stockpile concerns",
+    "summary": "US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
+    "date": "2026-08-09"
+  },
+  {
+    "type": "news",
+    "title": "Russian strikes on Ukraine kill 12, wound over 80 overnight",
+    "summary": "Russian airstrikes across Ukraine have killed at least 12 people and injured dozens more in multiple drone and missile attacks overnight, according to local authorities. The Ukrainian Air Force said Russia launched six missiles and 151 attack drones throughout Friday night, hitting 12 locations. Ukrainian authorities managed to down 135 drones.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/germany-gas-reserve-low-europe-winter-energy/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-07"
+    "link": "https://www.politico.eu/article/russia-attack-across-ukraine-kills-12-injures-over-80-overnight/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-08"
   },
   {
     "type": "news",
@@ -361,11 +369,11 @@
   },
   {
     "type": "news",
-    "title": "Trenitalia commande 19 trains à Hitachi et confirme l’ouverture de la liaison Paris-Londres en 2029",
-    "summary": "Les nouveaux trains de la filiale du groupe ferroviaire italien seront conçus pour circuler sur les principaux réseaux européens à grande vitesse. Ils doivent encore être homologués pour le tunnel sous la Manche et pour le marché britannique.",
+    "title": "Maria Angelicoussis, la discrète armatrice la plus puissante de Grèce",
+    "summary": "Le groupe Angelicoussis, qu’elle dirige depuis 2021, est le plus grand armateur privé du monde en tonnage, et profite de l’essor du gaz naturel liquéfié en Europe. La PDG de 44 ans est la femme la plus riche de Grèce.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html",
-    "date": "2026-08-07"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/09/maria-angelicoussis-la-discrete-armatrice-la-plus-puissante-de-grece_6741918_3234.html",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
@@ -374,13 +382,5 @@
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "date": "2026-08-03"
-  },
-  {
-    "type": "news",
-    "title": "Robots Are Coming — but Not Everywhere",
-    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
-    "date": "2026-07-23"
   }
 ]
