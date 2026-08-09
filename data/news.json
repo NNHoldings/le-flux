@@ -41,19 +41,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Kiev assure ne pas avoir visé « délibérément » la Bulgarie, après la chute d’un drone correspondant à ceux utilisés par l’armée ukrainienne",
-    "summary": "Ce drone a explosé ce matin près de la frontière avec la Roumanie et d’un gazoduc. « Nous sommes en contact étroit avec la partie bulgare afin de clarifier les circonstances » de l’incident, a affirmé en fin d’après-midi le porte-parole du ministère ukrainien des affaires étrangères.",
+    "title": "EN DIRECT, guerre en Ukraine : après l’explosion en Bulgarie d’un drone correspondant à ceux utilisés par Kiev, l’ambassadrice ukrainienne à Sofia convoquée",
+    "summary": "L’engin qui s’est écrasé samedi matin en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes », a annoncé le ministre de la défense bulgare, Dimitar Stoyanov. La diplomatie ukrainienne a, de son côté, assuré que la Bulgarie n’avait pas été visée « délibérément », et a promis une enquête pour expliquer cette chute.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html",
-    "date": "2026-08-08"
-  },
-  {
-    "type": "news",
-    "title": "Une nette erreur d'appréciation",
-    "summary": "Dans la nuit du 2 au 3 janvier 2026, les forces américaines ont soumis la capitale vénézuélienne à des bombardements massifs avant de capturer le président Nicolás Maduro et son épouse, tous deux accusés de narcotrafic, pour les exfiltrer vers les États-Unis. Cette expérience a autorisé M. (…) / États-Unis, Iran, Israël, Conflit, Géopolitique",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/08/WARDE/69802",
-    "date": "2026-08-08"
+    "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-apres-l-explosion-en-bulgarie-d-un-drone-correspondant-a-ceux-utilises-par-kiev-l-ambassadrice-ukrainienne-a-sofia-convoquee_6741928_3210.html",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
@@ -65,18 +57,18 @@
   },
   {
     "type": "news",
-    "title": "“Un tournant tragique” : comment l’Ukraine perd la bataille du ciel",
-    "summary": "Depuis des semaines, la Russie bombarde sans relâche des cibles civiles et énergétiques ukrainiennes alors que le pays manque cruellement de missiles intercepteurs. À l’approche du cinquième hiver de guerre, Moscou va certainement chercher à “plonger l’Ukraine dans le noir”, analyse la presse étrangère.",
+    "title": "Aux États-Unis, le parti républicain se déchire autour du prix du burrito",
+    "summary": "Le coût de cette spécialité mexicaine fait depuis quelques jours l’objet d’un vaste débat qui enflamme la droite sur les réseaux sociaux. Pour la presse américaine, ce “burritogate” révèle une “fracture” au sein du parti républicain sur la question du pouvoir d’achat, alors que l’inflation continue de peser sur le budget des ménages, à quelques mois des élec…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/missiles-un-tournant-tragique-comment-l-ukraine-perd-la-bataille-du-ciel_257040",
-    "date": "2026-08-08"
+    "link": "https://www.courrierinternational.com/article/inflation-aux-etats-unis-le-parti-republicain-se-dechire-autour-du-prix-du-burrito_257172",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-    "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+    "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+    "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
     "date": "2026-08-08"
   },
   {
@@ -129,10 +121,10 @@
   },
   {
     "type": "news",
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 157 # Comments: 178",
+    "title": "Fastmail offers EU data region",
+    "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 358 # Comments: 178",
     "source": "Hacker News",
-    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "date": "2026-08-08"
   },
   {
@@ -177,27 +169,19 @@
   },
   {
     "type": "news",
-    "title": "Musalem, de la Fed, estime que la banque centrale aurait dû relever ses taux lors de sa dernière réunion",
-    "summary": "Musalem, de la Fed, estime que la banque centrale aurait dû relever ses taux lors de sa dernière réunion Boursorama",
+    "title": "Point marchés-L'Europe finit dans le vert, la politique monétaire dans le viseur",
+    "summary": "Point marchés-L'Europe finit dans le vert, la politique monétaire dans le viseur Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPck10dUF3RFBoQVV2WUl2cUx4T1RXUUN2ZG5iMHdITHRQVTFRUmt6elVoU3MyQVVwQ0J2dGc5eUxzYy0wcFVsRXRGRFhmTnU3TnBDZTBlYmctdU5PVVZKaWVxU0VIVzhGNDBEb0J0WkV4V1lic0gzMElZN19wSGtaTDFRbTFjOXQxSDNKaF8zR212cGJFYS1IdGFDcXo4VGEtVmZYZzNocGxCbEVXS2t0R29fYllGWVVRUHozRWtLb3hhbEdZR2xtVk9kZkM1Y05yaTRGTDh1cFNtSHNyTFk4c1p1RmxRMkNWSW4yWW1pc05kM0RhYkQ1S2R1dS1UTTZUZGdEZ0Q5UjlJanp4WjlOLVhtRi1DZTFtdnJmOFZpb9IBpAJBVV95cUxPcEM4Q01TNU4yaWJ4MmZ6NTBvd3JodkxEd2xxNUhlNWdaRnNEd2YwbWdqemV3LUczN2tWTndWdF9QeWRvYzNseGhrUkVfU3hueXA0U3dfUTVqOUNRb0xuMVdHLTBoNmJ5ek12NXVkYmlPMVYyS3BQeUhmYTZvX2ZCSFRTVGloS21LRnpvTUMzZ1ktUTNNMEhTUkVsd0FYanlzNmt3SHlSa29jX0lJV3R6cE1BZVd1WGxnRVlhMXhXMUlBeFUzNkI4QnloaTNrb3ZUNDFZREQzNHprR1FnSXVYNHZLWWExcjdjM0FvWGRsMG1YSnBHeW5EcUxyZzY3MDJRY1pQeV9BQVAtUTlJbkxoajJEMXhoY3djMG15UzI2S05ZR2Vt?oc=5",
-    "date": "2026-08-06"
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcHhVckYtZkJXSnBGMVdCZ1o4UGhDQXF6V0hOeFVIN1h1aG5RTE9MUm5MRDFEdnJRMlYtUDNMNENUQWJaYmk1V21vX0lYOGFqNG5Uc25hRUhxWFB3NFp0VnVpQTdxTjY2LWRxZjYzc0g0MkdJaFhYVTZsNkVNdGN1MlhIOXNiY0NvUU1NQjhWOUxNUnp3ZktiODJOS1ptYU5adTFwR3BvMjltcTJHQWZoRTQ4OU9ZaEM2aXQtc3l5cXpDVXlzc1hocjl6MnlWLVRaRW5FcjFGUQ?oc=5",
+    "date": "2026-08-07"
   },
   {
     "type": "news",
-    "title": "Le drone qui a explosé en Bulgarie est un modèle d’aéronef « largement utilisé par les forces armées ukrainiennes », affirme le ministère de la défense bulgare",
-    "summary": "« A l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré », a souligné le ministère dans un communiqué, s’appuyant sur une première analyse des débris de l’engin. L’Ukraine a assuré n’avoir pas visé « délibérément » la Bulgarie et promis une enquête.",
+    "title": "Guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes ». Retrouvez les informations du 2 au 8 août.",
+    "summary": "Le ministère de la défense bulgare a nuancé ses propos en précisant qu’« à l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré ». La diplomatie ukrainienne a assuré que l’Ukraine n’avait pas visé « délibérément » la Bulgarie avec cet engin, et promis une enquête pour éclaircir les circonstances de sa chute.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/08/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine_6741326_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html",
     "date": "2026-08-08"
-  },
-  {
-    "type": "news",
-    "title": "La révolution cubaine convertie de force à la libre entreprise",
-    "summary": "Le 13 juillet, le département d'État américain a placé sous sanctions dix nouvelles sociétés et entités gouvernementales cubaines, dont le ministère du tourisme. Washington poursuit sa stratégie d'étranglement économique de l'île. Acculées, les autorités de La Havane tentent d'éviter (…) / Cuba, États-Unis, Embargo, Néolibéralisme, Socialisme",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/08/NEIMA/69812",
-    "date": "2026-08-01"
   },
   {
     "type": "news",
@@ -209,19 +193,19 @@
   },
   {
     "type": "news",
-    "title": "Face aux chaleurs records, la Corée du Nord conseille de manger de la viande de chien",
-    "summary": "Alors que la péninsule coréenne suffoque sous une canicule sans précédent, le régime nord-coréen a émis différents conseils pour sa population. Parmi eux, la consommation de viande de chien, censée apporter l’énergie nécessaire pour faire face à la chaleur.",
+    "title": "Drones en Europe, canicule, Todd Blanche confirmé, Gianni Infantino : les informations de la nuit",
+    "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sante-face-aux-chaleurs-records-la-coree-du-nord-conseille-de-manger-de-la-viande-de-chien_257073",
-    "date": "2026-08-08"
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-drones-en-europe-canicule-todd-blanche-confirme-gianni-infantino-les-informations-de-la-nuit_257139",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
-    "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-    "summary": "Drone incidents in Europe igniting fears that Moscow's war on Kyiv is entangling NATO nations.",
+    "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
+    "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-    "date": "2026-08-08"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
@@ -273,11 +257,11 @@
   },
   {
     "type": "news",
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-    "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 313 # Comments: 128",
+    "title": "My server is a phone now",
+    "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 205 # Comments: 83",
     "source": "Hacker News",
-    "link": "https://genesisopenmodels.anl.gov/",
-    "date": "2026-08-07"
+    "link": "https://seg6.space/posts/phone-server/",
+    "date": "2026-08-08"
   },
   {
     "type": "news",
@@ -321,27 +305,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit dans le vert, la politique monétaire dans le viseur",
-    "summary": "Point marchés-L'Europe finit dans le vert, la politique monétaire dans le viseur Zonebourse",
+    "title": "La semaine à venir à Wall Street-Les chiffres de l'inflation mettront à l'épreuve les actions américaines, qui",
+    "summary": "La semaine à venir à Wall Street-Les chiffres de l'inflation mettront à l'épreuve les actions américaines, qui Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcHhVckYtZkJXSnBGMVdCZ1o4UGhDQXF6V0hOeFVIN1h1aG5RTE9MUm5MRDFEdnJRMlYtUDNMNENUQWJaYmk1V21vX0lYOGFqNG5Uc25hRUhxWFB3NFp0VnVpQTdxTjY2LWRxZjYzc0g0MkdJaFhYVTZsNkVNdGN1MlhIOXNiY0NvUU1NQjhWOUxNUnp3ZktiODJOS1ptYU5adTFwR3BvMjltcTJHQWZoRTQ4OU9ZaEM2aXQtc3l5cXpDVXlzc1hocjl6MnlWLVRaRW5FcjFGUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOUHViUVM0SXJlSGxoNEh6TjFYVDJ3NDRULWVjZTZJbVNEWVpONWpPN3o2WmRlYjhabjlUU1lQR1BQVUNGVVl3TWw5TElnblcwcF83R3F1Nm4xdVhHOGVIYk5uaE1fR1dHSEZzSUpFYTBaUHVGRTRiUWc3a2ZjeWFsX1g5U0d0b3VNZFphb3VtTzJfUnBYZ0s0ZDVOdmRCaFBVU0VMSUZucWp2Tm5feFRnSGs2eExNR0lmVUtzMWN3NXV4eUdCRmlSVEFmMXF2dUxPQlN0ZzNBTjc5ZzZ3c29QaWpzazlfeHdoRHlvWS1FWl9hZmlXTlZMenVHR012am1zTHBJeUwwVnRRM0FQa3BjaXh3NTUzZENaTkc2X2xyekltWFlEQjZudy1iaVdEOXExVmc5ZVRrZWJMbFplVk5ONEUxQUVHS1VjQy1RcWc1VkNOeHppektkSmMxRXNXRlpNSWt3Ml9mXzlDejVVS25zVzZ0U2hrbG96TnZSOVZnY1hETHZSRDNOTHpBdTM5UHBWMWh30gGTA0FVX3lxTE5QdWJRUzRJcmVIbGg0SHpOMVhUMnc0NFQtZWNlNkltU0RZWk41ak83ejZaZGViOFpuOVRTWVBHUFBVQ0ZVWXdNbDlMSWduVzBwXzdHcXU2bjF1WEc4ZUhiTm5oTV9HV0dIRnNJSkVhMFpQdUZFNGJRZzdrZmN5YWxfWDlTR3RvdU1kWmFvdW1PMl9ScFhnSzRkNU52ZEJoUFVTRUxJRm5xanZObl94VGdIazZ4TE1HSWZVS3MxY3c1dXh5R0JGaVJUQWYxcXZ1TE9CU3RnM0FONzlnNndzb1BpanNrOV94d2hEeW9ZLUVaX2FmaVdOVkx6dUdHTXZqbXNMcEl5TDBWdFEzQVBrcGNpeHc1NTNkQ1pORzZfbHJ6SW1YWURCNm53LWJpV0Q5cTFWZzllVGtlYkxsWmVWTk40RTFBRUdLVWNDLVFxZzVWQ054eml6S2RKYzFFc1dGWk1Ja3cyX2ZfOUN6NVVLbnNXNnRTaGtsb3pOdlI5VmdjWERMdlJEM05MekF1MzlQcFYxaHc?oc=5",
     "date": "2026-08-07"
   },
   {
     "type": "news",
-    "title": "SpaceX, le rêve à l’épreuve des chiffres",
-    "summary": "L’euphorie autour de l’entreprise spatiale n’est pas totalement retombée malgré une valorisation en forte baisse depuis l’introduction en Bourse, mi-juin. Si extraordinaires soient les ambitions, celles-ci ne doivent pas dispenser de démontrer la rentabilité de la société fondée par Elon Musk.",
+    "title": "A Gaza, « les plus grandes funérailles collectives de l’histoire de la Palestine », ou la difficulté de donner une sépulture aux morts et aux disparus de la guerre",
+    "summary": "Les restes de 112 victimes d’une frappe israélienne sur un immeuble de l’enclave palestinienne, membres d’une même famille, ont été enterrés le 4 août, deux ans et demi après leur mort. Les habitants manquent de moyens pour chercher et extraire les milliers de corps qui gisent encore sous les décombres.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/08/08/spacex-le-reve-a-l-epreuve-des-chiffres_6741194_3232.html",
-    "date": "2026-08-08"
-  },
-  {
-    "type": "news",
-    "title": "L'élection qui faillit changer « Le Monde »",
-    "summary": "En 1980-1982, la rédaction du « Monde » se divise lors de l'élection de son directeur. Deux éditorialistes actuels se souviennent qu'à l'issue de cette longue bataille le journal s'est libéré d'une « gangue idéologique où les illusions du socialo- tiers-mondisme avaient trop volontiers droit de (…) / Politique, Histoire, Élections, Médias, Presse, France",
-    "source": "Le Monde Diplomatique",
-    "link": "https://www.monde-diplomatique.fr/2026/08/RIGAL/69816",
-    "date": "2026-07-31"
+    "link": "https://www.lemonde.fr/international/article/2026/08/09/a-gaza-les-plus-grandes-funerailles-collectives-de-l-histoire-de-la-palestine-ou-la-difficulte-de-donner-une-sepulture-aux-morts-et-aux-disparus-de-la-guerre_6741922_3210.html",
+    "date": "2026-08-09"
   },
   {
     "type": "news",
@@ -353,18 +329,18 @@
   },
   {
     "type": "news",
-    "title": "L’Arabie saoudite, le Pakistan et la Turquie scellent un pacte de défense régional “inspiré de l’Otan”",
-    "summary": "Le prince héritier saoudien Mohammad ben Salmane a reçu vendredi le président turc, Recep Tayyip Erdogan, et le Premier ministre pakistanais, Shehbaz Sharif, à La Mecque, où tous trois ont signé un accord de défense conjoint.",
+    "title": "“Un tournant tragique” : comment l’Ukraine perd la bataille du ciel",
+    "summary": "Depuis des semaines, la Russie bombarde sans relâche des cibles civiles et énergétiques ukrainiennes alors que le pays manque cruellement de missiles intercepteurs. À l’approche du cinquième hiver de guerre, Moscou va certainement chercher à “plonger l’Ukraine dans le noir”, analyse la presse étrangère.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/moyen-orient-l-arabie-saoudite-le-pakistan-et-la-turquie-scellent-un-pacte-de-defense-regional-inspire-de-l-otan_257007",
+    "link": "https://www.courrierinternational.com/article/missiles-un-tournant-tragique-comment-l-ukraine-perd-la-bataille-du-ciel_257040",
     "date": "2026-08-08"
   },
   {
     "type": "news",
-    "title": "Woman screams in fear as Ukraine war recruiters pounce on man",
-    "summary": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
+    "title": "Turkiye says Mecca defence pact not aimed at Iran",
+    "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
     "date": "2026-08-08"
   },
   {
@@ -382,5 +358,29 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260801-g%C3%A9opolitique-des-mers-et-des-oc%C3%A9ans-de-marianne-p%C3%A9ron-doise",
     "date": "2026-08-01"
+  },
+  {
+    "type": "news",
+    "title": "Trenitalia commande 19 trains à Hitachi et confirme l’ouverture de la liaison Paris-Londres en 2029",
+    "summary": "Les nouveaux trains de la filiale du groupe ferroviaire italien seront conçus pour circuler sur les principaux réseaux européens à grande vitesse. Ils doivent encore être homologués pour le tunnel sous la Manche et pour le marché britannique.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html",
+    "date": "2026-08-07"
+  },
+  {
+    "type": "news",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "date": "2026-08-03"
+  },
+  {
+    "type": "news",
+    "title": "Robots Are Coming — but Not Everywhere",
+    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+    "date": "2026-07-23"
   }
 ]
