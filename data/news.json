@@ -25,10 +25,10 @@
   },
   {
     "type": "news",
-    "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+    "title": "Scorching heat is straining Europe's nuclear power supplies — and prompting drastic measures",
+    "summary": "Heat and drought are curbing nuclear output across Europe, with Romania facing a possible reactor shutdown and France reducing generation.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+    "link": "https://www.cnbc.com/2026/08/12/europe-heat-drought-nuclear-power.html",
     "date": "2026-08-12"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "La Corée du Nord renforce son aide militaire à la Russie dans le cadre de la guerre contre l’Ukraine",
-    "summary": "Selon le renseignement militaire ukrainien, Pyongyang s’apprêterait à envoyer jusqu’à 50 000 soldats supplémentaires et a déployé une unité équipée de missiles balistiques en Russie. Certains de ces missiles ont été utilisés, mardi, contre la ville ukrainienne de Zaporijia, a affirmé Volodymyr Zelensky.",
+    "title": "En Europe, les stocks de gaz pour l’hiver, au plus bas, ravivent les craintes sur les prix fin 2026 et début 2027",
+    "summary": "Le taux de remplissage actuel des réserves européennes est inférieur à 60 %, contre près de 75 % ces deux dernières années, notamment en raison de prix estivaux élevés liés au blocage du détroit d’Ormuz.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-renforce-son-aide-militaire-a-la-russie-dans-le-cadre-de-la-guerre-contre-l-ukraine_6745049_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/12/en-europe-les-stocks-de-gaz-pour-l-hiver-au-plus-bas-ravivent-les-craintes-sur-les-prix-fin-2026-et-debut-2027_6745085_3234.html",
     "date": "2026-08-12"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "L’IA stimulera davantage la production de pétrole et de gaz que celle d’énergie verte",
-    "summary": "Les gains de productivité dégagés par l’intelligence artificielle dans le secteur de l’énergie engendrent davantage d’émissions de CO2 qu’ils n’en évitent, prévient une étude relayée par le “Financial Times”.",
+    "title": "Comment un blockbuster glorifiant l’invasion de Taïwan a réussi à se faire censurer en Chine",
+    "summary": "Alors qu’il devait sortir cette année, “La Bataille de Penghu”, un film chinois à 64 millions d’euros de budget qui retrace la conquête de Taïwan par l’empire des Qing au XVIIᵉ siècle, a été repoussé indéfiniment. En cause : des réalités historiques un peu trop complexes pour servir la propagande du président chinois Xi Jinping.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/climat-l-ia-stimulera-davantage-la-production-de-petrole-et-de-gaz-que-celle-d-energie-verte_257943",
-    "date": "2026-08-11"
+    "link": "https://www.courrierinternational.com/article/culture-comment-un-blockbuster-glorifiant-l-invasion-de-taiwan-a-reussi-a-se-faire-censurer-en-chine_258360",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-    "summary": "Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
+    "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+    "summary": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
     "date": "2026-08-12"
   },
   {
@@ -129,19 +129,19 @@
   },
   {
     "type": "news",
-    "title": "OpenAI’s head of ethics leaves less than a year after joining",
-    "summary": "https://archive.ph/W48UVhttps://aimagazine.com/news/why-did-openai-head-of-ethics-ch... Comments URL: https://news.ycombinator.com/item?id=49257160 Points: 456 # Comments: 432",
+    "title": "AI is removing the middle class of software engineering",
+    "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 418 # Comments: 354",
     "source": "Hacker News",
-    "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "date": "2026-08-11"
+    "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "How and when to use artificial intelligence in your science job application",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02435-2A webinar offers advice to hiring managers and jobseekers.",
+    "title": "Heterogeneous climatic controls on tropical-forest biomass",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10880-2An analysis of the relationships between aboveground biomass and various climatic factors in three major regions of tropical forest shows that understanding the complex interactions between climate, topography and soils is crucial to predict how climate change will affect carbon storage…",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02435-2",
-    "date": "2026-08-10"
+    "link": "https://www.nature.com/articles/s41586-026-10880-2",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
@@ -169,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
-    "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
+    "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+    "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Les solides résultats dans l'IA stabilisent les actions des marchés émergents avant les données sur l'inflation américaine",
-    "summary": "Les solides résultats dans l'IA stabilisent les actions des marchés émergents avant les données sur l'inflation américaine Zonebourse Suisse",
+    "title": "Marchés mondiaux: l'inflation américaine éclipse le pétrole et l'IA",
+    "summary": "Marchés mondiaux: l'inflation américaine éclipse le pétrole et l'IA Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVjNZLTdWTmo1bmtMZ2FMcFlpemRCeGxWVmRyNzE0dkgzd3NPOHVaN3VNZ2RHYmhhd21xdWFuMldySWQzNnRtdzBJdU0wUG43Zll1NVNhYzNKSEt6XzJ0MlBJS0Q1TjdPVTE4dF9vVWZLYVdDdDJ2bmJoYi1qS0xzXzBWZ1BzYm1sNTJhVFZDT3B1UlF0bUFjdjQ0NjBmVlA4VzRJcTQ0NzN1MlluUjNnTVJveDV6VHFUZFFlSUxfbHo0NGxPaHpZYUtaWDJIOEtIUkIwMTY1Q1QwMXZPUjdra0hOMmJ3ckVWN3plUVVqb0w?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWJ6NGRtSmRjUUY3TUNaUmtGZy1Ya3BpWHU0VmFpNk1TQXI3Tjlob2NBRmJ2cy1qS0FwOEdHZ1lDQUNJYmZEdEFqOEpUWjR0SjROeVp2SWRLSU5sZFpwOHc2WU1fWHdaRjdkUzFQU05yXzNhcHNCVW1NSlNaSnJfVWR0X0ZNSFF3MjY2c3pxYjZCQXcxaTRKckp3aFdfV1gtNVVnUk1xcThwUkhIUWM3QjQxV3cxQmpkY3dvTUxCNk53bGZjY0E?oc=5",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : le vice-président américain, J. D. Vance, a demandé à Kiev d’arrêter de frapper des pétroliers en mer Noire, selon « The Financial Times »",
-    "summary": "Le quotidien britannique a rapporté, mercredi, que l’Ukraine avait mis fin à ses frappes de drones visant certains pétroliers en mer Noire, à la suite d’un appel entre J. D. Vance et le président ukrainien, Volodymyr Zelensky, le 31 juillet.",
+    "title": "La Corée du Nord renforce son aide militaire à la Russie dans le cadre de la guerre contre l’Ukraine",
+    "summary": "Selon le renseignement militaire ukrainien, Pyongyang s’apprêterait à envoyer jusqu’à 50 000 soldats supplémentaires et a déployé une unité équipée de missiles balistiques en Russie. Certains de ces missiles ont été utilisés, mardi, contre la ville ukrainienne de Zaporijia, a affirmé Volodymyr Zelensky.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-le-vice-president-americain-j-d-vance-a-demande-a-kiev-d-arreter-de-frapper-des-petroliers-en-mer-noire-selon-the-financial-times_6741928_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-renforce-son-aide-militaire-a-la-russie-dans-le-cadre-de-la-guerre-contre-l-ukraine_6745049_3210.html",
     "date": "2026-08-12"
   },
   {
@@ -201,40 +201,40 @@
   },
   {
     "type": "news",
-    "title": "The Monetary Roots of Political Extremism",
-    "summary": "While the global economy generates unprecedented wealth for plutocrats like Elon Musk, it is, by design, highly unequal, dangerously over-indebted, prone to recurring financial crises, and ecologically disastrous. In such a context, radical reforms will be needed, beginning with the rejection of money as a commodity.",
+    "title": "Will Latin America Embrace Guerrilla Geopolitics?",
+    "summary": "The resurgence of guerrilla warfare in Ukraine and Iran has underscored the potential benefits of asymmetric action in today’s increasingly multipolar world. Latin America, in particular, should consider how to leverage its many strengths to remedy its relatively weak position on the global stage.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/geneva-school-produced-unaccountable-money-markets-and-plutocrats-like-musk-by-ann-pettifor-2026-08",
+    "link": "https://www.project-syndicate.org/commentary/latin-america-should-apply-lessons-of-guerrilla-warfare-to-geopolitics-by-jorge-g-castaneda-and-carlos-ominami-2026-08",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "L’unique parti russe opposé à la guerre en Ukraine écarté des élections législatives",
-    "summary": "La Cour suprême de Russie a annoncé, lundi 10 août, le retrait de Iabloko de la liste des partis autorisés à participer aux élections législatives de septembre. Née dans les années 1990, cette formation appartenant au champ politique autorisé se distingue par son opposition à la guerre menée contre l’Ukraine.",
+    "title": "“Et maintenant, une invasion de méduses” : le parc nucléaire français à rude épreuve",
+    "summary": "Trois réacteurs de la centrale de Gravelines, la plus importante d’Europe de l’Ouest, ont été arrêtés en raison de la prolifération de méduses en mer du Nord. Un phénomène déjà observé l’an dernier, qui survient dans un contexte déjà tendu pour le parc nucléaire français, et que le changement climatique pourrait rendre plus fréquent, observe la presse intern…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-l-unique-parti-russe-oppose-a-la-guerre-en-ukraine-ecarte-des-elections-legislatives_257931",
-    "date": "2026-08-11"
-  },
-  {
-    "type": "news",
-    "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
-    "summary": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-et-maintenant-une-invasion-de-meduses-le-parc-nucleaire-francais-a-rude-epreuve_258195",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Zelenskyy’s Balkan fumble",
-    "summary": "PRISTINA — Volodymyr Zelenskyy’s weekend trip to Serbia triggered reverberations in the Balkans long after the Ukrainian president jetted back to Kyiv. Zelenskyy visited Serbian President Aleksandar Vučić — who has refused to join the EU’s sanctions regime against Russia and maintains a cozy relationship with the Kremlin — for the first time on Saturday.",
+    "title": "Putin warns of tit-for-tat seizures of European vessels",
+    "summary": "If European states seize vessels with Russian cargo, Moscow will respond in kind 'wherever necessary', says Putin.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+    "date": "2026-08-12"
+  },
+  {
+    "type": "news",
+    "title": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting",
+    "summary": "Eurovision has changed its rules to block countries involved in armed conflict or any other “sensitive geopolitical situation” from hosting the annual song contest. The change comes as the last two years of the contest have been overshadowed by controversy surrounding Israel’s participation.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/volodymyr-zelenskyys-great-balkan-fumble-serbia/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eurovision-countries-war-sensitive-geopolitical-situations-host/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-12"
   },
   {
     "type": "news",
     "title": "États-Unis : que change la prolongation de l’Agoa pour les exportations africaines?",
-    "summary": "Le Sénat américain a voté, le vendredi 7 août, la prolongation jusqu’à fin décembre 2028 de l’Agoa, le dispositif qui permet à 32 pays africains d’exporter une partie de leurs produits vers les États-Unis sans droits de douane.",
+    "summary": "Le Sénat américain a voté, le vendredi 7 août 2026, la prolongation jusqu’à fin décembre 2028 de l’Agoa, le dispositif qui permet à 32 pays africains d’exporter une partie de leurs produits vers les États-Unis sans droits de douane.",
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20260812-%C3%A9tats-unis-que-change-la-prolongation-de-l-agoa-pour-les-exportations-africaines",
     "date": "2026-08-12"
@@ -265,27 +265,27 @@
   },
   {
     "type": "news",
-    "title": "Amazon backs power plant that may become top source of US climate pollution",
-    "summary": "Amazon’s artificial intelligence ambitions will soon be partly fueled by a natural gas-burning power plant in Texas that “could become the largest single source of climate pollution in the United States,” The New York Times reported. These gas-burning plants are increasingly lumped into data center projects.",
+    "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+    "summary": "Global warming is leading to more extremely hot weather. There is perhaps no more obvious consequence of climate change. But changing how we analyze this problem can still help scientists think about it in a different way that may yield surprises.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-    "date": "2026-08-10"
-  },
-  {
-    "type": "news",
-    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-    "summary": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ Comments URL: https://news.ycombinator.com/item?id=49263340 Points: 236 # Comments: 123",
-    "source": "Hacker News",
-    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
     "date": "2026-08-11"
   },
   {
     "type": "news",
-    "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-zQED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.",
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 412 # Comments: 63",
+    "source": "Hacker News",
+    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "date": "2026-08-12"
+  },
+  {
+    "type": "news",
+    "title": "No single rule explains how climate affects carbon storage in tropical forests",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02291-0Ecologists have long wondered why some tropical forests store more carbon than others. A global satellite survey offers an explanation.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02276-z",
-    "date": "2026-08-10"
+    "link": "https://www.nature.com/articles/d41586-026-02291-0",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
@@ -305,11 +305,11 @@
   },
   {
     "type": "news",
-    "title": "London Heathrow no longer Europe's busiest airport",
-    "summary": "Istanbul overtakes Heathrow whose passenger numbers on Middle East routes fell 20.2% year-on-year.",
+    "title": "Burnham warned Iran war could hit UK growth next year",
+    "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-11"
+    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
@@ -321,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "Wall Street vue en légère hausse, l'Europe sur de faibles variations avant l'inflation américaine",
-    "summary": "Wall Street vue en légère hausse, l'Europe sur de faibles variations avant l'inflation américaine boursorama.com",
+    "title": "La Fed devrait maintenir ses taux inchangés le mois prochain après des données d'inflation modérées",
+    "summary": "La Fed devrait maintenir ses taux inchangés le mois prochain après des données d'inflation modérées Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQV0dwX0dDNHJ2bVdaNzNoV1ozUG9hbFZFOHF4V0JPc2dUMTY1dFdwQkxsUHNUTDBEREJUZUNvOEs3di1jYUFPUVhFbGw2RnBPTkVGUkg2RlJpWEx2UXZibDNCYWZsU0JUQnRzb3dGWDM1eTZmdEEybXZVVThRV2pRRlBwSFpWRWNPM2k4RGxfQmhtRXlRenpwaXA0ODlHY3R0YzdMeGtSOUdWcl9NRXh2anJfZDRId0lkTG9RUElKbkY1WFVJU0hwTUhIei1yVVVweGpUaV9XRnVlVWY5NHRLQWJETldweEJ6N3Z5RWxQZzVVaHNqTW5HOFZSbFVZUHFsMU1RTNIBigJBVV95cUxONTI4VWh1YXFCVDVrV0VDc1U3NlE2dEZ2d0lsWENrV2ZVYUJMZ085Uzh2dFF2NzFyZjBwbU9ib1loenNzU3Z4NTA0STJIcDZidU91djhsdnphWW5OMXdDZmdCSk0zb0o4aXNHWlRhZlM4em8yT0ppVXFiY3dBNlB2TmtkQlRCcFloSHo5ZTBqLVFNWlF0TVBSU1hvd0JJeGRtNC1KSFNsaXh5R2h6WWs5YmZENTlleHBWMWlvMHRlOXhnRzNXZ2V2ZTY3SGl1OTlmZ3l2QU1GT1pjZUNFc243Y2s2bjZGU0pKd1ROVzJNTFdYYTJfby0wZDhIYzBtSXFpYnBwQVNhMkhTUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVFN2RGt3MEtBSTRiWHM5aDd4dGlxXzRQbGluXzRCb2ROSUhuTTh5eFd6RndfZ3lsNzBhU0V4Rkp4QWoxQmtRT19MQUMwWENueTE2NllPOXRtNDhldm9LN2dpZDlEUHFRQnViLTY0aU1iazVQQXk3LTg3a0dQVWR3Q0VlV3M5UF83N1ZfdUdMd3lxby1fODI0NXd0eS1TQ0tuSGY2ckxYOVBuUFQ2VGNHZWFiclFZUHBoX3BSelNzTG1qRVl0em9RZk00aHg5ZkUtMEJ2QWtrdmh3ZDZfN3VwenFrcU1jSlFRa0R6ZUdRYVU?oc=5",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Séisme en Colombie : au moins 216 morts ; l’UE débloque 2 millions d’euros d’aide",
-    "summary": "Les recherches de survivants se poursuivent avec acharnement dans l’ouest du pays, où le tremblement de terre d’une magnitude de 7,4 a provoqué d’importantes destructions, lundi matin.",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que « 26 villages des oblasts de Dnipropetrovsk, Donetsk et Zaporijia ont été ramenés sous le contrôle » de Kiev depuis janvier",
+    "summary": "Selon le président ukrainien, ces territoires représentent 745 kilomètres carrés, repris à la Russie entre janvier et août de cette année.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/12/seisme-en-colombie-au-moins-216-morts-l-ue-debloque-2-millions-d-euros-d-aide_6744909_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-26-villages-des-oblasts-de-dnipropetrovsk-donetsk-et-zaporijia-ont-ete-ramenes-sous-le-controle-de-kiev-depuis-janvier_6741928_3210.html",
     "date": "2026-08-12"
   },
   {
@@ -345,42 +345,42 @@
   },
   {
     "type": "news",
-    "title": "The Rise of the Token Economy",
-    "summary": "Millions of people continuously generate the raw material on which AI is trained, yet almost none shares in the wealth it creates. This underscores the need for data cooperatives representing internet users, creators, and other rights holders to negotiate access to the content being fed to large language models.",
+    "title": "Europe Failed the Ceuta Test",
+    "summary": "The current migration crisis is eating away at the solidarity on which the European Union depends, fueling the rise of the far right and pushing leaders to adopt increasingly hardline policies. But the Ceuta debacle shows why such measures cannot address the deeper forces driving migration.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-token-economy-requires-data-cooperatives-fair-remuneration-collective-governance-by-yaniv-benhamou-2026-08",
-    "date": "2026-08-11"
+    "link": "https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "La Turquie se fait une place en Afrique grâce aux infrastructures et à la coopération militaire",
-    "summary": "Si la Chine est depuis une quinzaine d’années le premier partenaire commercial du continent, la Turquie la concurrence désormais directement en alliant un secteur privé très actif dans le bâtiment à une offre sécuritaire qui fait aujourd’hui l’objet d’une forte demande.",
+    "title": "Les signes d’un retour de la Corée du Nord révoltent l’Ukraine",
+    "summary": "Pyongyang s’est distingué comme un allié de Moscou durant la guerre en Ukraine, jusqu’à envoyer des troupes aux côtés des Russes lors des opérations dans la région de Koursk, en 2024-2025. Après une éclipse momentanée, les forces de Kim Jong-un sont récemment revenues en force, constatent de nombreux commentateurs ukrainiens.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-la-turquie-se-fait-une-place-en-afrique-grace-aux-infrastructures-et-a-la-cooperation-militaire_257934",
-    "date": "2026-08-11"
+    "link": "https://www.courrierinternational.com/article/guerre-les-signes-d-un-retour-de-la-coree-du-nord-revoltent-l-ukraine_258214",
+    "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Why have several nations raised red flags over Indian farm exports?",
-    "summary": "As Japan turns back mangoes, China blocks rice, and European inspectors flag spices, India's growers ask what's wrong.",
+    "title": "Iran remains defiant as it vows to fight US until demands met",
+    "summary": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "Farage vs. Binface: Inside the Clacton by-election circus",
-    "summary": "CLACTON-ON-SEA — Voters seeking to re-elect Nigel Farage Thursday will have to scan past an array of comedy characters and oddballs on the longest ballot paper in British history. The man who hopes to be the U.K.’s next prime minister is all but certain to retain his seaside fiefdom of Clacton — but his self-styled “people versus the establishment” electoral…",
+    "title": "Meta AI glasses face criminal complaint in Germany",
+    "summary": "A Berlin-based non-profit has filed a criminal complaint against Meta’s smart glasses, arguing the devices breach Germany’s strict privacy rules and should be banned. Privacy concerns over the device have snowballed in recent months amid reports of people being filmed without their consent, or recording intimate footage without knowing it could be reviewed b…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/nigel-farage-vs-count-binface-inside-the-clacton-by-election-circus/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/meta-ai-glasses-face-criminal-complaint-in-germany/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-12"
   },
   {
     "type": "news",
-    "title": "«Il faut arrêter» le développement de l'IA, qui met «en danger toute notre infrastructure monétaire et informatique»",
-    "summary": "Des virus bactériens créés par intelligence artificielle, des chercheurs de Google qui découvrent un mécanisme permettant de donner une conscience aux IA, voire des intelligences artificielles qui outrepassent les tests et parviennent à pirater la plateforme Hugging Face : pas un jour ou presque ne passe en ce moment sans de nouvelles révélations sur le déve…",
+    "title": "Russie: Vladimir Poutine menace d'intercepter des navires des pays qui arraisonnent sa «flotte fantôme»",
+    "summary": "Le président russe Vladimir Poutine a menacé, mercredi 12 août 2026, de saisir des navires occidentaux en représailles à l'arraisonnement de bateaux soupçonnés d'appartenir à la flotte fantôme russe par des pays européens.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260810-il-faut-arr%C3%AAter-le-d%C3%A9veloppement-de-l-ia-qui-met-en-danger-toute-notre-infrastructure-mon%C3%A9taire-et-informatique",
-    "date": "2026-08-10"
+    "link": "https://www.rfi.fr/fr/monde/20260812-russie-vladimir-poutine-menace-d-intercepter-des-navires-des-pays-qui-arraisonnent-sa-flotte-fant%C3%B4me",
+    "date": "2026-08-12"
   }
 ]
