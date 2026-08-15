@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : une entreprise du groupe Roscosmos a été touchée par des missiles ukrainiens dans l’oblast de Samara, en Russie, affirme Volodymyr Zelensky",
-    "summary": "Le président ukrainien a revendiqué, samedi, une attaque avec des missiles Flamingo contre un centre de l’agence spatiale russe, « qui était notamment impliqué dans la production d’électronique », à 800 kilomètres de la frontière russo-ukrainienne.",
+    "title": "EN DIRECT, guerre en Ukraine : un éventuel transfert de munitions d’Ankara à Kiev compromettrait « gravement » les relations entre la Russie et la Turquie, juge Moscou",
+    "summary": "L’ONG Human Rights Watch avait rapporté, mardi, que la Turquie avait demandé l’autorisation des Etats-Unis pour transférer des armes vers l’Ukraine. Maria Zakharova, porte-parole du ministère de la défense russe, a accusé Ankara de « tenter d’utiliser une rhétorique de maintien de la paix tout en fournissant simultanément des armes » à l’Ukraine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-la-russie-a-attaque-l-ukraine-avec-plus-de-150-drones-pendant-la-nuit-et-revendique-la-destruction-de-598-drones-lances-par-kiev_6741928_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-un-eventuel-transfert-de-munitions-d-ankara-a-kiev-compromettrait-gravement-les-relations-entre-la-russie-et-la-turquie-juge-moscou_6741928_3210.html",
     "date": "2026-08-15"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "À Rio, une organisation ésotérique appelée à la rescousse contre le mauvais temps",
-    "summary": "Après une violente tempête, à la fin du mois de juillet, la mairie de Rio de Janeiro a signé un accord de vingt-cinq ans avec la Fondation Cobra Coral, qui affirme pouvoir agir sur les phénomènes climatiques et revendique un large éventail d’interventions, du réveillon de Copacabana aux cérémonies de la famille royale britannique.",
+    "title": "Comment les Américains casaniers sont devenus d’insatiables voyageurs",
+    "summary": "L’essor du voyage hors des frontières des États-Unis est frappant, selon “The Wall Street Journal”, tout particulièrement en Europe, depuis dix ans. Le phénomène crée parfois des tensions.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/croyances-a-rio-une-organisation-esoterique-appelee-a-la-rescousse-contre-le-mauvais-temps_258955",
+    "link": "https://www.courrierinternational.com/article/economie-comment-les-americains-casaniers-sont-devenus-d-insatiables-voyageurs_258205",
     "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "Taiwan passes defence budget after record delay, retains drone funding",
-    "summary": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+    "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+    "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
     "date": "2026-08-15"
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "summary": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals.",
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Saturday that his country struck the Progress Rocket Space Center deep within Russia using ground-launched cruise missiles. \"In Russia’s Samara region, one of the key enterprises within Roscosmos—the Progress Center, which was involved, among other things, in electronics production–was hit,\" Zelenskyy said…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "date": "2026-08-14"
+    "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "summary": "Article URL: https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49294997 Points: 1095 # Comments: 541",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "summary": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 242 # Comments: 69",
     "source": "Hacker News",
-    "link": "https://z.ai/blog/glm-5.3",
-    "date": "2026-08-14"
+    "link": "https://sankalp.bearblog.dev/autoresearch/",
+    "date": "2026-08-15"
   },
   {
     "type": "news",
@@ -209,26 +209,26 @@
   },
   {
     "type": "news",
-    "title": "Pourquoi les Allemands les plus aisés s’expatrient",
-    "summary": "De plus en plus d’Allemands diplômés et aisés quittent leur pays pour la Suisse, les États-Unis ou le Royaume-Uni. Une tendance documentée par la “Frankfurter Allgemeine Zeitung” et “Die Welt”.",
+    "title": "En France, il faut à tout prix sauver les piscines municipales en zones rurales",
+    "summary": "Le quotidien britannique “The Guardian” s’est rendu dans deux villages du Maine-et-Loire où les habitants se mobilisent pour sauver leurs piscines municipales. Le budget des communes ne permet plus d’assurer les dépenses d’entretien de ces infrastructures vieillissantes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/tendance-pourquoi-les-allemands-les-plus-aises-s-expatrient_255754",
+    "link": "https://www.courrierinternational.com/article/vu-du-royaume-uni-en-france-il-faut-a-tout-prix-sauver-les-piscines-municipales-en-zones-rurales_259779",
     "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "India marks 80th Independence Day with military display",
-    "summary": "India marked its 80th Independence Day at Delhi’s historic Red Fort.",
+    "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+    "summary": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
     "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm",
-    "summary": "The Trump administration has granted preliminary approval for a cryptocurrency venture backed by President Donald Trump’s family to operate a federally chartered trust bank, over the protests of Democrats who decried the decision as riddled with conflicts of interest.",
+    "title": "Hungary uses sunken barges to raise Danube River to keep nuclear plant going",
+    "summary": "Hungary is sinking two barges to ensure a key nuclear power plant stays online, Prime Minister Péter Magyar said Saturday. Europe’s summer of extreme heat has caused the Danube’s water level to hit record lows, affecting power production at the Paks nuclear plant.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/08/14/trump-world-liberty-bank-charter-crypto-01038464?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/hungary-barge-danube-river-nuclear-power-plant-paks/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-15"
   },
   {
@@ -265,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-    "summary": "After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current, a trade newspaper covering public broadcasting, St.",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "summary": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
     "date": "2026-08-14"
   },
   {
     "type": "news",
-    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-    "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 198 # Comments: 48",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 459 # Comments: 269",
     "source": "Hacker News",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-    "date": "2026-08-15"
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "date": "2026-08-14"
   },
   {
     "type": "news",
@@ -353,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "L’interdiction des réseaux sociaux aux moins de 15 ans censurée, “coup dur pour Macron”",
-    "summary": "Le Conseil constitutionnel a retoqué, vendredi 14 août, un texte qui aurait bloqué l’accès à ces plateformes aux moins de 15 ans, estimant qu’il était trop général et portait atteinte de manière disproportionnée à la liberté d’expression.",
+    "title": "À Rio, une organisation ésotérique appelée à la rescousse contre le mauvais temps",
+    "summary": "Après une violente tempête, à la fin du mois de juillet, la mairie de Rio de Janeiro a signé un accord de vingt-cinq ans avec la Fondation Cobra Coral, qui affirme pouvoir agir sur les phénomènes climatiques et revendique un large éventail d’interventions, du réveillon de Copacabana aux cérémonies de la famille royale britannique.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-censuree-un-coup-dur-pour-emmanuel-macron_259647",
+    "link": "https://www.courrierinternational.com/article/croyances-a-rio-une-organisation-esoterique-appelee-a-la-rescousse-contre-le-mauvais-temps_258955",
     "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
-    "summary": "World Athletics' president says political influence in sport must be kept in check with LA Olympics on horizon.",
+    "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
+    "summary": "With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
     "date": "2026-08-15"
   },
   {
     "type": "news",
-    "title": "French court blocks social media ban for under 15s",
-    "summary": "A court in France on Friday shot down a bill seeking to ban access to social media for under-15s from September — a major blow to President Emmanuel Macron that raises fundamental questions about efforts to protect kids on the internet.",
+    "title": "Trump-appointed regulator OKs banking license for Trump-linked crypto firm",
+    "summary": "The Trump administration has granted preliminary approval for a cryptocurrency venture backed by President Donald Trump’s family to operate a federally chartered trust bank, over the protests of Democrats who decried the decision as riddled with conflicts of interest.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/french-constitutional-court-shoots-down-social-media-ban-for-minors/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-14"
+    "link": "https://www.politico.com/news/2026/08/14/trump-world-liberty-bank-charter-crypto-01038464?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-15"
   },
   {
     "type": "news",
