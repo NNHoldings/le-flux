@@ -33,10 +33,18 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit",
-    "summary": "Le ministère de la défense russe a affirmé que 822 drones ukrainiens avaient été détruits dans la nuit de samedi à dimanche, dont 201 qui se dirigeaient vers la capitale russe, selon son maire. A Kryvy Rih, dans le centre de l’Ukraine, deux personne ont été tuées et 13 autres blessées dans une frappe russe contre le complexe métallurgique ArcelorMittal.",
+    "title": "Le dollar américain chute, les perspectives sont incertaines ; le yen japonais exhorte la banque centrale à relever ses taux d'intérêt.",
+    "summary": "Le dollar américain chute, les perspectives sont incertaines ; le yen japonais exhorte la banque centrale à relever ses taux d'intérêt. Vietnam.vn",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2xFdTJxbUI3RW5GbFJ5S1NNbE9CVkk3QXd6TFB2RTlLR050bGc5WXVQTUo1TmFyR3VRTUpIU2ZfZXBmRXBLMjlPX3ZMZUdPZzNZZW56ZklEYVhIMlQwRmRJSm04UmRFa25NTFB3dXNfdkxmUVdTYkVIWW1WdlVTZUUyMnZJUUdFYkZEd0lfVmFOU3N4cmptVDlJQjAxSGFE?oc=5",
+    "date": "2026-08-16"
+  },
+  {
+    "type": "news",
+    "title": "Un premier porte-conteneurs chinois, le « Dubai Tower », a pris la route de l’Europe via l’Arctique",
+    "summary": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique_6747232_3210.html",
     "date": "2026-08-16"
   },
   {
@@ -57,27 +65,27 @@
   },
   {
     "type": "news",
-    "title": "Comment les Américains casaniers sont devenus d’insatiables voyageurs",
-    "summary": "L’essor du voyage hors des frontières des États-Unis est frappant, selon “The Wall Street Journal”, tout particulièrement en Europe, depuis dix ans. Le phénomène crée parfois des tensions.",
+    "title": "Frappes au Liban, guerre en Ukraine, pilotes iraniens au Qatar : les informations de la nuit",
+    "summary": "",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-comment-les-americains-casaniers-sont-devenus-d-insatiables-voyageurs_258205",
-    "date": "2026-08-15"
-  },
-  {
-    "type": "news",
-    "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-frappes-au-liban-guerre-en-ukraine-pilotes-iraniens-au-qatar-les-informations-de-la-nuit_259812",
     "date": "2026-08-16"
   },
   {
     "type": "news",
-    "title": "NATO jets shoot down drone over Latvia",
-    "summary": "Jets from NATO’s Baltic Air Policing mission shot down a drone that entered Latvian airspace overnight, the country’s armed forces reported on X. The drone was downed near the village of Rugāji in northeastern Latvia, close to the Russian border, after Italian Eurofighters based in Lithuania and Turkish F-16s based in Estonia were scrambled.",
+    "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+    "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+    "date": "2026-08-16"
+  },
+  {
+    "type": "news",
+    "title": "Belgium faces largest wildfire on record, turns to Europe for air support",
+    "summary": "Belgium authorities were awaiting crucial air support Sunday to help battle the largest wildfire in the country’s modern history, which has been ablaze since Friday. More than 250 firefighters and emergency personnel worked through the night in the High Fens nature reserve near the German border to stop the spread of the wildfire, which has scorched 3,000 he…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/nato-jets-shoot-down-drone-over-latvia/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-14"
+    "link": "https://www.politico.eu/article/belgium-wildfire-europe-air-support/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-16"
   },
   {
     "type": "news",
@@ -89,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "Easyjet : la grève des hôtesses et stewards entraîne l’annulation d’une centaine de vols au départ de la France",
-    "summary": "Plus de deux tiers des quelque 340 membres du personnel navigant commercial prévus ce week-end se sont portés grévistes, avec la stabilité des plannings comme principale revendication.",
+    "title": "« Après l’Etat-providence, construisons une société de la prévoyance, capable de prévenir les chocs notamment le réchauffement climatique »",
+    "summary": "Florian Guyot, spécialiste de la précarité, estime, dans une tribune au « Monde », que, pour faire face à l’accroissement de la pauvreté et aux crises successives, la France doit dépasser la simple réparation en privilégiant la prévention, l’habitabilité des territoires et l’investissement à long terme.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/15/easyjet-la-greve-des-hotesses-et-stewards-entraine-l-annulation-d-une-centaine-de-vols-au-depart-de-la-france_6746613_3234.html",
-    "date": "2026-08-15"
+    "link": "https://www.lemonde.fr/idees/article/2026/08/16/apres-l-etat-providence-construisons-une-societe-de-la-prevoyance-capable-de-prevenir-les-chocs-notamment-le-rechauffement-climatique_6747435_3232.html",
+    "date": "2026-08-16"
   },
   {
     "type": "news",
@@ -122,7 +130,7 @@
   {
     "type": "news",
     "title": "Software Engineering fundamentals matter more",
-    "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 160 # Comments: 98",
+    "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 266 # Comments: 171",
     "source": "Hacker News",
     "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
     "date": "2026-08-15"
@@ -161,19 +169,27 @@
   },
   {
     "type": "news",
-    "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-    "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+    "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+    "summary": "Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+    "link": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+    "date": "2026-08-15"
+  },
+  {
+    "type": "news",
+    "title": "La Banque centrale du Brésil va injecter 1 milliard de dollars via des adjudications de rachat",
+    "summary": "La Banque centrale du Brésil va injecter 1 milliard de dollars via des adjudications de rachat Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSGswc1NjYnFZbW5EUVdlMlQ3b3ZqUmVxbjZGeFpzSlIwMU5SUzNtak1uX0xxelh2R3d2eUNVWndUcjcwSjV1T3dvVlR1U3lrbTg3SXA5allOaTZ0ZF9jTEppUDlyS193VVpBLTk0RjhGSEZIN1ZONmJzSktXcVlCc0dJSnRjT2otTFJNR3ZFUGpMWHMtenZ1bkVJVklPRDV5Yk1TZWsyZWZqWThMdzI0MFJHRGlBRjk1NHZoOV9aNTJrMEFkZUJDVUVxNkFHMVZWYkZnc2dTREo2dVlLbUtGdUNjdThZVnJGUlE?oc=5",
     "date": "2026-08-14"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : la Russie affirme avoir intercepté et détruit 180 drones ukrainiens dans la journée de samedi. Retrouvez nos informations du 9 au 15 août.",
-    "summary": "Les appareils ont été interceptés entre 8 heures et 20 heures au-dessus des territoires de Belgorod, Briansk, Kalouga, Koursk, Leningrad, Novgorod, Oriol, Rostov, Riazan, Toula, de la République de Crimée et des eaux de la mer Noire, selon le ministère de la défense russe.",
+    "title": "EN DIRECT, guerre en Ukraine : sept des dix principaux centres logistiques du géant de l’e-commerce russe Wildberries mis hors de service, selon Kiev",
+    "summary": "Le groupe russe est la cible récurrente d’attaques ukrainiennes depuis la mi-juillet. Dans l’oblast de Rostov, une usine a également été la cible d’une frappe ukrainienne, a annoncé l’état-major ukrainien, qui a précisé que le site produisait du propergol solide destiné à des systèmes de lance-roquettes ainsi qu’à plusieurs systèmes de missiles.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-et-detruit-180-drones-ukrainiens-dans-la-journee_6741928_3210.html",
-    "date": "2026-08-15"
+    "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-sept-des-dix-principaux-centre-logistiques-du-geant-de-l-e-commerce-russe-wildberries-mis-hors-de-service-selon-kiev_6746952_3210.html",
+    "date": "2026-08-16"
   },
   {
     "type": "news",
@@ -193,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "Frappes au Liban, guerre en Ukraine, pilotes iraniens au Qatar : les informations de la nuit",
-    "summary": "",
+    "title": "L’Ukraine lance une attaque de drones massive sur Moscou",
+    "summary": "Cette attaque meurtrière, la plus grande depuis deux ans sur la capitale russe selon son maire, amplifie la série de frappes ukrainiennes sur le territoire russe des dernières semaines. Dans le même temps, des attaques russes ont aussi coûté la vie à plusieurs personnes en Ukraine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-frappes-au-liban-guerre-en-ukraine-pilotes-iraniens-au-qatar-les-informations-de-la-nuit_259812",
+    "link": "https://www.courrierinternational.com/article/l-ukraine-lance-une-attaque-de-drones-massive-sur-moscou_259977",
     "date": "2026-08-16"
   },
   {
     "type": "news",
-    "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
-    "summary": "‘We were praying for her to faint’.",
+    "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+    "summary": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
     "date": "2026-08-16"
   },
   {
@@ -225,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Xenia Fedorova : le tribunal administratif de Paris rejette le recours en référé-suspension contre l’expulsion de la propagandiste russe",
-    "summary": "Les juges des référés saisis, sans se prononcer sur la légalité de l’arrêté d’expulsion, ont estimé que « la condition d’urgence du référé-suspension n’était pas remplie ».",
+    "title": "Easyjet : la grève des hôtesses et stewards entraîne l’annulation d’une centaine de vols au départ de la France",
+    "summary": "Plus de deux tiers des quelque 340 membres du personnel navigant commercial prévus ce week-end se sont portés grévistes, avec la stabilité des plannings comme principale revendication.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/societe/article/2026/08/14/xenia-fedorova-le-tribunal-administratif-de-paris-rejette-le-recours-en-refere-suspension-contre-l-expulsion-de-la-propagandiste-russe_6746262_3224.html",
-    "date": "2026-08-14"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/15/easyjet-la-greve-des-hotesses-et-stewards-entraine-l-annulation-d-une-centaine-de-vols-au-depart-de-la-france_6746613_3234.html",
+    "date": "2026-08-15"
   },
   {
     "type": "news",
@@ -257,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-    "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 256 # Comments: 155",
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "summary": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 217 # Comments: 85",
     "source": "Hacker News",
-    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "date": "2026-08-15"
+    "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "date": "2026-08-16"
   },
   {
     "type": "news",
@@ -297,18 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
-    "summary": "Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.",
+    "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+    "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
-    "date": "2026-08-15"
+    "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+    "date": "2026-08-13"
   },
   {
     "type": "news",
-    "title": "Un premier porte-conteneurs chinois, le « Dubai Tower », a pris la route de l’Europe via l’Arctique",
-    "summary": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
+    "title": "Paris Air Forum 2026 : Les nouvelles trajectoires de l'économie de défense, en partenariat avec l'Institut Choiseul",
+    "summary": "Paris Air Forum 2026 : Les nouvelles trajectoires de l'économie de défense, en partenariat avec l'Institut Choiseul Air&Cosmos",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVTdkMWwyTGlIY3ZmNEdhb3NfTTBtVzJOR0VCLXNwMmZPM1dKY1pVMnFnRkJDOHhQLUluazRydVVJekxaaWpKZzRsV1cteC1rTlZWQUo5SGVMaHMwNHdBemhJYnBseHB5NzVDYjI3ZFh0UTBreVh6bDZUQ2ZxaDB2bW9id3hTVW5ZSDZFRFR4V196OHBSZS04MUFnWnZzQTRBaWdhUFZ6cEllWkwxeHNtOE1sbmZHWDRwU05LUm15bU15MnF5eFFRd0dtVGJmMWlxcWlkeVNXTzc1RERGcUhmNzNnXzltUERObkw5V0JJYVdCQ0JFN3J6b2lfa3d3UEZQcFFiSm9Cbw?oc=5",
+    "date": "2026-08-16"
+  },
+  {
+    "type": "news",
+    "title": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
+    "summary": "L’histoire des vies parallèles d’un magnat de l’immobilier narcissique est devenue l’une des dix séries non anglophones les plus regardées sur la plateforme américaine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique_6747232_3210.html",
+    "link": "https://www.lemonde.fr/culture/article/2026/08/16/the-polygamist-sur-netflix-la-serie-sud-africaine-a-succes-qui-torpille-le-patriarcat_6747645_3246.html",
     "date": "2026-08-16"
   },
   {
@@ -329,18 +353,18 @@
   },
   {
     "type": "news",
-    "title": "Petit tour du monde des stratégies de lutte contre le feu",
-    "summary": "Sous l’effet du dérèglement climatique, les incendies se multiplient et s’intensifient. De l’Australie à la Californie, en passant par la Chine ou l’Union européenne, on mêle avancées technologiques et expérience de terrain pour prévenir et lutter contre le feu.",
+    "title": "Et si on assurait le corail ?",
+    "summary": "Initialement utilisée pour assurer les biens immobiliers, l’assurance paramétrique est un outil de niche innovant qui sert désormais à couvrir les récifs coralliens contre les risques climatiques. Une solution à la fois efficace et déroutante que nous fait découvrir le magazine américain “Anthropocene”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/incendies-petit-tour-du-monde-des-strategies-de-lutte-contre-le-feu_256864",
+    "link": "https://www.courrierinternational.com/article/risques-climatiques-et-si-on-assurait-le-corail_246188",
     "date": "2026-08-16"
   },
   {
     "type": "news",
-    "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-    "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.",
+    "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+    "summary": "‘We were praying for her to faint’.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
     "date": "2026-08-16"
   },
   {
@@ -358,29 +382,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20260812-%C3%A9tats-unis-que-change-la-prolongation-de-l-agoa-pour-les-exportations-africaines",
     "date": "2026-08-12"
-  },
-  {
-    "type": "news",
-    "title": "En Chine, derrière la vogue du robot humanoïde, l’enjeu de la robotique industrielle",
-    "summary": "Le pays compte plus de 140 constructeurs de robots humanoïdes et entend en devenir le premier producteur et utilisateur mondial d’ici à 2030. Plus discrètement, il construit sa domination dans le secteur des bras robotisés pour l’industrie.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/14/en-chine-derriere-la-vogue-du-robot-humanoide-l-enjeu-de-la-robotique-industrielle_6746215_3234.html",
-    "date": "2026-08-14"
-  },
-  {
-    "type": "news",
-    "title": "How kids feel about AI, in their own words",
-    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "date": "2026-08-13"
-  },
-  {
-    "type": "news",
-    "title": "Robots Are Coming — but Not Everywhere",
-    "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests the opposite.",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
-    "date": "2026-07-23"
   }
 ]
