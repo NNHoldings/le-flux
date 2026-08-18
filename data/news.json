@@ -17,19 +17,19 @@
   },
   {
     "type": "news",
-    "title": "The £5 coffee that tells a story of global economic turmoil",
-    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+    "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+    "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28"
+    "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+    "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn",
+    "summary": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-    "date": "2026-08-17"
+    "link": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
-    "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au procès, prévu en mars 2027.",
+    "title": "En Russie, la Cour suprême empêche le seul parti antiguerre du pays à se présenter aux prochaines élections",
+    "summary": "Le parti Iabloko a été interdit par la Cour suprême russe de participer aux prochaines élections législatives, qui se tiendront en septembre. Il s’agit du dernier parti libéral en activité en Russie.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
-    "date": "2026-08-17"
+    "link": "https://www.lemonde.fr/international/video/2026/08/18/en-russie-la-cour-supreme-empeche-le-seul-parti-antiguerre-du-pays-a-se-presenter-aux-prochaines-elections_6748939_3210.html",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -57,34 +57,34 @@
   },
   {
     "type": "news",
-    "title": "What Should Be Done About Asia’s Undervalued Currencies?",
-    "summary": "Those who worry that the renminbi, yen, and won are undervalued vis-à-vis the dollar are usually focused on the large trade and current-account surpluses that China, Japan, and Korea run with the US. But coordinated intervention in currency markets will not address the fundamentals underlying these imbalances.",
+    "title": "Putin Has Run Out of Moves",
+    "summary": "Even with the Russian economy suffering from low growth, high inflation, and relentless Ukrainian long-range drone strikes on energy infrastructure, President Vladimir Putin has thrown fiscal caution to the wind and allowed the government’s budget deficit to balloon to 2.8% of GDP. It isn’t likely to end well.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08",
-    "date": "2026-08-14"
+    "link": "https://www.project-syndicate.org/commentary/russian-economy-facing-stagflation-fiscal-and-financial-instability-by-anders-aslund-2026-08",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Les entreprises turques fuient la Russie : “Ce marché n’a pas tenu ses promesses”",
-    "summary": "De nombreuses entreprises turques voyaient le départ de leurs concurrentes européennes comme une occasion en or de dominer le marché russe. Mais elles mettent désormais la clé sous la porte, la faute à une demande intérieure en berne et à des coûts qui ne cessent de grimper.",
+    "title": "Nvidia et OpenAI d’accord pour construire le plus grand centre de données du monde",
+    "summary": "Le fabricant de puces américain Nvidia s’engage à garantir pour 105 milliards de dollars le financement du plus grand centre de données du monde, actuellement en construction dans l’Ohio. Nvidia sera l’équipementier exclusif de ce data center, qu’OpenAI, le créateur de ChatGPT, s’engage de son côté à louer pour les vingt années à venir.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-les-entreprises-turques-fuient-la-russie-ce-marche-n-a-pas-tenu-ses-promesses_260745",
+    "link": "https://www.courrierinternational.com/article/le-chiffre-du-jour-nvidia-et-openai-d-accord-pour-construire-le-plus-grand-centre-de-donnees-du-monde_260802",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-    "summary": "Andrey Klepach, top economist at Russia's state development bank VEB, had warned Russia was lagging behind rivals.",
+    "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+    "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Der Preis von Europas China-Abhängigkeit – mit Janka Oertel",
-    "summary": "Listen on Spotify Apple Music Amazon Music Chinas Exporte treffen die deutsche Kernindustrie in nie da gewesener Härte und Geschwindigkeit. Weil massiv Arbeitsplätze wackeln, sucht Europa händeringend nach einer politischen Notbremse. Rixa Fürsen spricht mit Janka Oertel über die existenzielle Bedrohung für den Autobau und Maschinenbau.",
+    "title": "Trump’s Syria envoy calls Israeli air strikes on base ‘unnecessary escalation’",
+    "summary": "The top U.S. envoy to Syria on Tuesday accused Israel of striking an airbase in the country, less than a day after White House envoy Jared Kushner met with Israeli Prime Minister Benjamin Netanyahu for high-profile talks on disarmament in Gaza.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-preis-von-europas-china-abhangigkeit-mit-janka-oertel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/08/18/tom-barrack-israel-syria-strike-01040051?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-18"
   },
   {
@@ -97,16 +97,16 @@
   },
   {
     "type": "news",
-    "title": "Un premier porte-conteneurs chinois, le « Dubai Tower », a pris la route de l’Europe via l’Arctique",
-    "summary": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
+    "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
+    "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au procès, prévu en mars 2027.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique_6747232_3210.html",
-    "date": "2026-08-16"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
+    "date": "2026-08-17"
   },
   {
     "type": "news",
     "title": "We still don’t know how people are really using AI",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab.",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab.",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
     "date": "2026-08-18"
@@ -129,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "India has paved the way for charging merchants a fee on UPI transactions",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 159 # Comments: 193",
+    "title": "Fairphone is now officially available in the United States",
+    "summary": "Article URL: https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more Comments URL: https://news.ycombinator.com/item?id=49344811 Points: 237 # Comments: 119",
     "source": "Hacker News",
-    "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-    "date": "2026-08-17"
+    "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -161,34 +161,34 @@
   },
   {
     "type": "news",
-    "title": "Virgin takes step towards running Channel Tunnel rail services",
-    "summary": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+    "title": "The £5 coffee that tells a story of global economic turmoil",
+    "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-08-17"
+    "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-28"
   },
   {
     "type": "news",
-    "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-    "summary": "Andrei Klepach was reportedly fired from his role after presenting a report warning that Russia could not win a prolonged war of attrition with Ukraine.",
+    "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
+    "summary": "The biggest single options trade in the entire market Monday was a $129 million bet against the VanEck Semiconductor ETF.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+    "link": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "INDE ROUPIE-La roupie termine en légère baisse, protégée par la banque centrale face au pétrole et aux rendements",
-    "summary": "INDE ROUPIE-La roupie termine en légère baisse, protégée par la banque centrale face au pétrole et aux rendements Zonebourse Suisse",
+    "title": "Les marchés obligataires, des États-Unis au Japon, s'effondrent sous l'effet de l'inflation et des inquiétudes budgétaires",
+    "summary": "Les marchés obligataires, des États-Unis au Japon, s'effondrent sous l'effet de l'inflation et des inquiétudes budgétaires Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUTFwd2Q4RlFCTGZjN2steUJBVVJVZUV6RnVKc1Q2bUtYQ0VQZjJUU2Uya1FWUWJmTURJMzQ0VXVha0tEQXlZa0ducGdvemNHRGZVSmQ4cHdnM01XVEFMWDlYazJGTndIYkZPbVpxd09fVEJ0dkFLLVlwNGl1RFh5NEQzcXNoZm1PY1dpUkU4VHdnOFQ4WDRPbzZ3YTdqNndnVTRBQnV6UDJKeTllWDMwTV9YS1VuRHZJaVlPSFhKcl82M3JPT2x1NVBQQnBwcjdpTGxheTlrM1NKSTNUaXNTa1Q3endxUFE5emZTOGpTWUk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdzdySnR6bnUtQ0xsUEdOR2VIV0NOZkU0LVFQYnh2TUh2M0JFZ1RObEkydGpRYV93WGxsVkFqNXFfc09ueTZ3Y3pBUjFXbHJ1bW9BWHFjNk94SjR5WGNWTmE4eWFtYjhJTmF4aE5qWUxSUnlQV1kyeUxYMmNlVE9wcHJGTl94U2xybDZSSHZ5dGhSSnBPMEs3OEh0UXN4Q0pFM29zR2JQREE2UUU4RjF3SmJpbWE2MG5TTzRCZ2F6cmw1cF82YzVURmtJSlhHbk9RbGt6WGlOREdMWFpaelh6dHFSUEY5MUNwWm03QU9fRQ?oc=5",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "En Russie, la Cour suprême empêche le seul parti antiguerre du pays à se présenter aux prochaines élections",
-    "summary": "Le parti Iabloko a été interdit par la Cour suprême russe de participer aux prochaines élections législatives, qui se tiendront en septembre. Il s’agit du dernier parti libéral en activité en Russie.",
+    "title": "EN DIRECT, guerre en Ukraine : Andy Burnham, nouveau premier ministre britannique, réaffirme son soutien à Kiev après les menaces de la Russie",
+    "summary": "Andy Burnham, chef du gouvernement britannique, a insisté sur le fait que le Royaume-Uni, qui a promis de fournir 150 000 drones à l’Ukraine d’ici à la fin de l’année, ne faisait que « ce qu’il a toujours dit qu’il ferait ». Moscou a mis en garde Londres contre des « conséquences » liées à cette fourniture.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/video/2026/08/18/en-russie-la-cour-supreme-empeche-le-seul-parti-antiguerre-du-pays-a-se-presenter-aux-prochaines-elections_6748939_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-reaffirme-son-soutien-a-kiev-apres-les-menaces-de-la-russie_6746952_3210.html",
     "date": "2026-08-18"
   },
   {
@@ -201,35 +201,35 @@
   },
   {
     "type": "news",
-    "title": "The Making and Remaking of Chinese Totalitarianism",
-    "summary": "For decades, the West assumed that economic growth would turn China into a more open, liberal society, much as it did South Korea and Taiwan. Instead, China’s totalitarian institutions proved remarkably resilient, surviving decades of reform and reasserting themselves under President Xi Jinping.",
+    "title": "What Should Be Done About Asia’s Undervalued Currencies?",
+    "summary": "Those who worry that the renminbi, yen, and won are undervalued vis-à-vis the dollar are usually focused on the large trade and current-account surpluses that China, Japan, and Korea run with the US. But coordinated intervention in currency markets will not address the fundamentals underlying these imbalances.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/institutional-genes-explain-how-china-totalitarian-institutions-survived-reform-era-by-chenggang-xu-2026-08",
+    "link": "https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08",
     "date": "2026-08-14"
   },
   {
     "type": "news",
-    "title": "Des bouseuses contre l’IA, la guerre contre Flock et les nuits d’entretien d’embauche",
-    "summary": "L’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
+    "title": "“Nous devrions avoir honte” : enquête au Canada sur une stagiaire accusée d’avoir espionné l’Otan",
+    "summary": "Biwei Zhang, une ingénieure systèmes canadienne, a été arrêtée le 23 juillet au sein du Grand Quartier général des puissances alliées en Europe de l’Otan, en Belgique, où les autorités l’accusent d’espionnage au profit de la Chine. Embarrassé, le Canada a lancé une enquête sur les conditions de son embauche.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/la-lettre-tech-des-bouseuses-contre-l-ia-la-guerre-contre-flock-et-les-nuits-d-entretien-d-embauche_260284",
+    "link": "https://www.courrierinternational.com/article/defense-nous-devrions-avoir-honte-enquete-au-canada-sur-une-stagiaire-accusee-d-avoir-espionne-l-otan_260835",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
-    "summary": "Families mourn their loved ones as Ukrainian experts lament Washington's elusive promises of military support.",
+    "title": "US cites India on voter IDs, but are elections under Modi clean?",
+    "summary": "Trump highlights India's voter ID rules to bolster his case for stricter US election laws.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "‘Irish convicts were the original boat people’",
-    "summary": "As Minister for Defense Industry and Minister for Pacific Island Affairs, Pat Conroy is at the center of debates over AUKUS, China’s designs on the Pacific, and Australia’s efforts to mend relations with its neighbors.",
+    "title": "German lawmakers call for EU sanctions on Israel’s Ben-Gvir over Gaza killing remarks",
+    "summary": "BERLIN —Senior conservative and social-democrat lawmakers in Germany’s governing coalition are urging the EU to sanction Israel’s Minister of National Security Itamar Ben-Gvir after he called for nightly targeted killings in Gaza.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/08/17/pat-conroy-irish-convicts-original-boat-people-aukus-pacific-01038978?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-17"
+    "link": "https://www.politico.eu/article/german-lawmakers-call-for-eu-sanctions-on-israels-ben-gvir-over-gaza-killing-remarks/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "« Après l’Etat-providence, construisons une société de la prévoyance, capable de prévenir les chocs notamment le réchauffement climatique »",
-    "summary": "Florian Guyot, spécialiste de la précarité, estime, dans une tribune au « Monde », que, pour faire face à l’accroissement de la pauvreté et aux crises successives, la France doit dépasser la simple réparation en privilégiant la prévention, l’habitabilité des territoires et l’investissement à long terme.",
+    "title": "Les PME françaises mal adaptées au réchauffement climatique, qu’elles ne considèrent pas encore comme une priorité stratégique",
+    "summary": "Pour les dirigeants, la question de l’adaptation passe au second plan derrière des sujets comme la hausse des prix de l’énergie ou des matières premières, les difficultés de recrutement ou la cybersécurité.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/08/16/apres-l-etat-providence-construisons-une-societe-de-la-prevoyance-capable-de-prevenir-les-chocs-notamment-le-rechauffement-climatique_6747435_3232.html",
-    "date": "2026-08-16"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/18/les-pme-francaises-mal-adaptees-au-rechauffement-climatique-qu-elles-ne-considerent-pas-encore-comme-une-priorite-strategique_6749079_3234.html",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -273,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "Fairphone 6 and PostmarketOS working main camera",
-    "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera Comments URL: https://news.ycombinator.com/item?id=49338285 Points: 212 # Comments: 48",
+    "title": "Google has acquired the data of failed US airline Spirit",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 459 # Comments: 325",
     "source": "Hacker News",
-    "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "date": "2026-08-17"
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -305,34 +305,34 @@
   },
   {
     "type": "news",
-    "title": "The furious dispute over what caused Air India flight 171 to crash",
-    "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+    "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+    "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-06-10"
-  },
-  {
-    "type": "news",
-    "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
-    "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-    "date": "2026-08-17"
-  },
-  {
-    "type": "news",
-    "title": "Chine et Hong Kong : les marchés clôturent à l'équilibre, l'énergie compense le repli de l'IA",
-    "summary": "Chine et Hong Kong : les marchés clôturent à l'équilibre, l'énergie compense le repli de l'IA Zonebourse Suisse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeThuZy15T1JCdjJZOWIxNkstYzBQbTBnTzkyUko3UjZvaHA2aFpsa3VoNVpsSWgtS0lESTBPR3d3ZUNya19CYlpjZ2JSY2hlQThyYXNiajdobGdxVWRocjVIVHRYYno0bkNPbmFhYS04OWlua0duNm9na3VVdUJKcFhrYWxYbGpyb2hmR1dNTFVFektuV3VpMkJ2Z0J6dmdJb3FWb0wyOGVsLVh0YS12X2JaRFFPcmh5TGhpblNMRUsxVEI1TDRSU084NENjdVAxWTJucFU3cTI2ZHlIXzdvV0xkTzI?oc=5",
+    "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : une attaque de missiles russes sur Petchenihy, dans l’oblast de Kharkiv, fait dix morts, selon les autorités locales",
-    "summary": "Volodymyr Zelensky, le président ukrainien, a dénoncé « une attaque brutale » sur la commune « là où se trouvent un bureau de poste et des magasins, et où sont situées uniquement des habitations ».",
+    "title": "Nvidia's AI moat is shifting from chips to capital",
+    "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+    "date": "2026-08-18"
+  },
+  {
+    "type": "news",
+    "title": "Point marchés-L'Europe clôt dans le rouge, pénalisée par le Moyen-Orient et l'obligataire",
+    "summary": "Point marchés-L'Europe clôt dans le rouge, pénalisée par le Moyen-Orient et l'obligataire Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc0xpMWM4T0o5NVlUUnJhRDVvSGt0WnczSnozOUQtZTBNa0ZJUFYyc2otSFhXRzhha1V2TTZxN2pYbkRTdzgwMFVncW9uakpaTEtqaUFYZmtjdUtfOTh2Znc3bHJyQWhvTmtYMlJ5OHZhOW5QMk5pS0h0Wm9ld0JCX0I3TjRGVnVQV2I5c3UtSnM3SVduU3RmZERHSlJaaXg4eVlQMWNtT0p3WWZ5RVZNcy16TnUyM3pkRlJ4dk9Ed09KT0Z0OTFDd01FUzc4SG9aeVYzREZqU0JTQ1ZSX091WlVR?oc=5",
+    "date": "2026-08-18"
+  },
+  {
+    "type": "news",
+    "title": "Syrie : l’AIEA a découvert des « tonnes de matières nucléaires » sur un site secret, construit sous Bachar Al-Assad",
+    "summary": "Le chef de l’Agence internationale de l’énergie atomique a salué la « décision courageuse » de Damas de signaler ce site et a souligné que les matières découvertes seraient placées sous « supervision internationale ». « Ces matières ne présentent aucun risque », a assuré le gouvernement syrien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-une-attaque-de-missiles-russes-sur-petchenihy-dans-l-oblast-de-kharkiv-fait-dix-morts-selon-les-autorites-locales_6746952_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/en-syrie-l-aiea-a-decouvert-plusieurs-tonnes-de-matieres-nucleaires-sur-un-site-secret-construit-sous-bachar-al-assad_6749076_3210.html",
     "date": "2026-08-18"
   },
   {
@@ -345,42 +345,42 @@
   },
   {
     "type": "news",
-    "title": "Iceland Belongs in the Eurozone",
-    "summary": "In evaluating the trade-offs of joining the European Union and giving up their own currency, Icelanders must recognize that the costs of eurozone membership are smaller than what past data suggest. If anything, being within the eurosystem would make a repeat of Iceland's post-2008 banking crisis exceedingly unlikely.",
+    "title": "The Making and Remaking of Chinese Totalitarianism",
+    "summary": "For decades, the West assumed that economic growth would turn China into a more open, liberal society, much as it did South Korea and Taiwan. Instead, China’s totalitarian institutions proved remarkably resilient, surviving decades of reform and reasserting themselves under President Xi Jinping.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/why-iceland-should-join-euro-by-willem-h-buiter-and-anne-c-sibert-2026-08",
-    "date": "2026-08-17"
+    "link": "https://www.project-syndicate.org/onpoint/institutional-genes-explain-how-china-totalitarian-institutions-survived-reform-era-by-chenggang-xu-2026-08",
+    "date": "2026-08-14"
   },
   {
     "type": "news",
-    "title": "En Corée, les hormones de croissance sont un investissement sur l’avenir des enfants",
-    "summary": "LE POUVOIR DES HORMONES (2/5). En Corée du Sud, les parents sont prêts à dépenser de coquettes sommes pour injecter des hormones de croissance à leur progéniture. La raison n’est pas médicale, mais esthétique : on espère qu’ils grandiront davantage… Le marché est en plein essor, constate “The Straits Times”.",
+    "title": "Arctique : la Chine inaugure une “route de la soie polaire” vers l’Europe",
+    "summary": "Le porte-conteneurs “Dubai Tower” a inauguré, le 15 août, la liaison régulière de 5 000 kilomètres entre la Chine et l’Europe via l’Arctique. Alors que des menaces planent sur la navigation dans le golfe Arabo-Persique et en mer Rouge, de plus en plus d’armateurs sont intéressés par cette route maritime du Nord-Est.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/serie-d-ete-la-taille-compte-en-coree-les-hormones-de-croissance-sont-un-investissement-sur-l-avenir-des-enfants_245162",
+    "link": "https://www.courrierinternational.com/grand-format/carte-arctique-la-chine-inaugure-une-route-de-la-soie-polaire-vers-l-europe_260837",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
-    "summary": "Russian attacks reportedly killed 10 people and injured eight in Ukraine's Kharkiv.",
+    "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
+    "summary": "Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
     "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Virgin’s challenge to Eurostar’s London-Brussels monopoly gathers speed",
-    "summary": "British rail operator Virgin Trains has received pre-approval to run international train services from London’s St. Pancras station up to the Channel Tunnel entry point, as it moves toward breaking the current monopoly held by Eurostar.",
+    "title": "France probes disinfo campaigns targeting 2027 election candidates",
+    "summary": "PARIS — The Paris prosecutor’s office has launched an investigation into disinformation efforts targeting two prominent candidates in France’s upcoming presidential election, according to Agence France-Presse.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/virgin-trains-granted-rights-for-20-new-routes-from-london-to-europe/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-17"
+    "link": "https://www.politico.eu/article/france-probe-russia-disinformation-campaigns-2027-election/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "«Il y a 200 étapes à cocher»: la sortie de Sophie Adenot dans l’espace, une préparation minutieuse pour une mission périlleuse",
-    "summary": "L’astronaute française Sophie Adenot, en mission à bord de la Station spatiale internationale depuis six mois, réalise sa première sortie extravéhiculaire ce mardi 18 août 2026. Hervé Stevenin, qui forme les astronautes de l’Agence spatiale européenne à cet exercice, explique les enjeux de cette mission et le niveau de préparation qu’elle exige.",
+    "title": "EN DIRECT - Sophie Adenot devient la première Française à sortir dans l'espace",
+    "summary": "Sophie Adenot, en mission dans la Station spatiale internationale (ISS), devient ce mardi 18 août la première astronaute française à sortir dans l'espace, en compagnie de l'Américain Anil Menon. La sortie, qui a débuté à 12 h 35 (TU) devrait durer six heures et demie, afin de remplacer une antenne nommée Space-to-Ground, ou SGANT.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/monde/20260818-il-y-a-200-%C3%A9tapes-%C3%A0-cocher-la-sortie-de-sophie-adenot-dans-l-espace-une-pr%C3%A9paration-minutieuse-pour-une-mission-p%C3%A9rilleuse",
+    "link": "https://www.rfi.fr/fr/monde/20260818-en-direct-sophie-adenot-devient-la-premi%C3%A8re-fran%C3%A7aise-%C3%A0-sortir-dans-l-espace",
     "date": "2026-08-18"
   }
 ]
