@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Lev Shlossberg, vice-président du seul parti antiguerre en Russie, a été condamné à onze ans de prison pour « discrédit de l’armée »",
-    "summary": "La justice reproche à cet homme de 63 ans le partage d’un message du média Echo de Moscou montrant la une du tabloïd britannique « Daily Mirror » avec le portrait de Vladimir Poutine, ainsi que d’avoir plaidé pour un cessez-le-feu.",
+    "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
+    "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au procès, prévu en mars 2027.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-lev-shlossberg-vice-president-du-seul-parti-antiguerre-en-russie-a-ete-condamne-a-onze-ans-de-prison-pour-discredit-de-l-armee_6746952_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
     "date": "2026-08-17"
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "type": "news",
-    "title": "Le “plan secret” de l’Iran pour intensifier la guerre au Moyen-Orient",
-    "summary": "Durant les deux mois qui ont suivi la signature du protocole d’accord entre Washington et Téhéran, le régime iranien s’est préparé à étendre le conflit régional et à en accroître le coût pour les États-Unis, écrit “The Wall Street Journal”, alors que l’accord arrive à expiration lundi 17 août.",
+    "title": "La taille compte : en Corée, les hormones de croissance sont un investissement sur l’avenir des enfants",
+    "summary": "LE POUVOIR DES HORMONES (2/5). En Corée du Sud, les parents sont prêts à dépenser de coquettes sommes pour injecter des hormones de croissance à leur progéniture. La raison n’est pas médicale, mais esthétique : on espère qu’ils grandiront davantage… Le marché est en plein essor, constate “The Straits Times”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/conflit-le-plan-secret-de-l-iran-pour-intensifier-la-guerre-au-moyen-orient_260274",
-    "date": "2026-08-17"
+    "link": "https://www.courrierinternational.com/article/serie-d-ete-la-taille-compte-en-coree-les-hormones-de-croissance-sont-un-investissement-sur-l-avenir-des-enfants_245162",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "Will Europe hear a landmark Russian climate change case?",
-    "summary": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren't giving up.",
+    "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+    "summary": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
     "date": "2026-08-17"
   },
   {
@@ -130,7 +130,7 @@
   {
     "type": "news",
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 201 # Comments: 105",
+    "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 319 # Comments: 156",
     "source": "Hacker News",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "date": "2026-08-17"
@@ -177,19 +177,19 @@
   },
   {
     "type": "news",
-    "title": "Les marchés boursiers affichent des résultats mitigés, le dollar recule en raison des anticipations concernant les taux de la Fed, mais les rendements remontent",
-    "summary": "Les marchés boursiers affichent des résultats mitigés, le dollar recule en raison des anticipations concernant les taux de la Fed, mais les rendements remontent TradingView",
+    "title": "Point marchés-L'Europe finit en baisse, la géopolitique pèse",
+    "summary": "Point marchés-L'Europe finit en baisse, la géopolitique pèse Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zcnphN1ZCT3lJeERTeGtnRFlOb2ZLVkFMeXNtTnRMRnlBbGVheXY0M1FWM3NQZFR0TEVmcEVpX3ZmcXhmWjkzUTBoamZhNWEyWktPRy11Q1lzWjIwVHBBOE5RQWVyQ2pVQnR3MTJYU0I4Uzd4YU9v?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWhpZlktRkJrR0pLcEU0LWMySUN6VDJyLXJIM2RpZnBKZnJYM1duSDhOamxnc29NZXBTS3dVaWpqV09Md2xyUDFLbzhQWkRGYUJtTV9Jc3Vpb0dTQS1iX21uRmxYaEtzZTQ1N2MxVV8wN2xxOTM1dWRiZkdzaXoyV3ZHb0p6dTI0bnVoQjY2bnU3Yk9faU1ZdGNjTEFDNC04dDZEelFNUGhZcWg2VmkyQTRqSG5CcTNVdHdKSg?oc=5",
     "date": "2026-08-17"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : au cœur de la nuit, avec le régiment de drones qui frappe durement Moscou",
-    "summary": "Le 413ᵉ régiment des forces sans pilote multiplie les attaques dans la grande profondeur depuis le territoire ukrainien. Kiev accélère ses efforts militaires pour porter le feu au cœur de l’appareil économique de son envahisseur.",
+    "title": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit",
+    "summary": "Sergueï Sobianine a fait état, sur Telegram, de 180 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html",
-    "date": "2026-08-17"
+    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -209,27 +209,27 @@
   },
   {
     "type": "news",
-    "title": "Crise de Ceuta : qu’est-ce que l’espace Schengen ?",
-    "summary": "La crise migratoire dans l’enclave espagnole de Ceuta l’a encore démontré : l’espace Schengen, zone de libre circulation des personnes qui regroupe 29 pays européens, subit régulièrement les foudres des partis anti-immigration. Mais de quoi s’agit-il au juste ?",
+    "title": "Des bouseuses contre l’IA, la guerre contre Flock et les nuits d’entretien d’embauche",
+    "summary": "L’innovation, les start-up et les Gafam… Chaque semaine, l’actualité de la Silicon Valley vue par les médias américains.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/explainer/crise-de-ceuta-qu-est-ce-que-l-espace-schengen_259424",
-    "date": "2026-08-17"
+    "link": "https://www.courrierinternational.com/article/la-lettre-tech-des-bouseuses-contre-l-ia-la-guerre-contre-flock-et-les-nuits-d-entretien-d-embauche_260284",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "How Russian dissidents are being punished by both Russia and Europe",
-    "summary": "While Moscow is stripping citizenship rights, European states are curbing access to legal status for Russian emigres.",
+    "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+    "summary": "Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
     "date": "2026-08-17"
   },
   {
     "type": "news",
-    "title": "Latvia wants €7B from EU to cope with fallout from Russia’s war",
-    "summary": "RIGA — Latvian Prime Minister Andris Kulbergs wants Brussels to hand over €7 billion to help cover the military and economic costs of confronting Russia, as pressure grows over the price of the country’s hard line on Moscow.",
+    "title": "Der Preis von Europas China-Abhängigkeit – mit Janka Oertel",
+    "summary": "Listen on Spotify Apple Music Amazon Music Chinas Exporte treffen die deutsche Kernindustrie in nie da gewesener Härte und Geschwindigkeit. Weil massiv Arbeitsplätze wackeln, sucht Europa händeringend nach einer politischen Notbremse. Rixa Fürsen spricht mit Janka Oertel über die existenzielle Bedrohung für den Autobau und Maschinenbau.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/latvia-pm-andris-kulbergs-7b-eu-funding-over-russia-costs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-08-17"
+    "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-preis-von-europas-china-abhangigkeit-mit-janka-oertel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -265,18 +265,18 @@
   },
   {
     "type": "news",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "summary": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals.",
+    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+    "summary": "Three former SpaceX engineers have switched their attention from making rocket engines to manufacturing steel parts by using AI-driven software and robots. Their immediate goal involves establishing a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "date": "2026-08-14"
+    "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+    "date": "2026-08-17"
   },
   {
     "type": "news",
-    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-    "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/ Comments URL: https://news.ycombinator.com/item?id=49332981 Points: 238 # Comments: 293",
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 232 # Comments: 103",
     "source": "Hacker News",
-    "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "date": "2026-08-17"
   },
   {
@@ -321,19 +321,19 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit en baisse, la géopolitique pèse",
-    "summary": "Point marchés-L'Europe finit en baisse, la géopolitique pèse Zonebourse",
+    "title": "La puce Nvidia rejoint le pétrole sur les marchés à terme",
+    "summary": "La puce Nvidia rejoint le pétrole sur les marchés à terme Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWhpZlktRkJrR0pLcEU0LWMySUN6VDJyLXJIM2RpZnBKZnJYM1duSDhOamxnc29NZXBTS3dVaWpqV09Md2xyUDFLbzhQWkRGYUJtTV9Jc3Vpb0dTQS1iX21uRmxYaEtzZTQ1N2MxVV8wN2xxOTM1dWRiZkdzaXoyV3ZHb0p6dTI0bnVoQjY2bnU3Yk9faU1ZdGNjTEFDNC04dDZEelFNUGhZcWg2VmkyQTRqSG5CcTNVdHdKSg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTHB5Z1U4ZWEtUEoyQkRiNGJjRUllVElqMEppekxVTXltX2c1RnVzYVJ4eXpxUjM1T3dKbGd1WHRybE9Bb0Qtd2JRbmRpS0hMVXJhWk8xNU5RZlh2cGFlZ3RfWmctNjU1SkljWW5QSndjaHE4bDJlRGVRa0lXc2V6ZWM1eF9feWcxTDNyUFliVDVTRDY3OHdEcnlYTUZmdWtCaDZlR3ZUekN0Y0pIOFJRTjJXNVNTeXF2ZUE?oc=5",
     "date": "2026-08-17"
   },
   {
     "type": "news",
-    "title": "Gaza : Benyamin Nétanyahou demande qu’un général américain supervise le désarmement du Hamas avant tout retrait israélien",
-    "summary": "Le premier ministre israélien a rencontré l’émissaire américain Jared Kushner chargé de faire avancer le plan de paix américain. Dimanche, ce dernier était en visite en Egypte notamment pour rencontrer une délégation du Hamas.",
+    "title": "Donald Trump maltraite la Corée du Sud et envisage à nouveau un dialogue avec Pyongyang",
+    "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur Kim Jong-un, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires conjoints avec Séoul.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/17/gaza-benyamin-netanyahou-demande-qu-un-general-americain-supervise-le-desarmement-du-hamas-avant-tout-retrait-israelien_6748405_3210.html",
-    "date": "2026-08-17"
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
@@ -353,26 +353,26 @@
   },
   {
     "type": "news",
-    "title": "“Bêtise énergétique” : la Roumanie forcée de mettre sa seule centrale nucléaire à l’arrêt",
-    "summary": "Jeudi 13 août, la Roumanie a mis à l’arrêt la centrale nucléaire de Cernavoda, la seule que compte le pays, en raison de la sécheresse. Bucarest se voit désormais contraint d’importer de l’énergie. Une situation absurde qui exaspère les commentateurs.",
+    "title": "La Thaïlande est désormais “l’homme malade de l’Asie du Sud-Est”",
+    "summary": "Les chiffres de la croissance thaïlandaise du deuxième trimestre confirment les difficultés de l’économie du royaume. Avec un taux de croissance de 1,9 %, elle se place derrière les pays voisins, qui enregistrent de meilleurs scores.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/secheresse-betise-energetique-la-roumanie-forcee-de-mettre-sa-seule-centrale-nucleaire-a-l-arret_259317",
+    "link": "https://www.courrierinternational.com/article/economie-la-thailande-est-desormais-l-homme-malade-de-l-asie-du-sud-est_260307",
     "date": "2026-08-17"
   },
   {
     "type": "news",
-    "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-    "summary": "Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.",
+    "title": "Zambia’s President Hakainde Hichilema wins second term",
+    "summary": "Official results show incumbent receiving about 61 percent of votes, compared with ⁠38 percent for his main challenger.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-    "date": "2026-08-17"
+    "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+    "date": "2026-08-18"
   },
   {
     "type": "news",
-    "title": "‘Deliberate negligence’: Russian nuclear power company with EU operations accused of violating safety standards",
-    "summary": "BRUSSELS — A Russian state-controlled corporation building a nuclear power plant in Hungary is facing allegations of safety, security and engineering failures at another project in Egypt that uses the same technology, according to internal documents obtained by POLITICO.",
+    "title": "‘Irish convicts were the original boat people’",
+    "summary": "As Minister for Defense Industry and Minister for Pacific Island Affairs, Pat Conroy is at the center of debates over AUKUS, China’s designs on the Pacific, and Australia’s efforts to mend relations with its neighbors.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/rosatom-hungary-nuclear-energy-egypt-russia-el-dabaa-paks-ii-russia-safety-standards-violations/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/08/17/pat-conroy-irish-convicts-original-boat-people-aukus-pacific-01038978?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-17"
   },
   {
