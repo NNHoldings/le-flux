@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
-    "summary": "Cette annonce intervient deux jours après que son rival SK Hynix a dévoilé un programme de rachat d’actions de près de 25 milliards d’euros pour rassurer les investisseurs.",
+    "title": "EN DIRECT, guerre en Ukraine : un mort à Kiev dans une nouvelle attaque nocturne russe",
+    "summary": "Quarante-huit heures après une frappe nocturne massive contre la capitale ukrainienne et sa région, qui a fait 16 morts, une alerte aux missiles balistiques a de nouveau été déclenchée à Kiev. Un drone russe a par ailleurs tué, durant la nuit, un homme à Zaporija, dans le sud de l’Ukraine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html",
-    "date": "2026-08-21"
+    "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -73,11 +73,11 @@
   },
   {
     "type": "news",
-    "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-    "summary": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading 'pro-Russian propaganda'.",
+    "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+    "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-    "date": "2026-08-21"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -97,10 +97,10 @@
   },
   {
     "type": "news",
-    "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
-    "summary": "En annonçant, mercredi, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
+    "title": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
+    "summary": "Cette annonce intervient deux jours après que son rival SK Hynix a dévoilé un programme de rachat d’actions de près de 25 milliards d’euros pour rassurer les investisseurs.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html",
     "date": "2026-08-21"
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-    "summary": "Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical, but it might be unique. It’s about the closest we’ve come to confronting a scheme that would export a considerable amount of valuable materials into space.",
+    "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+    "summary": "This week, Romania accused Russia of sending a drone boat loaded with explosives to a vital European natural gas platform in the Black Sea. A Romanian F-16 fighter jet used its cannons to disable the surface drone so that explosive ordnance experts could blow it up safely.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-    "date": "2026-08-20"
+    "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+    "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "I accidentally logged phone calls to military bases",
-    "summary": "Article URL: https://lina.sh/blog/hijacking-e164-arpa Comments URL: https://news.ycombinator.com/item?id=49387570 Points: 173 # Comments: 28",
+    "title": "There's no reason for software to be slow anymore",
+    "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 207 # Comments: 157",
     "source": "Hacker News",
-    "link": "https://lina.sh/blog/hijacking-e164-arpa",
-    "date": "2026-08-21"
+    "link": "https://danluu.com/perf-opt/",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -169,27 +169,27 @@
   },
   {
     "type": "news",
-    "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
-    "summary": "Rising memory chip costs are reshaping the world's second-largest smartphone market as Chinese brands become expensive, improving the value proposition for Samsung and Apple.",
+    "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+    "summary": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
-    "date": "2026-08-20"
+    "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+    "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "Data centers : 15 des 20 premiers marchés mondiaux sont américains, mais la course à l’énergie rebat les cartes",
-    "summary": "Data centers : 15 des 20 premiers marchés mondiaux sont américains, mais la course à l’énergie rebat les cartes L'Usine Digitale",
+    "title": "Une nouvelle catégorie de métaux pourrait transformer l’économie africaine des énergies propres : des scientifiques expliquent pourquoi",
+    "summary": "Une nouvelle catégorie de métaux pourrait transformer l’économie africaine des énergies propres : des scientifiques expliquent pourquoi The Conversation",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNGtmZjRFVDVDTThtTEpZbFdJYjdkNGdZMDlnS0xaYWpRVGJGaV91NE12VXNuYkh6UGZycUZIdzljSzRvM2xyYkVJNEUtVmljRm9nbl9jZF9nZUhTdkxLNUJQZEduQ041UzhBRUw4Mk1HSWJob1BOSXcwcm52bG9ONDhZQ1BRSGwzZXYwMXp3clhJSGdwZnJxQmk1UnAybE9RYXJBX3BnSUFORWgxZ044TkJqMmtMTTFOM3R5Q1V1dWpiWjZqNWFpTWdzMkc1bVRQVVEzN3ZBTkpGd28wZUhIZEtxREc5ZWpnTVdTWnhreFNCaV85SzRnUkNTeV8xdUlSNThJU25JR2JLZFlDVlZmNUx0cTdSZXZjRXYxR3NxdE8?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQUFvcGhnZUEyUEpQcmQyV1VyaWh3MEpHRWE1cEg4YnI3NmFkSWJrcTdSc3FUS2Z5MWVfcWtPaWppU0RPTTN3cm40MGYwUWFXVTF5dzlMTERhSkpJV05tRXBIa25LMUJFNFg3M1ZNNTNpeVdQY3U5dUt3ME9TTnVSWTN1NUx4dDJidkg1VzNEYXIxRUVhNjQ2c3U2dlBUd0JIaDBhUzhicmRLT2N1THViMzlBemZsQVI3TEF6ckV2ckZ3bzFpVWNxT00ybG9GbDl2U0VoTVNOdk1NaUZ1WUMtMWdFRU14Q0I3cjZoT0txOWVKRUZWbC14MGV0TQ?oc=5",
     "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait six morts, dont des enfants ; Volodymyr Zelensky dénonce un « acte ignoble »",
-    "summary": "« Six personnes ont été tuées, et 96 ont été blessées. Parmi les victimes, il y a des enfants », a déclaré le gouverneur de la région de Dnipropetrovsk, Oleksandr Hanja, où se trouve la ville de Kryvy Rih.",
+    "title": "L’indépendance d’un journal militaire américain menacée après le licenciement de deux responsables éditoriaux par le Pentagone",
+    "summary": "Le rédacteur en chef et le directeur de la publication, ainsi qu’une journaliste de « Stars and Stripes » ont été limogés, notamment pour « insubordination ». Ce média est financé en partie par le ministère de la défense mais est réputé pour son indépendance éditoriale.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-une-frappe-russe-visant-un-centre-commercial-a-kryvy-rih-fait-six-morts-dont-des-enfants-volodymyr-zelensky-denonce-un-acte-ignoble_6746952_3210.html",
-    "date": "2026-08-21"
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/l-independance-d-un-journal-militaire-americain-menacee-apres-le-licenciement-de-deux-responsables-editoriaux-par-le-pentagone_6752453_3210.html",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -209,19 +209,19 @@
   },
   {
     "type": "news",
-    "title": "Argentine : pour Milei, l’avortement est un assassinat et pénalise l’économie",
-    "summary": "Le président argentin a tenu des propos plus “extrêmes” que jamais sur l’interruption volontaire de grossesse, qu’il a associée à la faible croissance économique du pays. Une outrance que certains médias interprètent comme un échauffement en vue de la campagne présidentielle qui se profile.",
+    "title": "Le président iranien appelle à mettre fin à la guerre avec les États-Unis, estimant être en “position de force”",
+    "summary": "“Il vaut mieux mettre fin à la guerre maintenant, alors que nous sommes en position de force”, a déclaré vendredi le président Pezeshkian, alors que les États-Unis menacent d’intensifier les sanctions économiques contre la République islamique.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/verbatim-argentine-pour-milei-l-avortement-est-un-assassinat-et-penalise-l-economie_262162",
-    "date": "2026-08-21"
+    "link": "https://www.courrierinternational.com/article/conflit-le-president-iranien-appelle-a-mettre-fin-a-la-guerre-avec-les-etats-unis-estimant-etre-en-position-de-force_262287",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
-    "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-    "summary": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+    "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+    "summary": "Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-    "date": "2026-08-21"
+    "link": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
-    "summary": "Grâce notamment aux ventes de Rafale à l’Inde et de missiles, la France a exporté pour 21,2 milliards d’euros d’armements en 2025, soit autant qu’en 2024. Si elle reste le deuxième exportateur mondial d’armes, loin derrière les Etats-Unis, elle fait face à la concurrence de nouveaux pays.",
+    "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
+    "summary": "En annonçant, mercredi, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
-    "date": "2026-08-20"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+    "date": "2026-08-21"
   },
   {
     "type": "news",
@@ -265,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-    "summary": "Welcome to Edition 9.07 of the Rocket Report! China's workhorse Long March rocket family appears to be rebounding quickly from a rare launch failure August 10. Chinese officials have not publicly released any information on what may have caused the Long March 7A rocket to break apart less than 90 seconds after liftoff, but the rocket's use of YF-100 engines…",
+    "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+    "summary": "Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical, but it might be unique. It’s about the closest we’ve come to confronting a scheme that would export a considerable amount of valuable materials into space.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-    "date": "2026-08-21"
+    "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+    "date": "2026-08-20"
   },
   {
     "type": "news",
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 659 # Comments: 389",
+    "title": "AI boosted homework scores, then exam scores dropped: study",
+    "summary": "https://archive.is/w1enghttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49357530 Points: 265 # Comments: 303",
     "source": "Hacker News",
-    "link": "https://annas-archive.pk/blog/physical-destruction.html",
-    "date": "2026-08-21"
+    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "date": "2026-08-19"
   },
   {
     "type": "news",
@@ -313,27 +313,27 @@
   },
   {
     "type": "news",
-    "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
-    "summary": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
+    "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+    "summary": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+    "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
     "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "Wall Street sur un rebond, l'Europe prudente face aux tensions diplomatiques et de la dette souveraine",
-    "summary": "Wall Street sur un rebond, l'Europe prudente face aux tensions diplomatiques et de la dette souveraine Boursorama",
+    "title": "Data centers : 15 des 20 premiers marchés mondiaux sont américains, mais la course à l’énergie rebat les cartes",
+    "summary": "Data centers : 15 des 20 premiers marchés mondiaux sont américains, mais la course à l’énergie rebat les cartes L'Usine Digitale",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNXhLQ3lwRzJKMS1lemVXMWVJNS1GbW9UUjM4R1dVMFlnQk5nNmdsVzU4X2pqVVA3bGVFTE9jTVlfOFlXeGd1VWE2U09iTzJpd0swSlFOcmlGd0E0WGZDclQ5dFJNMnZlS0gwSUtMd3JuLWtLQWFFRnV1eWJzWWI2VUVyZkZuTjBqU1hsSWhmNnJFZzJIZVZSVDhaQVl3dC1UWkFaMlAzZExXUzg5dGw4c2lNZHd2dFo3amFYWjEyUHpHWXdaTDFDUG51SXU0VUxoRWk3MHdnM0FIWWt2dDNWR2VjOUdWTldhX2ZFQl81dXNTYTdqRV93UWJHVnVuX2dnQVVJLUdxYXhLSlBCUU9FV9IBkAJBVV95cUxPNXhLQ3lwRzJKMS1lemVXMWVJNS1GbW9UUjM4R1dVMFlnQk5nNmdsVzU4X2pqVVA3bGVFTE9jTVlfOFlXeGd1VWE2U09iTzJpd0swSlFOcmlGd0E0WGZDclQ5dFJNMnZlS0gwSUtMd3JuLWtLQWFFRnV1eWJzWWI2VUVyZkZuTjBqU1hsSWhmNnJFZzJIZVZSVDhaQVl3dC1UWkFaMlAzZExXUzg5dGw4c2lNZHd2dFo3amFYWjEyUHpHWXdaTDFDUG51SXU0VUxoRWk3MHdnM0FIWWt2dDNWR2VjOUdWTldhX2ZFQl81dXNTYTdqRV93UWJHVnVuX2dnQVVJLUdxYXhLSlBCUU9FVw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNGtmZjRFVDVDTThtTEpZbFdJYjdkNGdZMDlnS0xaYWpRVGJGaV91NE12VXNuYkh6UGZycUZIdzljSzRvM2xyYkVJNEUtVmljRm9nbl9jZF9nZUhTdkxLNUJQZEduQ041UzhBRUw4Mk1HSWJob1BOSXcwcm52bG9ONDhZQ1BRSGwzZXYwMXp3clhJSGdwZnJxQmk1UnAybE9RYXJBX3BnSUFORWgxZ044TkJqMmtMTTFOM3R5Q1V1dWpiWjZqNWFpTWdzMkc1bVRQVVEzN3ZBTkpGd28wZUhIZEtxREc5ZWpnTVdTWnhreFNCaV85SzRnUkNTeV8xdUlSNThJU25JR2JLZFlDVlZmNUx0cTdSZXZjRXYxR3NxdE8?oc=5",
     "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "Droits de douane : Donald Trump annonce une suspension temporaire des taxes sur certaines importations de bœuf",
-    "summary": "Le coût de la viande bovine a explosé aux Etats-Unis, où le prix d’un steak a augmenté de 15 % sur la dernière année. Jusqu’à 300 000 tonnes de produits destinés au bœuf haché doivent être importés sans droits de douanes dans le pays, sur les 90 prochains jours.",
+    "title": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »",
+    "summary": "Quatre personnes, dont trois mineurs, ont également été tuées, vendredi, dans une autre attaque, et des missiles balistiques ont fait un mort à Kiev dans la nuit de vendredi à samedi.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/21/droits-de-douane-donald-trump-annonce-une-suspension-temporaire-des-taxes-sur-certaines-importations-de-b-uf_6752149_3210.html",
-    "date": "2026-08-21"
+    "link": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
@@ -353,19 +353,19 @@
   },
   {
     "type": "news",
-    "title": "Méga-aéroport éthiopien : un projet emblématique de la rivalité américano-chinoise en Afrique",
-    "summary": "Les entreprises publiques chinoises figurent en bonne place pour construire l’aéroport international de Bishoftu, en Éthiopie. Aucune entreprise américaine n’a été retenue. Ce projet pharaonique a ravivé la concurrence entre la Chine et les États-Unis.",
+    "title": "Restitutions d’objets d’art pillés : “Que l’on rende enfin sa mémoire à l’Afrique”",
+    "summary": "Les pays européens, dont la France, se sont engagés dans un processus de restitution aux pays africains d’objets du patrimoine culturel pillés durant la période coloniale. Pourtant, note l’Agence Ecofin, cette restitution dépend toujours de la seule bonne volonté des pays détenteurs.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/economie-mega-aeroport-ethiopien-un-projet-emblematique-de-la-rivalite-americano-chinoise-en-afrique_261462",
-    "date": "2026-08-21"
+    "link": "https://www.courrierinternational.com/article/opinion-restitutions-d-objets-d-art-pilles-que-l-on-rende-enfin-sa-memoire-a-l-afrique_260960",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
-    "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-    "summary": "The US and Israel's war on Iran has upended global financial and energy markets.",
+    "title": "Iranian president says time to end war with US from ‘position of strength’",
+    "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
-    "date": "2026-08-21"
+    "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+    "date": "2026-08-22"
   },
   {
     "type": "news",
