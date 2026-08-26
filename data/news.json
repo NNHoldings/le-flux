@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : le directeur de la CIA a eu des contacts « entre services secrets » à Moscou, selon le Kremlin",
-    "summary": "John Ratcliffe s’est rendu mardi à Moscou, sans rencontrer le président, Vladimir Poutine, a affirmé mercredi le porte-parole du Kremlin.",
+    "title": "Le retrait d’une photo de Gaza exposée dans l’espace public à Deauville provoque la polémique",
+    "summary": "Installée sur une place de la ville, l’image a été discrètement retirée à la mi-août alors qu’elle devait y rester jusqu’au 6 septembre. Le député du Calvados Arthur Delaporte, socialiste, a réclamé la « réinstallation immédiate » de la photo.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-un-mort-et-12-blesses-dans-la-region-de-kherson-selon-le-chef-de-l-administration-militaire-de-l-oblast_6753793_3210.html",
+    "link": "https://www.lemonde.fr/politique/article/2026/08/26/le-retrait-d-une-photo-de-gaza-exposee-dans-l-espace-public-a-deauville-provoque-la-polemique_6757404_823448.html",
     "date": "2026-08-26"
   },
   {
@@ -65,26 +65,26 @@
   },
   {
     "type": "news",
-    "title": "La crise de l’armement américain a des répercussions mondiales",
-    "summary": "Le tarissement des missiles longue portée et des intercepteurs ne réduit pas seulement les options de Trump au Moyen-Orient, écrit “The New York Times”. Elle contraint les États-Unis à livrer moins de matériel en Europe et en Asie, où leurs alliés sont durablement affaiblis et leurs adversaires enhardis.",
+    "title": "En Afrique, le “super El Niño” risque d’amplifier l’impact des crises géopolitiques",
+    "summary": "En juin a commencé un nouvel épisode de ce phénomène climatique mondial, qui devrait durer jusqu’en octobre et s’annonce destructeur pour les récoltes. L’inquiétude est particulièrement élevée sur le continent africain, dont les chaînes d’approvisionnement sont déjà perturbées par la fermeture du détroit d’Ormuz et la guerre en Ukraine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/analyse-la-crise-de-l-armement-americain-a-des-repercussions-mondiales_257997",
+    "link": "https://www.courrierinternational.com/article/economie-en-afrique-le-super-el-nino-risque-d-amplifier-l-impact-des-crises-geopolitiques_263511",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
-    "summary": "Attacks spark fires at Lukoil's NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.",
+    "title": "Iran emphasises self-sufficiency in battle against US economic war",
+    "summary": "Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "France and Germany collide over Europe’s industrial future",
-    "summary": "Listen on Spotify Apple Music Amazon Music France and Germany are clashing over how far the EU should go to protect European industry — with Paris pushing stronger “Made in Europe” rules and Berlin warning against provoking new trade fights.",
+    "title": "French intelligence chief warns of more ‘violent, hostile action’ after Leipzig drone attack",
+    "summary": "PARIS — France should expect more violent attacks on its soil as hybrid warfare and foreign interference intensify across Europe, French security services said Wednesday. Céline Berthon, director-general of the DGSI, cited this month’s discovery of an explosive device near a Ukrainian cargo plane at Germany’s Leipzig Airport.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/france-and-germany-collide-over-europes-industrial-future/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/expect-more-violent-hostile-action-after-leipzig-drone-attack-french-intelligence-boss-warns/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-26"
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "type": "news",
-    "title": "Budget 2027 : Bruno Le Maire se dit favorable à une taxation des « plus grosses fortunes »",
+    "title": "Budget 2027 : Bruno Le Maire, ex-ministre de l’économie, se dit favorable à une taxation des « plus grosses fortunes »",
     "summary": "Interrogé sur BFM-TV à propos de la situation économique du pays, l’ancien ministre de l’économie d’Emmanuel Macron a réclamé « de l’efficacité pour lutter contre la dérive des comptes ». Il a aussi estimé nécessaire de désindexer de l’inflation les pensions de retraite, le barème de l’impôt sur le revenu et les minima sociaux.",
     "source": "Le Monde Éco",
     "link": "https://www.lemonde.fr/politique/article/2026/08/26/budget-2027-bruno-lemaire-se-dit-favorable-a-une-taxation-des-plus-grosses-fortunes_6757357_823448.html",
@@ -121,24 +121,24 @@
   },
   {
     "type": "news",
-    "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-    "summary": "Taiwan has indicted nine people—reportedly including an Nvidia senior manager and two Supermicro employees based in the country—who allegedly helped forge documents to cover up illegal exports of high-end AI servers to China in violation of US export controls.",
+    "title": "Data centers become \"killer application\" for new power transformer tech",
+    "summary": "Data centers have become the largest driver of a surging electricity demand that is straining US power grids. But the AI data center boom has also accelerated investment in a technology that could provide a silver lining for everyone—solid-state power transformers that replace industrial-age technology with modern power electronics.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "date": "2026-08-24"
   },
   {
     "type": "news",
-    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-    "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr Comments URL: https://news.ycombinator.com/item?id=49434378 Points: 502 # Comments: 320",
+    "title": "Meta reaches $17B settlement over social media harms to children",
+    "summary": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49448819 Points: 379 # Comments: 353",
     "source": "Hacker News",
-    "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "date": "2026-08-25"
+    "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+    "date": "2026-08-26"
   },
   {
     "type": "news",
     "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02620-3Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
+    "summary": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02620-3Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory — a partnership that could give it an edge.",
     "source": "Nature",
     "link": "https://www.nature.com/articles/d41586-026-02620-3",
     "date": "2026-08-24"
@@ -169,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
-    "summary": "Investors wait for Nvidia to set the scene of the biggest market trend in a generation, as its earnings look set to determine the direction of the AI trade.",
+    "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
+    "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/26/nvidia-ai-chips-demand.html",
+    "link": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Marchés financiers : Nvidia, PIB américain et inflation rythment la séance de Wall Street",
-    "summary": "Marchés financiers : Nvidia, PIB américain et inflation rythment la séance de Wall Street BDOR",
+    "title": "L'Europe finit sans direction après l'inflation américaine, Nvidia à l'horizon",
+    "summary": "L'Europe finit sans direction après l'inflation américaine, Nvidia à l'horizon Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3huYVZGeTdDdVBfcFNXeVhPZEMwRGxwV1NVekxhLUl5Y2s0LUJrdkhFQ0EzblpQdFIxOUpzNUpGeTNJNjlrdUFIUHZoS3NyMDNWaHUyMXR1Q0c5VjJURjNfZ0NIaW13WWlkX1d3c0lGTEdJZThBTm5EME1CMHNMMg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORU1za2hwS252QkJ1eTRjZTVRR1Y4SDJ5ZTkxbE1CcFFlSUVjb2ozRm40NzBYMjhiQWZicnNIRVkyN19ncjFfdVVobGw0cUk0Q0l1eklwQzltYUVXaTdCX3V6WWVHdlozYm1XNUxwVXdMaW1ZY3JaN1RyTmhGUzcxZmo0QmJkM2J0YjlUSVZEY19zUTdIQllyX1JCYnN6WUVMWTNTVDlBVXk2ZUxSNGstcHQ4bm92bVhoYXJzMGsyQzNkLTk2SW85Q3kyZ2pmWU8wMlJR?oc=5",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Face aux sanctions américaines, la Chine joue la fermeté sur le dossier iranien",
-    "summary": "Devant les menaces américaines contre les partenaires commerciaux de Téhéran, Pékin affiche son inflexibilité tout en évitant l’escalade à un mois d’une nouvelle rencontre entre Xi Jinping et Donald Trump.",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations après la visite du chef de la CIA à Moscou",
+    "summary": "Le directeur de la CIA, John Ratcliffe, s’est rendu mardi à Moscou pour échanger « entre services secrets », a affirmé, mercredi, le porte-parole du Kremlin, Dmitri Peskov. Donald Trump a évoqué une possible avancée dans le dossier ukrainien.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/08/26/iran-face-aux-sanctions-americaines-la-chine-joue-la-fermete_6757011_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-les-dernieres-informations-apres-la-visite-du-chef-de-la-cia-a-moscou_6753793_3210.html",
     "date": "2026-08-26"
   },
   {
@@ -201,34 +201,34 @@
   },
   {
     "type": "news",
-    "title": "Who’s Afraid of Chinese Surpluses?",
-    "summary": "China recorded the largest trade surplus in history last year, and its exports continue to grow. But the scale of the threat to the global economy, and the appropriate response, remains subject to considerable disagreement.",
+    "title": "In the AI Gold Rush, the Cloud Wins",
+    "summary": "Even if the AI investment boom turns out to have been a bubble, the Big Tech companies that have cornered the cloud infrastructure market will emerge as strong as ever, or even stronger. That is why Amazon, Microsoft, and Google are in a league of their own, even compared to other giants like Meta and Nvidia.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/who-s-afraid-of-chinese-surpluses",
-    "date": "2026-08-21"
-  },
-  {
-    "type": "news",
-    "title": "Le Canada riposte à la guerre commerciale de Trump",
-    "summary": "Le gouvernement canadien a détaillé les plus de 700 produits importés des États-Unis qui seront soumis à des droits de douane allant de 15 % à 50 %. Ottawa assume ainsi de tenir tête “au dollar près” à son premier partenaire commercial, tout en évitant pour l’heure les mesures qui feraient le plus mal, note la presse québécoise.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/droits-de-douane-le-canada-riposte-a-la-guerre-commerciale-de-trump_263521",
-    "date": "2026-08-25"
-  },
-  {
-    "type": "news",
-    "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-    "summary": "Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+    "link": "https://www.project-syndicate.org/commentary/cloud-giants-real-winners-of-ai-gold-rush-by-cecilia-rikap-2026-08",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Australia wanted more US missiles. The Iran war risks making them harder to get.",
-    "summary": "The Iran war is straining U.S. munitions stockpiles, causing concern in Canberra as Australia scrambles to prepare itself for potential conflict in the Indo-Pacific. Canberra’s defense plans depend heavily on U.S.-made weapons. The prospect of the U.S.",
+    "title": "En Inde, les mariages collectifs deviennent un terrain de jeu pour arnaqueurs",
+    "summary": "Les familles indiennes sont prêtes à consacrer les économies d’une vie à un mariage. Attirés par les sommes considérables qui circulent sur ce marché, des escrocs piègent de jeunes hommes, souvent d’origine modeste, en leur promettant une union arrangée lors d’une cérémonie collective… Sauf que la mariée ne s’y présentera jamais.",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/societe-en-inde-les-mariages-collectifs-deviennent-un-terrain-de-jeu-pour-arnaqueurs_263706",
+    "date": "2026-08-26"
+  },
+  {
+    "type": "news",
+    "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
+    "summary": "Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
+    "date": "2026-08-26"
+  },
+  {
+    "type": "news",
+    "title": "Hungary declares Russia a ‘threat’, breaking with Orbán policy",
+    "summary": "´Hungary’s government has formally condemned Russia’s military aggression and announced its support for Ukraine’s territorial integrity, according to policy guidelines published late Tuesday — marking a sharp break with the Russia-friendly policies of former Prime Minister Viktor Orbán.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/08/25/australia-wanted-more-us-missiles-the-iran-war-may-make-them-harder-to-get-01048703?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/peter-magyar-vladimir-putin-viktor-orban-government-officially-declares-russia-threat/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-26"
   },
   {
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Droits de douane : le Canada riposte et annonce des surtaxes de 15 % à 50 % sur une série de produits américains dès le 8 septembre",
-    "summary": "Ottawa a détaillé, mardi, sa réponse à la guerre commerciale ouverte par Washington, mêlant nouvelles mesures douanières et soutien aux secteurs les plus exposés.",
+    "title": "United Airlines étend son vaste réseau mondial en pariant sur l’Europe méditerranéenne",
+    "summary": "La compagnie aérienne américaine a annoncé, mardi, la plus importante expansion de son histoire en créant 13 routes directes au départ des Etats-Unis. Onze desserviront l’Europe – principalement du Sud – dont trois la France : Denver-Paris, New York-Marseille et Washington-Toulouse.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/25/droits-de-douane-le-canada-riposte-et-annonce-des-surtaxes-de-15-a-50-sur-une-serie-de-produits-americains-des-le-8-septembre_6756600_3234.html",
-    "date": "2026-08-25"
+    "link": "https://www.lemonde.fr/economie/article/2026/08/26/united-airlines-etend-son-vaste-reseau-mondial-en-pariant-sur-l-europe-mediterraneenne_6757407_3234.html",
+    "date": "2026-08-26"
   },
   {
     "type": "news",
@@ -265,27 +265,27 @@
   },
   {
     "type": "news",
-    "title": "Data centers become \"killer application\" for new power transformer tech",
-    "summary": "Data centers have become the largest driver of a surging electricity demand that is straining US power grids. But the AI data center boom has also accelerated investment in a technology that could provide a silver lining for everyone—solid-state power transformers that replace industrial-age technology with modern power electronics.",
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "summary": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-    "date": "2026-08-24"
+    "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "date": "2026-08-25"
   },
   {
     "type": "news",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-    "summary": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 326 # Comments: 171",
+    "title": "Tim Curry has died",
+    "summary": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film Comments URL: https://news.ycombinator.com/item?id=49451448 Points: 310 # Comments: 118",
     "source": "Hacker News",
-    "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "date": "2026-08-25"
+    "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+    "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "These rodent OnlyFans stars are helping to fund scientific research",
-    "summary": "Nature, Published online: 25 August 2026; doi:10.1038/d41586-026-02550-0The platform, mostly known for its adult content, has provided a financial lifeline amid US federal-funding uncertainty. And now the marmots have their own cryptocurrency too.",
+    "title": "The 46 companies scrambling to commercialize fusion for energy",
+    "summary": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02513-5Whether the billions of dollars of investment will lead to an inexhaustible source of clean electrical power is not yet known.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-02550-0",
-    "date": "2026-08-25"
+    "link": "https://www.nature.com/articles/d41586-026-02513-5",
+    "date": "2026-08-26"
   },
   {
     "type": "news",
@@ -313,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-    "summary": "Humanoid robots still take a long time to complete human tasks. Several startups in China are trying different ways to collect and use training data better.",
+    "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
+    "summary": "Strategists said investors were approaching Jackson Hole “on the back foot.\"",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html",
-    "date": "2026-08-24"
-  },
-  {
-    "type": "news",
-    "title": "Point marchés-L'Europe vue en légère hausse avant Nvidia, face à la chute du pétrole",
-    "summary": "Point marchés-L'Europe vue en légère hausse avant Nvidia, face à la chute du pétrole Zonebourse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDI4MmlRUWR0RnJTZ1djUmFRcXFWMDZxYXlwMUFpbVNfN2dfbTBSMjR5TjdsT0FMWVJaLUQyWEp5YWtiNEhNc3Z5azdMVVJ2Vm5mQWZBRXpNQUVnUTRVRmdZNHFNdlI2LWJLM0RwWGFfSjhXdmdVT2JiME0yejFGb2JWekFrSFRYeUQ0TlREaVJJR0ZiNnEtOXFmZ09BUnYyZUNZMDFzS2NtUXJKWXFKemNVNTB4Ymk2RlhheE9BUWF3UWdYWUMxeExMN01EcFJBQ2w4ZUVMMDZqQW42?oc=5",
+    "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Droits de douane : la riposte « ciblée » et « stratégique » du Canada contre Donald Trump",
-    "summary": "Ottawa a précisé, mardi, ses mesures de représailles contre Washington, en réponse aux nouveaux droits de douane américains. Entre fermeté et nécessité de préserver son économie, le Canada défend un juste équilibre.",
+    "title": "Wall Street atone avant les résultats de Nvidia, l'inflation persistante alimente les paris sur une hausse des taux",
+    "summary": "Wall Street atone avant les résultats de Nvidia, l'inflation persistante alimente les paris sur une hausse des taux Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaWFzNDNIcjNXeVNWNkI4dmJUQ01qdnJPR3dvbUk0a0FNMVNqb0k5STYyTlUwMTg5R0RDT0xnSHBkamhYOW5UeC1VekVkOUhFenBSODJqcFZ0OFdRQ016MFRTZzdjN3V1cnpNSGJwT2xxTXZjNDN3U1JFUS12TTIzekNiVWV6bmpxWGhmYmJtb2cyQ1dzVU83Q2dWZDR5Z1BFQzA1UG4tVWU3OU9rRmdUa0xXSGg1NTlRemNiekw3ZElxU3VyVEhILWhHcFhVNGlqa0lmTjg2X1pfS3N2MTU1MXl3QW5LQWhNbGF3dGlhRQ?oc=5",
+    "date": "2026-08-26"
+  },
+  {
+    "type": "news",
+    "title": "La guerre au Soudan, premier terrain du « pacte de La Mecque » entre l’Arabie saoudite, la Turquie et le Pakistan",
+    "summary": "Les trois Etats, soucieux de peser face à l’Iran et à l’alliance entre Israël et les Emirats arabes unis, soutiennent de plus en plus fortement les forces de Khartoum, en guerre contre les paramilitaires des Forces de soutien rapide. Riyad finance l’achat de matériel turc et pakistanais.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/08/26/droits-de-douane-le-difficile-exercice-de-la-riposte-du-canada-contre-donald-trump_6756830_3234.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/26/la-guerre-au-soudan-premier-front-du-pacte-de-la-mecque-entre-l-arabie-saoudite-la-turquie-et-le-pakistan_6757388_3212.html",
     "date": "2026-08-26"
   },
   {
@@ -345,34 +345,34 @@
   },
   {
     "type": "news",
-    "title": "Only Protectionism Can Safeguard European Industry",
-    "summary": "While economic rebalancing by China would be good for everyone, Chinese leaders have given little indication that they are moving decisively in this direction. With China's ever-increasing exports threatening to decimate European manufacturing, the EU has little choice but to embrace tariffs.",
+    "title": "Who’s Afraid of Chinese Surpluses?",
+    "summary": "China recorded the largest trade surplus in history last year, and its exports continue to grow. But the scale of the threat to the global economy, and the appropriate response, remains subject to considerable disagreement.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/tariffs-are-needed-to-protect-eu-manufacturing-from-china-by-desmond-lachman-2026-08",
+    "link": "https://www.project-syndicate.org/onpoint/who-s-afraid-of-chinese-surpluses",
     "date": "2026-08-21"
   },
   {
     "type": "news",
-    "title": "Le Cap-Vert, cet archipel africain au destin exceptionnel",
-    "summary": "UNE SEMAINE AU CAP-VERT 1/5 - Cet été, le joli parcours de son équipe nationale à la Coupe du monde de football a ravivé la curiosité pour le Cap-Vert. Depuis son indépendance, en 1975, sans pétrole ni diamants, l’archipel réussit à allier croissance économique et démocratie.",
+    "title": "Des hackeurs proalgériens publient les données de 70 000 agents marocains présumés",
+    "summary": "La cyberguerre entre le Maroc et l’Algérie connaît un nouvel épisode. Lundi 24 août, le groupe de pirates informatiques proalgériens Jabaroot a publié sur les réseaux sociaux ce qu’il présente comme la liste de dizaines de milliers de noms d’agents des services de sécurité et de renseignements marocains – dont des espions.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/long-format/serie-d-ete-le-cap-vert-cet-archipel-africain-au-destin-exceptionnel_247708",
+    "link": "https://www.courrierinternational.com/article/cyberattaque-des-hackeurs-proalgeriens-publient-les-donnees-de-70-000-agents-marocains-presumes_263951",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Infantino has no future at FIFA, says European Leagues chief",
-    "summary": "Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.",
+    "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+    "summary": "The Israeli Product Centre says it has not been given enough time to sell off its stock.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
     "date": "2026-08-26"
   },
   {
     "type": "news",
-    "title": "Musk to receive Ukraine’s Order of Freedom from Zelenskyy",
-    "summary": "Ukrainian President Volodymyr Zelenskyy has awarded his country’s Order of Freedom to Elon Musk Wednesday, amid efforts to persuade Musk to expand access to his Starlink network. Zelenskyy’s presidential decree praises Musk for “protecting people’s lives and freedom, and developing relations between the peoples of Ukraine and the United States of America.” M…",
+    "title": "France is not ready to face cheap drones yet, warns top general",
+    "summary": "PARIS — France is not yet ready to face cheap, mass-produced threats like drones, the country’s chief of defense staff, Gen. Fabien Mandon, warned Wednesday. Defending in a financially sustainable manner against low-cost weapons manufactured in bulk, including Iranian-made Shahed drones, has been one of the main challenges for Western armed forces since the…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/elon-musk-awarded-ukraines-order-of-freedom-by-zelenskyy/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/france-not-ready-cheap-drones-threats-warns-top-general/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-08-26"
   },
   {
