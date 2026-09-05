@@ -33,18 +33,10 @@
   },
   {
     "type": "news",
-    "title": "Sommet International de l'Espace, Paris, 9 et 10 septembre : économie, science, défense, focus programmes européens",
-    "summary": "Sommet International de l'Espace, Paris, 9 et 10 septembre : économie, science, défense, focus programmes européens FranceTransactions.com",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHdIZDBERFBuMkFrMjBqaTdIYVdkZzE3VXFhazZqNlBDVFJ4Z2xLbkJBWFFvYWFxaFBtXzh6Unk4b2F4a0dJODdJVnhtREVpVDlieFpPUGpIaV9URjhQbzhtbG03Vm5NWjZkaTIxeWp6OUVKdnJWQjBoTE5Ia1ZJYTJ0OU9nZ0NwdV9xUy1tTnByZlU0VlJtYVc2RGUyRzJtUmtISy1FUEpKa0E?oc=5",
-    "date": "2026-09-05"
-  },
-  {
-    "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Jared Kushner et Steve Witkoff attendus à Moscou avant leur première visite à Kiev, prévue dimanche",
-    "summary": "Les deux émissaires de Donald Trump se rendent en Russie puis en Ukraine avec un plan « visant à mettre fin à la guerre », selon le président américain.",
+    "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a ordonné une suspension des frappes sur Kiev pendant trois jours à l’occasion de la visite de Jared Kushner et de Steve Witkoff, dit le Kremlin",
+    "summary": "La mesure prendra effet samedi à minuit (23 heures à Paris), a déclaré Dmitri Peskov, le porte-parole du Kremlin, précisant que cette décision était liée « à la préparation et à la tenue de contacts » avec la délégation américaine attendue à Kiev, dimanche.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-une-attaque-russe-dans-l-est-de-l-ukraine-fait-au-moins-quatre-morts_6760568_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-des-frappes-russes-sur-les-aeroports-de-kiev-et-de-boryspil-avant-la-visite-de-jared-kushner-et-de-steve-witkoff_6760568_3210.html",
     "date": "2026-09-05"
   },
   {
@@ -65,18 +57,18 @@
   },
   {
     "type": "news",
-    "title": "DJ, cocktails et open source : aux États-Unis, des ateliers de cybersécurité se tiennent dans des bars",
-    "summary": "Après plus d’une décennie de scandales ayant mis en lumière la surveillance numérique de masse à laquelle ils sont exposés, de plus en plus d’Américains se disent inquiets pour leur cybersécurité.",
+    "title": "L’Irlande est l’entrepôt numérique de l’Europe, mais à quel prix ?",
+    "summary": "L’Irlande s’est enrichie en attirant les géants de la tech. Mais derrière les milliards investis se profilent des tensions sur le réseau électrique et des objectifs climatiques menacés. Compte tenu de cette facture grandissante, le jeu en vaut-il encore la chandelle ? s’interroge l’“Irish Examiner”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/societe-dj-cocktails-et-open-source-aux-etats-unis-des-ateliers-de-cybersecurite-se-tiennent-dans-des-bars_243930",
+    "link": "https://www.courrierinternational.com/grand-format/opinion-l-irlande-est-l-entrepot-numerique-de-l-europe-mais-a-quel-prix_245139",
     "date": "2026-09-05"
   },
   {
     "type": "news",
-    "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-    "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+    "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+    "summary": "Ukraine and Russia announce a three-day limited ceasefire as US envoys visit Moscow, before trip to Kyiv.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
     "date": "2026-09-05"
   },
   {
@@ -130,7 +122,7 @@
   {
     "type": "news",
     "title": "Discovery of a new OpenAI agent message board",
-    "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1683 # Comments: 1308",
+    "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1811 # Comments: 1386",
     "source": "Hacker News",
     "link": "https://collusion.wiki/",
     "date": "2026-09-04"
@@ -177,14 +169,6 @@
   },
   {
     "type": "news",
-    "title": "Hausse de l’inflation et du coût de l’énergie : 'L’Europe n’est pas bien lotie, on a perdu le chemin de la croissance', selon l’économiste Philippe Ledent",
-    "summary": "Hausse de l’inflation et du coût de l’énergie : 'L’Europe n’est pas bien lotie, on a perdu le chemin de la croissance', selon l’économiste Philippe Ledent rtbf.be",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSjMxUS1oSW9aU205V3Y1RkJWdWZwZjBsak5WYVNmRnVtMkNudklnUHVvTWlDVW8tb1ZmdnhYOS12aU1qMEtaMVh4MFh2Qkozd2JNRmZOWTlLa2pEQTVHdzdMZEdYX1ZfYnZUQkF0TlFlM3ZpaWZTbzV6ZWFDTFctWmdMMHl1WDVLVUxZc1F2UmxEWU9NSDR3MkRvdEVWejdWdk1Wbkk1ajU2djM1a2NZYTY4VVltSHpwMGZJcFpoRjhUQ1hFQXFLekJhTDhqT05GYlZDZDZmeWJYc2x1S3RfMTU0R3QyTTgwZkd3dlExN2EwSlNzQ2hCR192SDJxMlpHU25IU2RwdktvOFlTay03RnlsVQ?oc=5",
-    "date": "2026-09-04"
-  },
-  {
-    "type": "news",
     "title": "La guerre en Iran n’est qu’une « broutille », minimise Donald Trump",
     "summary": "Le président américain a nié mener une guerre en Iran, alors que son armée a perdu 18 soldats et que le conflit enlisé depuis plusieurs mois a coûté plus de 37,5 milliards de dollars aux contribuables.",
     "source": "Le Monde International",
@@ -209,18 +193,18 @@
   },
   {
     "type": "news",
-    "title": "Un drone frappe le siège des services de sécurité ukrainiens pour la première fois",
-    "summary": "Vendredi 4 septembre, le siège des SBU à Kiev a été touché par un drone, faisant 12 blessés selon un bilan encore provisoire. Une attaque en plein cœur de la capitale qui révèle le manque criant de moyens de défense anti-aériens de l’Ukraine.",
+    "title": "“Une semaine au Cap-Vert”, notre série d’été sur un archipel au destin exceptionnel",
+    "summary": "Cet été, l’archipel africain s’est attiré une attention considérable grâce à son joli parcours de sa sélection nationale à la Coupe du monde de football. L’occasion pour “Courrier International” de se pencher sur les spécificités du Cap-Vert lors d’une série en cinq épisodes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-un-drone-frappe-le-siege-des-services-de-securite-ukrainiens-pour-la-premiere-fois_267831",
-    "date": "2026-09-04"
+    "link": "https://www.courrierinternational.com/article/afrique-une-semaine-au-cap-vert-notre-serie-d-ete-sur-un-archipel-au-destin-exceptionnel_265247",
+    "date": "2026-09-05"
   },
   {
     "type": "news",
-    "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
-    "summary": "Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.",
+    "title": "Pentagon polygraphs dozens of US military staff over media leaks",
+    "summary": "About 50 officers on the US Joint Staff were interrogated over reports detailing depleted weapons stockpiles, NYT says.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
     "date": "2026-09-05"
   },
   {
@@ -274,7 +258,7 @@
   {
     "type": "news",
     "title": "Statichost.eu – European static site hosting",
-    "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 268 # Comments: 100",
+    "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 345 # Comments: 152",
     "source": "Hacker News",
     "link": "https://www.statichost.eu/",
     "date": "2026-09-04"
@@ -321,18 +305,10 @@
   },
   {
     "type": "news",
-    "title": "Les marchés d'actions américains clôturent en baisse face à la perspective d'une hausse des taux de la Fed après des chiffres de l'emploi solides",
-    "summary": "Les marchés d'actions américains clôturent en baisse face à la perspective d'une hausse des taux de la Fed après des chiffres de l'emploi solides Zonebourse Suisse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZW5HNWhwSXZ0d1ExaEFjSmlDYzRDUlJoMDA1M2s1eXJnRWwxTDhibHhwa2ZwdktTaUJrd3IwWUFRWjJvOFpvY3VCTkFHalFWbDV0a2xrX3ZYcHNBUzlVTUpmSTBJdnA5VmVzYjhMR242TWtSN2NsYTZpSlFoalhFNm9lOUd2RTU3WXVIOFpKWG9KSHJ0cnB3Nkhnem5CN1V5Z0FlUXNuSW5qM2JEa0lRYmloS0tSTWVXLXBicXpKdU5saE83dDU0Qjdud0VUcTdkMWY4TGs5aE5xSHV3bEFfSGFoM3k1cnZKdVpyN0h2MmE?oc=5",
-    "date": "2026-09-04"
-  },
-  {
-    "type": "news",
-    "title": "En Allemagne, la mémoire de la présence soviétique au cœur des élections en Saxe-Anhalt : « Je ne considère pas les Russes comme des ennemis »",
-    "summary": "A trois jours d’un scrutin où le parti nationaliste populiste Alternative für Deutschland pourrait l’emporter dans ce Land de l’ex-Allemagne de l’Est, la ville de Stendal, où étaient stationnés 10 000 soldats de l’Armée rouge pendant la guerre froide, illustre le rapport singulier de l’ex-RDA à la Russie.",
+    "title": "Au Yémen, les combats les plus meurtriers depuis des années font craindre un retour à la guerre totale",
+    "summary": "Près de 180 combattants ont été tués en trois jours dans le sud-ouest du pays, où les houthistes ont lancé une offensive vers le détroit stratégique de Bab Al-Mandab. Quatre ans après la trêve de 2022, cette flambée de violence ravive le spectre du conflit qui ravage le Yémen depuis 2014.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-la-memoire-de-la-presence-sovietique-au-c-ur-des-elections-en-saxe-anhalt-je-ne-considere-pas-les-russes-comme-des-ennemis_6766062_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/09/05/au-yemen-les-combats-les-plus-meurtriers-depuis-des-annees-font-craindre-un-retour-a-la-guerre-totale_6766327_3210.html",
     "date": "2026-09-05"
   },
   {
@@ -353,18 +329,18 @@
   },
   {
     "type": "news",
-    "title": "Les films de Bruce Lee ont fait de la Côte d’Ivoire une terre de kung-fu",
-    "summary": "Depuis les années 1970, les arts martiaux chinois connaissent une grande popularité dans ce pays d’Afrique de l’Ouest, où ils ont trouvé un public et se sont même institutionnalisés. Le “South China Morning Post” décrit l’engouement de jeunes Ivoiriens pour une discipline qui mêle attrait esthétique et moral.",
+    "title": "DJ, cocktails et open source : aux États-Unis, des ateliers de cybersécurité se tiennent dans des bars",
+    "summary": "Après plus d’une décennie de scandales ayant mis en lumière la surveillance numérique de masse à laquelle ils sont exposés, de plus en plus d’Américains se disent inquiets pour leur cybersécurité.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/culture-les-films-de-bruce-lee-ont-fait-de-la-cote-d-ivoire-une-terre-de-kung-fu_251897",
+    "link": "https://www.courrierinternational.com/article/societe-dj-cocktails-et-open-source-aux-etats-unis-des-ateliers-de-cybersecurite-se-tiennent-dans-des-bars_243930",
     "date": "2026-09-05"
   },
   {
     "type": "news",
-    "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg island",
-    "summary": "The oil tanker has been hit by several US missiles, Iranian media reports.",
+    "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
+    "summary": "Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
     "date": "2026-09-05"
   },
   {
@@ -382,5 +358,29 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260903-%C3%A0-la-une-que-doit-faire-l-europe-face-%C3%A0-la-russie",
     "date": "2026-09-03"
+  },
+  {
+    "type": "news",
+    "title": "Le projet saoudien de parcs d’attractions divise les habitants de Cergy-Pontoise : « Nous sommes les grands oubliés »",
+    "summary": "Trois sites, dont l’un serait consacré à l’univers des mangas, pourraient voir le jour dans le Val-d’Oise, près de Paris. Avec 6 milliards d’euros d’investissement et 22 000 emplois annoncés, le projet suscite autant d’espoirs économiques que de craintes au sujet de l’environnement, du logement ou des transports.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/04/le-projet-saoudien-de-parcs-d-attractions-divise-les-habitants-de-courdimanche-nous-sommes-les-grands-oublies_6765627_3234.html",
+    "date": "2026-09-04"
+  },
+  {
+    "type": "news",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "date": "2026-09-02"
+  },
+  {
+    "type": "news",
+    "title": "Stop Prompting AI. Start Directing It",
+    "summary": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery that identified four pathways by which AI generates surprising insights during analytical work.i The second stream was an examination of how organizations function as algorithmic assemblages; it showed…",
+    "source": "MIT Sloan Review",
+    "link": "https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/",
+    "date": "2026-08-05"
   }
 ]
