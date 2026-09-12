@@ -25,10 +25,10 @@
   },
   {
     "type": "news",
-    "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-    "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
+    "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+    "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+    "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
     "date": "2026-09-11"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se dit prêt à rencontrer Vladimir Poutine au G20 de Miami, en décembre",
-    "summary": "Le président ukrainien a affirmé qu’il s’y rendrait si son homologue russe participait au sommet prévu aux Etats-Unis. Les deux hommes ne se sont pas rencontrés depuis 2019 et le Russe n’a personnellement participé à aucun sommet du G20 depuis cette même année.",
+    "title": "EN DIRECT, guerre en Ukraine : la participation de Vladimir Poutine au G20 « n’a pas encore été discutée » à Moscou",
+    "summary": "Le président russe n’a pas encore pris de décision concernant sa participation au sommet de Miami, en décembre, selon son conseiller diplomatique. Volodymyr Zelensky s’est dit prêt à rencontrer son homologue russe lors de ce sommet aux Etats-Unis.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-la-russie-a-attaque-l-ukraine-avec-une-centaine-de-drones-et-plus-de-14-missiles-dans-la-nuit-de-vendredi-a-samedi_6766818_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-kiev-a-mene-dans-la-nuit-des-frappes-contre-plusieurs-objectifs-militaires-de-l-armee-russe-dans-les-territoires-ukrainiens-occupes_6766818_3210.html",
     "date": "2026-09-12"
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "type": "news",
-    "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
-    "summary": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
+    "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+    "summary": "The 'War on Terror' gave far-right Islamophobia legitimacy, reach and electoral force.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
     "date": "2026-09-12"
   },
   {
@@ -130,7 +130,7 @@
   {
     "type": "news",
     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 672 # Comments: 381",
+    "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 799 # Comments: 457",
     "source": "Hacker News",
     "link": "https://www.rubyhack.ai/",
     "date": "2026-09-11"
@@ -169,18 +169,18 @@
   },
   {
     "type": "news",
-    "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-    "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+    "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
+    "summary": "The energy agency warned shrinking inventories and strained refineries could further tighten markets.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+    "link": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html",
     "date": "2026-09-11"
   },
   {
     "type": "news",
-    "title": "Les prix de l'énergie maintiennent l'inflation américaine très loin de l'objectif de la Fed, dont il est attendu une hausse de taux la semaine prochaine",
-    "summary": "Les prix de l'énergie maintiennent l'inflation américaine très loin de l'objectif de la Fed, dont il est attendu une hausse de taux la semaine prochaine investir.lesechos.fr",
+    "title": "L'Europe rebondit malgré le ton ferme de la BCE, Wall Street attentive à l'inflation",
+    "summary": "L'Europe rebondit malgré le ton ferme de la BCE, Wall Street attentive à l'inflation Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPckUzaU81Q0poSmNXenVsbjIyM3Y4UG9iRFExc29pUk9yRDBpREtNdUNKdllDbmR1YlJLRkk1amxWTEE4R2lULUEzRG9nS3dsSTJIX0lxdkswRU1nMmtsQ0VaRlZsRnpJWVV4QVpCV190alBBWE0xTjZRX2pVX29WNWdrc2w4RmhyMkhsTk5qQndkaEtOc2ZqWE1JLTZrSTlROHlaNHY1bUR0bU1CNzczTkhYdmFLTEVuMmlTekl0bVVyVmdRd3lIc3JELVpTVmgyVU55U3Q4eENsUjJTeDFMWWR2WWdDXzhySmw1SGdxUUdBbFk0Z1hQbHJoOXFVN1pBQm9nZmtrLWpnNHJJa3gwb0U0T1JpeFhFTWNyLWxvX0NndnkzajhZcUVNNmZRWnJxZnE2a3NMVk5YY1pfcHltSw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT3U0ZjFXRVk1MEtHZHd1QzhGTXIxZlkyQTBLSHpvOUp0V2RMYkxHQmt3SEpSMXo1REh2bnNSTXBlX0FudUI4LUdDWkNPVkZXQmlHMllJUEZPY0pwNzBSMkh1RUF2eU42MDNnWnN1Z2NRRThKZzJjYndhMUJ1WW9halYwdmlmUmhfdnMzVDJpaWRpN0hhMUlQd2d3MFJjR0s1TmlyYWw1VmtxR3RVTFhZOEdrQ3R3a18ydEZJUDFPYU9HVmdDcWRiWVFxOXhxVVdpaFJwNEx6SDVpcVhESTRzUXhydGxRWERrMklxalNJdmpyd3MwSXh6ZtIB-AFBVV95cUxQT3U0ZjFXRVk1MEtHZHd1QzhGTXIxZlkyQTBLSHpvOUp0V2RMYkxHQmt3SEpSMXo1REh2bnNSTXBlX0FudUI4LUdDWkNPVkZXQmlHMllJUEZPY0pwNzBSMkh1RUF2eU42MDNnWnN1Z2NRRThKZzJjYndhMUJ1WW9halYwdmlmUmhfdnMzVDJpaWRpN0hhMUlQd2d3MFJjR0s1TmlyYWw1VmtxR3RVTFhZOEdrQ3R3a18ydEZJUDFPYU9HVmdDcWRiWVFxOXhxVVdpaFJwNEx6SDVpcVhESTRzUXhydGxRWERrMklxalNJdmpyd3MwSXh6Zg?oc=5",
     "date": "2026-09-11"
   },
   {
@@ -217,10 +217,10 @@
   },
   {
     "type": "news",
-    "title": "BRICS meets in India: What’s on the agenda, why it matters",
-    "summary": "This year's summit comes amid the US-Israel war on Iran, Russia's war on Ukraine and global economic challenges.",
+    "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+    "summary": "Russia's Defence Ministry says its forces have struck several industrial facilities across Ukraine.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
     "date": "2026-09-12"
   },
   {
@@ -274,7 +274,7 @@
   {
     "type": "news",
     "title": "A misalignment of AI in mathematics",
-    "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 882 # Comments: 858",
+    "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 1039 # Comments: 989",
     "source": "Hacker News",
     "link": "https://mathandai.org/",
     "date": "2026-09-11"
@@ -313,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
-    "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+    "title": "CNBC Daily Open: Two market forces battle for dominance",
+    "summary": "Bond yields and oil prices keep investors' attention ahead of key inflation data that could set the course for the Fed.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+    "link": "https://www.cnbc.com/2026/09/11/cnbc-daily-open-two-market-forces-battle-for-dominance.html",
     "date": "2026-09-11"
   },
   {
     "type": "news",
-    "title": "L'Europe rebondit malgré le ton ferme de la BCE, Wall Street attentive à l'inflation",
-    "summary": "L'Europe rebondit malgré le ton ferme de la BCE, Wall Street attentive à l'inflation Boursorama",
+    "title": "Les prix de l'énergie maintiennent l'inflation américaine très loin de l'objectif de la Fed, dont il est attendu une hausse de taux la semaine prochaine",
+    "summary": "Les prix de l'énergie maintiennent l'inflation américaine très loin de l'objectif de la Fed, dont il est attendu une hausse de taux la semaine prochaine Les Echos",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT3U0ZjFXRVk1MEtHZHd1QzhGTXIxZlkyQTBLSHpvOUp0V2RMYkxHQmt3SEpSMXo1REh2bnNSTXBlX0FudUI4LUdDWkNPVkZXQmlHMllJUEZPY0pwNzBSMkh1RUF2eU42MDNnWnN1Z2NRRThKZzJjYndhMUJ1WW9halYwdmlmUmhfdnMzVDJpaWRpN0hhMUlQd2d3MFJjR0s1TmlyYWw1VmtxR3RVTFhZOEdrQ3R3a18ydEZJUDFPYU9HVmdDcWRiWVFxOXhxVVdpaFJwNEx6SDVpcVhESTRzUXhydGxRWERrMklxalNJdmpyd3MwSXh6ZtIB-AFBVV95cUxQT3U0ZjFXRVk1MEtHZHd1QzhGTXIxZlkyQTBLSHpvOUp0V2RMYkxHQmt3SEpSMXo1REh2bnNSTXBlX0FudUI4LUdDWkNPVkZXQmlHMllJUEZPY0pwNzBSMkh1RUF2eU42MDNnWnN1Z2NRRThKZzJjYndhMUJ1WW9halYwdmlmUmhfdnMzVDJpaWRpN0hhMUlQd2d3MFJjR0s1TmlyYWw1VmtxR3RVTFhZOEdrQ3R3a18ydEZJUDFPYU9HVmdDcWRiWVFxOXhxVVdpaFJwNEx6SDVpcVhESTRzUXhydGxRWERrMklxalNJdmpyd3MwSXh6Zg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPckUzaU81Q0poSmNXenVsbjIyM3Y4UG9iRFExc29pUk9yRDBpREtNdUNKdllDbmR1YlJLRkk1amxWTEE4R2lULUEzRG9nS3dsSTJIX0lxdkswRU1nMmtsQ0VaRlZsRnpJWVV4QVpCV190alBBWE0xTjZRX2pVX29WNWdrc2w4RmhyMkhsTk5qQndkaEtOc2ZqWE1JLTZrSTlROHlaNHY1bUR0bU1CNzczTkhYdmFLTEVuMmlTekl0bVVyVmdRd3lIc3JELVpTVmgyVU55U3Q4eENsUjJTeDFMWWR2WWdDXzhySmw1SGdxUUdBbFk0Z1hQbHJoOXFVN1pBQm9nZmtrLWpnNHJJa3gwb0U0T1JpeFhFTWNyLWxvX0NndnkzajhZcUVNNmZRWnJxZnE2a3NMVk5YY1pfcHltSw?oc=5",
     "date": "2026-09-11"
   },
   {
     "type": "news",
-    "title": "Art contemporain d’Afrique : à Bruxelles, Reinata Sadimba et Raymond Tsham rassemblés pour dialoguer",
-    "summary": "A la galerie bruxelloise de Christophe Person, la Mozambicaine et le Congolais présentent leurs créations, qui se répondent. Jusqu’au 1er novembre.",
+    "title": "En Russie, les hommes en âge de combattre tentés par l’exil devant la menace d’une nouvelle mobilisation : « De simples citoyens ne veulent pas être envoyés dans une guerre sans fin »",
+    "summary": "Certains ont déjà acheté un billet d’avion, prêts à partir si une mobilisation générale est déclarée après les élections législatives du 18 au 20 septembre. La Géorgie, l’Arménie et la Serbie sont les destinations les plus prisées.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/09/12/art-contemporain-d-afrique-a-bruxelles-reinata-sadimba-et-raymond-tsham-rassembles-pour-dialoguer_6771125_3212.html",
+    "link": "https://www.lemonde.fr/international/article/2026/09/12/en-russie-les-hommes-en-age-de-combattre-tentes-par-l-exil-devant-la-menace-d-une-nouvelle-mobilisation-de-simples-citoyens-ne-veulent-pas-etre-envoyes-dans-une-guerre-sans-fin_6771397_3210.html",
     "date": "2026-09-12"
   },
   {
@@ -361,10 +361,10 @@
   },
   {
     "type": "news",
-    "title": "How Canadians are bracing for the impact of Trump’s trade war",
-    "summary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
+    "title": "BRICS nations urge smooth flow of global trade, supply chains, energy",
+    "summary": "Joint declaration at BRICS urges 'maximum restraint' as wars threaten flow of global trade, supply chains and energy",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
     "date": "2026-09-12"
   },
   {
