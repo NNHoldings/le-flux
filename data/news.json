@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Sergueï Lavrov, le ministre des affaires étrangères russe, menace l’Europe « d’une guerre très courte » en cas d’attaque contre la Russie",
-    "summary": "Tout en assurant que Moscou n’a « aucune intention d’attaquer l’Europe », le chef de la diplomatie russe a dit espérer que cette « mise en garde » soit entendue par les capitales européennes et les institutions de l’Union européenne, accusées par le Kremlin d’alimenter l’escalade.",
+    "title": "Cyberattaques contre des sites sensibles français : « L’Etat russe apparaît comme le commanditaire ou le bénéficiaire de toutes ces données »",
+    "summary": "Vols massifs d’informations personnelles, infiltrations d’infrastructures critiques, recrutement de complices au sein des administrations… Dans un entretien au « Monde », la chercheuse Marie-Gabrielle Bertran explique comment ces menaces ont changé d’échelle, brouillant un peu plus la frontière entre criminalité, espionnage et stratégie guerrière.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/16/en-direct-guerre-en-ukraine-serguei-lavrov-le-ministre-des-affaires-etrangeres-russe-menace-l-europe-d-une-guerre-tres-courte-en-cas-d-attaque-contre-la-russie_6772184_3210.html",
+    "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/16/cyberattaques-contre-des-sites-sensibles-francais-l-etat-russe-apparait-comme-le-commanditaire-ou-le-beneficiaire-de-toutes-ces-donnees_6775453_6065879.html",
     "date": "2026-09-16"
   },
   {
@@ -73,18 +73,18 @@
   },
   {
     "type": "news",
-    "title": "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
-    "summary": "As Gaza is being destroyed, the so-called oil fund enjoys robust returns from companies linked to Israel's military.",
+    "title": "US Fed raises interest rates for first time in three years",
+    "summary": "The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/16/norway-oil-fund-ethical-concerns?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "‘We absolutely can’t surrender,’ top Republican says of AI race with China",
-    "summary": "House Energy and Commerce Chair Brett Guthrie said Wednesday that he agrees serious concerns exist about the growing power of artificial intelligence — but warned against adopting the kinds of strict regulations that he argues have depressed tech advances in Europe.",
+    "title": "Von der Leyen fleshes out Carney’s vision to paint Europe as leader of world’s middle powers",
+    "summary": "BRUSSELS ― Ursula von der Leyen used a major speech on Wednesday to pitch Europe as the leader of a group of like-minded countries that want to hold their own against rival powers such as Russia and China. Not invited to join this EU-led coalition? Donald Trump’s United States.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/09/16/brett-guthrie-artificial-intelligence-china-race-01078965?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/ursula-von-der-leyen-mark-carney-europe-world-middle-powers/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-16"
   },
   {
@@ -97,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "La Banque de France abaisse légèrement sa prévision de croissance pour 2026, à 0,4 % du PIB",
-    "summary": "En dépit de cette révision à la baisse, l’institution estime que l’économie française est une « économie qui résiste ». La faible consommation des ménages, la perte de dynamisme de l’investissement privé et la faible contribution du commerce extérieur pèsent sur l’activité du pays.",
+    "title": "« Les opérateurs télécoms européens n’ont pas la fibre généreuse. Ils refusent de payer seuls la facture de la souveraineté »",
+    "summary": "Orange, Telefonica, Deutsche Telekom... Dix-sept dirigeants d’entreprises dénoncent la volonté de Bruxelles d’évincer les équipements du chinois Huawei sur le continent, qui pourrait selon eux coûter jusqu’à 40 milliards d’euros au secteur.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/15/la-banque-de-france-abaisse-legerement-sa-prevision-de-croissance-pour-2026-a-0-4-du-pib_6774471_3234.html",
-    "date": "2026-09-15"
+    "link": "https://www.lemonde.fr/economie/article/2026/09/16/les-operateurs-telecoms-europeens-n-ont-pas-la-fibre-genereuse-ils-refusent-de-payer-seuls-la-facture-de-la-souverainete_6775193_3234.html",
+    "date": "2026-09-16"
   },
   {
     "type": "news",
@@ -129,19 +129,19 @@
   },
   {
     "type": "news",
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 460 # Comments: 304",
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 457 # Comments: 164",
     "source": "Hacker News",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "date": "2026-09-15"
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Advancing conflict research and response through satellite-derived data",
-    "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11004-6Integrating satellite-derived war-damage data with text-based fatality records through improvement, enrichment and fusion mitigates limitations inherent in each source, revealing complex violence dynamics beyond fatality-centric paradigms, as case studies from Ukraine and Myanmar illu…",
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11044-yPaper2Agent converts research papers into interactive artificial intelligence agents by turning manuscripts, code and data into model context protocol-based tool-invoking systems that reproduce original results, answer new scientific queries and collaborate to generate novel insights.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-11004-6",
-    "date": "2026-09-09"
+    "link": "https://www.nature.com/articles/s41586-026-11044-y",
+    "date": "2026-09-16"
   },
   {
     "type": "news",
@@ -169,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks",
-    "summary": "Rising Treasury yields, geopolitical risk and fresh AI safety concerns are hitting markets, but many investors remain bullish on AI spending and earnings.",
+    "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+    "summary": "The 10-year Treasury note yield traded near the key 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
+    "link": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Les marchés asiatiques enregistrent des gains fragiles à la veille de la décision de la Fed ; le pétrole recul",
-    "summary": "Les marchés asiatiques enregistrent des gains fragiles à la veille de la décision de la Fed ; le pétrole recul Boursorama",
+    "title": "Taux de la Fed: Warsh pourrait écouter les marchés financiers plutôt que Trump",
+    "summary": "Taux de la Fed: Warsh pourrait écouter les marchés financiers plutôt que Trump Noovo Info",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMFFyRXg0OW05RHQtUV96QnNFMlpqbjBidjJ1YWpJZkZhWkh3QWlaM1hqZGNneWpkV1FzVld5S1VEZFJROUxqRGRSSVpoV3JhQ2dlUE9KTGoxLUY1YzNCSEVnajZvWVJxWGpST2tZY2VlMWhXS3QxMjNuZ3I1cEZmV3dmS3lNSm9rQTctQzM1MzFUU3FCS0RubzQwZXdKRTRUa1hIc2draUhJOHYycWxjbzIwMEFGQ1dMN3ZJWXk5SGl2VHlEdzhjaXFhaVBOWDRLRlpHNXBvN1NsR3g2bFlHdWtOb0hEeFJKNEt5RFpXYU96RFg1cThsOUZxR2JTa2hVZjhPUlJvcGUxN0sxNGVtZUc0YS1fUE96NGFN0gGbAkFVX3lxTFAwUXJFeDQ5bTlEdC1RX3pCc0UyWmpuMGJ2MnVhaklmRmFaSHdBaVozWGpkY2d5amRXUXNWV3lLVURkUlE5TGpEZFJJWmhXcmFDZ2VQT0pMajEtRjVjM0JIRWdqNm9ZUnFYalJPa1ljZWUxaFdLdDEyM25ncjVwRmZXd2ZLeU1Kb2tBNy1DMzUzMVRTcUJLRG5vNDBld0pFNFRrWEhzZ2tpSEk4djJxbGNvMjAwQUZDV0w3dklZeTlIaXZUeUR3OGNpcWFpUE5YNEtGWkc1cG83U2xHeDZsWUd1a05vSER4Uko0S3lEWldhT3pEWDVxOGw5RnFHYlNraFVmOE9SUm9wZTE3SzE0ZW1lRzRhLV9QT3o0YU0?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTVd2UHRaR1ZwZm9ETkVLcVZOTDdwSmpNMVhiT1Fvdm5TcndJaF9oOW9PTEVnNk9OMlA3TFRvQS1TUF9Uel9QMzk0c0ZQRF9YS0pJQXJia0t3T1dNbV94T1AwYjhPTWZHYWZEMEpWSC1Sbml5dDBiVzRPZzJlSnhmSE91Qm9BaU9oaHduWHp0Y212Tnh1aHlRM1pvZy05ZnV6OUZlbE1QWTctX0V5bDBIbmd4MkRZY1ZiTFZ2cGsxY1pjc2RqTEhJ?oc=5",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Guerre en Ukraine : les Gueran à réaction, ce nouveau type de drone russe qui sème la destruction",
-    "summary": "L’armée russe mise sur ces drones, équipés de moteurs à réaction chinois, qui parviennent à percer la défense antiaérienne ukrainienne grâce à leur vitesse.",
+    "title": "La Fed va à l’encontre de Donald Trump et augmente ses taux directeurs pour lutter contre l’inflation aux Etats-Unis",
+    "summary": "La Réserve fédérale américaine a choisi, mercredi 16 septembre, de relever ses taux directeurs d’un quart de point, entre 3,75 % et 4 %, afin d’enrayer la hausse des prix.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/16/guerre-en-ukraine-moscou-mise-sur-les-drones-rapides-a-reaction_6775139_3210.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
     "date": "2026-09-16"
   },
   {
@@ -225,10 +225,10 @@
   },
   {
     "type": "news",
-    "title": "Ozempic-maker turns to Anthropic to turbocharge medical research",
-    "summary": "Novo and Anthropic announced a collaboration Wednesday to accelerate the development of new medicines and AI-driven software. The news landed hours after European Commission President Ursula von der Leyen spoke about the benefits of AI in health care — and days after tech bros warned there is a 10% likely existential threat to all humanity from super AI with…",
+    "title": "US central bank hikes interest rates and signals more to come, defying Trump",
+    "summary": "The Federal Reserve unanimously voted Wednesday to raise interest rates for the first time in three years and signaled it might hike again this year, a move that will test the delicate relationship between President Donald Trump and his new Fed chair, Kevin Warsh.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/novo-turns-to-anthropic-to-turbocharge-medical-research/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.com/news/2026/09/16/fed-rates-trump-warsh-inflation-01079371?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-16"
   },
   {
@@ -241,10 +241,10 @@
   },
   {
     "type": "news",
-    "title": "« Les opérateurs télécoms européens n’ont pas la fibre généreuse. Ils refusent de payer seuls la facture de la souveraineté »",
-    "summary": "Orange, Telefonica, Deutsche Telekom... Dix-sept dirigeants d’entreprises dénoncent la volonté de Bruxelles d’évincer les équipements du chinois Huawei sur le continent, qui pourrait selon eux coûter jusqu’à 40 milliards d’euros au secteur.",
+    "title": "« Que se passera-t-il si la bulle de l’IA éclate ? »",
+    "summary": "Des profits décevants dans l’intelligence artificielle pourraient fragiliser les marchés de la dette et créer un risque de crise financière systémique, explique l’économiste Barry Eichengreen, dans sa chronique pour « Le Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/16/les-operateurs-telecoms-europeens-n-ont-pas-la-fibre-genereuse-ils-refusent-de-payer-seuls-la-facture-de-la-souverainete_6775193_3234.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/09/16/que-se-passera-t-il-si-la-bulle-de-l-ia-eclate_6774995_3232.html",
     "date": "2026-09-16"
   },
   {
@@ -273,19 +273,19 @@
   },
   {
     "type": "news",
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 283 # Comments: 84",
+    "title": "Hackers Got Inside a Flock Camera",
+    "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 366 # Comments: 179",
     "source": "Hacker News",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Predicting genome-wide functional constraints with GPN-Star",
-    "summary": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11005-5GPN-Star, a genomic language model with a phylogeny-aware architecture for whole-genome alignment data, is shown to be a scalable and flexible tool for genetic variant effect prediction across species.",
+    "title": "Turning scientific research papers into interactive AI agents",
+    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02880-zScientific knowledge is mostly stored in static papers. An automated framework called Paper2Agent can now transform each paper into an active artificial intelligence agent — a virtual corresponding author that answers questions, applies the paper’s methods to new data, and collaborate…",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/s41586-026-11005-5",
-    "date": "2026-09-09"
+    "link": "https://www.nature.com/articles/d41586-026-02880-z",
+    "date": "2026-09-16"
   },
   {
     "type": "news",
@@ -313,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-    "summary": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
+    "title": "OpenAI investors have approached the company about a new funding round",
+    "summary": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-    "date": "2026-09-15"
-  },
-  {
-    "type": "news",
-    "title": "Chili : la banque centrale a maintenu ses taux en raison d'une incertitude plus élevée que d'habitude, selon les minutes",
-    "summary": "Chili : la banque centrale a maintenu ses taux en raison d'une incertitude plus élevée que d'habitude, selon les minutes Zonebourse Suisse",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFpIVGNaT2ROZlNKT2FVZVY4eGtoRlhVSENtbDVVRVloTFYtaWdOMDBuTTBNQWdoVjBKTzZNSnZlQ3IycmxaeWhKcUQ5M3BHakhwaGp0SDVxY19oV0l0RUtxQ3RjTGRlY1dtSXFXamxpbnBqUmlMV3NfaGFPd1hQeFgyR2ZPSk9ESXhFb0lSQVQ2NmNRRG5VWUxvSjJfZXNocTdsdnVXbXcycmNTSlVQVFRrVjdWLVpwZ0x5LUtPZDlQaDRFMFBlMlYzaFVFNWNJektjcUJXZmRnZmw4eWt5eHV3LVUtd0d0bnJYSUp5OA?oc=5",
+    "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "L’Arabie saoudite et l’économie mondiale prises dans un étau",
-    "summary": "Après Ormuz, un autre détroit stratégique pour le commerce maritime, celui de Bal Al-Mandab, est menacé par l’offensive des rebelles houthistes au Yémen contre Riyad. Une escalade qui fait le jeu du régime iranien, ce dernier visant clairement une envolée des prix du pétrole pour faire plier Donald Trump.",
+    "title": "Wall Street rebondit après la hausse des taux d'intérêt décidée par la Fed pour lutter contre l'inflation",
+    "summary": "Wall Street rebondit après la hausse des taux d'intérêt décidée par la Fed pour lutter contre l'inflation Boursorama",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaDYyc2JReDZidHYxd3RjT0ZaUmpQNFV2QzMtMEZJTXZUUmRMTDdNZnFmNTF4VWVLcm1pWEZQWlowblZaZW9KT2J6YjhiOExGTTY3RUdOaUxPMEtmd3NtblVLcEhxZnRvWEpzSGE2R3RoODVxWTQ1UFFfZkhPYmpMakd3bXU5SmxydmFhSEhfVllLNGVrRWwxcFoxR1FtQ1JVcXo5dVFPdzhab1NsM0M5QXF0SlZubURHNTVWbHNBYVM0czQyNE9UdUVmM0tXOV9SMTBOd1g4S25CdkF3TlZ0TUNhaHQyS2xjaWFvVy1kR1c5d2Z6ZFlVRVpOUjJFMFVlRmliSFFNOTltdElGMm5mQtIBlgJBVV95cUxPa0N6QUlrYkNCZzMtakR2WXNndzFTQWcybjRRdkJFX0I2bVRrY04zTy1qWlZTckFmSlhWQ2ZjN1BVQWdvV3FpTXhaTl81eW1lbGZLZWFlZ1hfQWtTZFVMY1hUSVRWUksyNXNoU3dHOEV4Q24xdjJ4UkN1emRkdkxjOEVFYmNYN28yS1dNNHZaN2NoUmd0QXJ0alI2UVdNQzZpT2ZvSlRLZ0lHZ0ZDOTdGU3AyM0RiRlh0ZEY0UUNCckVMLTZmV1BnLWNQRm1fUDAwV29TNkVma0w0UXYwU1lkb0NGWFJBT0haX2VfT3U0REZRb2lvNG5fb3FvOU5Ob3pBSTd6M2pWTE12UThpeVVwQVVzYTcwQQ?oc=5",
+    "date": "2026-09-16"
+  },
+  {
+    "type": "news",
+    "title": "Face à la montée de l’extrême droite, la présidente de la Commission promet une Europe qui protège",
+    "summary": "Dans un discours fleuve, mercredi 16 septembre, Ursula von der Leyen a rappelé la nécessité d’une réponse collective au changement climatique, aux risques liés à l’intelligence artificielle, à la défense ou aux exportations chinoises.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/09/16/l-arabie-saoudite-et-l-economie-mondiale-prises-dans-un-etau_6775212_3232.html",
+    "link": "https://www.lemonde.fr/international/article/2026/09/16/face-a-la-montee-de-l-extreme-droite-la-presidente-de-la-commission-promet-une-europe-qui-protege_6775435_3210.html",
     "date": "2026-09-16"
   },
   {
@@ -353,26 +353,26 @@
   },
   {
     "type": "news",
-    "title": "Mark Carney recherche une alliance “sur mesure” entre le Canada et l’Europe",
-    "summary": "Le Premier ministre canadien a entamé son 19ᵉ voyage officiel sur le Vieux Continent avec une grande ambition, souligne le quotidien québécois “Le Devoir” : celle de conclure une alliance sur mesure avec l’Union européenne (UE), pour mieux faire contrepoids aux pressions de Donald Trump.",
+    "title": "L’Irak impuissant face au risque d’une “escalade militaire” des factions pro-Iran",
+    "summary": "Menée depuis le sud-est du territoire irakien, une attaque de drones contre l’oléoduc saoudien Est-Ouest pourrait avoir été perpétrée par une faction proche de Téhéran cherchant à “mettre à l’épreuve” le gouvernement.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-du-canada-mark-carney-a-la-conquete-d-une-alliance-unique-avec-l-europe_271396",
+    "link": "https://www.courrierinternational.com/article/moyen-orient-l-irak-impuissant-face-au-risque-d-une-escalade-militaire-des-factions-pro-iran_271714",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Why some countries fail while others prosper in the Middle East and Africa",
-    "summary": "The answer lies less in geography or resources than in the institutions that shape power, legitimacy and opportunity.",
+    "title": "South Africa slams planned US visa curbs over alleged racial discrimination",
+    "summary": "Trump administration falling for misinformation from 'fringe groups' alleging discrimination against white Afrikaners.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/9/16/why-some-countries-fail-while-others-prosper-in-the-middle-east-and-africa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss",
     "date": "2026-09-16"
   },
   {
     "type": "news",
-    "title": "Russian drone found off Poland’s coast carried explosive warhead, prosecutor says",
-    "summary": "The Russian drone found Monday off Poland’s northwestern coast was carrying a warhead with a detonator, prosecutors handling the case announced Wednesday. On Monday, the Polish military located and retrieved a drone ⁠from the Baltic Sea near the beach in Rusinowo, close ​to Jarosławiec.",
+    "title": "Germany to send fighter jets to Latvia during election amid drone threat",
+    "summary": "BERLIN — Germany will deploy Eurofighter jets to Latvia to help protect its airspace during next month’s parliamentary election as repeated drone incursions have raised security concerns along NATO’s eastern flank.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russian-drone-found-off-poland-coast-carried-explosive-warhead/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/germany-to-send-fighter-jets-to-latvia-during-election-amid-drone-threat/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-16"
   },
   {
