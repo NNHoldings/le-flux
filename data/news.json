@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : le Royaume-Uni réaffirme son soutien à l’Ukraine malgré les menaces de Moscou",
-    "summary": "Vendredi, la Russie a officiellement protesté contre « la hausse [par Londres] de ses livraisons de drones et d’autres systèmes d’armement » à l’Ukraine. Le 8 septembre, le gouvernement britannique avait annoncé débloquer 100 millions de livres (116,5 millions d’euros) pour fournir « avant l’hiver » à l’Ukraine des moyens de défense aérienne, dont des missil…",
+    "title": "Guerre en Ukraine : Donald Trump signe la loi Graham, permettant de nouvelles sanctions contre la Russie",
+    "summary": "Le texte offre un éventail sans précédent de mesures contre Moscou et ses partenaires, parmi lesquels l’Inde et la Chine. Mais de nombreux élus démocrates regrettent qu’il donne à la Maison Blanche le pouvoir d’imposer des droits de douane de 100 % à n’importe quel pays, sans contrôle.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-le-royaume-uni-reaffirme-son-soutien-a-l-ukraine-malgre-les-menaces-de-moscou_6772184_3210.html",
-    "date": "2026-09-18"
+    "link": "https://www.lemonde.fr/international/article/2026/09/19/guerre-en-ukraine-donald-trump-signe-la-loi-graham-permettant-de-nouvelles-sanctions-contre-la-russie_6777144_3210.html",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
@@ -73,18 +73,18 @@
   },
   {
     "type": "news",
-    "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-    "summary": "Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.",
+    "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+    "summary": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-    "date": "2026-09-18"
+    "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "Ukraine’s NATO envoy calls for more air defense donations",
-    "summary": "KYIV — Ukraine needs more air defenses, but allies are starting to doubt if they can help Kyiv withstand the growing scale of Russian attacks, Alyona Getmanchuk, Ukraine’s ambassador to NATO, told POLITICO on Friday.",
+    "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia",
+    "summary": "Russia is holding its first parliamentary elections this weekend since the start of its full-scale invasion of Ukraine in 2022 — a vote that sees the opposition scrambling to give voters options in a field increasingly narrowed by the Kremlin. The shadow of the war looms large over proceedings.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/more-air-defense-for-ukraine-now-means-more-security-for-nato-later-envoy-says/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/there-are-no-decent-parties-left-sham-elections-underscore-putins-grip-on-russia/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-18"
   },
   {
@@ -121,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "Researchers used Claude to hack OpenAI",
-    "summary": "Cyber researchers broke into OpenAI using its key rival Anthropic’s software, highlighting vulnerabilities in the ChatGPT maker’s security as leading AI companies face mounting scrutiny over safety.",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "summary": "The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report. That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear arms program components through the Middle East, according to…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
     "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "US Military had close call after using AI for hallucinated intelligence report",
-    "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 164 # Comments: 90",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 181 # Comments: 63",
     "source": "Hacker News",
-    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-    "date": "2026-09-18"
+    "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
@@ -177,19 +177,19 @@
   },
   {
     "type": "news",
-    "title": "Pérou : la banque centrale abaisse sa prévision de croissance du PIB pour 2026 en raison de l'impact d'El Niño",
-    "summary": "Pérou : la banque centrale abaisse sa prévision de croissance du PIB pour 2026 en raison de l'impact d'El Niño Zonebourse Suisse",
+    "title": "La banque centrale du Pérou abaisse sa prévision de croissance du PIB à 3.2% pour 2026",
+    "summary": "La banque centrale du Pérou abaisse sa prévision de croissance du PIB à 3.2% pour 2026 Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmd4OElySnRwck9mLXRZQzFYVWNpNmtTODl4V0pKQ2lzRnBBOXdqVUl3V09icFlkSENnUTkzT3otbWl3d1I4a0ZOX3p5c1lrVllVUFNDZjlyYXE0SlM2RXdyQzlKdVNpNUZrNy1ZSWFUcEI0ZVNxY3MxdEpIVW9aS2poUlpFN0xmVEQ3QWZ0OVFlcFBPY3JUM1VHN3RkbkRUaFpOV0tMQURwMmxmRENWWER6Ty1GakplamN4MnhhbF9RTjNIUTZUTWFCSGlvMlJoQk9iQTIyYzMwbXNiUnA3QTZLa25LeGJmM0xEYUJIMA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2ZNNnBHLVQyYjZPaHQ1bER1SW9Vc0hNdkhYbHBNbVVCY3EtSlFOamdPR3BqNmtvWlZ1X0NrUEFuUXNGN2NJd3lOZzNPb1l4eHpfTFAtVGtQeVprTDVTMU5MbWlzcEUzU19zWnZQYmgtZEx3Sjd0ZzdqeGxlVjNIVmZIMXhTZHhGdTBPck84dk51WVBVS21CUUh2UHoxaGw4bjFkWG45d0QzNmVNQkMwSS1vRVVYa2xvNzlMMlo2UVRlTWc3X0RoNTZpdkVNVUY2VmdBeWhyVUI5bnRSVHc?oc=5",
     "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "Avec le Kids Act, l’Europe veut redéfinir en profondeur les règles qui régissent les réseaux sociaux accessibles aux mineurs",
-    "summary": "Interdiction des mécanismes « addictifs », algorithmes bridés, limitation de l’accès au micro ou à la caméra, empêchement de contacter un mineur inconnu… Au-delà de l’interdiction aux moins de 13 ans, le texte européen présenté cette semaine prévoit pour les plateformes des mesures très contraignantes qui concernent tous les mineurs.",
+    "title": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
+    "summary": "Le PDG de l’entreprise qui a développé ChatGPT doit faire une présentation, mercredi 23 septembre, à New York, au cours d’une réunion organisée à l’initiative de la France, dans un contexte de fortes inquiétudes autour des risques liés à l’intelligence artificielle.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/pixels/article/2026/09/18/avec-le-kids-act-l-europe-veut-redefinir-en-profondeur-les-regles-qui-regissent-les-reseaux-sociaux-accessibles-aux-mineurs_6776827_4408996.html",
-    "date": "2026-09-18"
+    "link": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
@@ -209,43 +209,43 @@
   },
   {
     "type": "news",
-    "title": "Intelligence artificielle : peut-on encore arrêter la course aux armements ?",
-    "summary": "Alors que les entreprises d’intelligence artificielle multiplient les alertes sur le risque de voir cette technologie échapper à tout contrôle, “The Economist” estime que seule une “trêve” technologique entre les États-Unis et la Chine permettrait de renforcer la sécurité de l’IA.",
+    "title": "Les sanctions contre Moscou, une “grenade” que Trump “risque de brandir à tout-va”",
+    "summary": "Le Congrès américain a adopté, dans la nuit du 16 au 17 septembre, un nouveau paquet de sanctions contre la Russie, à l’issue de longues négociations. Dans la presse russe, l’attention se porte moins sur la sévérité des mesures du texte que sur cette question : le président américain s’en servira-t-il comme moyen de pression ou en fera-t-il réellement usage…",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/une/une-du-jour-ia-peut-on-encore-arreter-la-course-aux-armements_272202",
+    "link": "https://www.courrierinternational.com/article/vu-de-russie-les-sanctions-contre-moscou-une-grenade-que-trump-risque-de-brandir-a-tout-va_272067",
     "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-    "summary": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
+    "title": "Russia’s elections are more than political theatre",
+    "summary": "For the Kremlin, parliamentary elections remain a mechanism for political participation, feedback and legitimacy.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
-    "date": "2026-09-18"
+    "link": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia",
-    "summary": "Russia is holding its first parliamentary elections this weekend since the start of its full-scale invasion of Ukraine in 2022 — a vote that sees the opposition scrambling to give voters options in a field increasingly narrowed by the Kremlin. The shadow of the war looms large over proceedings.",
+    "title": "European leaders prepare public for ‘intensified threat’ from Putin",
+    "summary": "BRUSSELS — Top European officials are increasingly alarmed that Russia could stage drone or missile attacks against NATO countries as Moscow steps up its hybrid campaign across the continent.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/there-are-no-decent-parties-left-sham-elections-underscore-putins-grip-on-russia/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/russia-vladimir-putin-nato-drone-attacks-europe-leaders-warning/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "IA : pourquoi les patrons américains appellent à freiner le développement?",
-    "summary": "La course à l’intelligence artificielle connaît un spectaculaire appel au ralentissement, venu cette fois de ceux qui en sont les protagonistes. Dario Amodei, le patron d’Anthropic, l’un des leaders mondiaux de l’IA, propose une pause. Son message est clair : « Nous devons ralentir la cadence à laquelle nous améliorons les capacités des modèles d’IA.",
+    "title": "Une «guerre cognitive»: comment Moscou forme des journalistes étrangers pour exercer une influence durable",
+    "summary": "Former des journalistes étrangers, leur apprendre à produire davantage de contenus grâce à l’intelligence artificielle et diffuser ainsi les récits du Kremlin jusque dans des pays où les médias russes sont sanctionnés...",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20260918-ia-pourquoi-les-patrons-am%C3%A9ricains-appellent-%C3%A0-freiner-le-d%C3%A9veloppement",
-    "date": "2026-09-18"
+    "link": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20260919-comment-le-kremlin-forme-un-corps-de-journalistes-%C3%A9trangers-pour-exercer-une-influence-durable",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "« L’Espagne est parvenue à contrôler le dérapage de ses comptes publics. Pas la France »",
-    "summary": "Alors que les deux pays avaient vu leur ratio d’endettement bondir au-delà des 100 % de leur PIB, en 2020, le voisin pyrénéen a largement amélioré sa situation. Son principal atout : une croissance supérieure à celle de la zone euro, relève Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+    "title": "Guillaume Duval, essayiste : « Une “TVA sociale” ne contribuerait pas à accroître les recettes publiques, mais l’augmentation de la TVA, si »",
+    "summary": "Pour rétablir les comptes publics et investir dans les dépenses d’avenir, en faveur du climat ou du numérique, il serait plus utile d’augmenter la taxe sur la valeur ajoutée, estime l’ancien rédacteur en chef d’« Alternatives économiques » Guillaume Duval, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/18/l-espagne-est-parvenue-a-controler-le-derapage-de-ses-comptes-publics-pas-la-france_6776763_3234.html",
-    "date": "2026-09-18"
+    "link": "https://www.lemonde.fr/idees/article/2026/09/19/guillaume-duval-essayiste-une-tva-sociale-ne-contribuerait-pas-a-accroitre-les-recettes-publiques-mais-l-augmentation-de-la-tva-si_6777435_3232.html",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
@@ -265,18 +265,18 @@
   },
   {
     "type": "news",
-    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-    "summary": "As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions.",
+    "title": "Researchers used Claude to hack OpenAI",
+    "summary": "Cyber researchers broke into OpenAI using its key rival Anthropic’s software, highlighting vulnerabilities in the ChatGPT maker’s security as leading AI companies face mounting scrutiny over safety.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-    "date": "2026-09-17"
+    "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-    "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 263 # Comments: 176",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 296 # Comments: 97",
     "source": "Hacker News",
-    "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "date": "2026-09-18"
   },
   {
@@ -321,19 +321,19 @@
   },
   {
     "type": "news",
-    "title": "Schmid (Fed) : favorable à une hausse des taux, l'inflation n'est pas uniquement portée par l'énergie",
-    "summary": "Schmid (Fed) : favorable à une hausse des taux, l'inflation n'est pas uniquement portée par l'énergie Zonebourse Suisse",
+    "title": "Avec 54 milliards d'euros d'économie pour 2027, Sébastien Lecornu promet un budget de rigueur, mais pas d'austérité",
+    "summary": "Avec 54 milliards d'euros d'économie pour 2027, Sébastien Lecornu promet un budget de rigueur, mais pas d'austérité franceinfo",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZTY2Rmx2N25JT1owUXlsQ1poVlI2bnZ4UEJ3UFlrN0RPQVVaX0xRMTZVQ2xfMVlRcmdfRDZScC1Vek9hendwMjdkTUwwYmJlM09vdW00Q01BazF3VUNJc1M4RGpob0VTZzhlNkVYVjJUay1xUWJhOVNZYUNWMmFWTGVvNDVTSk1UY2pickNjaElCb28xVVVvakh3UUljLTB4RzNHX3dMam14RDZ1RDRYdXpHaEdZRllPdmVCY0xyb3RQRG9qS2dDQ0x2ZTdYcFhMZngwM09EQWMxeGpUVDVoZlpRU1NoSndPXzVR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMFhCUXZ6WHFydFIzbFd0cjFPbjdDbnJ2QllSODgwUWN5b1QwWm84X2U2cERsUWQ3ZFlqN295anU1aGNmRVdLMDl3LXB3M0wtQTcxQzFkdGtsSkJvcEJFcUllWUpqRzBEMzA3Rkd6Q1lHcGdDY1NKeDMxdkkyc3AxblNLb2Y1T2JQeks5SmNJUFlQWWhRczF5RHZJc19XVlI1RkVHUlJvekU5dk5WbWFybkdHd296VHVPV2FaZVlQZ2k4b0I4S0pLSHcwcHlyelBsdjFDbTEwTUR2SzIyUVo4NmJNdjVKcndhdHR3T2laQ2FQeEo4OFdBWGRuNmZ3VWN4dUwyS3FySW5JVE9MS2cxbQ?oc=5",
     "date": "2026-09-18"
   },
   {
     "type": "news",
-    "title": "Législatives en Russie : les électeurs appelés aux urnes, pour la première fois depuis le début de la guerre en Ukraine",
-    "summary": "Ces élections sont les premières depuis le début de l’offensive à grande échelle lancée par Moscou en Ukraine en février 2022. Elles sont également organisées dans les territoires de l’est de l’Ukraine occupés et annexés par la Russie.",
+    "title": "EN DIRECT, guerre en Ukraine : au moins quatre morts dans les attaques russes de la nuit",
+    "summary": "A Soumy, deux personnes ont été tuées et huit blessées, dont deux enfants, dans le bombardement d’un immeuble résidentiel de neuf étages.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/18/legislatives-en-russie-les-electeurs-appeles-aux-urnes-plus-de-quatre-ans-apres-le-debut-de-la-guerre-en-ukraine_6776825_3210.html",
-    "date": "2026-09-18"
+    "link": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-les-attaques-russes-dans-la-nuit-de-vendredi-a-samedi_6772184_3210.html",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
@@ -353,34 +353,34 @@
   },
   {
     "type": "news",
-    "title": "Le projet de budget 2027 va-t-il “entraîner la chute” du gouvernement Lecornu ?",
-    "summary": "Dans un entretien accordé au “Figaro”, le Premier ministre français a dévoilé, jeudi 17 septembre, les contours du projet de loi de finances porté par le gouvernement. L’objectif est de ramener le déficit à 5 % du PIB, notamment grâce à des coupes qui risquent de susciter un bras de fer au Parlement, observe la presse internationale.",
+    "title": "Trump annonce un accord sur la sécurité du Groenland, loin de son projet d’annexion",
+    "summary": "Le président républicain a déclaré vendredi avoir obtenu du Danemark et du Groenland un “contrôle permanent” de la sécurité de ce territoire arctique stratégique. Cette annonce dissipe les inquiétudes danoises, groenlandaises et européennes quant à la volonté des États-Unis d’annexer officiellement l’île, observe la presse américaine.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-le-projet-de-budget-2027-va-t-il-entrainer-la-chute-du-gouvernement-lecornu_272207",
-    "date": "2026-09-18"
+    "link": "https://www.courrierinternational.com/article/geopolitique-trump-annonce-un-accord-sur-la-securite-du-groenland-loin-de-son-projet-d-annexion_272451",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "Do elections in Russia make a difference?",
-    "summary": "Millions of people are choosing a new lower house of Parliament.",
+    "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+    "summary": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran's nuclear programme.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
-    "date": "2026-09-18"
+    "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "Macron to call emergency G7 meeting as energy prices spike and Russian hybrid attacks mount",
-    "summary": "PARIS — French President Emmanuel Macron said Friday he would call a Group of Seven meeting to address skyrocketing global energy prices and look at releasing strategic oil stocks. “We will have in the upcoming weeks a G7 [meeting] that will be devoted to energy issues, to increase cooperation and avoid unnecessary tensions between G7 countries and our main…",
+    "title": "US and Denmark reach new agreement on defense and investment in Greenland",
+    "summary": "President Donald Trump said Friday that the U.S. has reached an agreement for “permanent control over security” for Greenland that would enable a broad expansion of the American military presence on the territory of Denmark that he has long coveted.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/emmanuel-macron-to-call-emergency-g7-meeting-as-energy-prices-spike-and-russian-hybrid-attacks-mount/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-09-18"
+    "link": "https://www.politico.com/news/2026/09/18/trump-denmark-greenland-new-security-agreement-01084764?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-09-19"
   },
   {
     "type": "news",
-    "title": "Les étudiants sont-ils délaissés?",
-    "summary": "Dans de nombreux pays du monde, les étudiants commencent à reprendre le chemin de l’université. Une rentrée qui s’effectue sous le signe des difficultés économiques. En cause principalement les frais d’inscription, s’élevant à plus de 100 000 euros par an dans de grandes universités américaines.",
+    "title": "«Le supplément du samedi» du 19 septembre 2026",
+    "summary": "Grand Reportage nous entraine dans l'Ukraine en guerre, les offensives russes s'y sont renforcées. Attaques de missiles et de drones sur des cibles militaires et civiles. Parmi les civils, des enfants. Il y a les morts et les blessés, blessés physiquement mais aussi psychologiquement.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260914-les-%C3%A9tudiants-sont-ils-d%C3%A9laiss%C3%A9s",
-    "date": "2026-09-14"
+    "link": "https://www.rfi.fr/fr/podcasts/grand-reportage/20260919-le-suppl%C3%A9ment-du-samedi-du-19-septembre-2026",
+    "date": "2026-09-19"
   }
 ]
