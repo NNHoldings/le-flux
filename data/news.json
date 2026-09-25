@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "Inculpé par la CPI, Benyamin Nétanyahou survole une nouvelle fois l’espace aérien français sans être inquiété",
-    "summary": "Alors que la Cour pénale internationale et ses juges sont les cibles de sanctions et d’attaques répétées, le premier ministre israélien a été autorisé à survoler le territoire français une nouvelle fois pour se rendre à l’Assemblée générale de l’ONU, à New York.",
+    "title": "L’un en Russie, l’autre en Ukraine : Xavier et Thomas Moreau, deux frères en guerre froide",
+    "summary": "Pendant que le cadet Thomas vit sous le feu russe à Kiev, où il représente les entreprises françaises de défense et de sécurité terrestres et aéroterrestres, Xavier relaie depuis Moscou la propagande de Vladimir Poutine. Quoique sous sanctions européennes, il est candidat, dimanche 27 septembre, aux élections sénatoriales en France.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/25/inculpe-par-la-cpi-benyamin-netanyahou-survole-une-nouvelle-fois-l-espace-aerien-francais-sans-etre-inquiete_6782209_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/l-un-en-russie-l-autre-en-ukraine-xavier-et-thomas-moreau-deux-freres-en-guerre-froide_6782550_3210.html",
     "date": "2026-09-25"
   },
   {
@@ -73,19 +73,19 @@
   },
   {
     "type": "news",
-    "title": "Multiple regions in Russia come under Ukrainian drone attacks",
-    "summary": "Ukraine has targeted an industrial plant in Russia's Perm region with a massive drone swarm.",
+    "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+    "summary": "Amid ongoing diplomatic efforts, latest Russian attacks kill at least five people in Ukraine's capital Kyiv.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Europe grudgingly, gingerly moves toward Trump’s Board of Peace",
-    "summary": "UNITED NATIONS — European nations that shunned the Board of Peace when it was announced a year ago are starting to work with it on humanitarian projects in the Gaza Strip. But they aren’t happy about it.",
+    "title": "Zelenskyy warns $27B funding gap could leave Ukraine short of weapons",
+    "summary": "KYIV — Ukraine needs to secure $27 billion to plug a hole in its defense budget in the next two months or risk being unable to buy weapons early next year, President Volodymyr Zelenskyy told reporters in a WhatsApp chat Friday. “Most of this money is for our drones, missiles, and supplies for our warriors.",
     "source": "Politico EU",
-    "link": "https://www.politico.com/news/2026/09/24/europe-trump-gaza-board-of-peace-01092119?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-09-24"
+    "link": "https://www.politico.eu/article/if-ukraine-fails-to-order-new-drones-soon-it-risks-challenges-at-war-early-next-year-zelenskyy-said/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
@@ -97,16 +97,16 @@
   },
   {
     "type": "news",
-    "title": "« Le gavage des investisseurs pour financer les investissements colossaux liés à l’IA génère un vrai malaise »",
-    "summary": "Le conglomérat japonais SoftBank, premier financeur d’Open AI, a émis jeudi un emprunt de 11 milliards de dollars, le plus élevé jamais réalisé par un émetteur mal noté, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+    "title": "« La bataille de l’IA est d’abord une bataille des données »",
+    "summary": "Alors que, en Europe, les débats sur l’intelligence artificielle se concentrent sur les data centers, les modèles de langage et la régulation, la Chine et les Etats-Unis ont bâti deux modèles rivaux pour exploiter leurs données, constate Jean-Dominique Séval, expert de l’économie numérique, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/25/le-gavage-des-investisseurs-pour-financer-les-investissements-colossaux-lies-a-l-ia-genere-un-vrai-malaise_6782317_3234.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/09/25/la-bataille-de-l-ia-est-d-abord-une-bataille-des-donnees_6782460_3232.html",
     "date": "2026-09-25"
   },
   {
     "type": "news",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which refer…",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to…",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "date": "2026-09-25"
@@ -129,19 +129,19 @@
   },
   {
     "type": "news",
-    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can architect software together in a common workspace.",
+    "title": "The Mafia may be keeping fentanyl out of Italy",
+    "summary": "Article URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy Comments URL: https://news.ycombinator.com/item?id=49842487 Points: 165 # Comments: 206",
     "source": "Hacker News",
-    "link": "https://github.com/devdotfast/whiteboard",
-    "date": "2026-09-24"
+    "link": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
-    "summary": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-03000-7Countries should not have to wait months to receive relatively small grants for responding to the immediate impact of extreme weather.",
+    "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+    "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-zThe UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-03000-7",
-    "date": "2026-09-22"
+    "link": "https://www.nature.com/articles/d41586-026-03016-z",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
@@ -177,18 +177,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-Rebond en vue en Europe avec la stabilité sur le pétrole et l'obligataire (actualisé)",
-    "summary": "Point marchés-Rebond en vue en Europe avec la stabilité sur le pétrole et l'obligataire (actualisé) Zonebourse",
+    "title": "Le rapport sur l’emploi et les données d’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie",
+    "summary": "Le rapport sur l’emploi et les données d’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV3p5NmU5LVFmcXJkb0JlR243dmRoNTVfTXlodVNGQ2xIYm81bE1HUUgtSFBUR2YyLWEzbUx1aF9zYWozX3owVWNINlhxWHJkRll4cll5Q1JVVk5tbG9hX3BodFptNUVCb0QtejZlakEzOUpYRmtlNHFTUVdPSFRqUjlWNlZTYk1LM3AtMkdzMjN0XzU5dlhnVFZFb00tX0g4ay1NT3pIU0xXQTJqOXdVVWU3RGI2OWNzaTNxLWVLa3JJaGp6TGY1RElyR3dRQU0xekdwOGx5N00?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcERLTWdjeXBCQkp2UGk0MFJQVENzWTVBYlNVQmt4RUJHTDE3MVVXc2NXWGFVNC1QdHFHS1NhVF9vaWVKNkd4LXlyU0lIUFpwQ0ttZnpGVzI1UnhYMXVvU2VMRFNmWXZCaXJ6cmdiVUlLbXZLUmx1bDlwUVlqa2pjeXJwU01sTGhCWjN1bTRSYVFMcVRTdElZc1RGbDhtekZtck1Kd3FyOUg0a1JmUXBuRVlZakpzUnIxZDVVVTBhNlZFdDR0dXpQWXRWeHZKNXFHdUNQMXNPR2g4cnJHS1NRaFJYcGN1UThYVTdYYk5R?oc=5",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Grâce à l’IA, l’Estonie espère compenser sa petite taille face à la menace du géant russe",
-    "summary": "Le pays balte, réputé pour son avance dans la numérisation de la vie publique, organise sa défense en tirant au maximum parti des avancées rapides de l’intelligence artificielle. Depuis octobre 2025, au sein de l’armée, une unité d’experts teste et organise ces innovations.",
+    "title": "Comment la Géorgie s’est détournée de ses partenaires occidentaux au profit de la Russie",
+    "summary": "La réorientation géopolitique de cette ex-république soviétique du Caucase est singulière dans la région, où les pays prennent au contraire leurs distances avec Moscou. L’Iran en profite pour accroître son influence.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/25/grace-a-l-ia-l-estonie-espere-compenser-sa-petite-taille-face-a-la-menace-du-geant-russe_6781931_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/09/25/comment-la-georgie-s-est-detournee-de-ses-partenaires-occidentaux-au-profit-de-la-russie_6782471_3210.html",
     "date": "2026-09-25"
   },
   {
@@ -201,34 +201,34 @@
   },
   {
     "type": "news",
-    "title": "Germany’s Moment of Reckoning",
-    "summary": "As its growth model runs out of road, Germany must decide whether to defend aging industries or enable new ones to emerge. To translate its research excellence into globally competitive companies, it needs deeper capital markets and a genuine European single market in which promising startups can grow.",
+    "title": "The AI Plot Thickens",
+    "summary": "When it comes to AI, it is difficult to know what to believe. Are the CEOs, researchers, and investors who tout the technology’s seemingly unlimited capabilities more credible, because they work directly with it, or less credible, because they stand to profit handsomely from further investment? While misplaced optimism could fuel a financial bubble, we have…",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/germany-economic-malaise-is-also-an-opportunity-to-reinvent-itself-by-ulrike-malmendier-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
-    "date": "2026-09-22"
+    "link": "https://www.project-syndicate.org/onpoint/the-ai-plot-thickens?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "date": "2026-09-24"
   },
   {
     "type": "news",
-    "title": "Au Yémen, le risque d’un nouvel engrenage aux retombées planétaires",
-    "summary": "La victoire éclair des houthistes et le contrôle du détroit de Bab El-Mandeb auront indéniablement des conséquences sur le Yémen et sur la guerre contre l’Iran. La situation pourrait même engendrer un nouveau conflit d’une ampleur inédite au Moyen-Orient, s’inquiète “Arab Digest”.",
+    "title": "Le succès de Muse, l’assistant IA de Meta, éclipsé par une faille de sécurité",
+    "summary": "En deux semaines, le nouvel assistant personnel dopé à l’intelligence artificielle du géant de la tech a été téléchargé par plus de 2,5 millions d’utilisateurs. Mais Amazon l’a interdit d’accès à sa plateforme d’e-commerce. Et des experts ont dévoilé de graves défauts de confidentialité et de sécurité.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/analyse-au-yemen-le-risque-d-un-nouvel-engrenage-aux-retombees-planetaires_272969",
+    "link": "https://www.courrierinternational.com/article/intelligence-artificielle-le-succes-de-muse-l-assistant-ia-de-meta-eclipse-par-une-faille-de-securite_274212",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
-    "summary": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+    "title": "Trump hails ‘very productive’ talks with China’s Xi",
+    "summary": "Washington and Beijing to continue discussions on AI, technology transfer licensing after state visit by Chinese leader.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi?traffic_source=rss",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Von der Leyen ally slams EU Commission’s AI response",
-    "summary": "The European Commission has failed to keep pace with AI developments, Axel Voss, a key German conservative lawmaker on tech policy, said in an interview. An EPP ally of Commission President Ursula von der Leyen in the European Parliament, Voss criticized the way the Commission is enforcing its artificial intelligence rules in the wake of a series of AI hacki…",
+    "title": "Dutch opposition party votes to join European Socialist family",
+    "summary": "The largest opposition party in the Netherlands has chosen to join the European Socialists rather than the Greens in an internal vote, the results of which were announced Friday. Some 65% of votes cast by members of Progressive Netherlands (PRO), which was formed earlier this year when the Dutch GreenLeft (GroenLinks) and Labour (PvdA) parties merged, backed…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-commission-axel-voss-ai-act-enforcement-criticism/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/dutch-opposition-party-progressive-netherlands-votes-to-join-european-socialist-family/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-25"
   },
   {
@@ -241,10 +241,10 @@
   },
   {
     "type": "news",
-    "title": "Nucléaire : la construction des six EPR 2 n’a pas encore commencé que les collectivités territoriales s’activent déjà pour accueillir huit autres réacteurs",
-    "summary": "Après les six premiers EPR2 attribués par paires aux centrales de Penly, en Normandie, de Gravelines, dans le Nord et du Bugey, dans l’Ain, le gouvernement et EDF étudient l’option de « huit EPR2 additionnels » et donc de quatre autres sites à choisir.",
+    "title": "« Le gavage des investisseurs pour financer les investissements colossaux liés à l’IA génère un vrai malaise »",
+    "summary": "Le conglomérat japonais SoftBank, premier financeur d’Open AI, a émis jeudi un emprunt de 11 milliards de dollars, le plus élevé jamais réalisé par un émetteur mal noté, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie-francaise/article/2026/09/25/nucleaire-la-construction-des-six-epr-2-n-a-pas-encore-commence-que-les-collectivites-territoriales-s-activent-deja-pour-accueillir-huit-autres-reacteurs_6782210_1656968.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/09/25/le-gavage-des-investisseurs-pour-financer-les-investissements-colossaux-lies-a-l-ia-genere-un-vrai-malaise_6782317_3234.html",
     "date": "2026-09-25"
   },
   {
@@ -273,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "California is chasing wealth that has feet",
-    "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that Comments URL: https://news.ycombinator.com/item?id=49836419 Points: 235 # Comments: 651",
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can architect software together in a common workspace.",
     "source": "Hacker News",
-    "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "link": "https://github.com/devdotfast/whiteboard",
     "date": "2026-09-24"
   },
   {
@@ -313,26 +313,26 @@
   },
   {
     "type": "news",
-    "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
-    "summary": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
+    "title": "Treasury yields rise again to end a volatile week",
+    "summary": "U.S. Treasury yields rose on Friday as recent selling pressure intensified following hawkish Fed commentary and stronger-than-expected economic data.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
-    "date": "2026-09-24"
-  },
-  {
-    "type": "news",
-    "title": "Plus de 8700 milliads d’euros d’investissements d’ici à 2032 : le financement de l’IA fait peser des risques systémiques sur l’économie américaine, selon une étude",
-    "summary": "Plus de 8700 milliads d’euros d’investissements d’ici à 2032 : le financement de l’IA fait peser des risques systémiques sur l’économie américaine, selon une étude L'Usine Nouvelle",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNeXN3UllnaDdFeUdlcmtQazZFOHg4SEpBYlRLVDVzNW9aSzA2MTFBQkZPQWZSOXRBQ1FybmdseEx0SHhjUWNiQkUzZlFpaVVRcWN2YnlPNDBXNkJHVTBmdVN2ZHY5UXBKUlJuVEQ3VjFIWDRocHZpUFhPVlB1NFhhUGl5NVhBdElYSk52NDJyYVBtMkFJSmh0SUZBRktMd1h6VEFGcHpzVlRZNW5iVm5PTDRvVlBUNkNkMFQ2OUlIWmZ2aXV4dVFUbk1zc1JBRUp3UEw4bVZDT1ZfYUVfUUN6TFJPMEwwb1ZhQ1BGUEdBeWNLNkNLb0pqclZDWkpnS0hvN0ttY21SQV9GZ0JqRW1ocTVrLS1PZ0kxMVhadnR1MHBjVzdEM1U1bGVSbDgzUnhvcmxCeV9YQ3l1anNCb0VvalR4MHVHelN6X3R3cGsyR2lQSkJwcWVWSGZoNk5ycnJT?oc=5",
+    "link": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Donald Trump a accepté d’accorder à l’Ukraine les licences pour produire des missiles Patriot, annonce Volodymyr Zelensky",
-    "summary": "« Lors de notre dernière rencontre, le président Trump m’a confirmé que, oui, il avait pris une décision finale : l’Ukraine recevra des licences pour la production de missiles Patriot », a déclaré le président ukrainien au cours d’un échange avec des journalistes, après avoir rencontré son homologue américain à New York, cette semaine.",
+    "title": "Wall Street - La semaine à venir : l’emploi et l’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie",
+    "summary": "Wall Street - La semaine à venir : l’emploi et l’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnN5OXFGNVNhZnpYRWd5dUJyTDJBMHNLWnZMMGNKbDR6YUx4TVJKREpyMlY4Q2Zjc1dLWjRLMDRsbHBHbEJYcWc2MnA3TmozRElfX3pxb014eVMtN2gtVWpvc284X3Qyd253MGE4V1I4UDVPTWxSYlVfYkxKMkY4OG5UNzlqTTMtZFJXQkV3RWhwNDdiTWNqdFRpU3AydnBpY0NPZmxTY2pMaFl4bUdaeS1qSVpyakZlRTZFT0VNS0c0TURvUlA1S3EzdFZfT2trM2dRcUtMTnU2dFd3bWk4NUNPdW1YT2Ni?oc=5",
+    "date": "2026-09-25"
+  },
+  {
+    "type": "news",
+    "title": "L’Ethiopie, géant africain rattrapé par la guerre : qui sont les belligérants, quels sont leurs objectifs ?",
+    "summary": "La guerre a repris en Ethiopie, géant démographique de la Corne de l’Afrique. Les combats opposent différents groupes rebelles, constitués le plus souvent sur des bases ethniques, à l’armée fédérale. Dans cette mosaïque complexe, les renversements d’alliance sont fréquents.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-donald-trump-a-accepte-d-accorder-a-l-ukraine-les-licences-pour-produire-des-missiles-patriot-annonce-volodymyr-zelensky_6777944_3210.html",
+    "link": "https://www.lemonde.fr/afrique/article/2026/09/25/guerre-en-ethiopie-qui-sont-les-belligerants-et-quels-sont-leurs-objectifs_6782477_3212.html",
     "date": "2026-09-25"
   },
   {
@@ -345,34 +345,34 @@
   },
   {
     "type": "news",
-    "title": "The AI Plot Thickens",
-    "summary": "When it comes to AI, it is difficult to know what to believe. Are the CEOs, researchers, and investors who tout the technology’s seemingly unlimited capabilities more credible, because they work directly with it, or less credible, because they stand to profit handsomely from further investment? While misplaced optimism could fuel a financial bubble, we have…",
+    "title": "The Return of the German Question",
+    "summary": "Until this month, a far-right, openly ethnonationalist party had never come so close to winning an absolute majority in an election in the Federal Republic of Germany. Now that it has, and with similarly pro-Russian forces on the rise in France, all Europeans must prepare for the worst.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/the-ai-plot-thickens?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "link": "https://www.project-syndicate.org/commentary/german-question-afd-far-right-nightmare-scenario-for-europe-by-joschka-fischer-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
     "date": "2026-09-24"
   },
   {
     "type": "news",
-    "title": "À Miami, les riches Cubano-Américains préparent déjà la transition post-castriste",
-    "summary": "Réunions secrètes, conférences, lobbying et consultations d’experts… La diaspora cubaine aux États-Unis s’agite en prévision de la chute du régime communiste à La Havane, annoncée depuis des mois par Donald Trump, rapporte “The Wall Street Journal”.",
+    "title": "Élections au Brésil : des démocrates américains s’inquiètent d’une ingérence de Trump",
+    "summary": "Ces derniers mois, les États-Unis ont multiplié les pressions diplomatiques, économiques et politiques sur le Brésil. Bernie Sanders, Alexandria Ocasio-Cortez et une trentaine de membres du Congrès ont demandé des explications dans une lettre adressée à Marco Rubio.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-a-miami-les-riches-cubano-americains-preparent-deja-la-transition-post-castriste_273940",
-    "date": "2026-09-24"
-  },
-  {
-    "type": "news",
-    "title": "Nepal PM says global order is broken in fighting climate crisis",
-    "summary": "Nepal’s Prime Minister Balendra Shah was applauded at the UN General Assembly after his speech on climate crisis.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/politique-des-congressistes-democrates-s-inquietent-d-une-ingerence-de-trump-dans-les-elections-bresiliennes_274205",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Pope’s artificial intelligence guru admits he doesn’t use AI",
-    "summary": "BERLIN — Pope Leo XIV’s cardinal who heads the Vatican’s Commission on Artificial Intelligence has admitted he doesn’t use AI — despite being four months into a job intended to engage the Church with the AI revolution.",
+    "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
+    "summary": "China's Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss",
+    "date": "2026-09-25"
+  },
+  {
+    "type": "news",
+    "title": "Von der Leyen ally slams EU Commission’s AI response",
+    "summary": "The European Commission has failed to keep pace with AI developments, Axel Voss, a key German conservative lawmaker on tech policy, said in an interview. An EPP ally of Commission President Ursula von der Leyen in the European Parliament, Voss criticized the way the Commission is enforcing its artificial intelligence rules in the wake of a series of AI hacki…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/popes-artificial-intelligence-guru-admits-he-doesnt-use-ai/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/eu-commission-axel-voss-ai-act-enforcement-criticism/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-09-25"
   },
   {
