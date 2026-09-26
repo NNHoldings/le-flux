@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "L’un en Russie, l’autre en Ukraine : Xavier et Thomas Moreau, deux frères en guerre froide",
-    "summary": "Pendant que le cadet Thomas vit sous le feu russe à Kiev, où il représente les entreprises françaises de défense et de sécurité terrestres et aéroterrestres, Xavier relaie depuis Moscou la propagande de Vladimir Poutine. Quoique sous sanctions européennes, il est candidat, dimanche 27 septembre, aux élections sénatoriales en France.",
+    "title": "« Le double choc, IA et conflits armés, a des effets redistributifs entre les pays mais est dévastateur pour l’Europe »",
+    "summary": "Energies fossiles, électricité, transport maritime, métaux… Fini le monde de l’abondance ! En découle une augmentation des taux d’intérêt et des prix qui frappe surtout le Vieux Continent, explique l’économiste Patrick Artus dans sa chronique au « Monde ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/25/l-un-en-russie-l-autre-en-ukraine-xavier-et-thomas-moreau-deux-freres-en-guerre-froide_6782550_3210.html",
-    "date": "2026-09-25"
+    "link": "https://www.lemonde.fr/idees/article/2026/09/26/le-double-choc-ia-et-conflits-armes-a-des-effets-redistributifs-entre-les-pays-mais-est-devastateur-pour-l-europe_6783109_3232.html",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -73,11 +73,11 @@
   },
   {
     "type": "news",
-    "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-    "summary": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.",
+    "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+    "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq's economic dependence on oil, foreign goods.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-    "date": "2026-09-25"
+    "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -121,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-    "summary": "Ukraine’s military robots are dropping from heavy drones in airborne assaults behind Russian lines as other robots clear mines ahead of advancing Ukrainian infantry. The wheeled ground robots are supporting Ukraine’s Operation Vivaldi counterattack that has crushed a Russian military pincer movement and liberated dozens of square miles of occupied Ukrainian…",
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "summary": "Last month, we shared word of a Stanford University study that found entry-level employment in so-called \"AI-impacted\" occupations lagging well behind that in other fields. Now, a new working paper from economics researchers at Munich's CESifo finds the opposite, arguing point blank that \"there is no evidence of any significant, widespread displacement or re…",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-    "date": "2026-09-24"
+    "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can architect software together in a common workspace.",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 474 # Comments: 286",
     "source": "Hacker News",
-    "link": "https://github.com/devdotfast/whiteboard",
-    "date": "2026-09-24"
+    "link": "https://swarmtraces.org/",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
@@ -169,27 +169,27 @@
   },
   {
     "type": "news",
-    "title": "Treasury yields rise again to end a volatile week",
-    "summary": "U.S. Treasury yields rose on Friday as recent selling pressure intensified following hawkish Fed commentary and stronger-than-expected economic data.",
+    "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+    "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
-    "date": "2026-09-25"
+    "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+    "date": "2026-09-24"
   },
   {
     "type": "news",
-    "title": "Wall Street - La semaine à venir : l’emploi et l’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie",
-    "summary": "Wall Street - La semaine à venir : l’emploi et l’inflation mettront à l’épreuve la trajectoire des taux américains et la solidité de l’économie Zonebourse Suisse",
+    "title": "Finance : la Banque centrale du NIgeria baisse son taux directeur sans desserrer sa politique monétaire",
+    "summary": "Finance : la Banque centrale du NIgeria baisse son taux directeur sans desserrer sa politique monétaire La Tribune",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQnN5OXFGNVNhZnpYRWd5dUJyTDJBMHNLWnZMMGNKbDR6YUx4TVJKREpyMlY4Q2Zjc1dLWjRLMDRsbHBHbEJYcWc2MnA3TmozRElfX3pxb014eVMtN2gtVWpvc284X3Qyd253MGE4V1I4UDVPTWxSYlVfYkxKMkY4OG5UNzlqTTMtZFJXQkV3RWhwNDdiTWNqdFRpU3AydnBpY0NPZmxTY2pMaFl4bUdaeS1qSVpyakZlRTZFT0VNS0c0TURvUlA1S3EzdFZfT2trM2dRcUtMTnU2dFd3bWk4NUNPdW1YT2Ni?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaXRxV2doR3lmdU8zVkEwRzRnTUNieWFJSlh3VmcwWlBpdHRhQ3FHd1pDZmhmVExiRE11TkFnbDJsdXhGQi1ZUk04UTZCbXNueExoNjBzSFJVbU9MU2x1YWpDdEJGUXhYclltczE4QVpELU9GYmFlbE9adUpIZjFBZHpPZnYzVUhwV2F4LUlyNVFIbmQ2U05ZaTloYlBMVXBjano2N1IteVhrWUFuZ1k4MHhsZDJGSVIyZllxMlJZTmJ1ZVJyRTBaRmtQWjlZRksyTDBtN3FrZFVDZTc4YUI5THVyaEJmOURlay1KSExn?oc=5",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "A Gaza, après vingt ans sans élections, des législatives incertaines dans un territoire exsangue",
-    "summary": "Entre impatience d’un renouvellement politique et défiance envers le Hamas, qu’ils tiennent pour responsable d’avoir provoqué – par les massacres du 7-Octobre – la guerre dévastatrice menée par Israël, les Gazaouis peinent à envisager un vote dans un contexte de destruction et d’insécurité.",
+    "title": "EN DIRECT, guerre en Ukraine : Moscou revendique des frappes contre un centre de données à Kiev et des infrastructures dans la région d’Odessa",
+    "summary": "Le ministère de la défense russe a affirmé, samedi, avoir mené dans la nuit des frappes de drones contre des infrastructures portuaires, logistiques, de transport et de communication utilisées, selon lui, par l’armée ukrainienne.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/09/25/a-gaza-apres-vingt-ans-sans-elections-des-legislatives-incertaines-dans-un-territoire-exsangue_6782614_3210.html",
-    "date": "2026-09-25"
+    "link": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-moscou-revendique-des-frappes-contre-un-centre-de-donnees-a-kiev-et-des-infrastructures-dans-la-region-d-odessa_6777944_3210.html",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -209,19 +209,19 @@
   },
   {
     "type": "news",
-    "title": "Le succès de Muse, l’assistant IA de Meta, éclipsé par une faille de sécurité",
-    "summary": "En deux semaines, le nouvel assistant personnel dopé à l’intelligence artificielle du géant de la tech a été téléchargé par plus de 2,5 millions d’utilisateurs. Mais Amazon l’a interdit d’accès à sa plateforme d’e-commerce. Et des experts ont dévoilé de graves défauts de confidentialité et de sécurité.",
+    "title": "Quand Moscou fabrique un conflit territorial entre la Tchéquie et la Pologne",
+    "summary": "EN ZONE GRISE (3/5). Cet été, une campagne de désinformation a cherché à faire croire que la Pologne entendait se réapproprier un bout de territoire tchèque. Une opération d’influence qui a enflammé les réseaux sociaux dans les deux pays, derrière laquelle se dissimulent très probablement les services secrets russes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/intelligence-artificielle-le-succes-de-muse-l-assistant-ia-de-meta-eclipse-par-une-faille-de-securite_274212",
-    "date": "2026-09-25"
+    "link": "https://www.courrierinternational.com/article/geopolitique-quand-moscou-fabrique-un-conflit-territorial-entre-la-tchequie-et-la-pologne_272076",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-    "summary": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector.",
+    "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+    "summary": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-    "date": "2026-09-25"
+    "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -233,19 +233,19 @@
   },
   {
     "type": "news",
-    "title": "La Russie veut-elle une guerre totale?",
-    "summary": "Ces derniers semaines, les incidents en Europe imputés à la Russie se sont multipliés. Des drones ont ainsi frappé diverses cibles : l’aéroport de Leipzig (Allemagne), un train reliant Kiev (Ukraine) à Varsovie (Pologne). Le Danemark a accusé une frégate russe d’être à l’origine d’un tir de fusées éclairantes vers l’un de ses hélicoptères.",
+    "title": "Jean Tirole: «L'Europe doit se donner les moyens de résister»",
+    "summary": "Jean Tirole, prix Nobel d'économie et co-auteur de Économie du désordre mondial (Éd. Albin Michel) est l'invité de RFI ce jeudi 24 septembre 2026. Face à la puissance des États-Unis et de la Chine, l'Europe risque le déclassement économique et technologique. Jean Tirole estime que l'Europe doit changer de priorités et de méthode.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260921-la-russie-veut-elle-une-guerre-totale",
-    "date": "2026-09-21"
+    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260924-jean-tirole-l-europe-doit-se-donner-les-moyens-de-r%C3%A9sister",
+    "date": "2026-09-24"
   },
   {
     "type": "news",
-    "title": "« Le gavage des investisseurs pour financer les investissements colossaux liés à l’IA génère un vrai malaise »",
-    "summary": "Le conglomérat japonais SoftBank, premier financeur d’Open AI, a émis jeudi un emprunt de 11 milliards de dollars, le plus élevé jamais réalisé par un émetteur mal noté, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+    "title": "Des agents IA d’OpenAI ont fait fuiter sur Internet des images d’utilisateurs de ChatGPT",
+    "summary": "Le géant de l’intelligence artificielle (IA) a reconnu, vendredi, que des liens menant vers des contenus de ses propres usagers ont été mis en ligne par erreur. Ce nouveau comportement incontrôlé vient s’ajouter à la longue liste des incidents impliquant des IA de l’entreprise américaine.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/09/25/le-gavage-des-investisseurs-pour-financer-les-investissements-colossaux-lies-a-l-ia-genere-un-vrai-malaise_6782317_3234.html",
-    "date": "2026-09-25"
+    "link": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -265,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-    "summary": "Last month, we shared word of a Stanford study that found entry-level employment in so-called \"AI-impacted\" occupations lagging well behind that in other fields. Now, a new working paper from economics researchers at Munich's CESifo finds the opposite, arguing point blank that \"there is no evidence of any significant, widespread displacement or reduction in…",
+    "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+    "summary": "Free speech and media advocacy groups urged a judge to block a California settlement with Paramount Skydance that would let the company finalize its $111 billion merger with Warner Bros. Discovery.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
     "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 258 # Comments: 394",
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+    "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide Comments URL: https://news.ycombinator.com/item?id=49852065 Points: 174 # Comments: 72",
     "source": "Hacker News",
-    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "date": "2026-09-25"
+    "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -313,11 +313,11 @@
   },
   {
     "type": "news",
-    "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
-    "summary": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
+    "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+    "summary": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
-    "date": "2026-09-24"
+    "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
@@ -329,11 +329,11 @@
   },
   {
     "type": "news",
-    "title": "L’Ethiopie, géant africain rattrapé par la guerre : qui sont les belligérants, quels sont leurs objectifs ?",
-    "summary": "La guerre a repris en Ethiopie, géant démographique de la Corne de l’Afrique. Les combats opposent différents groupes rebelles, constitués le plus souvent sur des bases ethniques, à l’armée fédérale. Dans cette mosaïque complexe, les renversements d’alliance sont fréquents.",
+    "title": "L’envoi de « moyens militaires » français en Arabie saoudite sort de l’ombre la discrète coopération de défense entre Paris et Riyad",
+    "summary": "En annonçant mobiliser « soldats, radars et systèmes de défense » pour protéger les infrastructures énergétiques du royaume, attaquées par les houtistes pro-iraniens du Yémen, Emmanuel Macron opère un virage géopolitique, au moment où Riyad cherche à diversifier ses partenariats.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/afrique/article/2026/09/25/guerre-en-ethiopie-qui-sont-les-belligerants-et-quels-sont-leurs-objectifs_6782477_3212.html",
-    "date": "2026-09-25"
+    "link": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -353,19 +353,19 @@
   },
   {
     "type": "news",
-    "title": "Élections au Brésil : des démocrates américains s’inquiètent d’une ingérence de Trump",
-    "summary": "Ces derniers mois, les États-Unis ont multiplié les pressions diplomatiques, économiques et politiques sur le Brésil. Bernie Sanders, Alexandria Ocasio-Cortez et une trentaine de membres du Congrès ont demandé des explications dans une lettre adressée à Marco Rubio.",
+    "title": "En France, le pape Léon XIV met en garde contre la menace que représente l’IA pour l’humanité",
+    "summary": "Le souverain pontife s’est inquiété, vendredi, au premier jour de sa visite de quatre jours dans l’Hexagone, du risque de “perdre notre humanité au milieu du paradis des machines”. Il a également délivré des messages sur l’État de droit et la fin de vie.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-des-congressistes-democrates-s-inquietent-d-une-ingerence-de-trump-dans-les-elections-bresiliennes_274205",
-    "date": "2026-09-25"
+    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-le-pape-leon-xiv-met-en-garde-contre-la-menace-que-represente-l-ia-pour-l-humanite-au-debut-de-sa-visite-en-france_274299",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "India’s Cockroach movement joins opposition push to oust election chief",
-    "summary": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
+    "title": "Could AI firms be held responsible for mass shootings?",
+    "summary": "Canadian lawsuits against OpenAI raise questions about liability and duty to warn in the AI industry, say experts.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-    "date": "2026-09-25"
+    "link": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -377,10 +377,10 @@
   },
   {
     "type": "news",
-    "title": "Jean Tirole: «L'Europe doit se donner les moyens de résister»",
-    "summary": "Jean Tirole, prix Nobel d'économie et co-auteur de Économie du désordre mondial (Éd. Albin Michel) est l'invité de RFI ce jeudi 24 septembre 2026. Face à la puissance des États-Unis et de la Chine, l'Europe risque le déclassement économique et technologique. Jean Tirole estime que l'Europe doit changer de priorités et de méthode.",
+    "title": "Trump déroule le tapis rouge à Xi Jinping, sur fond de guerre commerciale en pause et de la question taïwanaise",
+    "summary": "Le président chinois Xi Jinping est arrivé, mercredi 23 septembre au soir, à Washington pour sa première visite à la Maison Blanche depuis plus de dix ans. Taïwan, guerre commerciale, intelligence artificielle… voilà le menu des discussions avec Donald Trump pour cette visite diplomatique qui prendra fin vendredi soir.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260924-jean-tirole-l-europe-doit-se-donner-les-moyens-de-r%C3%A9sister",
+    "link": "https://www.rfi.fr/fr/monde/20260924-trump-d%C3%A9roule-le-tapis-rouge-%C3%A0-xi-jinping-sur-fond-de-guerre-commerciale-en-pause-et-de-la-question-ta%C3%AFwanaise",
     "date": "2026-09-24"
   }
 ]
