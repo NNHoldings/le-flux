@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "« Le double choc, IA et conflits armés, a des effets redistributifs entre les pays mais est dévastateur pour l’Europe »",
-    "summary": "Energies fossiles, électricité, transport maritime, métaux… Fini le monde de l’abondance ! En découle une augmentation des taux d’intérêt et des prix qui frappe surtout le Vieux Continent, explique l’économiste Patrick Artus dans sa chronique au « Monde ».",
+    "title": "EN DIRECT, guerre en Ukraine : l’Europe « fait tout » pour contrecarrer les négociations sur l’Ukraine, accuse Sergueï Lavrov à l’ONU",
+    "summary": "Le ministre russe des affaires étrangères s’est également entretenu avec son homologue allemand Johann Wadephul, pour le premier entretien de ce genre depuis le début de l’invasion russe de l’Ukraine en février 2022.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/09/26/le-double-choc-ia-et-conflits-armes-a-des-effets-redistributifs-entre-les-pays-mais-est-devastateur-pour-l-europe_6783109_3232.html",
+    "link": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-l-europe-fait-tout-pour-contrecarrer-les-negociations-sur-l-ukraine-accuse-serguei-lavrov-a-l-onu_6777944_3210.html",
     "date": "2026-09-26"
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "type": "news",
-    "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-    "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq's economic dependence on oil, foreign goods.",
+    "title": "At least 10 people killed in Russian and Ukrainian attacks",
+    "summary": "New strikes come as Russian FM accuses Europe of doing 'everything it can to thwart peace talks' with Ukraine.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
     "date": "2026-09-26"
   },
   {
@@ -97,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "« La bataille de l’IA est d’abord une bataille des données »",
-    "summary": "Alors que, en Europe, les débats sur l’intelligence artificielle se concentrent sur les data centers, les modèles de langage et la régulation, la Chine et les Etats-Unis ont bâti deux modèles rivaux pour exploiter leurs données, constate Jean-Dominique Séval, expert de l’économie numérique, dans une tribune au « Monde ».",
+    "title": "« Le double choc, IA et conflits armés, a des effets redistributifs entre les pays mais est dévastateur pour l’Europe »",
+    "summary": "Energies fossiles, électricité, transport maritime, métaux… Fini le monde de l’abondance ! En découle une augmentation des taux d’intérêt et des prix qui frappe surtout le Vieux Continent, explique l’économiste Patrick Artus dans sa chronique au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/09/25/la-bataille-de-l-ia-est-d-abord-une-bataille-des-donnees_6782460_3232.html",
-    "date": "2026-09-25"
+    "link": "https://www.lemonde.fr/idees/article/2026/09/26/le-double-choc-ia-et-conflits-armes-a-des-effets-redistributifs-entre-les-pays-mais-est-devastateur-pour-l-europe_6783109_3232.html",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -130,7 +130,7 @@
   {
     "type": "news",
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 568 # Comments: 359",
+    "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 650 # Comments: 413",
     "source": "Hacker News",
     "link": "https://swarmtraces.org/",
     "date": "2026-09-25"
@@ -177,18 +177,18 @@
   },
   {
     "type": "news",
-    "title": "Point marchés-L'Europe finit en légère hausse, semaine tumultueuse pour la dette souveraine",
-    "summary": "Point marchés-L'Europe finit en légère hausse, semaine tumultueuse pour la dette souveraine Zonebourse",
+    "title": "L’Europe annonce une initiative pour amener les marchés onchain",
+    "summary": "L’Europe annonce une initiative pour amener les marchés onchain Cryptoast",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWC1OTXJiSjRkTFZJNF9qOVhnMDJSelM0VjN1SlNkb0dFNHkyUHZwWVZWUDVWb0xubjhQRzBZQkU0cDFjQUhnNksxV3JQT3NnMGstNGRXaWR0NFBUWkhXVGdoWXB5bjNZcHZNRlNuRFNmZW5iUnVFU0JKaGkxS1Y4cUlvZk5xNDdOdFBGaVZCT1pTQllQMGFzeVJxZ01wMldtWERYUG5OREk0X19PWDBFQ2RPRzNQWEU3bzdIbnRhVlVkaHg4NTk5R2NxMS1CQTVVQVRIeUdldmUtVlpBREJxbGQ1LTU3UQ?oc=5",
-    "date": "2026-09-25"
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFh4RWI2bDUwb2FuWnRJdEVtYTRabm5nTXNrVlpabDlwS1REaGhKX3d5YWJlX3BDMDJyeUhVOEsyTWVqbXl5TGR5YUZKeDZvMk9QcFVuOEpnMFFVRC1LTmFLSW5aME1EY3cxLW92MzVGMUtCcHpEY29FZGZCbkI4QV9tdWVvdEZHdGpDLVlTcDMtWXo0UHA5Zg?oc=5",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : « Si les Russes ont choisi de rendre leurs frappes encore plus brutales, le monde doit choisir des réponses plus fortes », affirme Volodymyr Zelensky",
-    "summary": "Le président ukrainien a demandé samedi à Antonio Costa, président du Conseil européen, et à Ursula von der Leyen, présidente de la Commission européenne, d’adopter de nouvelles sanctions européennes contre la Russie.",
+    "title": "Entre l’Irlande et Israël, un double face-à-face sous tension en Ligue des nations en raison de la situation à Gaza",
+    "summary": "Les deux équipes de football s’affrontent, dimanche sur terrain neutre avant un match retour en Serbie et non en Irlande. Représentants de l’un des pays les plus propalestiniens d’Europe, les Boys in Green ont décidé, à l’issue d’un vote, de disputer les deux rencontres face à la sélection de l’Etat hébreu.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-si-les-russes-ont-choisi-de-rendre-leurs-frappes-encore-plus-brutales-le-monde-doit-choisir-des-reponses-plus-fortes-affirme-volodymyr-zelensky_6777944_3210.html",
+    "link": "https://www.lemonde.fr/sport/article/2026/09/26/entre-l-irlande-et-israel-un-double-face-a-face-sous-tension-en-ligue-des-nations-en-raison-de-la-situation-a-gaza_6783341_3242.html",
     "date": "2026-09-26"
   },
   {
@@ -209,18 +209,18 @@
   },
   {
     "type": "news",
-    "title": "Quand Moscou fabrique un conflit territorial entre la Tchéquie et la Pologne",
-    "summary": "EN ZONE GRISE (3/5). Cet été, une campagne de désinformation a cherché à faire croire que la Pologne entendait se réapproprier un bout de territoire tchèque. Une opération d’influence qui a enflammé les réseaux sociaux dans les deux pays, derrière laquelle se dissimulent très probablement les services secrets russes.",
+    "title": "Comment la Norvège, le Canada et la France poussent pour encadrer l’IA",
+    "summary": "Après une rencontre à Saint-Pierre-et-Miquelon et quelques SMS entre les dirigeants norvégien, canadien et français – Jonas Gahr Store, Mark Carney et Emmanuel Macron –, une nouvelle alliance émerge pour réguler l’IA. “The Wall Street Journal” raconte les coulisses d’une démarche qui rappelle les traités sur les armes nucléaires.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-quand-moscou-fabrique-un-conflit-territorial-entre-la-tchequie-et-la-pologne_272076",
+    "link": "https://www.courrierinternational.com/article/geopolitique-comment-la-norvege-le-canada-et-la-france-poussent-pour-encadrer-l-ia_273942",
     "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "The intelligence war is turning against the Houthis",
-    "summary": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
+    "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+    "summary": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
     "date": "2026-09-26"
   },
   {
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Des agents IA d’OpenAI ont fait fuiter sur Internet des images d’utilisateurs de ChatGPT",
-    "summary": "Le géant de l’intelligence artificielle (IA) a reconnu, vendredi, que des liens menant vers des contenus de ses propres usagers ont été mis en ligne par erreur. Ce nouveau comportement incontrôlé vient s’ajouter à la longue liste des incidents impliquant des IA de l’entreprise américaine.",
+    "title": "« La bataille de l’IA est d’abord une bataille des données »",
+    "summary": "Alors que, en Europe, les débats sur l’intelligence artificielle se concentrent sur les data centers, les modèles de langage et la régulation, la Chine et les Etats-Unis ont bâti deux modèles rivaux pour exploiter leurs données, constate Jean-Dominique Séval, expert de l’économie numérique, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
-    "date": "2026-09-26"
+    "link": "https://www.lemonde.fr/idees/article/2026/09/25/la-bataille-de-l-ia-est-d-abord-une-bataille-des-donnees_6782460_3232.html",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
@@ -265,19 +265,19 @@
   },
   {
     "type": "news",
-    "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-    "summary": "Free speech and media advocacy groups urged a judge to block a California settlement with Paramount Skydance that would let the company finalize its $111 billion merger with Warner Bros. Discovery.",
+    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+    "summary": "Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. He’s targeted a $20 trillion valuation—nearly four times the value of market leader Nvidia—on that premise. But his Tesla team was in Sparks, Nevada, on Thursday to focus on, well, an electric vehicle: the long-awaited Tesla Semi.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-    "date": "2026-09-25"
+    "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-    "summary": "Do you currently work with or know anyone who is still using:* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?* CNC mills/spectrometers/microscopes/other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?* Anything with a parallel port dongle?If so, I'd be very intere…",
+    "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+    "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip Comments URL: https://news.ycombinator.com/item?id=49857899 Points: 266 # Comments: 120",
     "source": "Hacker News",
-    "link": "https://news.ycombinator.com/item?id=49848955",
-    "date": "2026-09-25"
+    "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
@@ -321,18 +321,18 @@
   },
   {
     "type": "news",
-    "title": "L’Europe annonce une initiative pour amener les marchés onchain",
-    "summary": "L’Europe annonce une initiative pour amener les marchés onchain Cryptoast",
+    "title": "Achat, remboursement et annulation de dettes souveraines : comment fonctionne une Banque centrale et quels impacts économiques",
+    "summary": "Achat, remboursement et annulation de dettes souveraines : comment fonctionne une Banque centrale et quels impacts économiques Groupe La Banque Postale",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFh4RWI2bDUwb2FuWnRJdEVtYTRabm5nTXNrVlpabDlwS1REaGhKX3d5YWJlX3BDMDJyeUhVOEsyTWVqbXl5TGR5YUZKeDZvMk9QcFVuOEpnMFFVRC1LTmFLSW5aME1EY3cxLW92MzVGMUtCcHpEY29FZGZCbkI4QV9tdWVvdEZHdGpDLVlTcDMtWXo0UHA5Zg?oc=5",
-    "date": "2026-09-26"
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1VzMWM4ZlJhazhaNVhVMThvQ2w3V09SSzZEcU9yaTQ5VS1JbklpYVNFMEdIa0c4anJ2d1Y4enRRVzkzSW8xYnVidFUwOXBfMmlEU1VOWUU2SDZCSWJGWU0yUXBkTy1iV0x1U2RReEVoS0c4LU9wYXdFc1JqMlZzQ1lTOE4xbFd5bzRRT3c0WlZfZlA5ME8zSl9lRk83OTEySGtieDhQMjh1ekluV2g2WG1TNA?oc=5",
+    "date": "2026-09-25"
   },
   {
     "type": "news",
-    "title": "Présidentielle 2027 : le chemin de crête de Jean-Luc Mélenchon sur l’Ukraine",
-    "summary": "Les propos récents du candidat de La France insoumise sur le conflit ukrainien ont réactivé les suspicions de complaisance avec le régime de Poutine. A L’Assemblée nationale et au Parlement européen, les parlementaires « insoumis » ont régulièrement changé de ligne.",
+    "title": "« Penser la guerre en dehors des sociétés qui la font est une illusion mortifère »",
+    "summary": "Devant la brutalité des conflits entre Etats, la puissance militaire devient la mesure ultime du politique, critiquent les politistes Adam Baczko et Gilles Dorronsoro, dans une tribune au « Monde ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/politique/article/2026/09/26/presidentielle-2027-le-chemin-de-crete-de-jean-luc-melenchon-sur-l-ukraine_6783102_823448.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/09/26/penser-la-guerre-en-dehors-des-societes-qui-la-font-est-une-illusion-mortifere_6783475_3232.html",
     "date": "2026-09-26"
   },
   {
@@ -353,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "Meurtre de Federico Aramburú : “une affaire historique” et 26 ans de prison pour Loïk Le Priol",
-    "summary": "Les militants d’extrême droite radicale Loïk Le Priol et Romain Bouvier ont été condamnés par la cour d’assises de Paris, vendredi 25 septembre, respectivement à 26 et 19 ans de réclusion criminelle, pour le meurtre de Federico Aramburú.",
+    "title": "Contrôler ou non les modèles de pointe : que disent les acteurs du débat sur l’“IApocalypse” ?",
+    "summary": "Depuis que Jacob Coxon, un simple ingénieur d’OpenAI, a démissionné pour alerter sur les dangers que ferait peser l’intelligence artificielle de pointe sur le destin de l’humanité, les positions sont tranchées entre ceux qui veulent ralentir le rythme (les patrons d’Anthropic, d’OpenAi et de DeepMind en tête) et ceux qui refusent toute régulation.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-d-argentine-meurtre-de-federico-aramburu-une-affaire-historique-et-26-ans-de-prison-pour-loik-le-priol_274398",
+    "link": "https://www.courrierinternational.com/article/intelligence-artificielle-controler-ou-non-les-modeles-de-pointe-que-disent-les-acteurs-du-debat-sur-l-iapocalypse_271764",
     "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "Israel bans Arab parties from election: Who they are, why it matters",
-    "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+    "title": "The intelligence war is turning against the Houthis",
+    "summary": "Russian-Iranian intelligence helped the Houthis' offensive on the Red Sea coast. Now that system is under attack.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
     "date": "2026-09-26"
   },
   {
     "type": "news",
-    "title": "Von der Leyen ally slams EU Commission’s AI response",
-    "summary": "The European Commission has failed to keep pace with AI developments, Axel Voss, a key German conservative lawmaker on tech policy, said in an interview. An EPP ally of Commission President Ursula von der Leyen in the European Parliament, Voss criticized the way the Commission is enforcing its artificial intelligence rules in the wake of a series of AI hacki…",
+    "title": "Germany’s Wadephul meets Russia’s Lavrov amid tensions over ‘escalation’",
+    "summary": "NEW YORK — German Foreign Minister Johann Wadephul held a surprise meeting with his Russian counterpart Sergey Lavrov at the U.N. on Saturday, just one day after he welcomed the U.S. invite for Russian President Vladimir Putin to the G20 summit.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-commission-axel-voss-ai-act-enforcement-criticism/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-09-25"
+    "link": "https://www.politico.eu/article/germany-russia-johann-wadephul-sergey-lavrov-meeting-un/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-09-26"
   },
   {
     "type": "news",
