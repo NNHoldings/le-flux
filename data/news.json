@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie promet de continuer ses « frappes de représailles massives » sur Kiev et appelle « les diplomates à quitter la ville »",
-    "summary": "Des bombardements russes ont touché, samedi, l’important pont Pivnitchny, à Kiev, deux jours après l’attaque du pont Pivdenny, dans le Sud, a annoncé le maire de la capitale ukrainienne. On dénombre deux blessés.",
+    "title": "EN DIRECT, guerre en Ukraine : l’Ukraine prévoit d’intensifier ses frappes sur les raffineries russes en réponse à la « nouvelle doctrine » menée par Moscou",
+    "summary": "Les services de renseignement ukrainiens ont obtenu des documents montrant que le président russe, Vladimir Poutine, a défini une « nouvelle doctrine » prévoyant des attaques militaires contre un éventail beaucoup plus large de cibles civiles à l’approche de l’hiver, a déclaré samedi Volodymyr Zelensky.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-la-russie-annonce-de-nouvelles-frappes-de-represailles-massives-sur-kiev-et-appelle-les-diplomates-a-quitter-la-ville_6783795_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-l-ukraine-prevoit-d-intensifier-ses-frappes-sur-les-raffineries-russes-en-reponse-a-la-nouvelle-doctrine-menee-par-moscou_6783795_3210.html",
     "date": "2026-10-03"
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "type": "news",
-    "title": "Polls open in Latvia against backdrop of perceived Russia threat",
-    "summary": "Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory, but coalition negotiations could be complex.",
+    "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+    "summary": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
     "date": "2026-10-03"
   },
   {
@@ -89,11 +89,11 @@
   },
   {
     "type": "news",
-    "title": "«No GenAI Game»: quand les joueurs mènent la guerre contre l’IA générative",
-    "summary": "Cette semaine, on revient sur un sujet brûlant dans l’industrie du jeu vidéo : l’utilisation de l’intelligence artificielle.",
+    "title": "À la Une: la Russie manipule des migrants pour contrer l'Europe",
+    "summary": "",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/bienvenue-dans-le-game/20261003-no-genai-game-quand-les-joueurs-m%C3%A8nent-la-guerre-contre-l-intelligence-artificielle-g%C3%A9n%C3%A9rative",
-    "date": "2026-10-03"
+    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261002-%C3%A0-la-une-la-russie-manipule-des-migrants-pour-contrer-l-europe",
+    "date": "2026-10-02"
   },
   {
     "type": "news",
@@ -126,6 +126,14 @@
     "source": "Ars Technica",
     "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
     "date": "2026-10-02"
+  },
+  {
+    "type": "news",
+    "title": "Cloudflare OHTTP gateway",
+    "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 169 # Comments: 76",
+    "source": "Hacker News",
+    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "date": "2026-10-03"
   },
   {
     "type": "news",
@@ -209,10 +217,10 @@
   },
   {
     "type": "news",
-    "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-    "summary": "Global energy prices have soared due to the US and Israel's war on Iran and Russia's war on Ukraine.",
+    "title": "Is the CJP changing India’s political landscape?",
+    "summary": "Youth-led movement demands resignation of chief election commissioner.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
     "date": "2026-10-03"
   },
   {
@@ -225,11 +233,11 @@
   },
   {
     "type": "news",
-    "title": "À la Une: la Russie manipule des migrants pour contrer l'Europe",
-    "summary": "",
+    "title": "Joann Sfar: «On voudrait bien éviter le Terminator des livres»",
+    "summary": "L'affaire Thélyson Orélien secoue le monde littéraire français. L'auteur est accusé d'avoir utilisé l'IA pour écrire son roman. Que reste-t-il aux créateurs à l'heure de l'intelligence artificielle ? Joann Sfar, dessinateur et auteur de « Cohen contre l'intelligence ou comment survivre à l'I.A. ? » est l'invité de RFI ce 29 septembre 2026.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261002-%C3%A0-la-une-la-russie-manipule-des-migrants-pour-contrer-l-europe",
-    "date": "2026-10-02"
+    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260929-joann-sfar-on-voudrait-bien-%C3%A9viter-le-terminator-des-livres",
+    "date": "2026-09-29"
   },
   {
     "type": "news",
@@ -261,6 +269,14 @@
     "summary": "One argument that often comes up about climate change is that fossil fuels are good because they powered economic growth that has left most people better off overall. And, to an extent, that has been true, but it's also an extremely limited perspective.",
     "source": "Ars Technica",
     "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+    "date": "2026-10-02"
+  },
+  {
+    "type": "news",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 272 # Comments: 136",
+    "source": "Hacker News",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
     "date": "2026-10-02"
   },
   {
@@ -313,10 +329,10 @@
   },
   {
     "type": "news",
-    "title": "Georgia Meloni prête à relancer le nucléaire quarante ans après l’abandon de l’atome par l’Italie",
-    "summary": "Le Sénat a voté un texte donnant douze mois au gouvernement pour réécrire le cadre réglementaire d’une réouverture de réacteurs en 2034.",
+    "title": "Guillaume Calafat, historien : « De nombreux historiens considèrent qu’avant la révolution industrielle existaient des capitalistes, mais sans capitalisme »",
+    "summary": "Si le socle du monde marchand repose sur un commerce adossé à une famille et un patrimoine permettant l’investissement du capital dès le XIIIe siècle, il suppose aussi une véritable formation au négoce, observe Guillaume Calafat. Le soutien d’une flotte ou d’un Etat est également bienvenu.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/03/georgia-meloni-prete-a-relancer-le-nucleaire-quarante-ans-apres-la-sortie-italienne-de-l-atome_6787741_3234.html",
+    "link": "https://www.lemonde.fr/histoire/article/2026/10/03/guillaume-calafat-historien-de-nombreux-historiens-considerent-qu-avant-la-revolution-industrielle-existaient-des-capitalistes-mais-sans-capitalisme_6787819_4655323.html",
     "date": "2026-10-03"
   },
   {
@@ -345,10 +361,10 @@
   },
   {
     "type": "news",
-    "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
-    "summary": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+    "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
+    "summary": "The state's governor said Frank Strada would step down as an independent review examines what went wrong.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
     "date": "2026-10-03"
   },
   {
@@ -361,26 +377,10 @@
   },
   {
     "type": "news",
-    "title": "Joann Sfar: «On voudrait bien éviter le Terminator des livres»",
-    "summary": "L'affaire Thélyson Orélien secoue le monde littéraire français. L'auteur est accusé d'avoir utilisé l'IA pour écrire son roman. Que reste-t-il aux créateurs à l'heure de l'intelligence artificielle ? Joann Sfar, dessinateur et auteur de « Cohen contre l'intelligence ou comment survivre à l'I.A. ? » est l'invité de RFI ce 29 septembre 2026.",
+    "title": "«On a du mal à regarder en face cette ingérence américaine», estime Melissa Bell de CNN",
+    "summary": "Si on parle beaucoup des ingérences russes en Europe, le continent est également visé par les milieux trumpistes qui cherchent à peser sur le vote des électeurs. Ainsi, la présidentielle en France intéresse la sphère Maga, une ingérence qui passe par les réseaux sociaux, les centres de réflexion, l’argent et les soutiens financiers et politiques.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260929-joann-sfar-on-voudrait-bien-%C3%A9viter-le-terminator-des-livres",
-    "date": "2026-09-29"
-  },
-  {
-    "type": "news",
-    "title": "Thierry Breton : « L’Europe apparaît trop souvent comme un grand marché, pas comme une puissance »",
-    "summary": "Pour l’ancien commissaire européen, si le marché intérieur de l’Europe est un formidable instrument de paix et de prospérité, il est aussi le symptôme d’un renoncement : celui de penser l’Europe comme puissance stratégique autonome.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/10/02/thierry-breton-l-europe-apparait-trop-souvent-comme-un-grand-marche-pas-comme-une-puissance_6787205_3210.html",
-    "date": "2026-10-02"
-  },
-  {
-    "type": "news",
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face, the company is still dealing w…",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-    "date": "2026-09-30"
+    "link": "https://www.rfi.fr/fr/podcasts/livre-international/20261003-on-a-du-mal-%C3%A0-regarder-en-face-cette-ing%C3%A9rence-am%C3%A9ricaine-estime-melissa-bell-de-cnn",
+    "date": "2026-10-03"
   }
 ]
