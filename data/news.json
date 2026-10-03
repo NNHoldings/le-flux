@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : la Russie a attaqué un deuxième pont majeur à Kiev",
-    "summary": "Après le pont Pivdenny, sur lequel la circulation a été suspendue vendredi en raison de bombardements russes, c’est le pont Pivnitchny, plus au nord de la capitale ukrainienne, sur le fleuve Dniepr, qui a été touché, tôt samedi.",
+    "title": "EN DIRECT, guerre en Ukraine : la Russie promet de continuer ses « frappes de représailles massives » sur Kiev et appelle « les diplomates à quitter la ville »",
+    "summary": "Des bombardements russes ont touché, samedi, l’important pont Pivnitchny, à Kiev, deux jours après l’attaque du pont Pivdenny, dans le Sud, a annoncé le maire de la capitale ukrainienne. On dénombre deux blessés.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-la-russie-a-attaque-un-deuxieme-pont-majeur-a-kiev_6783795_3210.html",
+    "link": "https://www.lemonde.fr/international/live/2026/10/03/en-direct-guerre-en-ukraine-la-russie-annonce-de-nouvelles-frappes-de-represailles-massives-sur-kiev-et-appelle-les-diplomates-a-quitter-la-ville_6783795_3210.html",
     "date": "2026-10-03"
   },
   {
@@ -65,10 +65,10 @@
   },
   {
     "type": "news",
-    "title": "Et maintenant la Russie s’en prend aux ponts de Kiev",
-    "summary": "Les ponts nord et sud qui enjambent le Dniepr dans la capitale ukrainienne ont été pris pour cibles par des drones russes ces trois derniers jours. Une première depuis le début de la guerre il y a près de cinq ans.",
+    "title": "Dans la guerre hybride menée par la Russie contre l’Europe, les migrants sont des pions",
+    "summary": "EN ZONE GRISE (4/5). De la Finlande à la Pologne, les murs et les barbelés se dressent aux frontières avec la Biélorussie et la Russie. Un rideau d’acier érigé par les pays d’Europe de l’Est qui accusent Moscou de leur envoyer des migrants afin de déstabiliser leurs systèmes d’accueil, explique “The Washington Post”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-et-maintenant-la-russie-s-en-prend-aux-ponts-de-kiev_275718",
+    "link": "https://www.courrierinternational.com/article/reportage-dans-la-guerre-hybride-menee-par-la-russie-contre-l-europe-les-migrants-sont-des-pions_271100",
     "date": "2026-10-03"
   },
   {
@@ -81,19 +81,19 @@
   },
   {
     "type": "news",
-    "title": "Russia hits major Kyiv bridge, logistics hub in latest attack",
-    "summary": "Russia struck a key bridge in Kyiv connecting the left and right bank of the Dnipro river overnight Saturday, as Moscow steps up its aerial campaign against Ukraine. Traffic was suspended on the capital’s Northern Bridge and emergency services were deployed to the scene amid damage to the road and trolleybus cables on the crossing, Kyiv major Vitaly Klitschk…",
+    "title": "Sandu slams Russia as attack debris hits Moldova in latest airspace violation",
+    "summary": "Moldovan President Maia Sandu on Saturday hit out at Moscow after saying debris from five Russian air attack weapons violated the country’s airspace and exploded on the country’s territory. “I condemn Russia’s attack on Ukraine this morning. Its war is dangerously reaching Moldova,” she wrote on X.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/maia-sandu-slams-russia-as-attack-debris-hits-moldova-in-latest-airspace-violation/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-10-03"
   },
   {
     "type": "news",
-    "title": "À la Une: la Russie manipule des migrants pour contrer l'Europe",
-    "summary": "",
+    "title": "«No GenAI Game»: quand les joueurs mènent la guerre contre l’IA générative",
+    "summary": "Cette semaine, on revient sur un sujet brûlant dans l’industrie du jeu vidéo : l’utilisation de l’intelligence artificielle.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261002-%C3%A0-la-une-la-russie-manipule-des-migrants-pour-contrer-l-europe",
-    "date": "2026-10-02"
+    "link": "https://www.rfi.fr/fr/podcasts/bienvenue-dans-le-game/20261003-no-genai-game-quand-les-joueurs-m%C3%A8nent-la-guerre-contre-l-intelligence-artificielle-g%C3%A9n%C3%A9rative",
+    "date": "2026-10-03"
   },
   {
     "type": "news",
@@ -125,14 +125,6 @@
     "summary": "The US has arrested another suspect accused of smuggling high-end computer servers containing export-controlled Nvidia chips into China. In a press release on Thursday, the Department of Justice accused 38-year-old Greg Lui of using false paperwork to mask shipments of servers worth more than $300 million that he allegedly knew were ultimately destined for C…",
     "source": "Ars Technica",
     "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-    "date": "2026-10-02"
-  },
-  {
-    "type": "news",
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 216 # Comments: 109",
-    "source": "Hacker News",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
     "date": "2026-10-02"
   },
   {
@@ -169,11 +161,11 @@
   },
   {
     "type": "news",
-    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+    "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+    "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-    "date": "2026-09-30"
+    "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+    "date": "2026-10-02"
   },
   {
     "type": "news",
@@ -185,10 +177,10 @@
   },
   {
     "type": "news",
-    "title": "Georgia Meloni prête à relancer le nucléaire quarante ans après l’abandon de l’atome par l’Italie",
-    "summary": "Le Sénat a voté un texte donnant douze mois au gouvernement pour réécrire le cadre réglementaire d’une réouverture de réacteurs en 2034.",
+    "title": "Turquie : « Les gens sont éprouvés par toutes ces années qui ont placé la résolution de la question kurde sur le terrain de la guerre et du terrorisme »",
+    "summary": "Spécialiste des dynamiques sociales dans le Sud-Est turc, Roj Girasun estime que le processus en cours sur le désarmement du Parti des travailleurs du Kurdistan a fait baisser le sentiment d’inquiétude de la population kurde.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/03/georgia-meloni-prete-a-relancer-le-nucleaire-quarante-ans-apres-la-sortie-italienne-de-l-atome_6787741_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/10/03/turquie-les-gens-sont-eprouves-par-toutes-ces-annees-qui-ont-place-la-resolution-de-la-question-kurde-sur-le-terrain-de-la-guerre-et-du-terrorisme_6787805_3210.html",
     "date": "2026-10-03"
   },
   {
@@ -209,35 +201,35 @@
   },
   {
     "type": "news",
-    "title": "La Sud-Africaine Stacey-Lee May, surdouée des pneus qui fument",
-    "summary": "Le “spinning” est un sport national en Afrique du Sud. Parmi les rares femmes accros à la discipline figure Stacey-Lee May, 30 ans. Au “Mail & Guardian”, elle raconte pourquoi et comment son sport devrait conquérir le monde.",
+    "title": "Et maintenant la Russie s’en prend aux ponts de Kiev",
+    "summary": "Les ponts nord et sud qui enjambent le Dniepr dans la capitale ukrainienne ont été pris pour cibles par des drones russes ces trois derniers jours. Une première depuis le début de la guerre il y a près de cinq ans.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/sport-la-sud-africaine-stacey-lee-may-surdouee-des-pneus-qui-fument_266181",
+    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-et-maintenant-la-russie-s-en-prend-aux-ponts-de-kiev_275718",
     "date": "2026-10-03"
   },
   {
     "type": "news",
     "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-    "summary": "Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.",
+    "summary": "Global energy prices have soared due to the US and Israel's war on Iran and Russia's war on Ukraine.",
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
     "date": "2026-10-03"
   },
   {
     "type": "news",
-    "title": "Latvian PM faces bittersweet victory in election backdropped by Russia",
-    "summary": "RIGA — Latvia’s populist Prime Minister Andris Kulbergs will face his first electoral test Saturday — but his head start in the polls is unlikely to shield him from coalition headaches in a contest where Ukraine and Russia are looming large.",
+    "title": "Russia hits major Kyiv bridge, logistics hub in latest attack",
+    "summary": "Russia struck a key bridge in Kyiv connecting the left and right bank of the Dnipro river overnight Saturday, as Moscow steps up its aerial campaign against Ukraine. Traffic was suspended on the capital’s Northern Bridge and emergency services were deployed to the scene amid damage to the road and trolleybus cables on the crossing, Kyiv major Vitaly Klitschk…",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/latvia-prime-minister-andris-kulbergs-faces-bittersweet-victory-election-2026/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/russia-hits-major-kyiv-bridge-logistics-hub-in-latest-attack/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-10-03"
   },
   {
     "type": "news",
-    "title": "Joann Sfar: «On voudrait bien éviter le Terminator des livres»",
-    "summary": "L'affaire Thélyson Orélien secoue le monde littéraire français. L'auteur est accusé d'avoir utilisé l'IA pour écrire son roman. Que reste-t-il aux créateurs à l'heure de l'intelligence artificielle ? Joann Sfar, dessinateur et auteur de « Cohen contre l'intelligence ou comment survivre à l'I.A. ? » est l'invité de RFI ce 29 septembre 2026.",
+    "title": "À la Une: la Russie manipule des migrants pour contrer l'Europe",
+    "summary": "",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260929-joann-sfar-on-voudrait-bien-%C3%A9viter-le-terminator-des-livres",
-    "date": "2026-09-29"
+    "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261002-%C3%A0-la-une-la-russie-manipule-des-migrants-pour-contrer-l-europe",
+    "date": "2026-10-02"
   },
   {
     "type": "news",
@@ -269,14 +261,6 @@
     "summary": "One argument that often comes up about climate change is that fossil fuels are good because they powered economic growth that has left most people better off overall. And, to an extent, that has been true, but it's also an extremely limited perspective.",
     "source": "Ars Technica",
     "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-    "date": "2026-10-02"
-  },
-  {
-    "type": "news",
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "summary": "Article URL: https://stillwet.art/ Comments URL: https://news.ycombinator.com/item?id=49928566 Points: 276 # Comments: 88",
-    "source": "Hacker News",
-    "link": "https://stillwet.art/",
     "date": "2026-10-02"
   },
   {
@@ -313,10 +297,10 @@
   },
   {
     "type": "news",
-    "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-    "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+    "title": "War, $100 oil and a bond sell-off reshaped markets in the third quarter",
+    "summary": "The third quarter was notably volatile, particularly for stocks and bonds.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+    "link": "https://www.cnbc.com/2026/10/01/q3-markets-stocks-oil-iran-war.html",
     "date": "2026-10-02"
   },
   {
@@ -329,11 +313,11 @@
   },
   {
     "type": "news",
-    "title": "Etats-Unis : Donald Trump s’apprête à confier le dossier de l’IA au chef du renseignement américain, Jay Clayton",
-    "summary": "Alors que les inquiétudes grandissent quant à la maîtrise de cette technologie, le président américain penche pour l’ancien patron du gendarme boursier américain malgré son absence d’expérience dans le domaine de la tech.",
+    "title": "Georgia Meloni prête à relancer le nucléaire quarante ans après l’abandon de l’atome par l’Italie",
+    "summary": "Le Sénat a voté un texte donnant douze mois au gouvernement pour réécrire le cadre réglementaire d’une réouverture de réacteurs en 2034.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html",
-    "date": "2026-10-02"
+    "link": "https://www.lemonde.fr/economie/article/2026/10/03/georgia-meloni-prete-a-relancer-le-nucleaire-quarante-ans-apres-la-sortie-italienne-de-l-atome_6787741_3234.html",
+    "date": "2026-10-03"
   },
   {
     "type": "news",
@@ -353,34 +337,50 @@
   },
   {
     "type": "news",
-    "title": "En Côte d’Ivoire, un fragile refuge pour les homosexuels africains persécutés",
-    "summary": "En Afrique, la multiplication des lois qui criminalisent l’homosexualité entraîne des violences généralisées contre les personnes LGBTQ+. Le quotidien espagnol “El País” s’est rendu à Abidjan, en Côte d’Ivoire, où l’ONG Arc-en-ciel accueille celles et ceux qui fuient ces mauvais traitements.",
+    "title": "La Sud-Africaine Stacey-Lee May, surdouée des pneus qui fument",
+    "summary": "Le “spinning” est un sport national en Afrique du Sud. Parmi les rares femmes accros à la discipline figure Stacey-Lee May, 30 ans. Au “Mail & Guardian”, elle raconte pourquoi et comment son sport devrait conquérir le monde.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/reportage-en-cote-d-ivoire-un-fragile-refuge-pour-les-homosexuels-africains-persecutes_251826",
+    "link": "https://www.courrierinternational.com/article/sport-la-sud-africaine-stacey-lee-may-surdouee-des-pneus-qui-fument_266181",
     "date": "2026-10-03"
   },
   {
     "type": "news",
-    "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
-    "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+    "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+    "summary": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
     "date": "2026-10-03"
   },
   {
     "type": "news",
-    "title": "‘Maxi merde’: French presidential campaign rattled by a week of chaos",
-    "summary": "PARIS — French schools are getting torched. The far right’s brightest star is fighting for his political life after being accused of antisemitic remarks. And economic indicators are flashing bright red to warn of a potential sovereign debt disaster in the country.",
+    "title": "Latvian PM faces bittersweet victory in election backdropped by Russia",
+    "summary": "RIGA — Latvia’s populist Prime Minister Andris Kulbergs will face his first electoral test Saturday — but his head start in the polls is unlikely to shield him from coalition headaches in a contest where Ukraine and Russia are looming large.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/maxi-merde-french-presidential-campaign-rattled-by-a-week-of-chaos/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/latvia-prime-minister-andris-kulbergs-faces-bittersweet-victory-election-2026/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-10-03"
+  },
+  {
+    "type": "news",
+    "title": "Joann Sfar: «On voudrait bien éviter le Terminator des livres»",
+    "summary": "L'affaire Thélyson Orélien secoue le monde littéraire français. L'auteur est accusé d'avoir utilisé l'IA pour écrire son roman. Que reste-t-il aux créateurs à l'heure de l'intelligence artificielle ? Joann Sfar, dessinateur et auteur de « Cohen contre l'intelligence ou comment survivre à l'I.A. ? » est l'invité de RFI ce 29 septembre 2026.",
+    "source": "RFI Monde",
+    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260929-joann-sfar-on-voudrait-bien-%C3%A9viter-le-terminator-des-livres",
+    "date": "2026-09-29"
+  },
+  {
+    "type": "news",
+    "title": "Thierry Breton : « L’Europe apparaît trop souvent comme un grand marché, pas comme une puissance »",
+    "summary": "Pour l’ancien commissaire européen, si le marché intérieur de l’Europe est un formidable instrument de paix et de prospérité, il est aussi le symptôme d’un renoncement : celui de penser l’Europe comme puissance stratégique autonome.",
+    "source": "Le Monde Éco",
+    "link": "https://www.lemonde.fr/international/article/2026/10/02/thierry-breton-l-europe-apparait-trop-souvent-comme-un-grand-marche-pas-comme-une-puissance_6787205_3210.html",
     "date": "2026-10-02"
   },
   {
     "type": "news",
-    "title": "Octobre rose: grâce à la recherche, «chaque forme de cancer du sein va avoir son traitement adapté»",
-    "summary": "Son ruban revient chaque année à la même période pour nous rappeler que le cancer du sein n'est pas une fatalité, qu'il peut se soigner et que la recherche progresse. Octobre Rose est la campagne annuelle mondiale de sensibilisation qui a commencé jeudi 1er octobre et se tient jusqu'au 31.",
-    "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261002-octobre-rose-gr%C3%A2ce-%C3%A0-la-recherche-chaque-forme-de-cancer-du-sein-va-avoir-son-traitement-adapt%C3%A9",
-    "date": "2026-10-02"
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face, the company is still dealing w…",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "date": "2026-09-30"
   }
 ]
