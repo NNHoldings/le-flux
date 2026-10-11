@@ -41,11 +41,11 @@
   },
   {
     "type": "news",
-    "title": "« Tout porte à craindre qu’une crise de la dette souveraine française ait des répercussions mondiales »",
-    "summary": "La France, qui doit remettre en ordre ses finances publiques, aurait tort de trop compter sur le filet de sécurité de la Banque centrale européenne, juge Desmond Lachman, ancien directeur adjoint du Fonds monétaire international, dans une tribune au « Monde ».",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev se dit prêt à arrêter ses frappes contre les raffineries russes si la Russie cesse de bombarder l’infrastructure énergétique ukrainienne",
+    "summary": "« Il est tout à fait possible, dès aujourd’hui, de mettre fin aux frappes contre les infrastructures énergétiques, mais [Vladimir] Poutine ne le veut pas », a affirmé le président ukrainien, Volodymyr Zelensky.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/10/10/tout-porte-a-craindre-qu-une-crise-de-la-dette-souveraine-francaise-ait-des-repercussions-mondiales_6790998_3232.html",
-    "date": "2026-10-10"
+    "link": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-kiev-se-dit-prete-a-arreter-ses-frappes-contre-les-raffineries-russes-si-la-russie-cesse-de-bombarder-l-infrastructure-energetique-ukrainienne_6791198_3210.html",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -65,19 +65,19 @@
   },
   {
     "type": "news",
-    "title": "L’Irlande, maillon faible de l’Europe exploité par la flotte fantôme russe",
-    "summary": "EN ZONE GRISE (5/5) Quelque 75 % des câbles transatlantiques passent au large des côtes de l’île d’Émeraude, mais l’Irlande, mal armée, peine à protéger ces infrastructures vitales. Elle compte huit patrouilleurs, mais aucun avion de combat ni radar militaire à longue portée, détaille “The Wall Street Journal”.",
+    "title": "La révolution de l’informatique quantique n’a jamais été aussi proche",
+    "summary": "La technologie quantique va bientôt révolutionner la recherche pharmaceutique, les services financiers et les cryptomonnaies, assurent ses promoteurs. Adieu la binarité du bit, bienvenue au qubit ? Certains y croient pour l’horizon 2030, d’autres restent sceptiques, constate le “Financial Times”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/geopolitique-l-irlande-maillon-faible-de-l-europe-exploite-par-la-flotte-fantome-russe_272323",
-    "date": "2026-10-10"
+    "link": "https://www.courrierinternational.com/article/sciences-la-revolution-de-l-informatique-quantique-n-a-jamais-ete-aussi-proche_246190",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
-    "title": "Trump says Ukraine needs a new president who will agree to end the war",
-    "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+    "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+    "summary": "Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-    "date": "2026-10-10"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -97,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "Dette : « La France n’est pas la Grèce et répéter les erreurs des années 2010 serait coûteux pour tout le monde »",
-    "summary": "Donald Trump est l’un des responsables de la hausse mondiale des taux d’intérêt, qui pénalise la France. Plutôt que de se réjouir du sort de l’un des leurs, les pays de la zone euro et la Banque centrale européenne devraient se serrer les coudes pour casser la spéculation, estime l’économiste Anton Brender dans une tribune au « Monde ».",
+    "title": "Au Mondial de Paris, l’industrie automobile fait son show dans un climat morose et sous pression chinoise",
+    "summary": "Alors que l’édition 2026 du Mondial de l’auto ouvre ses portes au public le 13 octobre, les constructeurs européens sont pris en étau entre la guerre commerciale de Trump et la vague des modèles venus de Chine.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/10/10/dette-la-france-n-est-pas-la-grece-et-repeter-les-erreurs-des-annees-2010-serait-couteux-pour-tout-le-monde_6790944_3232.html",
-    "date": "2026-10-10"
+    "link": "https://www.lemonde.fr/economie/article/2026/10/11/au-mondial-de-paris-l-industrie-automobile-fait-son-show-dans-un-climat-morose-et-sous-pression-chinoise_6791408_3234.html",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -129,11 +129,11 @@
   },
   {
     "type": "news",
-    "title": "Can you use autoregressive diffusion to generate market data?",
-    "summary": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 165 # Comments: 52",
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 225 # Comments: 294",
     "source": "Hacker News",
-    "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-    "date": "2026-10-09"
+    "link": "https://status.yandex.cloud/en/incidents/2136",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -177,19 +177,19 @@
   },
   {
     "type": "news",
-    "title": "Les marchés d’actions progressent avant les résultats, malgré des rendements obligataires et des cours du pétrole toujours élevés",
-    "summary": "Les marchés d’actions progressent avant les résultats, malgré des rendements obligataires et des cours du pétrole toujours élevés Zonebourse Suisse",
+    "title": "Prabowo met en garde contre le conflit au Moyen-Orient qui pourrait frapper l'économie mondiale",
+    "summary": "Prabowo met en garde contre le conflit au Moyen-Orient qui pourrait frapper l'économie mondiale VOI.ID",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNy1wZzFxaDBLSG4yYm9qUXZXWkU2NnY3MkZrbFB4cUtybEZ6d1RZT0U3bm5ONXl2aUlIalRvMXFqM0VZRFYxaVZqajFlbDRzX2NPdGdJM1NJVDlPUGJFREtCZXdoM0hjUDhPdXBZajlTN1dSUWpwS2NmRFRvWFZMVkpLcDA0bVhjMnZFckZaNjFDTldPNjNLeUFwbXZKeGFLVVhDZWNfOVBxZWVNUl9QcXRVZHZUMDI3V3U2NFpJWjlCZlp2cjZEbkVEdXVhY1ltODNqckdJMVd0RVVQMjVLSkVOUXlDejNuM1QyQW5PNA?oc=5",
-    "date": "2026-10-09"
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rZXdySnR2NUlGVDBjLW5PTXIwcTJfMVVVNHlJT0xIRU95T0FYNWQ4NG9VZ05CdkR6QUY0bm1mODlZcWdmU2c?oc=5",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
-    "title": "Le fonds pétrolier norvégien et ses 2 000 milliards d’euros d’actifs, une bénédiction pour l’Etat-providence",
-    "summary": "Alimenté par les revenus de l’extraction du gaz et du pétrole, le plus grand fonds souverain du monde finance désormais un quart du budget de l’Etat norvégien. S’il a contribué à la prospérité du royaume et de ses habitants, son impact sur l’économie et la société fait aujourd’hui débat.",
+    "title": "Romain Choron, historien et officier, victime expiatoire du raidissement de l’Etat français sur les archives militaires de la guerre d’Algérie",
+    "summary": "Les déboires administratifs subis par le Saint-Cyrien en raison de sa consultation d’archives classifiées sur la guerre souterraine menée par la France en Algérie, entre 1959 et 1962, ont soulevé une vive émotion chez les historiens. Ils illustrent les tentatives de l’Etat de durcir l’accès aux documents historiques sensibles.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/10/le-fonds-petrolier-norvegien-et-ses-2-000-milliards-d-euros-d-actifs-une-benediction-pour-l-etat-providence_6790973_3234.html",
-    "date": "2026-10-10"
+    "link": "https://www.lemonde.fr/international/article/2026/10/11/romain-choron-historien-et-officier-victime-expiatoire-du-raidissement-de-l-etat-francais-sur-les-archives-militaires-de-la-guerre-d-algerie_6791610_3210.html",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -209,19 +209,19 @@
   },
   {
     "type": "news",
-    "title": "Donald Trump annonce un accord surprise avec Vladimir Poutine sur le diesel, Volodymyr Zelensky s’indigne",
-    "summary": "Selon le président américain, la Russie s’est engagée à “immédiatement fournir plus de 300 000 tonnes de diesel au marché américain et mondial”, alors que Moscou est frappé de sanctions sur ses exportations d’hydrocarbures depuis l’invasion de l’Ukraine par les forces russes en février 2022.",
+    "title": "La Scanie, ce petit coin de Suède qui se fait une place sur la carte des vins",
+    "summary": "Le pays scandinave n’a obtenu l’autorisation européenne de commercialiser ses vins qu’en 1999. Mais sous l’effet du changement climatique, de l’essor de la gastronomie nordique et du développement de la culture du vin, les crus venus de Scanie, comté le plus méridional de Suède, voient leurs volumes de vente augmenter rapidement, souligne “The Economist”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/donald-trump-annonce-un-accord-surprise-avec-vladimir-poutine-sur-le-diesel-volodymyr-zelensky-s-indigne_277467",
-    "date": "2026-10-10"
+    "link": "https://www.courrierinternational.com/article/viniculture-la-scanie-ce-petit-coin-de-suede-qui-se-fait-une-place-sur-la-carte-des-vins_265270",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
-    "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-    "summary": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza 'ceasefire' anniversary.",
+    "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+    "summary": "Third strike on Yandex facilities in a week comes as Russia and Ukraine escalate attacks on tech infrastructure.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-    "date": "2026-10-10"
+    "link": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -241,10 +241,10 @@
   },
   {
     "type": "news",
-    "title": "Comment les Etats utilisent leurs fonds souverains et leurs 16 000 milliards de dollars d’actifs pour étendre leur influence",
-    "summary": "En vingt ans, ces fonds ont vu leurs actifs plus que quintupler pour atteindre 16 000 milliards de dollars (14 215 milliards d’euros). Ils sont devenus le symbole du retour d’un capitalisme d’Etat qui se mondialise.",
+    "title": "« Tout porte à craindre qu’une crise de la dette souveraine française ait des répercussions mondiales »",
+    "summary": "La France, qui doit remettre en ordre ses finances publiques, aurait tort de trop compter sur le filet de sécurité de la Banque centrale européenne, juge Desmond Lachman, ancien directeur adjoint du Fonds monétaire international, dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/10/comment-les-etats-utilisent-leurs-fonds-souverains-pour-etendre-leur-influence_6790948_3234.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/10/10/tout-porte-a-craindre-qu-une-crise-de-la-dette-souveraine-francaise-ait-des-repercussions-mondiales_6790998_3232.html",
     "date": "2026-10-10"
   },
   {
@@ -274,7 +274,7 @@
   {
     "type": "news",
     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 202 # Comments: 104",
+    "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 296 # Comments: 134",
     "source": "Hacker News",
     "link": "https://github.com/rociiu/talorys",
     "date": "2026-10-10"
@@ -321,11 +321,11 @@
   },
   {
     "type": "news",
-    "title": "Les marchés obligataires de la zone euro annoncent-ils une récession face au ralentissement",
-    "summary": "Les marchés obligataires de la zone euro annoncent-ils une récession face au ralentissement Euronews.com",
+    "title": "\"Régaler les papilles sans vider le porte-monnaie\": un pizzaïolo dévoile une carte contre l'inflation dans l'Aude",
+    "summary": "\"Régaler les papilles sans vider le porte-monnaie\": un pizzaïolo dévoile une carte contre l'inflation dans l'Aude Actu.fr",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVJDa3RSdWpoSTVQRWxBbTlJMlFPdjFxNlowd0p2ZFVhSk1qYUI5dE42RDZacXBzam9HNjBBX3U5RmVJZWVxMDhWeU5TTzlRM2Fvb1d6OXYzcGZ1YjdTbE00SFZsc2FBRzZUMGJ1TDQwcUprN1NfZTNOWGdIdG9LbTEyRTRKbGt0eFN4a2hSRHR4QkZwQ2RVNWlJUnl2Vk9QVWM2RmhuLXNjdkpneS1pYjlJQXBDQ2ZGREVMVmdhYm0ydk0?oc=5",
-    "date": "2026-10-09"
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYmtTX1lmMzl6LUczMDMyNmVIZU9TSnhvRElLU0pJX2NFWGFRYW9Xb2hxRWFlSEVxOUcyLVhGdFdUWVozcGVPNUNjQzJzRVZMRVA5NGZfdmhaWkFOMFRVcThJRHFDVDlkN3E2cElPTEM3SXl6eGQyWTdyM3VfQV9EVXpaOTNxYmVtM1hBUGR5QzlPYVNDVDR5OGcxMVJrb1pDa2o0MVcxMFphVmdPY0VEMjZ1NUs3SFdicHVRT1RySGVISExTek9yU3ZVMkRabnR4VlhCV1hkUVNNQ2pkUjRwOGdOWnh4d2piSmZzS0o1WEU2YXF6S05hQ1hYS1BqSGt3VjBvekxB?oc=5",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
@@ -353,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "L’administration Trump sévit contre les étudiants et les travailleurs étrangers",
-    "summary": "La Maison-Blanche a annoncé une série de nouvelles restrictions à l’accueil d’étrangers dans les universités et les entreprises américaines. Les explications de la presse aux États-Unis.",
+    "title": "Diesel russe : après les critiques de Kiev, Trump suggère aux Ukrainiens de remplacer Zelensky",
+    "summary": "Le président américain s’en est pris vertement samedi à son homologue ukrainien, affirmant qu’il était “temps pour l’Ukraine d’avoir un nouveau président” pour mettre fin à la guerre avec la Russie.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/politique-l-administration-trump-sevit-contre-les-etudiants-et-les-travailleurs-etrangers_277109",
-    "date": "2026-10-10"
+    "link": "https://www.courrierinternational.com/article/geopolitique-diesel-russe-apres-les-critiques-de-kiev-trump-suggere-aux-ukrainiens-de-remplacer-zelensky_277731",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
-    "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-    "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+    "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+    "summary": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-    "date": "2026-10-10"
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
-    "title": "Ryanair lashes out at Air France and Lufthansa over ownership probe",
-    "summary": "BRUSSELS — Ryanair has accused rivals Lufthansa and Air France-KLM of trying to ground the low-cost carrier by alleging that its ownership structure violates EU rules. The two legacy airlines, which face growing competition from budget carriers, belong to the European Network Airlines Association, a lobby group that has filed a legal challenge over Ryanair’s…",
+    "title": "Russians face EU travel curbs to prevent hybrid attacks",
+    "summary": "Brussels officials are finalizing plans to tighten visa rules for hundreds of thousands of Russians who visit EU countries as tourists each year, in a move designed to strengthen the bloc’s defenses against hybrid attacks.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ryanair-lashes-out-at-air-france-and-lufthansa-ownership-issue/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-10-09"
+    "link": "https://www.politico.eu/article/russia-visa-passport-control-face-eu-travel-curbs-to-prevent-hybrid-attacks/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-10-11"
   },
   {
     "type": "news",
