@@ -25,18 +25,26 @@
   },
   {
     "type": "news",
-    "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-    "summary": "The timeline for startups to do initial public offerings has accelerated, according to Granite Asia's Jenny Lee",
+    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
     "date": "2026-10-20"
   },
   {
     "type": "news",
-    "title": "En Europe, la colère sociale gagne du terrain, sur fond de flambée des prix de l’énergie et de crise du logement",
-    "summary": "Italie, Belgique, Espagne ou Portugal… Le coût de la vie et les conséquences de la hausse du prix de l’énergie mobilisent ailleurs qu’en France. Les Italiens sont appelés à une grève générale le 20 novembre, tandis qu’un mouvement similaire est prévu pour le 11 novembre en Espagne et au Portugal.",
+    "title": "La banque centrale hongroise maintient son taux directeur face à la menace d’un rebond de l’inflation",
+    "summary": "La banque centrale hongroise maintient son taux directeur face à la menace d’un rebond de l’inflation Zonebourse Suisse",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1VkczRaajAyT3AyTWs0UDdzcUdZVnQwTGlOTlhDc1BLNDZka2xUamFfS2VVRzdpeVRTYkFHMFdjbTEwWTNvTk9GT1hLX0FVbUNzajByLTJnUFVQQkRTUU1PNDZiVkU5TzVGTWtYQzhGdnVBbVNMcGFoU3BLQi1FXzNmaG40bkNQR0pUUFNHclQzclJ1N3NOWldvMnBwdmljMkVDRkx5OGxMZzB2c3otMEFRNnpBdjFZVEpVVl9vR25HcXhORnFGMWNrVjdNU0Ewb1dQNk00TUt5Sm9BaHBSS1BVRDdnMnpOelhMdQ?oc=5",
+    "date": "2026-10-20"
+  },
+  {
+    "type": "news",
+    "title": "Guerre en Ukraine : l’OTAN va déployer des moyens supplémentaires en mer Noire",
+    "summary": "Depuis le début d’octobre, les incidents se multiplient au large de la Bulgarie et de la Roumanie, dont des attaques imputées à des drones russes, dans le cadre de la guerre menée par la Russie en Ukraine.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/10/20/italie-espagne-belgique-portugal-en-europe-la-colere-sociale-gagne-du-terrain-sur-fond-de-flambee-des-prix-de-l-energie-et-de-crise-du-logement_6797862_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/10/20/guerre-en-ukraine-l-otan-va-deployer-des-moyens-supplementaires-en-mer-noire_6797970_3210.html",
     "date": "2026-10-20"
   },
   {
@@ -49,7 +57,7 @@
   },
   {
     "type": "news",
-    "title": "Reinventing Europe",
+    "title": "PS Events: Reinventing Europe",
     "summary": "Despite boasting world-leading universities and research institutions, robust trade relationships, a strong industrial base, and a well-established rule of law, Europe has failed to leverage its advantages in a way that would unlock its full economic potential.",
     "source": "Project Syndicate",
     "link": "https://www.project-syndicate.org/videos/ps-events-reinventing-europe-homepage-video?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
@@ -65,18 +73,18 @@
   },
   {
     "type": "news",
-    "title": "Is Russia stalking satellites which help Ukraine from space?",
-    "summary": "Analysts say a Russian craft’s close pass by a commercial radar satellite is a first and a warning to Kyiv’s backers.",
+    "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+    "summary": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
     "date": "2026-10-20"
   },
   {
     "type": "news",
-    "title": "Rubio insists the US isn’t trying to hurt Ukraine",
-    "summary": "U.S. Secretary of State Marco Rubio said the country had not changed its policy on sharing early warnings of Russian missile attacks with Ukraine and that the Pentagon was not deliberately withholding air defense missiles. “There’s nothing being deliberately denied to Ukraine,” Rubio said during a visit to India Tuesday, calling reports that the U.S.",
+    "title": "China threatens retaliation if UK follows the EU on tariffs",
+    "summary": "LONDON — Beijing has threatened to retaliate if the U.K. raises tariffs on Chinese electric vehicles, aligning with the European Union. Responding to POLITICO’s story that Britain was looking to act in “lockstep” with the bloc to counter China’s market dominance in electric cars, a spokesperson from the Chinese Ministry of Commerce said: “If the U.K.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/china-threatens-retaliation-if-u-k-follows-the-eu-on-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-10-20"
   },
   {
@@ -121,8 +129,8 @@
   },
   {
     "type": "news",
-    "title": "Google cloud outage takes down banks",
-    "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 192 # Comments: 84",
+    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 246 # Comments: 113",
     "source": "Hacker News",
     "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
     "date": "2026-10-20"
@@ -169,10 +177,18 @@
   },
   {
     "type": "news",
-    "title": "Madagascar, nouvelle terre de recrutement et d’influence pour la Russie",
-    "summary": "« Madagascar, un an après le coup d’Etat » (4/4). Mi-août, la mort sur le front ukrainien d’un Malgache enrôlé par l’armée russe a mis en lumière la discrète campagne de recrutement militaire sur la Grande Ile. Depuis l’arrivée du colonel Randrianirina, le pays a entamé un rapprochement généralisé avec la Russie, au grand dam de Paris.",
+    "title": "Économie : la tech passe dans le rouge sur les marchés mondiaux et la dette française inquiète à nouveau",
+    "summary": "Économie : la tech passe dans le rouge sur les marchés mondiaux et la dette française inquiète à nouveau Sud Ouest",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR0xoWkZyUjVSR0l1NmpyM1daNmxtbzlVRm5PNjg2amVaWmd0c2M1cjJKWXB6Rm1jQkRGZ1ZneEhqOVh4amlxYkhVLUNYMllqRS1OcDhDTW1ZT3VBQmdhQ1hDYmtEZy1lNmY3VmpWaUl6NWduQnZEQ2FOWnJKMDdrOWVxVWZmbl9UMzYxZjlmRnpyUU55Q2lKT3VKd0hzN2FjTXBqc0tJekZhYWM5RldGOFVncDRzanl0WTRrLTU2QThRc1ZtdUktb0JDbExidVF4WjV1SkR1S0dOaG9WcEhHWDV3?oc=5",
+    "date": "2026-10-20"
+  },
+  {
+    "type": "news",
+    "title": "A Gaza, des frappes israéliennes font sept morts, selon la défense civile et des hôpitaux",
+    "summary": "Le premier ministre israélien, Benyamin Nétanyahou, en course pour sa réélection lors des législatives qui doivent se tenir le 27 octobre, a juré de continuer à attaquer le Hamas malgré le cessez-le-feu entré en vigueur il y a un peu plus d’un an.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/10/20/madagascar-nouvelle-terre-de-recrutement-et-d-influence-pour-la-russie_6797933_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/10/20/a-gaza-des-frappes-israeliennes-font-sept-morts-selon-la-defense-civile-et-des-hopitaux_6797971_3210.html",
     "date": "2026-10-20"
   },
   {
@@ -201,18 +217,18 @@
   },
   {
     "type": "news",
-    "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-    "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+    "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+    "summary": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
     "date": "2026-10-20"
   },
   {
     "type": "news",
-    "title": "Macron and Merz edge closer to a budget deal",
-    "summary": "Listen on Spotify Apple Music Amazon Music The Arctic is becoming a geopolitical battleground — and the EU wants a bigger role. The European Commission is unveiling a new strategy focused on security, as Russia builds up its military presence, China explores new shipping routes, and Donald Trump’s Greenland ambitions raise tensions.",
+    "title": "Rubio insists the US isn’t trying to hurt Ukraine",
+    "summary": "U.S. Secretary of State Marco Rubio said the country had not changed its policy on sharing early warnings of Russian missile attacks with Ukraine and that the Pentagon was not deliberately withholding air defense missiles. “There’s nothing being deliberately denied to Ukraine,” Rubio said during a visit to India Tuesday, calling reports that the U.S.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/macron-and-merz-edge-closer-to-a-budget-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-10-20"
   },
   {
@@ -225,10 +241,10 @@
   },
   {
     "type": "news",
-    "title": "La charité soudaine d’Elon Musk et d’Anthropic, entre distribution d’actions et aide caritative",
-    "summary": "Elon Musk promet des actions SpaceX à tous les enfants américains, tandis qu’Anthropic va verser 5 % de son capital à des œuvres caritatives. Les géants de la tech entendent redistribuer une partie des richesses générées par l’intelligence artificielle, sans toutefois renoncer à leurs intérêts.",
+    "title": "Au Chili, les data centers, portés par le boom de l’IA, encerclent Santiago",
+    "summary": "La banlieue de la capitale chilienne voit fleurir les projets d’implantation de centres de données, dopés par l’essor de l’intelligence artificielle et un assouplissement des règles environnementales. Les opposants dénoncent un accaparement des ressources, notamment l’eau.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/20/la-charite-soudaine-d-elon-musk-et-d-anthropic-entre-distribution-d-actions-et-aide-caritative_6797858_3234.html",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/20/au-chili-les-data-centers-portes-par-le-boom-de-l-ia-encerclent-santiago_6797911_3234.html",
     "date": "2026-10-20"
   },
   {
@@ -257,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 458 # Comments: 377",
+    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 358 # Comments: 315",
     "source": "Hacker News",
-    "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "date": "2026-10-19"
+    "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "date": "2026-10-20"
   },
   {
     "type": "news",
@@ -297,18 +313,26 @@
   },
   {
     "type": "news",
-    "title": "U.S. Treasury yields move lower after weak housing data",
-    "summary": "Investors digested more economic data and continued to weigh the inflationary backdrop ahead of the Federal Reserve's interest rate decision next week.",
+    "title": "What options traders expect from SpaceX earnings after the bell",
+    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
     "date": "2026-10-20"
   },
   {
     "type": "news",
-    "title": "Au Chili, les data centers, portés par le boom de l’IA, encerclent Santiago",
-    "summary": "La banlieue de la capitale chilienne voit fleurir les projets d’implantation de centres de données, dopés par l’essor de l’intelligence artificielle et un assouplissement des règles environnementales. Les opposants dénoncent un accaparement des ressources, notamment l’eau.",
+    "title": "La vente d'obligations françaises devient \"massive\": après le week-end d'émeutes, le taux d'emprunt de la France flambe, la défiance des marchés atteint un niveau inédit depuis 2012",
+    "summary": "La vente d'obligations françaises devient \"massive\": après le week-end d'émeutes, le taux d'emprunt de la France flambe, la défiance des marchés atteint un niveau inédit depuis 2012 BFM",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWnk5X1M3YUxtNkhFNDNsdVRTUVdHMGhENy1QRlNPdVg1Wi02TTRzbFZFUWNidklmTVNTZVJlOFRrQ3JEOUYxNDhZbWltOGRUZFdNZDhBOTVpd2lZd3lGTWNwUXA0RXhrSzhFZkNpMkoybjRYbkFVWi1MbUNXQ1hyX0JkNXl5TDEzX1o2R25GOFJmLVQ0XzBlMmRtTkhMUHhqTzFocXR2UkJHOXczd0ZPY21LU2pERlVSSVJrWUFseVlTSGJKRUtTMl96MWQ5M2ZpdEh5UkN5UFJOVmQ3ZEM1RXJNc2s2Z2pkNnd5UHQ4OHI1WVRaYTFXUl9WZF94R2U2VnZ4aTg5MnVNOXh5Tk5iMHRpNHNuUXN6Q20yQUtfVUJ3ajVKMEVGUFNSNi1idmJ3UXlCRDRELWN1OUc2X1Z2X3pzWVZWUmxHU2NxMmdZcmtUelZhVTBEdGc4by1ieExscXc?oc=5",
+    "date": "2026-10-20"
+  },
+  {
+    "type": "news",
+    "title": "Italie : 500 militaires vont être déployés à Milan jusqu’à la fin de l’année, après les violences du week-end, annonce Giorgia Meloni",
+    "summary": "La dirigeante d’extrême droite a fait savoir que le conseil des ministres avait également approuvé des mesures visant à faciliter le placement en détention des mineurs, à infliger des amendes à leurs parents en cas de dégâts et à instaurer le délit de « participation violente à une manifestation ».",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/10/20/au-chili-les-data-centers-portes-par-le-boom-de-l-ia-encerclent-santiago_6797911_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/10/20/italie-500-militaires-vont-etre-deployes-a-milan-jusqu-a-la-fin-de-l-annee-apres-les-violences-du-week-end-annonce-giorgia-meloni_6797977_3210.html",
     "date": "2026-10-20"
   },
   {
@@ -321,11 +345,11 @@
   },
   {
     "type": "news",
-    "title": "From AI Boom to Economic Bust",
-    "summary": "Contrary to tech optimists' rosy predictions, AI may prove to be a drag on growth. By concentrating wealth and economic opportunities in a few cities while destroying the low-cost jobs that have historically fueled global development, the technology could end up making much of the world poorer and more divided.",
+    "title": "Brazil Cannot Afford Bolsonaro’s Spending Cuts",
+    "summary": "If he wins the October 25 runoff, far-right presidential candidate Flávio Bolsonaro plans to slash public spending by as much as 1.5% of GDP. These cuts could push Brazil into recession, hurt workers and small businesses, and drain tax revenue—all without solving the country’s debt problem.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/onpoint/ai-revolution-could-leave-everyone-worse-off-by-ian-goldin-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
-    "date": "2026-10-16"
+    "link": "https://www.project-syndicate.org/commentary/flavio-bolsonaro-planned-tax-and-budget-cuts-could-push-brazil-into-recession-by-laura-carvalho-and-joseph-e-stiglitz-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "date": "2026-10-20"
   },
   {
     "type": "news",
@@ -337,10 +361,10 @@
   },
   {
     "type": "news",
-    "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-    "summary": "France's rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
+    "title": "Can a humanitarian crisis in Gaza be averted?",
+    "summary": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
     "date": "2026-10-20"
   },
   {
@@ -358,29 +382,5 @@
     "source": "RFI Monde",
     "link": "https://www.rfi.fr/fr/monde/20261014-la-dette-est-un-frein-pour-la-croissance-des-pays-en-d%C3%A9veloppement-selon-le-g-24",
     "date": "2026-10-14"
-  },
-  {
-    "type": "news",
-    "title": "« S’opposer localement à un data center revient à refuser la fuite en avant collective de l’IA, de tous ses impacts sur nos vies »",
-    "summary": "Des collectifs de lutte contre des projets de centres de données alertent, dans une tribune au « Monde », sur les dangers imminents en matière de consommation d’eau, d’électricité et d’artificialisation de terres agricoles.",
-    "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/idees/article/2026/10/20/s-opposer-localement-a-un-data-center-revient-a-refuser-la-fuite-en-avant-collective-de-l-ia-de-tous-ses-impacts-sur-nos-vies_6797880_3232.html",
-    "date": "2026-10-20"
-  },
-  {
-    "type": "news",
-    "title": "These startups hope “blended” food will cut our appetite for red meat",
-    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-    "date": "2026-10-20"
-  },
-  {
-    "type": "news",
-    "title": "How to Outcompete Your Client’s AI",
-    "summary": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease work. Thanks to generative AI, it can now do that work internally, saving the firm hundreds of thousands of dollars in spending and compressing lease work that once stalled for weeks.",
-    "source": "MIT Sloan Review",
-    "link": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
-    "date": "2026-09-29"
   }
 ]
