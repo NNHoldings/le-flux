@@ -41,10 +41,10 @@
   },
   {
     "type": "news",
-    "title": "En Bulgarie, une élection présidentielle marquée par les craintes et les divisions sur la guerre en Ukraine",
-    "summary": "La présidente sortante, Iliana Iotova, favorable au dialogue avec la Russie et opposée à l’aide militaire à l’Ukraine, fait figure de favorite.",
+    "title": "« Les câbles sous-marins sont utilisés par la Russie ou la Chine pour affaiblir leurs ennemis et par les géants numériques pour asseoir leur domination »",
+    "summary": "Autrice de « La Guerre silencieuse. Enquête sur les câbles sous-marins », Marie Baléo raconte, dans un entretien au « Monde », comment ces structures sont devenues un enjeu géopolitique majeur, et parfois la cible de sabotages par des services d’espionnage.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/10/25/en-bulgarie-une-election-presidentielle-marquee-par-les-craintes-et-les-divisions-sur-la-guerre-en-ukraine_6800051_3210.html",
+    "link": "https://www.lemonde.fr/idees/article/2026/10/25/les-cables-sous-marins-sont-utilises-par-la-russie-ou-la-chine-pour-affaiblir-leurs-ennemis-et-par-les-geants-numeriques-pour-asseoir-leur-domination_6800072_3232.html",
     "date": "2026-10-25"
   },
   {
@@ -65,27 +65,27 @@
   },
   {
     "type": "news",
-    "title": "La route maritime du Nord-Est, une voie prometteuse mais risquée",
-    "summary": "La Chine a lancé en août la première liaison régulière entre l’Asie et l’Europe via l’océan Arctique. Praticable quelques mois par an, cet itinéraire qui divise le temps de trajet par deux suscite l’intérêt de plusieurs pays. Mais d’importants risques environnementaux et politiques devraient freiner le développement de la “route de la soie polaire”.",
+    "title": "En Libye, le clan Haftar profite du choc énergétique mondial",
+    "summary": "La flambée des prix de l’énergie due à la guerre en Iran constitue une aubaine pour la Libye, notamment pour l’Est, dominé par Khalifa Haftar et ses fils. Le quotidien libanais “L’Orient-Le Jour” détaille les investissements étrangers qui affluent dans un pays toujours scindé en deux, sans contribuer au rapprochement des camps ennemis.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/transport-la-route-maritime-du-nord-est-une-voie-prometteuse-mais-risquee_262827",
-    "date": "2026-10-24"
-  },
-  {
-    "type": "news",
-    "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-    "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+    "link": "https://www.courrierinternational.com/article/analyse-en-libye-le-clan-haftar-profite-du-choc-energetique-mondial_276642",
     "date": "2026-10-25"
   },
   {
     "type": "news",
-    "title": "Ukraine and Russia each exchange 270 prisoners of war",
-    "summary": "KYIV — Ukraine and Russia both swapped 270 prisoners of war Friday in the third stage of the process that started on Aug. 19. Kyiv returned home 261 military personnel and nine civilians, Ukrainian President Volodymyr Zelenskyy said in a statement. “Most of those released are warriors who defended Ukraine in Mariupol.",
+    "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+    "summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+    "date": "2026-10-25"
+  },
+  {
+    "type": "news",
+    "title": "Starlink connection restored at high speed in Ukraine, defense minister says",
+    "summary": "SpaceX’s Starlink and Starshield satellite communications services have been restored in Ukraine, allowing the country’s forces to operate drones at high speed, Defense Minister Yevhenii Khmara said on Saturday.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/ukraine-russia-exchange-270-prisoners-war-zelenskyy-putin-trump/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-10-23"
+    "link": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-10-24"
   },
   {
     "type": "news",
@@ -130,7 +130,7 @@
   {
     "type": "news",
     "title": "I don't understand quantum physics (2018)",
-    "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 339 # Comments: 264",
+    "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 364 # Comments: 292",
     "source": "Hacker News",
     "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
     "date": "2026-10-24"
@@ -185,10 +185,10 @@
   },
   {
     "type": "news",
-    "title": "« Les câbles sous-marins sont utilisés par la Russie ou la Chine pour affaiblir leurs ennemis et par les géants numériques pour asseoir leur domination »",
-    "summary": "Autrice de « La Guerre silencieuse. Enquête sur les câbles sous-marins », Marie Baléo raconte, dans un entretien au « Monde », comment ces structures sont devenues un enjeu géopolitique majeur, et parfois la cible de sabotages par des services d’espionnage.",
+    "title": "EN DIRECT, guerre en Ukraine : à Kherson, une attaque de drone russe contre un minibus fait au moins un mort",
+    "summary": "Un homme de 67 ans est mort dimanche après-midi, a annoncé le chef de l’administration militaire de l’oblast de Kherson, Oleksandr Prokudin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/idees/article/2026/10/25/les-cables-sous-marins-sont-utilises-par-la-russie-ou-la-chine-pour-affaiblir-leurs-ennemis-et-par-les-geants-numeriques-pour-asseoir-leur-domination_6800072_3232.html",
+    "link": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-a-kherson-une-attaque-de-drone-russe-contre-un-minibus-fait-au-moins-un-mort_6799896_3210.html",
     "date": "2026-10-25"
   },
   {
@@ -209,27 +209,27 @@
   },
   {
     "type": "news",
-    "title": "Face à la flambée du prix du chocolat, la facture d’Halloween s’annonce salée",
-    "summary": "Alors que le pays est confronté à une forte poussée de l’inflation, aggravée par la guerre en Iran, le prix des friandises n’est pas épargné. Face à cette envolée, certains ménages ont décidé de revoir leur budget d’Halloween à la baisse tandis que d’autres envisagent de s’endetter, rapporte la presse américaine.",
+    "title": "Aux États-Unis, est-on vraiment sorti de l’ère de la “trash TV” ?",
+    "summary": "Ces dernières années, les plateformes de diffusion en flux diffusent un certain nombre de documentaires qui analysent les émissions “trash” américaines des années 2000 comme “The Swan”, “The Biggest loser” ou “Top model USA”. Un mea culpa souvent raté, estime la presse américaine, mais qui fait s’interroger sur l’héritage de ces programmes.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/inflation-face-a-la-flambee-du-prix-du-chocolat-la-facture-d-halloween-s-annonce-salee-aux-etats-unis_281097",
+    "link": "https://www.courrierinternational.com/article/television-aux-etats-unis-est-on-vraiment-sorti-de-l-ere-de-la-trash-tv_278606",
     "date": "2026-10-25"
   },
   {
     "type": "news",
-    "title": "Qatar official calls for peace and security to boost trade, investment",
-    "summary": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.",
+    "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+    "summary": "Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
     "date": "2026-10-25"
   },
   {
     "type": "news",
-    "title": "Starlink connection restored at high speed in Ukraine, defense minister says",
-    "summary": "SpaceX’s Starlink and Starshield satellite communications services have been restored in Ukraine, allowing the country’s forces to operate drones at high speed, Defense Minister Yevhenii Khmara said on Saturday.",
+    "title": "EU and China weigh next sectors for trade curbs",
+    "summary": "DUBLIN — EU and Chinese officials are already discussing the next sectors for trade talks as Brussels prepares to review implementation of their latest understanding in January, EU trade chief Maroš Šefčovič told POLITICO on Friday. “In January we can assess how it worked and if it delivered all parts of our agreement,” Šefčovič said, referring to an Oct.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-10-24"
+    "link": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-10-23"
   },
   {
     "type": "news",
@@ -273,10 +273,10 @@
   },
   {
     "type": "news",
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 414 # Comments: 444",
+    "title": "We should be more ambitious with the software we build",
+    "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 673 # Comments: 631",
     "source": "Hacker News",
-    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "link": "https://danluu.com/ambitious/",
     "date": "2026-10-24"
   },
   {
@@ -329,10 +329,10 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : deux morts dans une attaque de la ville russe de Belgorod par des drones, deux autres personnes tuées dans des villages de cet oblast",
-    "summary": "Plus de 500 drones ukrainiens ont été interceptés entre 20 heures et 8 heures (heure de Moscou) en Russie, en Crimée et en mer d’Azov, a annoncé le ministère de la défense, dimanche matin.",
+    "title": "Le rêve cabossé d’Hollywood face à l’IA : « Tout le monde l’utilise, mais personne ne veut en parler »",
+    "summary": "« Sur la Route 66, pouls de l’Amérique » (6/6). Déclin des studios mythiques aux tournages trop coûteux, déploiement du streaming, arrivée de l’intelligence artificielle : le fief américain de l’industrie du divertissement a perdu de sa superbe. C’est la fin de la route, et, à la veille des midterms, peut-être pas la fin du rêve.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-la-ville-russe-de-belgorod-par-des-drones-deux-autres-personnes-tuees-dans-des-villages-de-cet-oblast_6799896_3210.html",
+    "link": "https://www.lemonde.fr/international/article/2026/10/25/le-reve-cabosse-d-hollywood-face-a-l-ia-tout-le-monde-l-utilise-mais-personne-ne-veut-en-parler_6800103_3210.html",
     "date": "2026-10-25"
   },
   {
@@ -353,27 +353,27 @@
   },
   {
     "type": "news",
-    "title": "“Nommez un seul pays où la présence russe a apporté la sécurité”",
-    "summary": "Alors que se tiendra, les 28 et 29 octobre, à Saint-Pétersbourg, le sommet annuel Russie-Afrique, “Sahel Horizon” oppose au déploiement sécuritaire de Moscou sur le continent une seule question : “Nommez un seul pays où la présence russe a apporté la sécurité et la stabilité.” À travers divers exemples, le titre indépendant ouest-africain montre comment la p…",
+    "title": "À Orléans, Marine Le Pen lance sa campagne en “tirant profit” des émeutes du 17 octobre",
+    "summary": "La candidate du Rassemblement national à l’élection présidentielle a donné le coup d’envoi de sa campagne lors du congrès de son parti, ce week-end à Orléans. En promettant de “rétablir l’ordre”, Marine Le Pen “exploite habilement” le climat de contestation qui règne en France, estime la presse internationale.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/vu-d-afrique-nommez-un-seul-pays-ou-la-presence-russe-a-apporte-la-securite_275164",
+    "link": "https://www.courrierinternational.com/article/vu-de-l-etranger-a-orleans-marine-le-pen-lance-sa-campagne-en-tirant-profit-des-emeutes-du-17-octobre_281196",
     "date": "2026-10-25"
   },
   {
     "type": "news",
-    "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
-    "summary": "Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.",
+    "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+    "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
     "date": "2026-10-25"
   },
   {
     "type": "news",
-    "title": "EU and China weigh next sectors for trade curbs",
-    "summary": "DUBLIN — EU and Chinese officials are already discussing the next sectors for trade talks as Brussels prepares to review implementation of their latest understanding in January, EU trade chief Maroš Šefčovič told POLITICO on Friday. “In January we can assess how it worked and if it delivered all parts of our agreement,” Šefčovič said, referring to an Oct.",
+    "title": "What’s not on the ballot in Israel: Peace",
+    "summary": "Jamie Dettmer is associate editor and a foreign affairs columnist for POLITICO. The war in Gaza hasn’t figured much in campaigning for Israel’s upcoming election — despite the likelihood that Israel’s Arab minority, Palestinian by heritage, might well decide who gets to be prime minister.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/eu-and-china-weigh-next-sectors-for-trade-curbs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-10-23"
+    "link": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-10-24"
   },
   {
     "type": "news",
