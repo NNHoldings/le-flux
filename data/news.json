@@ -41,7 +41,7 @@
   },
   {
     "type": "news",
-    "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
+    "title": "Guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste ». Retrouvez nos informations du 9 au 14 novembre.",
     "summary": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une « vulnérabilisation durable » de l’Europe.",
     "source": "Le Monde International",
     "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
@@ -73,35 +73,35 @@
   },
   {
     "type": "news",
-    "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-    "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+    "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+    "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+    "date": "2026-11-15"
+  },
+  {
+    "type": "news",
+    "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
+    "summary": "Finland has rejected a reported Russian demand that it leave NATO as part of Ukraine peace talks, with Defense Minister Antti Häkkänen saying its membership in the alliance wasn’t up for negotiation. “Such matters are in no way a matter for negotiation. Russia knows that.",
+    "source": "Politico EU",
+    "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-11-14"
   },
   {
     "type": "news",
-    "title": "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
-    "summary": "An EU ban on Russian liquefied natural gas imports starting Jan. 1, 2027 will force Moscow to find new buyers for exports from Yamal, its flagship Arctic project, and new ways to ship the gas. Yamal’s LNG, gas that is cooled into a liquid so it can travel by ship, goes west through the Kara and Barents seas, around northern Norway and into European waters.",
-    "source": "Politico EU",
-    "link": "https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-11-13"
-  },
-  {
-    "type": "news",
-    "title": "Guerre en Ukraine : Melania Trump, nouvelle médiatrice du conflit?",
-    "summary": "Volodymyr Zelensky a distingué Melania Trump pour son engagement humanitaire. Le président ukrainien lui a remis « l’Ordre de la princesse Olga » après son implication dans la trêve locale entre Moscou et Kiev qui a permis l’évacuation de 800 civils d'Olechky, dans le sud de l'Ukraine.",
+    "title": "La dette, nouvelle arme géopolitique?",
+    "summary": "3 600 milliards d’euros pour la France, soit 52 000 euros par habitant. 40 000 milliards de dollars pour les États-Unis, où les intérêts dépassent désormais le budget de la Défense. 230% du PIB au Japon.",
     "source": "RFI Monde",
-    "link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261109-guerre-en-ukraine-melania-trump-nouvelle-m%C3%A9diatrice-du-conflit",
-    "date": "2026-11-09"
+    "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20261115-la-dette-nouvelle-arme-g%C3%A9opolitique",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
-    "title": "Nvidia : le secrétaire au Trésor des Etats-Unis rejette sur le ministère du commerce la responsabilité de la fuite des puces vers la Chine",
-    "summary": "La fuite de puces Nvidia vers la Chine relance les tensions entre services gouvernementaux américains sur le contrôle des exportations technologiques.",
+    "title": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
+    "summary": "Pour rattraper son retard, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’« autosuffisance scientifique et technologique ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-le-secretaire-au-tresor-des-etats-unis-rejette-sur-le-ministere-du-commerce-la-responsabilite-de-la-fuite-des-puces-vers-la-chine_6809341_3210.html",
-    "date": "2026-11-13"
+    "link": "https://www.lemonde.fr/economie/article/2026/11/14/ia-comment-huawei-est-devenu-le-navire-amiral-de-la-chine-dans-la-bataille-des-puces_6810315_3234.html",
+    "date": "2026-11-14"
   },
   {
     "type": "news",
@@ -129,10 +129,10 @@
   },
   {
     "type": "news",
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 377 # Comments: 130",
+    "title": "A family tree of software job titles",
+    "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 342 # Comments: 171",
     "source": "Hacker News",
-    "link": "https://www.crissyfield.de/research/lovable-en/",
+    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
     "date": "2026-11-14"
   },
   {
@@ -177,19 +177,19 @@
   },
   {
     "type": "news",
-    "title": "Une inflation à 4%, des cours de l'énergie sous tension... Une nouvelle hausse des taux de la BCE en décembre semble inévitable et ça ne devrait pas être la dernière",
-    "summary": "Une inflation à 4%, des cours de l'énergie sous tension... Une nouvelle hausse des taux de la BCE en décembre semble inévitable et ça ne devrait pas être la dernière BFM",
+    "title": "Les marchés boursiers européens clôturent leur meilleure semaine depuis juin, les bons résultats des entrepris",
+    "summary": "Les marchés boursiers européens clôturent leur meilleure semaine depuis juin, les bons résultats des entrepris Boursorama",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOUm9LVjExcEFHTHFKeGNGQUttcDJOVnNfUXdKV1ZzSXlVM0pxZ2xiQWQ2dXBpYWdWN0NpZjNCbGNfY3dDYTBXalM3VmZ2TkRIaGNEUFVtcTVQQzNHTVFxRU9lVUQ1M1V2T21HcmQyU0RJTnJmT2hWQmQ0YnFKZkQzX2JNWHFaQ1VnVy1WZktNX3BrNERVUlNfQmY2QU5wZEZldjlpTm01MXktUXpYT0N3ZWZfNEtDaFNqYzF5WktHakwyNUlxOHNKcVVQM2FoYXloRXozZkpqLUVGMThSWnlMeUt3UUlQS3I2QVZzUDR6OTJuekdXZ1Z1VEt3bmxNRTZTLU05a0tpYnRiOVl0WlQwLXdBZlZRSWRnQXZRWTdZRTZqTUN4aG1yZ3dZeEJ3eEZxeklNZXRfdw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaTRlUWd2STZGd2RnMmwwVzV4OEM3QU9XSUZ0Tktzdm5xeElYeE1HZ3VtSG0xZ1ktaGJRZTRkYm1jTDY3SF8za3liLWtSdm5fdnNoUjVfSDRtUGlSMlcwdFR3ejFXVTVsaVN6R1QtQ0lUM1lzQ1l2YklfWUoyWWN2MDBQVjJ3RVRRc3I5T1dQYXg2QTR6RlhNRmVQS1FfUVlWT0l1MHhZRnFwRDFlQUtEdERscFBoTTlDbHo3YWg1WGlhY2RFVjM1UmJ5ZjhiU1l5bjhteXpaQy14T0pDN21XTE5aRWh5N2pNM2Y2V1BpSkRzM3dYMjUxZE9uWWZXWTF6dk1rTWJOV25aQWJrbnUybnBad2pxcXVpLWJUc1Biek9kUDZmRHZ0WWRhUHBpc2IxY09iWTZDamVHdndhaER6dTJPSFlLT2syWm5nZnVGVmRBS2k1VXfSAdYCQVVfeXFMTmk0ZVFndkk2RndkZzJsMFc1eDhDN0FPV0lGdE5Lc3ZucXhJWHhNR2d1bUhtMWdZLWhiUWU0ZGJtY0w2N0hfM2t5Yi1rUnZuX3ZzaFI1X0g0bVBpUjJXMHRUd3oxV1U1bGlTekdULUNJVDNZc0NZdmJJX1lKMlljdjAwUFYyd0VUUXNyOU9XUGF4NkE0ekZYTUZlUEtRX1FZVk9JdTB4WUZxcEQxZUFLRHREbHBQaE05Q2x6N2FoNVhpYWNkRVYzNVJieWY4YlNZeW44bXl6WkMteE9KQzdtV0xOWkVoeTdqTTNmNldQaUpEczN3WDI1MWRPbllmV1kxenZNa01iTlduWkFia251Mm5wWndqcXF1aS1iVHNQYnpPZFA2ZkR2dFlkYVBwaXNiMWNPYlk2Q2plR3Z3YWhEenUyT0hZS09rMlpuZ2Z1RlZkQUtpNVV3?oc=5",
     "date": "2026-11-13"
   },
   {
     "type": "news",
-    "title": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
-    "summary": "Pour rattraper son retard, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’« autosuffisance scientifique et technologique ».",
+    "title": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
+    "summary": "Selon le président ukrainien, la Russie avait utilisé « plus de 2 300 drones d’attaque, 1 590 bombes aériennes et 15 missiles de différents types » au cours de la semaine passée. « De nombreuses de ces attaques sont possibles en raison des limitations de vitesse des terminaux Starshield le long de la ligne de front », a-t-il ajouté, demandant aux Etats-Unis…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/14/ia-comment-huawei-est-devenu-le-navire-amiral-de-la-chine-dans-la-bataille-des-puces_6810315_3234.html",
-    "date": "2026-11-14"
+    "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
@@ -209,27 +209,27 @@
   },
   {
     "type": "news",
-    "title": "L’espace aérien américain fermé pendant plusieurs heures à cause d’une panne de télécommunications",
-    "summary": "Une panne de télécommunications dans plusieurs centres de contrôle aérien aux États-Unis a entraîné vendredi la fermeture totale de l’espace aérien américain pendant plusieurs heures, entraînant l’annulation de près de 6 000 vols et semant la pagaille dans les aéroports du pays.",
+    "title": "Cyberattaques et IA : vous n’avez encore rien vu !",
+    "summary": "Frigos qui chauffent ou fausses alertes nucléaires : en mettant en évidence les vulnérabilités des systèmes informatiques, l’intelligence artificielle facilite la tâche des hackers, qu’ils travaillent pour leur propre compte ou pour celui d’États malveillants, prévient “The Guardian”.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/etats-unis-l-espace-aerien-americain-ferme-pendant-plusieurs-heures-a-cause-d-une-panne-de-telecommunications_287169",
-    "date": "2026-11-14"
+    "link": "https://www.courrierinternational.com/article/analyse-cyberattaques-et-ia-vous-n-avez-encore-rien-vu_286199",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
-    "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-    "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+    "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+    "summary": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-    "date": "2026-11-14"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
-    "title": "Finland rejects reported Russian demand to leave NATO as part of peace talks",
-    "summary": "Finland has rejected a reported Russian demand that it leave NATO as part of Ukraine peace talks, with Defense Minister Antti Häkkänen saying its membership in the alliance wasn’t up for negotiation. “Such matters are in no way a matter for negotiation. Russia knows that.",
+    "title": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+    "summary": "DNIPRO, Ukraine — Heavy Russian losses are one of the reasons for Moscow’s slowing advance in Ukraine this year, the commander of the country’s Air Assault Forces said. “Even though the Russian offensive continues, the enemy is not demonstrating rapid operational successes that would allow it to advance quickly. They are slowing down,” Maj. Gen.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-    "date": "2026-11-14"
+    "link": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
@@ -241,11 +241,11 @@
   },
   {
     "type": "news",
-    "title": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
-    "summary": "L’offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026, pour la première fois depuis le déclenchement de la guerre en Iran fin février, déclare vendredi 13 novembre l’Agence internationale de l’énergie.",
+    "title": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
+    "summary": "Les usages prétendument récréatifs des lunettes munies de caméras et de microphones ne justifient pas de faire peser sur l’ensemble de la population le risque d’une surveillance diffuse, dénonce un collectif de chercheurs dans une tribune au « Monde ».",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
-    "date": "2026-11-13"
+    "link": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
+    "date": "2026-11-14"
   },
   {
     "type": "news",
@@ -273,11 +273,11 @@
   },
   {
     "type": "news",
-    "title": "Italy fines Meta $887M over Android users' data access",
-    "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 249 # Comments: 159",
+    "title": "Generative AI uses more energy on non-English text",
+    "summary": "Article URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ Comments URL: https://news.ycombinator.com/item?id=50441444 Points: 215 # Comments: 113",
     "source": "Hacker News",
-    "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-    "date": "2026-11-14"
+    "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "date": "2026-11-10"
   },
   {
     "type": "news",
@@ -313,27 +313,27 @@
   },
   {
     "type": "news",
-    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+    "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-    "date": "2026-11-14"
-  },
-  {
-    "type": "news",
-    "title": "M. Williams, de la Fed, estime que la banque centrale a « du travail à faire » pour ramener l'inflation à son",
-    "summary": "M. Williams, de la Fed, estime que la banque centrale a « du travail à faire » pour ramener l'inflation à son Boursorama",
-    "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRUktUU45TC1EWmVVaFJUTWpJbVROcklaTFh5UGZueGIydnZvUG9aYXRmazgtQ0RJaTk0OUNJdkRuWG1Qd2VVN25FdHRuaW14cEg3b3p4clBjRXFSTl9sVXNlaGlFeUczaHRndExpanp2MVVsSlkwaTRsQjFDWl9CT0ozaHpmelJLTjBuaXdhTmlOU0xORWtlQXpGVmNoNm96Vjk0SC1FZ0IyLUdmSVdhYm5ETkR0Ymx0UWFfZ0JSTVh6Q01aQmlyTkZpUWRiSWtHdXQ2Z01pbVJSTmxYTHdVX0VBRGkwcFZ4R290TFpMQTJPUjlvNEM1WWFkWW1Dc2tmUm9XUDJDNEczZ3BGR0R2V3V5X05ZZFdRTVdFeTMzNUJaQXRDajN1Qi1zcUNYc1k10gGwAkFVX3lxTE9FSS1RTjlMLURaZVVoUlRNakltVE5ySVpMWHlQZm54YjJ2dm9Qb1phdGZrOC1DRElpOTQ5Q0l2RG5YbVB3ZVU3bkV0dG5pbXhwSDdvenhyUGNFcVJOX2xVc2VoaUV5RzNodGd0TGlqenYxVWxKWTBpNGxCMUNaX0JPSjNoemZ6UktOMG5pd2FOaU5TTE5Fa2VBekZWY2g2b3pWOTRILUVnQjItR2ZJV2FibkRORHRibHRRYV9nQlJNWHpDTVpCaXJORmlRZGJJa0d1dDZnTWltUlJObFhMd1VfRUFEaTBwVnhHb3RMWkxBMk9SOW80QzVZYWRZbUNza2ZSb1dQMkM0RzNncEZHRHZXdXlfTllkV1FNV0V5MzM1QlpBdENqM3VCLXNxQ1hzWTU?oc=5",
+    "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
     "date": "2026-11-13"
   },
   {
     "type": "news",
-    "title": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
-    "summary": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une entrepreneuse chinoise soupçonnée d’espionnage. Il est directement mis en cause pour son inaction.",
-    "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+    "title": "Le NEAR recule après la surprise sur l’inflation américaine et les avertissements de la Fed, qui réduisent la demande de crypto",
+    "summary": "Le NEAR recule après la surprise sur l’inflation américaine et les avertissements de la Fed, qui réduisent la demande de crypto Traders Union",
+    "source": "Google Actualités — Éco",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2Eta09vWkc3QUJYYkpINjBKaHBhVkV4bW5aT2JCcGZ0QThVTndmV3VjYVFPWFZnQ3JTdFJoUjd3Q2Q1dUZBckMzSk45MWNScU9kY0dEZFZCblJZeEw1LTRQLUZ6SkhsMF9UcXhoOWl2SkFoWGJFMnJsaGhhRjZ0SGR5LU9SWkdFRG1yWDBEdzlOMm1uZVVtXw?oc=5",
     "date": "2026-11-14"
+  },
+  {
+    "type": "news",
+    "title": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
+    "summary": "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal. Face à une protection américaine devenue incertaine et à la nouvelle dimension stratégique et militaire d’Israël, Riyad cherche à s’extraire de l’arc des conflits moyen-orientaux, mais peine à trouver les alliés néc…",
+    "source": "Le Monde International",
+    "link": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
@@ -361,11 +361,11 @@
   },
   {
     "type": "news",
-    "title": "EU calls for immediate humanitarian access to Gaza",
-    "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+    "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+    "summary": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-    "date": "2026-11-14"
+    "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
+    "date": "2026-11-15"
   },
   {
     "type": "news",
