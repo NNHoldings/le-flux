@@ -25,26 +25,26 @@
   },
   {
     "type": "news",
-    "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
-    "summary": "The chip giant's earnings come at a tumultuous time for the company.",
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+    "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Les actions des marchés émergents progressent après les résultats de Nvidia ; les actifs sud-africains reculent après l’inflation",
-    "summary": "Les actions des marchés émergents progressent après les résultats de Nvidia ; les actifs sud-africains reculent après l’inflation Zonebourse Suisse",
+    "title": "Les marchés actions américains contrastés après les résultats de Nvidia et le compte rendu de la réunion d’octobre de la Fed",
+    "summary": "Les marchés actions américains contrastés après les résultats de Nvidia et le compte rendu de la réunion d’octobre de la Fed Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR09LZ1U1WHRrZXJoYXR5QmxQVHVlR3ZsemphOWR0eWk5UnpvcHQwMU5FelBuRTB6b1pkZnJUM3NPX01uZXNFNWxZTXdkdVdEWWdZcUZWc1ZheExrcG5IM0t4R0R3VWNzcEZrVE4tNWhpQjJDbE1sRU81LTJXMnZVdExHNXp3S3NiQW9nelhjYWVrZXUwbnM2ejl2aE1QRXpyU05BSGVGY2lmMVZjMWQ0bjRwTHFhUnd5aS1kYmRDSjZ0bWdUMHFFUldDQmJqZXJiMTNyS2tKLXlMWTlWZVc3OFozMDNxQktEZ0pHUVZFMA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbkF6UVVkWWRtRXJidkZ1ZmlNMUVzYTN1aGRYc2d3d1MtUWtneEtGTGpLakNudlQtcHUxRDZrbi1oaHpxSUZyWEVlaEZ6YWY1V0FjbTdBXzhPdDdKNGQyRlFuX284QXo1YkU2NmNoUzZFaU1tZUtLdkV0R2dldFd2N0VKbXpucGxHdDJpQVZKSXk3WThiTUFWVlBXYnZfNV92RTBrS1Z3NkpsYWFvV3dSRjg2TDFQUEQtS0RoU195Y00yTmxRMXRWZlpyT2lKSE5RUlVKaGJqcmNPVHQ2cmhBTjVGNk1JcHVHcVo0Qjdrb2t3UQ?oc=5",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
-    "summary": "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de l’entreprise, qu’il avait été contraint de quitter le 12 novembre. Les partisans de Donald Trump dénoncent les zones obscures de l’affaire.",
+    "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
+    "summary": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
     "date": "2026-11-18"
   },
   {
@@ -57,26 +57,26 @@
   },
   {
     "type": "news",
-    "title": "The Perverse Effects of the AI Investment Boom",
-    "summary": "As big tech companies increasingly turn to debt markets to finance massive investments in AI data centers, they are competing for the same pools of capital as many governments. With interest rates already high and public demands for spending on the rise, the timing could hardly be worse for vulnerable economies.",
+    "title": "What Nvidia’s Crisis Reveals About the Chip War",
+    "summary": "Export restrictions, like those depriving China of Nvidia’s most advanced chips, may buy time by curtailing a competitor's access to frontier capabilities made elsewhere. But in any technological conflict, policymakers must remember that slowing a rival is not the same as strengthening oneself.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/ai-debt-financed-spending-crowding-out-development-investment-by-paola-subacchi-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
-    "date": "2026-11-17"
-  },
-  {
-    "type": "news",
-    "title": "Freiner l’IA ne suffit pas, il faut stopper la recherche",
-    "summary": "Les propositions faites par Dario Amodei, PDG d’Anthropic, aussitôt approuvées par ses concurrents de la Silicon Valley, pour ralentir le développement des modèles d’intelligence artificielle, ne convainquent pas la chroniqueuse technologie de “Bloomberg”. Car les enjeux de sécurité sont bien trop grands.",
-    "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/opinion-freiner-l-ia-ne-suffit-pas-il-faut-stopper-la-recherche_270878_1",
+    "link": "https://www.project-syndicate.org/commentary/nvidia-crisis-economics-of-chip-production-restrictions-by-pinelopi-koujianou-goldberg-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
-    "summary": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
+    "title": "Dérèglement climatique : faire payer les pollueurs en s’appuyant sur la science",
+    "summary": "Chaque semaine, “Courrier international” explique ses choix éditoriaux. Dans l’hebdomadaire en vente à partir du jeudi 19 novembre, nous nous interrogeons sur la justice climatique. Dans quelle mesure les recherches sur l’attribution peuvent-elles contribuer à faire condamner les géants du pétrole et du gaz pour leur responsabilité dans les dégâts provoqués…",
+    "source": "Courrier International",
+    "link": "https://www.courrierinternational.com/article/a-la-une-du-magazine-dereglement-climatique-faire-payer-les-pollueurs-en-s-appuyant-sur-la-science_288272",
+    "date": "2026-11-18"
+  },
+  {
+    "type": "news",
+    "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+    "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
     "date": "2026-11-18"
   },
   {
@@ -97,11 +97,11 @@
   },
   {
     "type": "news",
-    "title": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
-    "summary": "Le cofondateur de la multinationale américaine des semi-conducteurs a aussi déclaré, sur X, se tenir prêt à revenir à la tête de l’entreprise si son conseil d’administration le décidait. Il a démissionné le 12 novembre après la révélation de sa liaison avec Alice Huang, une femme d’affaires chinoise.",
+    "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
+    "summary": "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de l’entreprise, qu’il avait été contraint de quitter le 12 novembre. Les partisans de Donald Trump dénoncent les zones obscures de l’affaire.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
-    "date": "2026-11-17"
+    "link": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
@@ -121,19 +121,19 @@
   },
   {
     "type": "news",
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "summary": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse after a funding shortfall. The Silicon Valley startup, Foundation Future Industries, claims it is developing and testing robots for military roles on battlefields from Ukraine to Gaza.",
+    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+    "summary": "A Ukrainian barrage of missiles and drones collapsed a crucial segment of Russian President Vladimir Putin’s prized Kerch Strait Bridge—and Ukraine’s military pulled off the strike deep within Russian-occupied territory without relying on the military-grade version of Elon Musk’s Starlink satellite communications to guide the missiles in.",
     "source": "Ars Technica",
-    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-    "date": "2026-11-16"
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-    "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf Comments URL: https://news.ycombinator.com/item?id=50534631 Points: 609 # Comments: 270",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 299 # Comments: 136",
     "source": "Hacker News",
-    "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-    "date": "2026-11-17"
+    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
@@ -169,26 +169,26 @@
   },
   {
     "type": "news",
-    "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-    "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Les actions des marchés émergents progressent légèrement après la publication des résultats de Nvidia ; les actifs sud-africains reculent après la publication des chiffres de l'inflation",
-    "summary": "Les actions des marchés émergents progressent légèrement après la publication des résultats de Nvidia ; les actifs sud-africains reculent après la publication des chiffres de l'inflation TradingView",
+    "title": "Point marchés-Wall Street vue en hausse après Nvidia, l'Europe sur de faibles variations",
+    "summary": "Point marchés-Wall Street vue en hausse après Nvidia, l'Europe sur de faibles variations Zonebourse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9telpNSFpHd29ZbmcxRmRnRjQ0VGY2eW9kNllyNHc0NzhLY3J5U085YkJQNjN1Y2xGT3JGM2xVWjBTRFpQNjgtN29hWG95YjFQaDRTc3NjR3dpZ3c2ejZzMm5lTXU3U29VdXhqNDFrQmR3d0ZZX21z?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0VzUEpyN0FIOHdoaENBTlZZeW1yNUgwZVdNRWppVjR5eURVelBlZjBhUWUxZ1d1SlZvdncxalBadkxDMC1raGExNDJNVzB2R0k0RUpzRDVHUGM2Z0tKYnV0RFQxT1RuVk1OUmNkY1E0LTNPVnVNb290amNRell1QjZXczBSaGFmLUlxem00Y2tKcG92MWpaWDhqUV9sWEtQTlBEMi1lNFo1X1BHdTB1RVNQa0txUjVibVFHNmVuVGI1Rnd1MzdhMV9sVkstSXQxZWJhNUYyS0lYR2YyWU0yc3l3?oc=5",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "« Inside Deutsche Bank » : comment le géant bancaire a découvert qu’il avait servi d’intermédiaire à un gigantesque réseau de blanchiment",
-    "summary": "En 2020, un analyste de la banque allemande met au jour un mécanisme de blanchiment. Le système, qui a brassé plus de 1,7 milliard d’euros et est lié à l’oligarque russe Oleg Deripaska, a exfiltré les fonds de la banque hongroise MKB avec l’aide d’un possible prête-nom français.",
+    "title": "EN DIRECT, guerre en Ukraine : un entretien inédit attendu entre Xi Jinping, Donald Trump et Vladimir Poutine à Shenzhen",
+    "summary": "Si l’ordre du jour du sommet trilatéral n’est pas finalisé, le conseiller diplomatique du président russe, Iouri Ouchakov, a estimé que les dirigeants pourraient difficilement éviter de discuter de la guerre en Ukraine, qui depuis près de cinq ans a isolé la Russie des Occidentaux et rapproché Moscou et Pékin.",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-comment-le-geant-bancaire-a-decouvert-qu-il-avait-servi-d-intermediaire-a-un-gigantesque-reseau-de-blanchiment_6813105_4355770.html",
+    "link": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-un-entretien-inedit-attendu-entre-xi-jinping-donald-trump-et-vladimir-poutine-a-shenzhen_6810982_3210.html",
     "date": "2026-11-18"
   },
   {
@@ -201,34 +201,34 @@
   },
   {
     "type": "news",
-    "title": "The Global Economy After the Iran War Ends",
-    "summary": "Even if the Iran war ended tomorrow, the global economy would not simply pick up where it left off. Reopening the Strait of Hormuz could bring down commodity prices and ease inflation, but postwar reconstruction could redirect capital away from the United States, undermining the AI supercycle and fueling de-dollarization.",
+    "title": "The Perverse Effects of the AI Investment Boom",
+    "summary": "As big tech companies increasingly turn to debt markets to finance massive investments in AI data centers, they are competing for the same pools of capital as many governments. With interest rates already high and public demands for spending on the rise, the timing could hardly be worse for vulnerable economies.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/iran-war-economic-impacts-will-reverberate-long-after-it-ends-by-dambisa-moyo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
-    "date": "2026-11-16"
+    "link": "https://www.project-syndicate.org/commentary/ai-debt-financed-spending-crowding-out-development-investment-by-paola-subacchi-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "date": "2026-11-17"
   },
   {
     "type": "news",
-    "title": "En Inde, la jeunesse se soulève pour sauver la démocratie",
-    "summary": "Vous êtes en terminale ou en première spécialité histoire-géographie, géopolitique et sciences politiques (HGGSP) ? La Lettre de l’éduc est pour vous. Chaque semaine, Benjamin Daubeuf, professeur agrégé d’histoire-géographie, vous conseille la lecture d’un article d’actualité qui résonne avec votre programme.",
+    "title": "La Commission européenne propose un nouveau prêt de 45 milliards d’euros pour Kiev",
+    "summary": "Mercredi 18 novembre, la présidente de la Commission européenne, Ursula von der Leyen, a proposé aux vingt-sept États membres de l’UE d’accorder un nouveau prêt de 45 milliards d’euros à l’Ukraine pour soutenir son effort de guerre. Mais obtenir l’accord de tous les pays risque d’être encore une fois compliqué.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/la-lettre-de-l-educ-en-inde-la-jeunesse-se-souleve-pour-sauver-la-democratie_286765",
+    "link": "https://www.courrierinternational.com/article/guerre-en-ukraine-la-commission-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-pour-kiev_288474",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "How data centres are turning AI-generated heat into energy",
-    "summary": "How data centres are turning AI-generated heat into energy",
+    "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
+    "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Xi personally welcomes Trump to China for high-stakes summit",
-    "summary": "SHENZHEN, China — President Donald Trump received a warm red-carpet welcome on the tarmac from Chinese President Xi Jinping as he arrived in Shenzhen on Wednesday. The greeting sets the stage for an extraordinary round of diplomacy that will bring together the leaders of the U.S., China and Russia to discuss denuclearization, the war in Iran and the future o…",
+    "title": "EPP moves to suspend Serbia’s former ruling party",
+    "summary": "The center-right European People’s Party leadership decided Wednesday to suspend the Serbian Progressive Party, the political home of former Serbian President Aleksandar Vučić. The move comes after the Serbian party, also known as SNS, lost the October 2026 general elections, ousting Vučić, its de facto leader and the country’s president for nine years.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/epp-moves-to-suspend-serbias-former-ruling-party/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-11-18"
   },
   {
@@ -241,19 +241,19 @@
   },
   {
     "type": "news",
-    "title": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
-    "summary": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions de gaz à effet de serre, qui augmentent, souligne le rapport Destination Climate RiskScan, qui analyse 2 600 régions réparties dans 263 pays.",
+    "title": "« Inside Deutsche Bank » : comment le géant bancaire a découvert qu’il avait servi d’intermédiaire à un gigantesque réseau de blanchiment",
+    "summary": "En 2020, un analyste de la banque allemande met au jour un mécanisme de blanchiment. Le système, qui a brassé plus de 1,7 milliard d’euros et est lié à l’oligarque russe Oleg Deripaska, a exfiltré les fonds de la banque hongroise MKB avec l’aide d’un possible prête-nom français.",
     "source": "Le Monde Éco",
-    "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-comment-le-geant-bancaire-a-decouvert-qu-il-avait-servi-d-intermediaire-a-un-gigantesque-reseau-de-blanchiment_6813105_4355770.html",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries of Silicon Valley have built c…",
+    "title": "The AI Hype Index: AI is everywhere",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "date": "2026-11-13"
+    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
@@ -273,19 +273,19 @@
   },
   {
     "type": "news",
-    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 230 # Comments: 318",
+    "title": "Genie 4 is now available",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 162 # Comments: 137",
     "source": "Hacker News",
-    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "date": "2026-11-17"
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Biotech innovations are an opportunity to limit climate change",
-    "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-yAgricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss.",
+    "title": "Rethinking corporate climate targets for real-world transitions",
+    "summary": "Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11100-7Frameworks for corporate greenhouse gas reduction targets should place greater emphasis on systemic changes in business models, technologies and value chains; the scientific community has a role in developing robust, actionable frameworks for corporate decarbonization.",
     "source": "Nature",
-    "link": "https://www.nature.com/articles/d41586-026-03621-y",
-    "date": "2026-11-11"
+    "link": "https://www.nature.com/articles/s41586-026-11100-7",
+    "date": "2026-11-18"
   },
   {
     "type": "news",
@@ -305,34 +305,34 @@
   },
   {
     "type": "news",
-    "title": "How important are Nvidia and Jensen Huang to the US economy?",
-    "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "title": "Europe plans to catch the next computer chip wave",
+    "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
     "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-    "summary": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+    "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Point marchés-Wall Street vue en hausse après Nvidia, l'Europe sur de faibles variations",
-    "summary": "Point marchés-Wall Street vue en hausse après Nvidia, l'Europe sur de faibles variations Zonebourse",
+    "title": "Les marchés européens clôturent en baisse mercredi, la hausse des prix de l’énergie alimentant l’inflation dans l’UE et la zone euro",
+    "summary": "Les marchés européens clôturent en baisse mercredi, la hausse des prix de l’énergie alimentant l’inflation dans l’UE et la zone euro Zonebourse Suisse",
     "source": "Google Actualités — Éco",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0VzUEpyN0FIOHdoaENBTlZZeW1yNUgwZVdNRWppVjR5eURVelBlZjBhUWUxZ1d1SlZvdncxalBadkxDMC1raGExNDJNVzB2R0k0RUpzRDVHUGM2Z0tKYnV0RFQxT1RuVk1OUmNkY1E0LTNPVnVNb290amNRell1QjZXczBSaGFmLUlxem00Y2tKcG92MWpaWDhqUV9sWEtQTlBEMi1lNFo1X1BHdTB1RVNQa0txUjVibVFHNmVuVGI1Rnd1MzdhMV9sVkstSXQxZWJhNUYyS0lYR2YyWU0yc3l3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXl4TVd6Z2NBQkp0OUxIR21IeXpFQ2xxcWhJSEdxWUwtZFNXM3pNSDN5Rk0xN0RRQW5zLWFkUmpRX3pjRzBCNkRKTk0yZUxZOTM4YklSYl9jeHkwMllVTHBzVElUSUh0UkZTemVPcVlQcmZfaUdzRGd4ZnBMSC03SUIwaktCVk8xS1V0Z0l6ck9IdjlvQXR5X2dTa3RNcXp0NUd5RnZZenVucUNrU2RxWnplck41NV9ULTZjZi1wZUlQa3hkLVVwQmxQVG1WaTYwTUFQWEV5MEh0bEN5UGZKTHB1S1ZnUzhHalZ3bERn?oc=5",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
-    "summary": "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen. Les Décodeurs du « Monde » ont vérifié.",
+    "title": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
+    "summary": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un mandat d’arrêt de la Cour pénale internationale, ce sommet fait craindre que l’avenir de l’Ukraine soit discuté entre les trois hommes, sans considération pour les i…",
     "source": "Le Monde International",
-    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
+    "link": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
     "date": "2026-11-18"
   },
   {
@@ -345,34 +345,34 @@
   },
   {
     "type": "news",
-    "title": "Africa Needs a Different Kind of Climate Finance",
-    "summary": "Roughly half of the climate finance that flows to Africa comes in the form of debt, with multilateral and bilateral development-finance institutions often lending at commercial rates to economies already struggling to carry the added costs. To maximize fiscal space, the instruments used to deliver climate finance need to change.",
+    "title": "The Global Economy After the Iran War Ends",
+    "summary": "Even if the Iran war ended tomorrow, the global economy would not simply pick up where it left off. Reopening the Strait of Hormuz could bring down commodity prices and ease inflation, but postwar reconstruction could redirect capital away from the United States, undermining the AI supercycle and fueling de-dollarization.",
     "source": "Project Syndicate",
-    "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
-    "date": "2026-11-13"
+    "link": "https://www.project-syndicate.org/commentary/iran-war-economic-impacts-will-reverberate-long-after-it-ends-by-dambisa-moyo-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+    "date": "2026-11-16"
   },
   {
     "type": "news",
-    "title": "Pont de Crimée : Kiev inflige un revers “symbolique” et “stratégique” à Moscou",
-    "summary": "L’Ukraine a fortement endommagé mardi le gigantesque pont de Kertch reliant la Russie à la péninsule de Crimée annexée par Moscou. Pour la presse internationale, cette attaque porte un coup sévère à Vladimir Poutine, arrivé mercredi en Chine pour participer au sommet de l’Apec.",
+    "title": "La baisse de la pauvreté, nouvel argument de poids pour Claudia Sheinbaum",
+    "summary": "Selon des statistiques de la Banque mondiale, 17,3 millions de Mexicains sont sortis de la pauvreté depuis 2018. Si le gouvernement de la présidente Claudia Sheinbaum attribue ces résultats à sa politique sociale, ainsi qu’à celle de son prédécesseur et mentor, plusieurs médias se montrent plus nuancés et rappellent les défis qui restent à relever.",
     "source": "Courrier International",
-    "link": "https://www.courrierinternational.com/article/ukraine-pont-de-crimee-kiev-inflige-un-revers-symbolique-et-strategique-a-moscou_288324",
+    "link": "https://www.courrierinternational.com/article/mexique-la-baisse-de-la-pauvrete-nouvel-argument-de-poids-pour-claudia-sheinbaum_288459",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "India lodges complaint against Palestinian footballer after under-17 match",
-    "summary": "Palestinian player Taha Soueidan 'deeply surprised' by criticism following accusations that he made a racist gesture.",
+    "title": "Trump and Putin to meet one-on-one in China Thursday",
+    "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
     "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
     "date": "2026-11-18"
   },
   {
     "type": "news",
-    "title": "The single market is the EU’s greatest strength",
-    "summary": "The EU is searching for ways to strengthen its competitiveness with the likes of the United States and China. But one of its greatest advantages is already within reach: a single market of 450 million people. Today, it runs at half its potential. The IMF estimates that barriers inside the single market are equivalent to a tariff of 44 percent on goods.",
+    "title": "EU Commission accused of withholding emails on killing patent law",
+    "summary": "LUXEMBOURG — The European Commission was accused Wednesday of withholding internal messages that explain why it dropped a contentious patent proposal, amid claims of pressure from U.S. Vice President JD Vance.",
     "source": "Politico EU",
-    "link": "https://www.politico.eu/sponsored-content/the-single-market-is-the-eus-greatest-strength/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+    "link": "https://www.politico.eu/article/commission-accused-of-withholding-emails-on-killing-patent-law/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
     "date": "2026-11-18"
   },
   {
